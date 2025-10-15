@@ -43,7 +43,7 @@ Eligible tickets are sent to the Microsoft Translation API.
 
 Translated text is written back to ServiceNow and assigned to the correct support group.
 
-***EDI ***
+**EDI**
 
 📝 Description
 
