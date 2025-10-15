@@ -109,3 +109,109 @@ Updates the ticket status (e.g., "In Progress", "Waiting for Supplier", "Resolve
 
 Logs all performed actions for transparency and tracking.
 
+**IAddress Automation Project**
+
+📝 Description
+
+IAddress is a Python automation tool that handles ServiceNow tickets related to electronic invoicing routing and customer data validation.
+The robot validates customer and routing information, interacts with the internal IAddress system, and manages ticket statuses according to predefined business scenarios.
+At the end of each day, it generates a summary report with all processed tickets and distributes it to the relevant internal stakeholders.
+
+⚙️ Key Functions
+
+Retrieves tickets from ServiceNow via API
+
+Validates customer VAT/business ID against YTJ.fi
+
+Updates routing and customer information in the internal IAddress tool (using Selenium automation)
+
+Applies one of several predefined handling scenarios (1–8)
+
+Updates ticket statuses and assignments in ServiceNow
+
+Sends a daily summary report to the required recipients
+
+🔄 Scenarios Overview
+🧩 Scenario 1 – Routing Changes or Additions
+
+a) A totally new routing has been added (either basic or scheduled)
+b) Existing routing has been changed (either basic or scheduled)
+c) A valid routing already exists, and no changes are required
+
+➡️ Action: Request is set to Closed Complete by the robot.
+
+🧾 Scenario 2 – Company Name or OVT Mismatch (YTJ check)
+
+If there is a mismatch between the company name or OVT compared to data in YTJ.fi (checked via Business ID validation):
+
+➡️ Action:
+
+Robot sends a message to the customer to verify and confirm company details.
+
+Request is set to Awaiting Customer and assigned to CS FI Customer Service.
+
+🔁 Scenario 3 – Operator Mismatch
+
+If there is a mismatch between the requested operator and what is currently available in Verkkolaskuosoite.fi, and it’s not routed via OpusCapita:
+
+➡️ Action:
+
+Robot sends a message to the customer to verify the operator information.
+
+Request is set to Awaiting Customer and assigned to CS FI Customer Service.
+
+🚫 Scenario 4 – Existing Routing via OpusCapita
+
+If routing already exists via OpusCapita:
+
+➡️ Action:
+
+Robot informs the customer that the requested change cannot be made.
+
+Request is set to Closed Incomplete without any further actions.
+
+📋 Scenarios 5–8 – Return to CS with Information
+
+If the ticket meets any of the following additional conditions, it is returned to Customer Service (CS) with context information:
+
+Scenario	Condition	Action
+5	Caller is Nordea	Return to CS with note
+6	Description is not empty	Return to CS with note
+7	Short description requires check	Return to CS with note
+8	Attachments exist	Return to CS with note
+
+
+
+Explanation:
+
+requests – Communicate with ServiceNow API and YTJ.fi
+
+selenium – Automate browser-based updates in IAddress
+
+re, json, os, uuid, datetime – Data validation, file handling, and logging
+
+unicodedata – Normalize customer names and routing data
+
+time, sleep – Control script timing and avoid API overloading
+
+🧪 Workflow
+
+Retrieve Tickets from ServiceNow via REST API
+
+Validate VAT/Business ID using YTJ.fi data
+
+Check routing data and apply appropriate scenario (1–8)
+
+Update IAddress system via Selenium (browser automation)
+
+Update ticket status and assignment in ServiceNow
+
+Generate daily report with all handled tickets
+
+Send summary report to internal mailing list
+
+
+
+📅 Daily Report Example
+Ticket ID	Scenario	Customer	VAT	Action	Status	Date
+INC1234567	2	Example Oy	FI1234567	Company name mismatch	Awaiting Customer	2025-10-15
