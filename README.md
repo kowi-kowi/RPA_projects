@@ -31,7 +31,9 @@ unicodedata – normalization of special Swedish characters
 
 🚀 How It Works
 
-The script connects to ServiceNow via API.
+
+The script connects to ServiceNow via API Servicenow.
+
 
 It identifies tickets written in Swedish.
 
@@ -106,3 +108,4 @@ Notifies the appropriate people (based on supplier or ticket category),
 Updates the ticket status (e.g., "In Progress", "Waiting for Supplier", "Resolved").
 
 Logs all performed actions for transparency and tracking.
+
