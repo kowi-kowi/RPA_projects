@@ -32,11 +32,11 @@ unicodedata – normalization of special Swedish characters
 
 🚀 How It Works
 
-The script connects to ServiceNow via Selenium.
+The script connects to ServiceNow via API Servicenow.
 
 It identifies tickets written in Swedish.
 
-Each ticket is validated against translation rules.
+Each ticket is validated against translation rules. (if needed e-mail neds to be send from ticket - no API rights for me here, that is why Selenium workaround)
 
 Eligible tickets are sent to the Microsoft Translation API.
 
