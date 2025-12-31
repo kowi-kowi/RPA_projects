@@ -12,6 +12,10 @@ Algorithm to translate text from one language to another:
 6. Combine the translated chunks into a single text
 7. Save the translated text back to the github repository
 
+📝 Article:
+
+ [How I Automated Boring Translation Work with Python and Meta’s NLLB-200–3.3B](https://medium.com/@kowi.db.kowi/how-i-automated-boring-translation-work-with-python-and-metas-nllb-200-3-3b-a8ada378bf81)
+
 ⚙️ Features
 
 uses - LLM [NLLB-200–3.3B](https://huggingface.co/facebook/nllb-200-3.3B) for translation
