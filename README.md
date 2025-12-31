@@ -1,4 +1,4 @@
-** Translate Apliction using LLM NLLB-200–3.3B **
+**Translate Apliction using LLM NLLB-200–3.3B**
 
 📝 Description
 
