@@ -20,13 +20,13 @@ def main():
 
 
     # 1. Get the input text from github repository
-   # tools.clone_repository(repo_url, clone_path)
+    tools.clone_repository(repo_url, clone_path)
 
     # 2. Detect the source language of the text
     #source_language = tools.detect_language(input_file_path)
 
     # 3. Divide the text into manageable chunks
-    #tools.split_file_into_chunks(input_file_path)
+    tools.split_file_into_chunks(input_file_path)
 
     # 4. Translate the chunks to the target language
 
@@ -36,11 +36,20 @@ def main():
     for file_name in list_of_files:
         file_path = os.path.join("./Translate_Application/data/input", file_name)
         text = tools.read_file(file_path)
+        translated_text = ""
         if text:
             lines = tools.text_to_lines(text)
             for line in lines:
-                translated_text = tools.translate_text(line, tokenizer, model, source_language, target_language)
-                print(f"Translated text: {translated_text}")
+                translated_text = translated_text + "\n" + tools.translate_text(line, tokenizer, model, source_language, target_language)
+
+        print(f"Przetłumaczony tekst z pliku '{file_name}':\n{translated_text}\n")
+        
+        lang = tools.detect_language(translated_text)
+        print(f"Wykryty język przetłumaczonego tekstu: {lang}\n")
+        
+        #translated_text = tools.to_unicode_escape(translated_text)
+        
+        tools.save_file(f"./Translate_Application/data/output/translated_{file_name}", translated_text)        
         tools.remove_file(file_path)
 
     # 5. Check for output language correctness

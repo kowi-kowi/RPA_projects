@@ -75,7 +75,18 @@ def read_file(path):
     except Exception as e:
         print(f"Błąd podczas odczytu pliku '{path}': {e}")
         return None
-    
+
+def save_file(path, content):
+    """Zapisuje zawartość do pliku tekstowego."""
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(content)
+        print(f"Zawartość została zapisana do pliku '{path}'.")
+    except Exception as e:
+        print(f"Błąd podczas zapisywania do pliku '{path}': {e}")
+        return False
+    return True
+
 def text_to_lines(text):
     """Dzieli tekst na linie."""
     return text.splitlines()
@@ -127,4 +138,6 @@ def translate_text(text, tokenizer, model, source_language, target_language):
 
     return tokenizer.decode(generated[0], skip_special_tokens=True)
 
+def to_unicode_escape(text):
+    return text.encode('unicode_escape').decode('ascii')
 
