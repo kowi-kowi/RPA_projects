@@ -1,0 +1,10 @@
+plugin.opcSearch.tooltip.productSuggestionLink=Product suggestion and Request
+plugin.opcSearch.tooltip.searchAll=Displays all products without limitation by search term
+plugin.opcSearch.warning.onlyOneDidYouMean=Showing the results for <b>{0}</b> instead of <b>{1}</b>
+plugin.opcSearch.warning.searchResult.price.sortingLimitExcess=Price sorting is only supported with less than {0} hits.
+plugin.opcSearch.warning.searchResultInfo.classificationSizeDifferFromSearchResultSize=The number of products found may differ from the number displayed in the Facets section on the left. <br> It can be caused by the fact that the product is assigned to more than one classification group or by the application\u2019s configuration.
+plugin.opcSearchCore.action.confirmDeleteAllCatalogs=Do you really want to delete all catalogs from exclusion list?
+plugin.opcSearchCore.action.confirmDeleteCatalog=Do you really want to delete this catalog from exclusion list?
+plugin.opcSearchCore.action.deleteAll=Delete all
+plugin.opcSearchCore.action.save=Save
+plugin.opcSearchCore.error.incorrectDateFormat=Incorrect date format "{0}" for attribute "{1}".

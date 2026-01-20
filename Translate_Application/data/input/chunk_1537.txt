@@ -1,0 +1,10 @@
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.relativePercentage.label=Relative Percentage
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.supplierId.label=Supplier ID
+plugin.productFeeEditor.tab.general=General
+plugin.productFeeEditor.tab.rules=Rules
+plugin.productPreivew.message.error.no.language.for.multilingual.attribute=Language is not defined for "{0}" value of multilingual attribute
+plugin.productPreview.command.back=Back
+plugin.productPreview.command.search=Search
+plugin.productPreview.header.catalogId=Catalog ID
+plugin.productPreview.header.classification=Classification
+plugin.productPreview.header.classificationGroup=Classification / Group

@@ -1,0 +1,10 @@
+opc.product.priceInformation.product.fees.header.total=Total Fees
+opc.product.priceInformation.product.fees.title=Product Fees
+opc.product.priceInformation.surcharge.base.header=Base
+opc.product.priceInformation.surcharge.basis.header=Basis
+opc.product.priceInformation.surcharge.basis.weight.header=Basis Weight
+opc.product.priceInformation.surcharge.metal.header=Metal
+opc.product.priceInformation.surcharge.price.header=Price
+opc.product.priceInformation.surcharge.stock.quantity.from.header=Stock Quotation from
+opc.product.priceInformation.surcharge.total.header=Total
+opc.product.priceInformation.surcharge.type.title=Surcharge Type

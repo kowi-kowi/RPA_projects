@@ -1,0 +1,10 @@
+ssm.emailtemplates.workflows.activation.cancellation.request.notification=Notification\: <br/>The supplier requested the cancellation of the activation for the catalog version on {0}. <br/> Please follow the link below to accept or reject the request.
+ssm.emailtemplates.workflows.activation.cancellation.request.title=Activation cancellation requested by the supplier for catalog {0} in version {1}
+ssm.emailtemplates.workflows.activation.cancellation.supplier.notification=Notification\: <br/> The customer canceled the future activation of the catalog version on ''{0}''.
+ssm.emailtemplates.workflows.activation.cancelled.by.customer.document.title=Future activation canceled by the customer.
+ssm.emailtemplates.workflows.activation.cancelled.by.customer.title=The future activation of the catalog ''{0}'' in version ''{1}'' was canceled by the customer.
+ssm.emailtemplates.workflows.activation.cancelled.by.supplier.document.title=Catalog activation canceled by the supplier.
+ssm.emailtemplates.workflows.activation.cancelled.by.supplier.title=The activation of catalog {0}, version {1}, was canceled by the supplier.
+ssm.emailtemplates.workflows.activation.date.change.by.customer.document.title=The activation date for the catalog was changed by the customer.
+ssm.emailtemplates.workflows.activation.date.change.by.customer.notification=Notification\: <br/>The activation date of the catalog version was changed from the customer side on ''{0}''.
+ssm.emailtemplates.workflows.activation.date.change.by.customer.title=The activation date for the catalog ''{0}'' in version ''{1}'' changed by the customer.

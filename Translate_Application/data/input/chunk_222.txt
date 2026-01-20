@@ -1,0 +1,10 @@
+administration.command.rejectPositions=Reject Items
+administration.command.saveCommentary=Save commentary
+administration.command.withdraw=Withdraw
+administration.comment.text.all=All
+administration.comment.text.approve=If you want to approve the requisition, please select approver and hit.
+administration.comment.text.approveOrDeny=Here you approve/deny the <b>whole</b> shopping cart.
+administration.comment.text.back=If you don't want to decide now, then please hit.
+administration.comment.text.commentary=Comment
+administration.comment.text.confirmation=Select initial approver and <b>Confirm</b> your order or <b>Withdraw</b> it.
+administration.comment.text.deny=If you want to deny the whole requisition, please enter the comment and hit.

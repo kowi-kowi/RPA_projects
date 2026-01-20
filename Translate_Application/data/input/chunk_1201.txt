@@ -1,0 +1,10 @@
+plugin.opcProductDetails.message.configurableProduct.selectionGroupOnDifferentTabs=Following selection group has product(s) on other tab(s)
+plugin.opcProductDetails.message.groovyFailed=Groovy failed
+plugin.opcProductDetails.message.groovySucceeded=Groovy succeeded
+plugin.opcProductDetails.message.invalidAttributeValues=Some attributes have invalid values. Please check attribute values.
+plugin.opcProductDetails.message.invalidRelations=Related products cannot be added to the cart. Please check the error messages on the related products.
+plugin.opcProductDetails.message.invalidRelations.draft.requisition=Related products cannot be added to the Draft Requisition. Please check the error messages on the related products.
+plugin.opcProductDetails.message.mandatoryRelationMissing=Please, select all mandatory related products on tab(s)\: {0}.
+plugin.opcProductDetails.message.notCheapestConfirmation=The selected supplier has not provided the cheapest offer. Do you want to proceed?
+plugin.opcProductDetails.message.pageIsReadonly=This page is displayed in read only mode (some images and styles may not be available). Please don't try to use the search and other functions on this page.
+plugin.opcProductDetails.message.partsbook.nothingFound=No products were found

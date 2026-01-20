@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.salesOrderUpdate.addRfQItems.reject=It's not allowed to add RfQ items to cart during sales order update session.
+plugin.opcShoppingCart.salesOrderUpdate.updateItem.reject=It's not allowed to update this item during current sales order update session.
+plugin.opcShoppingCart.section.title.advancedOptions=Advanced Options
+plugin.opcShoppingCart.section.title.sourceProduct=Source Product
+plugin.opcShoppingCart.section.title.targetProducts=Target Products
+plugin.opcShoppingCart.title.accountingInfo=GL Account, Tax for {0}
+plugin.opcShoppingCart.title.attributeValueCopyDialog=Copy Attribute Values
+plugin.opcShoppingCart.title.cart=Cart
+plugin.opcShoppingCart.title.commentary=Commentary
+plugin.opcShoppingCart.title.errorMessagePopup=Error

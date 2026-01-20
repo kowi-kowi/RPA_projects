@@ -1,0 +1,10 @@
+plugin.opcAdministration.menu.customerAdmin.searchExplanation=Search Result Explanation
+plugin.opcAdministration.menu.customerAdmin.searchExplanation.desc=Provides the ability of explaining search result for products.
+plugin.opcAdministration.menu.customerAdmin.title=Customer Administration
+plugin.opcAdministration.menu.ui.schema.title=UI Schema Editor
+plugin.opcAdministration.message.cacheIsCleared=Cache is cleared
+plugin.opcAdministration.message.changeCustomerAssignmentUsageInfo=Open editor for changing Customer assignment.
+plugin.opcAdministration.message.checkProduct=Provides possibility to compare product data from index with its state in database.
+plugin.opcAdministration.message.classificationGroupMappingUsageInfo=Open editor for Classification group mapping.
+plugin.opcAdministration.message.confirmClearIndex=Deletion of index will cause irreversible changes for application. Do you really want to delete the index?
+plugin.opcAdministration.message.contractProvisioningsWithDifferentSuppliers=The single contract has several Contract Provisionings with different suppliers. Please note that a wrong supplier may be assigned to a requisition item.

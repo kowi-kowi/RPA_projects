@@ -1,0 +1,10 @@
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.name2.label=Name 2
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.name3.label=Name 3
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.numOfEmployees.label=Number of Employees
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.phoneNo.label=Phone No
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.pobox.label=PO Box
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.poboxZipCode.label=PO Box Zip Code
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.salutation.label=Salutation
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.state.label=State
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.street.label=Address Line 1
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.street2.label=Address Line 2

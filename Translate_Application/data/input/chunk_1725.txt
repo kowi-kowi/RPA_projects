@@ -1,0 +1,10 @@
+plugin.supplierDirectory.title.errorDialog=Error
+plugin.supplierDirectory.title.supplierDirectory=Supplier Directory
+plugin.supplierDirectory.title.supplierInfo=Supplier Info
+plugin.supplierEditor.attributeValues.edit.button=Edit Attribute Values
+plugin.supplierEditor.cmlExport.button=Export CML
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.addressAssociations.label=Address Associations
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.attributeValues.label=Attribute Values
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.bankCountryKey.label=Bank Country Key
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.bankIdentificationCode.label=Bank Identification Code
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.catalogProvisionings.label=Catalog Provisionings

@@ -1,0 +1,10 @@
+PROC.PoLineVolumeCoveragePerWF.appMetrics.chart.yaxis.label=Purchase Order Items per Workflow
+PROC.PoLineVolumeCoveragePerWF.description=The total volume of Purchase Order items that have been created and approved in the workflow process throughout the year
+PROC.PoSpendCoverage.appMetrics.chart.yaxis.label=PO Spend (EUR)
+PROC.PoSpendCoverage.description=The total spend value for all Purchase Orders that have been created throughout the year
+PROC.PoSpendCoverageNoApproval.appMetrics.chart.yaxis.label=PO Spend (EUR)
+PROC.PoSpendCoverageNoApproval.description=The total spend value for all Purchase Orders that have been created throughout the year
+PROC.PoSpendCoveragePerWF.appMetrics.chart.yaxis.label=Approved PO Spend (EUR)
+PROC.PoSpendCoveragePerWF.description=The total spend value for all Purchase Orders that have been created and approved in the workflow process throughout the year
+PROC.PostingBulkOperationsEditor.actions.bulkApply=Apply to selected items
+PROC.PostingBulkOperationsEditor.errors.bulk.noItemsSelected=No items were selected for the bulk update.

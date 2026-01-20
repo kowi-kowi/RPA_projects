@@ -1,0 +1,10 @@
+plugin.cml2solrmlExport.header.rebuildIndexSection=CML files available for transformation into SolrML format\:
+plugin.cml2solrmlExport.header.uploadCmlSection=Upload CML file
+plugin.cml2solrmlExport.label.noCmlFiles=There are no CML files
+plugin.cml2solrmlExport.label.processAll=Process all files from CML folder
+plugin.cml2solrmlExport.label.rebuildAfterUpload=Add to index after CML upload
+plugin.cml2solrmlExport.message.error=Error\:
+plugin.cml2solrmlExport.message.finishCmlIndexing=Indexing CML successfully finished
+plugin.cml2solrmlExport.message.finishUploading=Uploading CML successfully finished
+plugin.cml2solrmlExport.message.startCmlIndexing=Indexing CML...
+plugin.cml2solrmlExport.message.startUploading=Uploading CML...

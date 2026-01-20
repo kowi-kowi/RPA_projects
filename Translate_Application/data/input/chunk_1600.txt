@@ -1,0 +1,10 @@
+plugin.requestForQuote.supplierQuote.warning.expiredRfQ.message=This RFX expired on {0}. There is no guarantee that your response will be taken into account.
+plugin.requestForQuote.timeline.Rfx.bindingPeriod=Binding Period
+plugin.requestForQuote.timeline.Rfx.createdOn=Created On
+plugin.requestForQuote.timeline.Rfx.demandExpirationDate=Demand Expiration Date
+plugin.requestForQuote.timeline.Rfx.expirationDate=Expiration Date
+plugin.requestForQuote.timeline.Rfx.reminder=Reminder Date
+plugin.requestForQuote.timeline.Rfx.submissionDate=Start Date
+plugin.requisitionDefaultsEditor.com.jcatalog.salesorder.RequisitionDefaults.currencyId.label=Currency
+plugin.requisitionDefaultsEditor.com.jcatalog.salesorder.RequisitionDefaults.customerId.label=Customer
+plugin.requisitionDefaultsEditor.com.jcatalog.salesorder.RequisitionDefaults.deliveryAddressId.label=Delivery Address

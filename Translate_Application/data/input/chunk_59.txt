@@ -1,0 +1,10 @@
+PROC.OrderItemEditor.tabs.recipientInfo.labels.floor=Floor
+PROC.OrderItemEditor.tabs.recipientInfo.labels.phoneNo=Phone No.
+PROC.OrderItemEditor.tabs.recipientInfo.labels.receivingPerson=Name
+PROC.OrderItemEditor.tabs.recipientInfo.labels.room=Room
+PROC.OrderItemEditor.tabs.summaryInfo.labels.billingStatus=Billing
+PROC.OrderItemEditor.tabs.summaryInfo.labels.changedBy=Changed by
+PROC.OrderItemEditor.tabs.summaryInfo.labels.changedOn=Changed on
+PROC.OrderItemEditor.tabs.summaryInfo.labels.createdBy=Created by
+PROC.OrderItemEditor.tabs.summaryInfo.labels.createdOn=Created on
+PROC.OrderItemEditor.tabs.summaryInfo.labels.fulfillmentStatus=Fulfillment

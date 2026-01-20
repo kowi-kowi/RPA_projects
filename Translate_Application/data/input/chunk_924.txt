@@ -1,0 +1,10 @@
+plugin.grailsflow.label.processDetails=Process Details
+plugin.grailsflow.label.processEditor=Process Editor
+plugin.grailsflow.label.processExport=Process Export
+plugin.grailsflow.label.processID=Process ID
+plugin.grailsflow.label.processIdentifier=Process Identifier
+plugin.grailsflow.label.processList=Process List
+plugin.grailsflow.label.processNode=Process Node
+plugin.grailsflow.label.processNodes=Process Nodes
+plugin.grailsflow.label.processScript=Process Script
+plugin.grailsflow.label.processTransitions=Process Transitions

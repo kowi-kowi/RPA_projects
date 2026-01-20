@@ -1,0 +1,10 @@
+plugin.opcShoppingList.actualization.header.oldValue=Old Value
+plugin.opcShoppingList.actualization.header.title=Product Actualization Information of "{0}"
+plugin.opcShoppingList.actualizeList.message.actualization=Actualizing of the selected products...
+plugin.opcShoppingList.actualizeList.message.actualized=The products in the Shopping List have been updated. Click on the warning icon at the item level to view the changes.
+plugin.opcShoppingList.actualizeList.message.editablePrice.warningMsg=The price cannot be updated as it is editable or discounted.
+plugin.opcShoppingList.actualizeList.message.notValidPrice.warningMsg=<b>Please note\:</b> Some products in the Shopping List can be not actual. To actualize the product information, click the Actualize Shopping List button.<br/>However, you can still add the products with not actual price to the Shopping Cart. In this case, the price actualization will be executed directly in the Shopping Cart upon clicking the Proceed to Checkout button.
+plugin.opcShoppingList.actualizeList.message.nothingToActualize=The products in the Shopping List have been updated. No changes have been made.
+plugin.opcShoppingList.actualizeList.message.punchout.warningMsg=The price cannot be updated for punchout products.
+plugin.opcShoppingList.actualizeList.message.warningInfo=The latest modification of the shopping list was made on {0}. <br/> You can actualize the following shopping list items\:
+plugin.opcShoppingList.actualizeList.noPrice4Contract.warningMsg=There is no price for contract ''{0}''.

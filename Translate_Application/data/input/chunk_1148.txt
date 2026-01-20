@@ -1,0 +1,10 @@
+plugin.opcEasysearch.title.address=Address
+plugin.opcEasysearch.title.approverSearch=Approver Search
+plugin.opcEasysearch.title.approverSearchInfo=Search for users responsible for ordering.
+plugin.opcEasysearch.title.catalog=Product Catalog Search
+plugin.opcEasysearch.title.contract=Contract Search
+plugin.opcEasysearch.title.costObject=Cost Object
+plugin.opcEasysearch.title.invoiceReceipt=Invoice Receipt
+plugin.opcEasysearch.title.supplierGroup=Supplier Group Search
+plugin.opcExport.boolean.false=No
+plugin.opcExport.boolean.true=Yes

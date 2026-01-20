@@ -1,0 +1,10 @@
+jasperReports.FrameAgreementsCallOffsReport.CUSTOMERID_1=Customer
+jasperReports.FrameAgreementsCallOffsReport.SupplierId=Supplier
+jasperReports.FrameAgreementsCallOffsReport.dateRange=Date Range
+jasperReports.FrameAgreementsCallOffsReport.fail=There is no data for the report. Please, revise the parameters.
+jasperReports.FrameAgreementsCallOffsReport.header.FAcontract=Frame Agreement Contract
+jasperReports.FrameAgreementsCallOffsReport.header.availableQuantity=Available Quantity
+jasperReports.FrameAgreementsCallOffsReport.header.contractedCurrency=Contracted Currency
+jasperReports.FrameAgreementsCallOffsReport.header.customerId=Customer ID
+jasperReports.FrameAgreementsCallOffsReport.header.customerName=Customer Name
+jasperReports.FrameAgreementsCallOffsReport.header.netPrice=Net Price

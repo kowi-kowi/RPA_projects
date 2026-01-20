@@ -1,0 +1,10 @@
+plugin.opcOrder.command.orderSplitCart=Submit Cart
+plugin.opcOrder.command.saveTemplate=Save Template
+plugin.opcOrder.command.yes=Yes
+plugin.opcOrder.confirmationEmail.subject=Order Confirmation Email
+plugin.opcOrder.deliveryAreaDescription.dortmund=Dortmund
+plugin.opcOrder.deliveryAreaDescription.frankfurt=Frankfurt
+plugin.opcOrder.deliveryAreaDescription.stuttgart=Stuttgart
+plugin.opcOrder.deliveryCountryDescription.DE=Germany
+plugin.opcOrder.deliveryCountryDescription.GB=United Kingdom (UK)
+plugin.opcOrder.deliveryMethodDescription.EMS=Express Mail Service

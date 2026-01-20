@@ -1,0 +1,10 @@
+plugin.opcShoppingList.action.delete=Delete
+plugin.opcShoppingList.action.edit=Edit
+plugin.opcShoppingList.action.goToOverview=Go to Overview
+plugin.opcShoppingList.action.ok=Ok
+plugin.opcShoppingList.action.punchoutDetails=Punchout Details
+plugin.opcShoppingList.action.punchoutSearch=Punchout Search
+plugin.opcShoppingList.action.search=Search
+plugin.opcShoppingList.action.selectAll=All
+plugin.opcShoppingList.actualization.header.actualValue=Actual Value
+plugin.opcShoppingList.actualization.header.changedProperty=Changed Property

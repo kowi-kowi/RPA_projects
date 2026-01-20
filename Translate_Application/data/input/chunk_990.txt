@@ -1,0 +1,10 @@
+plugin.migrationTool.dataMigration.label=Data Migration
+plugin.migrationTool.dataMigration.noDataMigrationScripts.hint=No data migration scripts available.
+plugin.migrationTool.dataMigration.noScripts=There are no scripts for data migration.
+plugin.migrationTool.desc=Migration Tool provides the ability to perform changes which are necessary during the application migration process to a new version.
+plugin.migrationTool.differences=Changes made in previous versions
+plugin.migrationTool.email.hint=To send an email notification on the process, enter the address here. You can enter several comma-separated email addresses to notify several recipients at a time.
+plugin.migrationTool.email.label=Email
+plugin.migrationTool.email.standard.label=Use Standard Email Address
+plugin.migrationTool.executionTime.hint=Scheduled time to start job execution
+plugin.migrationTool.executionTime.label=Execution Time

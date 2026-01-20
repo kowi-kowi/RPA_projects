@@ -1,0 +1,10 @@
+RFQ.supplierQuoteItemEditor.sqItemDetails.contractedNetPrice=Offered Price
+RFQ.supplierQuoteItemEditor.sqItemDetails.deliveryDate=Delivery Date
+RFQ.supplierQuoteItemEditor.sqItemDetails.isReadyForQuote=Ready for Quote
+RFQ.supplierQuoteItemEditor.sqItemDetails.leadTimeInDays=Lead time in days
+RFQ.supplierQuoteItemEditor.sqItemDetails.manufacturerName=Manufacturer Name
+RFQ.supplierQuoteItemEditor.sqItemDetails.mfgProductId=Manufacturer Product ID
+RFQ.supplierQuoteItemEditor.sqItemDetails.priceAdjustmentPercentage=Price Adjustment Percentage
+RFQ.supplierQuoteItemEditor.sqItemDetails.priceUnit=Price Unit
+RFQ.supplierQuoteItemEditor.sqItemDetails.productDescLong=Long Description
+RFQ.supplierQuoteItemEditor.sqItemDetails.productDescShort=Short Description

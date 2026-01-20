@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.error.contract.required=Contract is a required field. Please enter an appropriate value.
+plugin.opcProductSuggestion.error.description.required=Description is a required field. Please enter an appropriate value.
+plugin.opcProductSuggestion.error.mailSender.mailException=Email sending failed\: "{0}". Please contact your administrator.
+plugin.opcProductSuggestion.error.noSupplierEmails=Supplier email address for product suggestion requests not available, no email has been sent. Please contact your administrator.
+plugin.opcProductSuggestion.error.quantity.invalid=Quantity "{0}" is not a valid number.
+plugin.opcProductSuggestion.error.quantity.required=Quantity is a required field. Please enter an appropriate value.
+plugin.opcProductSuggestion.error.quoteId.empty=Fill Response Number to start suggestion search.
+plugin.opcProductSuggestion.error.requestorEmail.invalid=Requestor email "{0}" is invalid.
+plugin.opcProductSuggestion.error.sourcingAdminEmail.invalid=Contract sourcing admin email "{0}" is invalid.
+plugin.opcProductSuggestion.error.sourcingOwnerEmail.invalid=Contract sourcing owner email "{0}" is invalid.

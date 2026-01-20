@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.message.invoice.itemCanNotEdit=It's impossible to edit item with unknown identifier.
+plugin.procPurchaseorder.message.invoice.itemCanNotSave=Invoice Receipt Item cannot be saved.
+plugin.procPurchaseorder.message.invoice.itemDeleted=Invoice Receipt Item with key {0} was deleted.
+plugin.procPurchaseorder.message.invoice.itemNotFound=Item with key {0} wasn't found
+plugin.procPurchaseorder.message.invoice.itemNotSaved=Invoice Receipt Item was not saved.
+plugin.procPurchaseorder.message.invoice.itemSaved=Invoice Receipt Item was saved successfully.
+plugin.procPurchaseorder.message.invoice.noIdentifier=Cannot get Invoice Receipt with unknown identifier.
+plugin.procPurchaseorder.message.invoice.noInvoice=No Invoice Receipt with key {0} was found.
+plugin.procPurchaseorder.message.invoice.noItem=No Invoice Receipt Item with key {0} was found.
+plugin.procPurchaseorder.message.invoice.noItemIdentifier=Cannot get Invoice Receipt Item with unknown identifier.

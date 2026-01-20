@@ -1,0 +1,10 @@
+businessRulelist.message.copied=Business rule list has been copied.
+businessRulelist.message.created=New business rule list has been created.
+businessRulelist.message.saved=Business rule list has been saved.
+cache.clear.button.label=Clear Cache
+cache.clear.description=Resets the caches for views, templates, configuration, services and hibernate
+cache.clear.result.success.label=Cache is cleared
+catalog.objectClass.name=Product Catalog
+catalogExportJob.catalog.version.notExist=Catalog with version {3} does not exist.
+catalogExportJob.mailSubject.fail=Export Conversion failed
+catalogExportJob.mailSubject.notStarted=Catalog export was not started

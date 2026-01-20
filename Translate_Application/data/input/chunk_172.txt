@@ -1,0 +1,10 @@
+RFQ.tabDemandCollection.userEmail=User Email
+RFQ.tabDemandCollection.userName=User
+RFQ.tabItems.button.addItem=Add Item
+RFQ.tabItems.button.createItem=Create Item
+RFQ.tabItems.button.importItems=Import Items
+RFQ.tabItems.error.property.max.exceeded=Value exceeds the maximum size of {max}.
+RFQ.tabItems.notSelected.label=There are currently no items assigned to this RFX. You can add items in the following ways\:
+RFQ.tabItems.notSelected.point1=Create a new item
+RFQ.tabItems.notSelected.point2=Add an existing item from the catalog
+RFQ.tabItems.notSelected.point3=Import items using the excel template

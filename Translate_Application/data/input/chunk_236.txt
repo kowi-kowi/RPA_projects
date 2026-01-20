@@ -1,0 +1,10 @@
+administration.systemAdministration.excludeCatalogsForSearch.title=Exclude Catalogs
+administration.systemAdministration.federatedSearchTestTool=Verify Federated Search Connections
+administration.systemAdministration.federatedSearchTestTool.desc=Test connections for external catalogs
+administration.systemAdministration.filemanager.configurationarea=Configuration Area
+administration.systemAdministration.filemanager.configurationarea.desc=Upload, edit and delete files from the server
+administration.systemAdministration.filemanager.customizationarea=Customization Area
+administration.systemAdministration.filemanager.customizationarea.desc=Upload, edit and delete files from the server
+administration.systemAdministration.filemanager.workarea=Work Area
+administration.systemAdministration.filemanager.workarea.desc=Upload, edit and delete files from the server
+administration.systemAdministration.files=Files and Cache

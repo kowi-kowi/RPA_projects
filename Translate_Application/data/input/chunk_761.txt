@@ -1,0 +1,10 @@
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeValueOption.returnValue.label=Return Value
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeValueOption.surchargeAmount.label=Surcharge Amount
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeValueOption.surchargeFactor.label=Surcharge Factor
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeValueOption.value.label=Value
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeValueOption.value.validator.error=Incorrect option value according to Attribute type.
+plugin.classificationEditor.confirm.delete.attribute=Are you sure you want to delete attribute ''{0}'' from the current and all sub-groups?
+plugin.classificationEditor.create.is.not.allowed=You are not allowed to create {0}.
+plugin.classificationEditor.createAttribute.title=Create new attribute
+plugin.classificationEditor.createChild.button=Create Child
+plugin.classificationEditor.editGroups.button=Edit Groups

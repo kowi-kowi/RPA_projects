@@ -1,0 +1,10 @@
+jasperReports.CostObjectReport.status.billing.label=Billing
+jasperReports.CostObjectReport.status.fulfillment.label=Fulfillment
+jasperReports.CostObjectReport.status.ordering.label=Ordering
+jasperReports.CostObjectReport.supplierId.label=Supplier ID
+jasperReports.CostObjectReport.supplierName.label=Supplier Name
+jasperReports.CostObjectReport.to.label=to
+jasperReports.CostObjectReport.toDate=To Date
+jasperReports.CostObjectReport.totalPrice.label=Total Price in orig currency
+jasperReports.CostObjectReport.totalPriceInEUR.label=Total Price in EUR
+jasperReports.FrameAgreementsCallOffsReport.CONTRACTID_1=Frame Agreement Contract

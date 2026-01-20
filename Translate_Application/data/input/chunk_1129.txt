@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.action.cancel=Cancel
+plugin.opcDraftRequisition.action.clear=Clear
+plugin.opcDraftRequisition.action.close=Close
+plugin.opcDraftRequisition.action.configure=Fill in form
+plugin.opcDraftRequisition.action.delete=Delete
+plugin.opcDraftRequisition.action.edit=Edit
+plugin.opcDraftRequisition.action.goToOverview=Go to Overview
+plugin.opcDraftRequisition.action.moveToDraftRequisition.item.error.external=The Shopping Cart contains external item(s) and cannot be moved to the Draft Requisition.
+plugin.opcDraftRequisition.action.ok=Ok
+plugin.opcDraftRequisition.action.punchoutDetails=Punchout Details

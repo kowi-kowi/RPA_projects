@@ -1,0 +1,10 @@
+sdp.widgets.title.serviceOrderStatus=Service Order Status
+sdp.widgets.title.stockOrderStatus=Stock Order Status
+sdp.widgets.title.totalOrders=Total Orders
+sdp.widgets.title.totalOrdersInStock=Total Stock Orders
+sdp.widgets.title.totalServiceOrders=Total Service Orders
+sdp.widgets.totalServiceOrders.released.label=Released
+sdp.widgets.totalServiceOrders.reported.label=Reported
+sdp.widgets.totalServiceOrders.waitingForReporting.label=Waiting for Report
+sdp.widgets.yearToDate.label=YTD
+securedResource.realm.not.available={0} realm is not available

@@ -1,0 +1,10 @@
+rfq.widgets.title.rfxSubmitted=RFXs submitted per quarter
+rfq.widgets.title.topRFXTemplates=Top 5\: RFX Templates
+rfq.widgets.title.topSuppliers=Top 5\: Suppliers
+rfq.widgets.topRFXTemplates.unit=RFX Amount
+rfq.widgets.topSuppliers.label.awarded=Awarded
+rfq.widgets.topSuppliers.label.invitations=Invitations
+rfx.customer=Customer
+rfx.item.contractedCurrency=Contracted Currency
+rfx.item.contractedPrice=Contracted Price
+rfx.item.currency=Currency

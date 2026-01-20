@@ -1,0 +1,10 @@
+jasperReports.UnbilledMaterialReport.executedBy=Executed by\:
+jasperReports.UnbilledMaterialReport.execution=Execution\:
+jasperReports.UnbilledMaterialReport.glAccountId.label=GL Account
+jasperReports.UnbilledMaterialReport.header=Report Settings
+jasperReports.UnbilledMaterialReport.header1=Initial Data
+jasperReports.UnbilledMaterialReport.header2=Parameters
+jasperReports.UnbilledMaterialReport.header3=Result
+jasperReports.UnbilledMaterialReport.header3.desc=Items purchased by the selected customer\:
+jasperReports.UnbilledMaterialReport.invoiceReceiptDate.label=Invoice Date
+jasperReports.UnbilledMaterialReport.invoiceReceiptId.label=Ext. Invoice No

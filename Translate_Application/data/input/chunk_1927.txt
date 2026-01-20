@@ -1,0 +1,10 @@
+title.state=State
+toolbar.action.changeAssignment=Change Assignment
+toolbar.action.customer=Customer
+toolbar.action.help=Help
+toolbar.action.logout=Logout
+toolbar.action.selectCustomer=Select Customer
+toolbar.action.shoppingList=My List
+toolbar.action.userManagement=User Management
+toolbar.message.selectLanguage=Are you sure you want to change language? You will be redirected to portal page and all data you entered in to the form will be lost.
+toolbar.section.changePassword=Change Password

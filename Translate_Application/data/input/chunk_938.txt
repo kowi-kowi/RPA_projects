@@ -1,0 +1,10 @@
+plugin.grailsflow.message.forwarding.success=Process Node was forwarded to another users/roles/groups successfully.
+plugin.grailsflow.message.generation.error=The process script cannot be generated because of some problems.
+plugin.grailsflow.message.generation.process.error=Failed to generate process, there is no Process Definition with key {0}.
+plugin.grailsflow.message.incompatibleNodes=The selected nodes should have equals nodeID property.
+plugin.grailsflow.message.incompatibleProcesses=The selected nodes should belong to the same process definition type.
+plugin.grailsflow.message.job.delete=Are you sure that the Job should be deleted?
+plugin.grailsflow.message.job.running=Job {0} of group {1} is running currently.
+plugin.grailsflow.message.manualForm.invalid=Impossible to render manual form for node\: {0}
+plugin.grailsflow.message.multiEditError=Multi-editing is available only for nodes with external editor.
+plugin.grailsflow.message.noItems=0 items found

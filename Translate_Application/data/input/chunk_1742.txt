@@ -1,0 +1,10 @@
+plugin.systemMaintenance.error.fileNotExist=File not exist
+plugin.systemMaintenance.error.fileNotSelect=File must be selected
+plugin.systemMaintenance.error.fileUpload=Error uploading file.
+plugin.systemMaintenance.error.fileUpload.blank=SQL File is blank.
+plugin.systemMaintenance.error.host.required=''Host/IP'' is required
+plugin.systemMaintenance.error.invalid.tailLine=Tail lines must be defined and be positive integer number that is less or equal to 1000.
+plugin.systemMaintenance.error.noMessages=No messages found
+plugin.systemMaintenance.error.ownerNotFound=Owner ''{0}'' doesn''t exist
+plugin.systemMaintenance.error.ownerRequired=Owner is required
+plugin.systemMaintenance.error.ownerValueExists=Value for owner ''{0}'' already exists

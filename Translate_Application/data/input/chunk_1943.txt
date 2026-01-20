@@ -1,0 +1,5 @@
+userManual.help.linkText=Help
+userRoleEmpty.com.jcatalog.participant.BusinessObjectParticipant.userRole=User Role is a required field.
+validator.invalid.com.jcatalog.opc.commons.commands.ProductCommand.similarProductQuantity=Quantity is not valid.
+validator.invalid.com.jcatalog.opc.commons.commands.SearchResultItemCommand.similarProductQuantity=Quantity is not valid.
+validator.invalid.com.jcatalog.opc.details.ProductDetailsCommand.similarProductQuantity=Quantity is not valid.

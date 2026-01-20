@@ -1,0 +1,10 @@
+plugin.opcCostDistribution.message.section.typeNotUnique=The types of Cost Objects in different sections should differ.
+plugin.opcCostDistribution.message.sectionsShouldHaveSamePositions=Accounting Details for product ''{0}''\: Sections should have the same number of positions. GL Account and percentage of each position in this section should match GL Account and percentage of each position in the 1st section.
+plugin.opcCostDistribution.message.statisticalCO.notAllInfoFilled=Statistical Cost Object of one type should be filled for all rows in a column.
+plugin.opcCostDistribution.message.statisticalCO.notCorrectFilled=Please fill in the fields 'Statistical Cost Object' in the right sequence. Fill in the left one first.
+plugin.opcCostDistribution.message.typeIsNotAllowed=The Cost Object type ''{0}'' is not available.
+plugin.opcCostDistribution.message.typeNotUnique=The types of different Cost Objects should differ.
+plugin.opcCostDistribution.opcCostDistribution.closeConfirmation.message=You have unsaved changes\!
+plugin.opcCostDistribution.opcCostDistribution.confirmOverWriting.button.no=No
+plugin.opcCostDistribution.opcCostDistribution.confirmOverWriting.button.yes=Yes
+plugin.opcCostDistribution.percent=Percent

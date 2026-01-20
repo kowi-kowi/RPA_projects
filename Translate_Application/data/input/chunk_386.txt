@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormSalesOrder.salesOrderId=Requisition ID
+com.jcatalog.salesorder.GormSalesOrder.salesOrderItem=Requisition Item
+com.jcatalog.salesorder.GormSalesOrder.salesOrderName=Sales Order Name
+com.jcatalog.salesorder.GormSalesOrder.totalNetPrice=Total Net Price
+com.jcatalog.salesorder.GormSalesOrder.totalTaxAmount=Total Tax Amount
+com.jcatalog.salesorder.GormSalesOrder.workLocation=Work Location
+com.jcatalog.salesorder.GormSalesOrderItem.absoluteDiscount=Absolute Discount
+com.jcatalog.salesorder.GormSalesOrderItem.assetAccount=Asset Account
+com.jcatalog.salesorder.GormSalesOrderItem.building=Building
+com.jcatalog.salesorder.GormSalesOrderItem.catalogId=Catalog ID

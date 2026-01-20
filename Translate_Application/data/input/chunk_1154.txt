@@ -1,0 +1,10 @@
+plugin.opcGenericAttributes.attributes.action.expression=Evaluate Expression
+plugin.opcGenericAttributes.attributes.action.externalDataLookupForField=External Data Lookup
+plugin.opcGenericAttributes.attributes.action.fieldMandatory=Make the Field Mandatory
+plugin.opcGenericAttributes.attributes.action.fieldVisibility=Show/Hide Attributes
+plugin.opcGenericAttributes.attributes.action.openServicesMappings=Edit Service Mappings
+plugin.opcGenericAttributes.attributes.action.previewConfiguration=Preview Configuration
+plugin.opcGenericAttributes.attributes.action.saveConfiguration=Save Configuration
+plugin.opcGenericAttributes.attributes.action.saveConfiguration.configurationSource=Configuration for\:
+plugin.opcGenericAttributes.attributes.action.selectboxTooltip=Add Description to Attribute
+plugin.opcGenericAttributes.attributes.action.selectboxValues=Configure Visible Options

@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.label.reviewPackage=Review Package
+plugin.ssmWorkflow.label.search.periodOfTime=Period of time
+plugin.ssmWorkflow.label.search.periodOfTime.from=from
+plugin.ssmWorkflow.label.search.periodOfTime.to=to
+plugin.ssmWorkflow.label.search.time.pattern=hh\:mm
+plugin.ssmWorkflow.label.search.timegap=Min waiting time
+plugin.ssmWorkflow.label.searchNodes.catalog=Product Catalog
+plugin.ssmWorkflow.label.searchNodes.catalogVersion=Catalog Version
+plugin.ssmWorkflow.label.searchNodes.nodeId=Node ID
+plugin.ssmWorkflow.label.searchNodes.processType=Process Type

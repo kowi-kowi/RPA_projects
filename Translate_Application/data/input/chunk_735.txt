@@ -1,0 +1,10 @@
+plugin.catalogReport.label.status=Status
+plugin.catalogReport.label.supplier=Supplier
+plugin.catalogReport.label.version=Version
+plugin.catalogReport.link.catalogExport=Catalog Export
+plugin.catalogReport.link.catalogScorecard=Catalog Scorecard
+plugin.catalogReport.link.compareCatalogs=Compare Catalogs
+plugin.catalogReport.link.productEditor=Product Editor
+plugin.catalogReport.link.productPreview=Product Preview
+plugin.catalogReport.link.productReview=Product Review
+plugin.catalogReport.message.noItems=No items found to display.

@@ -1,0 +1,10 @@
+ssm.processVariables.label.importUoM=Import UoM
+ssm.processVariables.label.locale=Language ID
+ssm.processVariables.label.logFile=Log File
+ssm.processVariables.label.priceImportFileName=Contract
+ssm.processVariables.label.productAttributeImportFileName=Special Attributes
+ssm.processVariables.label.productClassificationImportFileName=Special Classifications
+ssm.processVariables.label.productImportFileName=Catalog
+ssm.processVariables.label.productRelationImportFileName=Product Relations
+ssm.processVariables.label.supplier=Supplier ID
+ssm.processVariables.label.supplierEmail=Supplier email

@@ -1,0 +1,10 @@
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.canBeBudgeted.label=Can be Budgeted
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.canBePosted.label=Can be Posted
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.customerId.label=Customer
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.descShort.label=Short Description
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.isStatistical.label=Is Statistical
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.label=Posting Dimension Value
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.parentId.label=Master Posting Dimension Value
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.postingDimension.label=Posting Dimension
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.postingDimensionId.label=Posting Dimension
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimensionValue.postingDimensionValueId.label=Posting Dimension Value ID

@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.status.pay=paid
+plugin.procPurchaseorder.label.status.received=received
+plugin.procPurchaseorder.label.status.rejected=rejected
+plugin.procPurchaseorder.label.statusOn=Status Duration (from - to)
+plugin.procPurchaseorder.label.stdClassificationGroup=Std. Classification Group
+plugin.procPurchaseorder.label.street=Street
+plugin.procPurchaseorder.label.supplier=Supplier
+plugin.procPurchaseorder.label.supplierCustomerId=Our Customer ID at the Supplier
+plugin.procPurchaseorder.label.supplierId=Supplier ID
+plugin.procPurchaseorder.label.supplierInfo=Supplier Info

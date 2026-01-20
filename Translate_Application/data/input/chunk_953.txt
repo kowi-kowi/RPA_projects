@@ -1,0 +1,10 @@
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.cantUnzipFileArchive.message=Uploaded zip file extraction failed
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.fileRequired.message=File upload is required
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.hint=Select a valid zip archive with translatable files
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.isNotZipArchive.message=Uploaded file is not a ZIP archive
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.label=Upload
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.successful.message=The file has been uploaded successfully
+plugin.jcatalogLocalization.customizationTranslatableFiles.upload.title=Upload
+plugin.jcatalogLocalization.duplicatedValues.message=Please, remove duplicate translations (lines) before importing, as otherwise they will be skipped.
+plugin.jcatalogLocalization.duplicatedValues.originalValue.header=Original Value
+plugin.jcatalogLocalization.duplicatedValues.rowNumber.header=Row Number

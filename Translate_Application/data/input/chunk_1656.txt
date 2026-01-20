@@ -1,0 +1,10 @@
+plugin.solrIndexer.filesInProgressList=Files in progress list\:
+plugin.solrIndexer.header.propertyName=Property Key
+plugin.solrIndexer.header.propertyValue=Current Value
+plugin.solrIndexer.indexer.backup.status=backing up
+plugin.solrIndexer.indexer.optimize.status=optimizing
+plugin.solrIndexer.indexer.running.status=running
+plugin.solrIndexer.indexer.stopped.status=stopped
+plugin.solrIndexer.label.appName=SOLR Indexer
+plugin.solrIndexer.label.solrProperties=Configurations
+plugin.solrIndexer.menu.tabTitle.configFileManager=SOLR Configuration

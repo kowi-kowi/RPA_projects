@@ -1,0 +1,10 @@
+plugin.purchasingClauseEditor.com.opuscapita.purchasingclause.PurchasingClauseUsage.customerId.label=Customer
+plugin.purchasingClauseEditor.com.opuscapita.purchasingclause.PurchasingClauseUsage.label=Purchasing Clause Usage
+plugin.purchasingProject.auditInfo.label=Audit Info
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.buyingOrg.label=Buying Organisation
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.classificationGroupId.label=Classification Group
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.classificationId.label=Classification ID
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.competitors.label=Competitors
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.createdOn.label=Created on
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerAddressLine1.label=Address Line 1
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerAddressLine2.label=Address Line 2

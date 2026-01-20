@@ -1,0 +1,10 @@
+info.table.header.effectiveDate=Activation Date
+info.table.header.numberOfItems=Number of items
+info.table.header.publishedDate=Activated On
+info.table.header.supplierId=Supplier ID
+info.table.header.version=Version
+invalidParams.com.opuscapita.ociobjectvisibility.OciObjectVisibility=Invalid parameters
+jasperReport.exception.message=The following problem occurred during processing your request\: {0}
+jasperReport.loading=Loading...
+jasperReports.CatalogMetrics.CustomerId_1=Customer
+jasperReports.CatalogMetrics.SupplierId_1=Supplier

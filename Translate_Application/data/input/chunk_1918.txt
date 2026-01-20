@@ -1,0 +1,10 @@
+textlocalization.importForm.BundleImportForm.button.upload=Upload Bundle
+textlocalization.importForm.BundleImportForm.dropZone.dropHereOr=Drag .zip file or click here to browse
+textlocalization.importForm.BundleImportForm.label.email=Email
+textlocalization.importForm.BundleImportForm.label.mode=Mode
+textlocalization.importForm.BundleImportForm.mode.hint=The existing Standard Message Bundle will be completely removed and replaced with the newly uploaded Standard Message Bundle.
+textlocalization.importForm.BundleImportForm.mode.option.REPLACE=Full Replacement
+textlocalization.importForm.BundleImportForm.notification.success=The Import Statistics will be sent to your email.
+textlocalization.importForm.BundleImportForm.validation.email.empty=Please state your email.
+textlocalization.importForm.BundleImportForm.validation.email.invalid=The entered email is not valid.
+textlocalization.importForm.ComparisonBundleImportForm.button.upload=Upload Bundle

@@ -1,0 +1,10 @@
+plugin.systemMaintenance.header.system.activeUsers=Active Users
+plugin.systemMaintenance.header.system.editLog4jProperties=Log Settings
+plugin.systemMaintenance.header.system.errorReport=Error Report
+plugin.systemMaintenance.header.system.info=System Information
+plugin.systemMaintenance.header.system.queryTool=Query Tool
+plugin.systemMaintenance.header.system.reloadResources=Static Resources Cache
+plugin.systemMaintenance.header.threads.action.title=Action
+plugin.systemMaintenance.header.threads.id.title=Thread ID
+plugin.systemMaintenance.header.threads.process.title=Process
+plugin.systemMaintenance.header.threads.repeatCount.title=Repeat count

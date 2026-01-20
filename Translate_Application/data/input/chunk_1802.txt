@@ -1,0 +1,10 @@
+prov.PostingDimensionDependencyEditor.label.sourceDimension=Source dimension
+prov.PostingDimensionDependencyEditor.label.sourceValues=Source values
+prov.PostingDimensionDependencyEditor.label.targetDimension=Target dimension
+prov.PostingDimensionDependencyEditor.label.targetValues=Target values
+prov.PostingDimensionDependencyEditor.modal.edit.changes.loose=The unsaved changes will be lost. Do you want to proceed?
+prov.PostingDimensionDependencyEditor.modal.edit.changes.not.saved=Changes are not saved
+prov.PostingDimensionDependencyEditor.type.mandatory=Mandatory dependent dimension
+prov.PostingDimensionDependencyEditor.type.none=Dependent values
+prov.PostingDimensionDependencyEditor.type.notAllowed=Not allowed dependent dimension
+prov.ProductCatalogInput.catalogIdColumnName=Product Catalog ID

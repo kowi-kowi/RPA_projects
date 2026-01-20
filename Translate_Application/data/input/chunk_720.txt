@@ -1,0 +1,10 @@
+plugin.businessPartnerProfile.hint.outFileEncoding.Windows1252=Windows-1252 encoding was developed by Microsoft and is only recommended for data transfer between Windows systems. Non-Windows systems often have problems to import this character set.
+plugin.businessPartnerProfile.hint.quotationMark=Select quotation symbol which is used in CSV files.
+plugin.businessPartnerProfile.hint.separator=Select fields separator which is used in CSV files.
+plugin.businessPartnerProfile.label.addressId=Address ID
+plugin.businessPartnerProfile.label.areaCode=Area Code
+plugin.businessPartnerProfile.label.assigmentToAddress=assignment to Address
+plugin.businessPartnerProfile.label.booleanPattern=Boolean Pattern
+plugin.businessPartnerProfile.label.catalogProfile=Content Processing Profile
+plugin.businessPartnerProfile.label.changedBy=Changed By
+plugin.businessPartnerProfile.label.changedOn=Changed On

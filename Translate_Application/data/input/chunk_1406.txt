@@ -1,0 +1,10 @@
+plugin.procEditors.pbt.validation.emptyInvoiceAddress.message=Address ID cannot be empty.
+plugin.procEditors.purchaseOrderEditor.item.validation4EditingError=The Purchase Order item cannot be edited.
+plugin.procEditors.purchaseOrderEditor.warning.purchaseOrderAlreadyReleased=Editing Purchase Order {0} was aborted. The Purchase Order might have already been released.
+plugin.procEditors.purchaseOrderEditor.message.deliveryDateInPast=The delivery date is in the past.
+plugin.procEditors.title.createSupplierConnectivity=Create Supplier Connectivity
+plugin.procEditors.title.editSupplierConnectivity=Edit Supplier Connectivity
+plugin.procEditors.title.listSupplierConnectivity=Supplier Connectivity List
+plugin.procEditors.title.lookupSupplierConnectivity=Lookup Supplier Connectivity
+plugin.procEditors.workflowConfigurator.approvalSteps.label=Step
+plugin.procEditors.workflowConfigurator.approvalWorkflowConfigurator.title=Approval Workflow Configurator

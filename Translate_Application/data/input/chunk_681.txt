@@ -1,0 +1,10 @@
+plugin.bootstrapUiCustomization.no.button=No
+plugin.bootstrapUiCustomization.resetToDefaults.button=Reset to defaults
+plugin.bootstrapUiCustomization.save.button=Save
+plugin.bootstrapUiCustomization.saveAs.button=Save Theme As...
+plugin.bootstrapUiCustomization.saveFailed.message=Saving failed.
+plugin.bootstrapUiCustomization.themeName.label=Theme
+plugin.bootstrapUiCustomization.themeName.title=Theme
+plugin.bootstrapUiCustomization.themeSaveAs.message={0} theme is saved
+plugin.bootstrapUiCustomization.title=Theme
+plugin.bootstrapUiCustomization.unsaved.confirmation=You have made changes. If you leave this site you will lose these changes.

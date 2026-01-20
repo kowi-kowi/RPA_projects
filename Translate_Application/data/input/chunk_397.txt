@@ -1,0 +1,10 @@
+com.jcatalog.ssm.product.enrichment.web.command.ProductEnrichmentRelationItemCommand.udxSortKey2.maxSize.error='''Udx Sort Key 2''' may not be longer than {3} characters.
+com.jcatalog.ssm.product.enrichment.web.command.ProductEnrichmentRelationItemCommand.udxSortKey3.maxSize.error='''Udx Sort Key 3''' may not be longer than {3} characters.
+com.jcatalog.ssm.product.enrichment.web.command.ProductEnrichmentRelationItemCommand.udxText1.maxSize.error='''Udx Text 1''' may not be longer than {3} characters.
+com.jcatalog.ssm.product.enrichment.web.command.ProductEnrichmentRelationItemCommand.udxText2.maxSize.error='''Udx Text 2''' may not be longer than {3} characters.
+com.jcatalog.ssm.product.enrichment.web.command.ProductEnrichmentRelationItemCommand.udxText3.maxSize.error='''Udx Text 3''' may not be longer than {3} characters.
+com.jcatalog.ssm.profile.AddressValidationCommand.corporateURL.validator.error=CorporateURL does not match the right pattern
+com.jcatalog.ssm.profile.AddressValidationCommand.email.validator.error=Email does not match the right pattern
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.catalogVersion.blank=Catalog Version cannot be empty
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.catalogVersion.min.notmet=Catalog Version must be greater than {3}
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.catalogVersion.nullable=Catalog Version cannot be empty

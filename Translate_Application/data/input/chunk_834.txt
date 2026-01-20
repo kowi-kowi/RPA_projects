@@ -1,0 +1,10 @@
+plugin.deliveryNote.msg.book.error=At least one item should be selected for booking.
+plugin.deliveryNote.msg.cancel.deliveryNote=Are you sure you want to cancel the whole Goods Receipt?
+plugin.deliveryNote.msg.cancel.error=At least one item should be selected for canceling.
+plugin.deliveryNote.msg.cancel.selectedItems=Are you sure you want to cancel the receipts for the selected items?
+plugin.deliveryNote.msg.update.error=At least one item should be selected for saving.
+plugin.deliveryNote.msg.update.pendingChanges=This PO is currently in editing mode. Making GR bookings and returns will cancel the PO editing mode, reverting all unreleased modifications.
+plugin.deliveryNote.negative.error=Negative quantity is not allowed.
+plugin.deliveryNote.nonPositive.error=Value should be a positive number.
+plugin.deliveryNote.orderItems.title=Order Items
+plugin.deliveryNote.overbooking.error=There is an overbooking. Please, take into account, that no tolerances are set up.

@@ -1,0 +1,10 @@
+plugin.salesorder.label.customer=Customer
+plugin.salesorder.label.dateFormat=Date format
+plugin.salesorder.label.decSeparator=Decimal separator
+plugin.salesorder.label.delimiter=Delimiter
+plugin.salesorder.label.deliveryAddress=Default Delivery Address
+plugin.salesorder.label.file=File
+plugin.salesorder.label.fileUpload.desc=Select the file which should be uploaded here. Zipped files are unzipped automatically. Attention\: Zipped files may not contain more than one single file\!
+plugin.salesorder.label.firstName=First Name
+plugin.salesorder.label.grouping=Thousands separator
+plugin.salesorder.label.headerAvailable=First line includes header

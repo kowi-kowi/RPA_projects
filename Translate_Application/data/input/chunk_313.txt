@@ -1,0 +1,10 @@
+com.jcatalog.businesspartner.SupplierGroup.supplierGroupId.label=Supplier Group ID
+com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.description.label=Description
+com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.header=Search for Supplier Priority Lists
+com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.supplierPriorityListId.label=Supplier Priority List ID
+com.jcatalog.businesspartner.view.BuyingOrg.customer.customerId.label=Customer ID
+com.jcatalog.businesspartner.view.BuyingOrg.header=Search for Buying Orgs
+com.jcatalog.businesspartner.view.BuyingOrg.key.label=Buying Org ID
+com.jcatalog.businesspartner.view.BuyingOrg.name.label=Name
+com.jcatalog.businesspartner.view.CustomerView.buyingOrgs.label=Buying Orgs
+com.jcatalog.businesspartner.view.CustomerView.customer.customerId.label=Customer

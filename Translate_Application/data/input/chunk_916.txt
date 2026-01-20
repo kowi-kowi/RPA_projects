@@ -1,0 +1,10 @@
+plugin.grailsflow.label.expectedDuration.days=Days
+plugin.grailsflow.label.expectedDuration.hours=Hours
+plugin.grailsflow.label.expectedDuration.minutes=Minutes
+plugin.grailsflow.label.expectedDuration.validation=Days, hours and minutes should be round numbers, otherwise value '0' will be saved.
+plugin.grailsflow.label.externalSearchObjectView=External search
+plugin.grailsflow.label.externalUrl=External URL
+plugin.grailsflow.label.filterVariable=Filter by variable
+plugin.grailsflow.label.filterVariableValue=value
+plugin.grailsflow.label.finishedBy=Finished By
+plugin.grailsflow.label.finishedFrom=Finished From

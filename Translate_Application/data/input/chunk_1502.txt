@@ -1,0 +1,10 @@
+plugin.procRequisition.label.stdClassificationGroup=Std. Classification Group
+plugin.procRequisition.label.supplier=Supplier
+plugin.procRequisition.label.supplierCheck=Checking Supplier
+plugin.procRequisition.label.tax=Tax
+plugin.procRequisition.label.termsOfDelivery=Terms of Delivery
+plugin.procRequisition.label.termsOfPayment=Terms of Payment
+plugin.procRequisition.label.to=Created to
+plugin.procRequisition.label.totalGrossPrice=Total gross price
+plugin.procRequisition.label.totalNetPrice=Total Price
+plugin.procRequisition.label.totalPrice=Total Price

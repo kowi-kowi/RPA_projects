@@ -1,0 +1,10 @@
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.udxText1.label=Manufacturer
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.udxText2.label=Site Survey Required
+plugin.purchasingProjectEditor.com.jcatalog.participant.BusinessObjectParticipant.businessObjectId.label=Business Object ID
+plugin.purchasingProjectEditor.com.jcatalog.participant.BusinessObjectParticipant.businessObjectType.label=Business Object Type
+plugin.purchasingProjectEditor.com.jcatalog.participant.BusinessObjectParticipant.role.label=Role
+plugin.purchasingProjectEditor.com.jcatalog.participant.BusinessObjectParticipant.userId.label=User ID
+plugin.purchasingProjectEditor.createRfqButton.label=Create RFX
+plugin.purchasingProjectEditor.error.deleteFailed=The object does not exist anymore.
+plugin.purchasingProjectEditor.error.methodNotAllowed=The specified HTTP method is not allowed for the requested resource.
+plugin.purchasingProjectEditor.form.create.header=Create {0}

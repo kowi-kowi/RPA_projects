@@ -1,0 +1,10 @@
+updatePopularityJobParameterSet.jobName.unique=Job name must be unique.
+updatePopularityJobParameterSet.period.min.error=Period must be at least {3} day(s).
+updatePopularityJobParameterSet.period.nullable=Period should be provided.
+userDelegation.scope.CatalogApproval.label=Catalog Approval
+userDelegation.scope.GoodsReceipt.label=Goods Receipt/RMA
+userDelegation.scope.POChangeApproval.label=PO Change Approval
+userDelegation.scope.POConfirmation.label=PO Confirmation
+userDelegation.scope.Replenishment.label=Replenishment
+userDelegation.scope.RequisitionApproval.label=Requisition Approval
+userIdEmpty.com.jcatalog.participant.BusinessObjectParticipant.userId=User is a required field.

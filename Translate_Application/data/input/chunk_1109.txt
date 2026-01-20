@@ -1,0 +1,10 @@
+plugin.opcCommons.message.authorizationFailed=Authorization failed\! You are not allowed to perform this action.
+plugin.opcCommons.message.cannotBeOnBehalfOf=You are not allowed to buy on behalf of requested user with loginName {0}
+plugin.opcCommons.message.changeAssignment=Change Assignment
+plugin.opcCommons.message.classificationGroupNotFoundByClassificationGroupId=Cannot find classification by Classification ID "{0}".
+plugin.opcCommons.message.clssificationGroupIsRequired=Classification Group is required.
+plugin.opcCommons.message.currencyNotFoundByKey=Currency with key "{0}" not found.
+plugin.opcCommons.message.empty.object=Cost object is empty.
+plugin.opcCommons.message.footer=Copyright &copy; 2000 - {0}. OpusCapita Software GmbH.
+plugin.opcCommons.message.indexSessionNotAvailable=<p>Failed to access index.</p><p>It seems that currently index is under maintenance. Please try again later.</p>
+plugin.opcCommons.message.invalidDateFormat="{0}" is not a valid date

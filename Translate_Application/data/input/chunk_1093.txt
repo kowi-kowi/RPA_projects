@@ -1,0 +1,10 @@
+plugin.opcCommonUi.label.onRequest=On request
+plugin.opcCommonUi.label.orderText.pricePuOnRequest=On request
+plugin.opcCommonUi.label.preferredPrice=Preferred price
+plugin.opcCommonUi.label.price.hiddenFromSupplier=Price is hidden from Supplier
+plugin.opcCommonUi.label.pricePu=Price/PU
+plugin.opcCommonUi.label.product=Product
+plugin.opcCommonUi.label.productId=Product ID
+plugin.opcCommonUi.label.productKey=Product Key
+plugin.opcCommonUi.label.readNotificationMessagesConfirmationCheckbox=I read messages
+plugin.opcCommonUi.label.recommentationLevel=Recommendation\:

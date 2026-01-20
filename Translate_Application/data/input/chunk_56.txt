@@ -1,0 +1,10 @@
+PROC.OrderItemEditor.tabs.priceInfo.labels.grossPrice=Gross Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.grossPriceLabel=Gross Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.isDiscounted=Is Discounted
+PROC.OrderItemEditor.tabs.priceInfo.labels.isSurcharge=Is Surcharge
+PROC.OrderItemEditor.tabs.priceInfo.labels.netPrice=Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.netPriceLabel=Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.percentageDiscount=Discount Percentage
+PROC.OrderItemEditor.tabs.priceInfo.labels.quantity=Quantity
+PROC.OrderItemEditor.tabs.priceInfo.labels.surchargeAmount=Surcharge Amount
+PROC.OrderItemEditor.tabs.priceInfo.labels.tax=Tax

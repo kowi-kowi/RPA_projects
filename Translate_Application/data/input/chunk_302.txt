@@ -1,0 +1,10 @@
+cmlConsole.page.cmlSelection=CML selection
+cmlConsole.page.description=Execute CML commands here
+cmlConsole.page.email=Email
+cmlConsole.page.header=CML Console
+cmlConsole.page.title=CML Console
+colonOrSemicolon.com.opuscapita.ociobjectvisibility.OciObjectVisibilityParameter.name=Value cannot contain '\:' or ';' characters
+colonOrSemicolon.com.opuscapita.ociobjectvisibility.OciObjectVisibilityParameter.value=Value cannot contain '\:' or ';' characters
+column.date=Date
+column.name=Name
+column.operations=Operations

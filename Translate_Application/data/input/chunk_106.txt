@@ -1,0 +1,10 @@
+PostingDependencies.label.deleteDependency=Are you sure you want to delete source "{source}" and all dependencies associated with it?
+PostingDependencies.label.deleteDependencyAndAllValues=Are you sure you want to delete dimension pair "{source}" - "{target}" and all values associated with it?
+PostingDependencies.label.deleteSourceValue=Are you sure you want to delete source value "{description}" and all dependent values associated with it?
+PostingDependencies.label.deleteTargetValue=Are you sure you want to delete target value "{description}"?
+PostingDependencies.label.search=Search...
+PostingDependencies.label.sourceDimension=Source dimension
+PostingDependencies.label.sourceValues=Source values
+PostingDependencies.label.targetDimension=Target dimension
+PostingDependencies.label.targetValues=Target values
+PostingDependencies.modal.edit.changes.loose=You will loose your changes. Are you sure?

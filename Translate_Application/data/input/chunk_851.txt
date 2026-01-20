@@ -1,0 +1,10 @@
+plugin.derivedCatalogFilters.message.deletedSelectedSuccess=The selected filters were successfully deleted.
+plugin.derivedCatalogFilters.message.deletedSuccess=Filter {0} was successfully deleted.
+plugin.derivedCatalogFilters.message.manyValues=more than 10 values
+plugin.derivedCatalogFilters.message.runSelectedFail=Only filters with the 'active' status can be run.
+plugin.derivedCatalogFilters.message.saveSuccess=Filter {0} was successfully saved.
+plugin.derivedCatalogFilters.message.validationFailed=Filter {0} cannot be saved. Validation is failed.
+plugin.derivedCatalogFilters.search.attributeValues.label=Attribute Values
+plugin.derivedCatalogFilters.search.classificationGroups.label=Classification Groups
+plugin.derivedCatalogFilters.search.derivedCatalog.label=Derived Catalog
+plugin.derivedCatalogFilters.search.derivedContract.label=Derived Contract

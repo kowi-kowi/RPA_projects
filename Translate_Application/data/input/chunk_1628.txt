@@ -1,0 +1,10 @@
+plugin.salesorder.message.importFile.missed=Please select file for import.
+plugin.salesorder.message.importFormat.error=Incorrect import file format\: Excel and CSV file import is supported.
+plugin.salesorder.message.importFormat.readError=Import file contains bad data.
+plugin.salesorder.message.importResult.addressNotFound=Address with Address ID ''{0}'' was not found.
+plugin.salesorder.message.importResult.canNotConvertToBoolean=Value ''{0}'' in column ''{1}'' cannot be converted to boolean.
+plugin.salesorder.message.importResult.currencyNotFound=Currency with Currency ID ''{0}'' was not found.
+plugin.salesorder.message.importResult.failure=Requisition Import hasn't been successful. For more information please look at the log file.
+plugin.salesorder.message.importResult.inNotValidValue=Value ''{0}'' in column ''{1}'' of ''{2}'' type is not valid.
+plugin.salesorder.message.importResult.orderTypeId.notAvailable=The Order Type with the Order Type ID ''{0}'' is not available.
+plugin.salesorder.message.importResult.propertyRequired={0} is required.

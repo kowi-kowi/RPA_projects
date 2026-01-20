@@ -1,0 +1,10 @@
+plugin.sdpSsmNavigation.menu.customer.editAddress.desc=Enter or edit all address information on this page. This address is used system wide if it has been assigned to a user.
+plugin.sdpSsmNavigation.menu.customer.listProcesses=List Processes
+plugin.sdpSsmNavigation.menu.customer.listProcesses.toolTip=List of all visible processes. Besides of links to detailed information of a process, you can kill single processes here.
+plugin.sdpSsmNavigation.menu.customer.pendingActivations=Pending Activations
+plugin.sdpSsmNavigation.menu.customer.pendingActivations.toolTip=Displays the Pending Activations that require input from the supplier. The available actions will be provided as links.
+plugin.sdpSsmNavigation.menu.customer.productPreview=Product Preview
+plugin.sdpSsmNavigation.menu.customer.productPreview.toolTip=Product Preview
+plugin.sdpSsmNavigation.menu.customer.profile=Profile
+plugin.sdpSsmNavigation.menu.customer.profile.toolTip=If you logged in to the SSM for the first time, please check your personal profile. It contains the information on your address (street, city) and your email address. SSM needs these data to work correctly, otherwise you may experience problems with your files and also your access to the available functions and services. Make sure all required fields are filled with the correct data.
+plugin.sdpSsmNavigation.menu.customer.showWorklist=Show Worklist

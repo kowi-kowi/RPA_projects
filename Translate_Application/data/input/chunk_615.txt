@@ -1,0 +1,10 @@
+message.restore.catalog.workflow.execute.setupCatalog=Setup Catalog\n-------------------\nStarted at      ${now}
+message.restore.catalog.workflow.export.script=Export using script\: ${script}
+message.restore.catalog.workflow.finish.actionErrorMessage=ErrorMessage\: ${errorMessage}
+message.restore.catalog.workflow.finish.error=Workflow completed with errors at ${now}.
+message.restore.catalog.workflow.finish.exception=Workflow completed with the exception at ${now}.
+message.restore.catalog.workflow.finish.success=Workflow completed successfully at ${now}.
+message.restore.catalog.workflow.start=*******************\nCatalog Restoring Process\n*******************\n\nIdentification\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nProcess ID               ${processId}\nCatalog ID               ${catalogId}\nStarted at               ${now}\nby                       ${startedBy}\n\nDetails\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nSupplier ID              ${supplierId}\nCustomer ID              ${customerId}\nBase Version             ${baseVersion}\n\n\nProcess Steps\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+message.restore.catalog.workflow.vars.exportFileName=Exported File Name\: ${exportFileName}
+message.result.size={0} entries found.
+message.soapui.waiting=Please, wait...

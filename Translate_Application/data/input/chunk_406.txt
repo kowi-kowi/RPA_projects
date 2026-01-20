@@ -1,0 +1,10 @@
+com.jcatalog.system.QueryToolCommand.query.nullable="Query" is required field
+com.jcatalog.termsofbusiness.GormTermsOfDelivery.header=Search for Terms Of Delivery
+com.jcatalog.termsofbusiness.GormTermsOfDelivery.id.label=Terms Of Delivery ID
+com.jcatalog.termsofbusiness.GormTermsOfDelivery.longDescription.label=Long Description
+com.jcatalog.termsofbusiness.GormTermsOfPayment.header=Search for Terms Of Payment
+com.jcatalog.termsofbusiness.GormTermsOfPayment.id.label=Terms Of Payment ID
+com.jcatalog.termsofbusiness.GormTermsOfPayment.longDescription.label=Long Description
+com.jcatalog.termsofbusiness.TermsOfDelivery.header=Search for Terms Of Delivery
+com.jcatalog.termsofbusiness.TermsOfDelivery.key.label=Terms Of Delivery ID
+com.jcatalog.termsofbusiness.TermsOfDelivery.longDescription.label=Long Description

@@ -1,0 +1,10 @@
+plugin.masterDataImportExportJobs.logFile.label=Log file
+plugin.masterDataImportExportJobs.mode.label=Update Type
+plugin.masterDataImportExportJobs.mode.label.delete=delete
+plugin.masterDataImportExportJobs.mode.label.delete-insert=delete-insert
+plugin.masterDataImportExportJobs.mode.label.insert=insert
+plugin.masterDataImportExportJobs.mode.label.insert-unique=insert-unique
+plugin.masterDataImportExportJobs.mode.label.insert-update=insert-update
+plugin.masterDataImportExportJobs.mode.label.replace=replace
+plugin.masterDataImportExportJobs.mode.label.replace-customer=replace-customer
+plugin.masterDataImportExportJobs.mode.label.update=update

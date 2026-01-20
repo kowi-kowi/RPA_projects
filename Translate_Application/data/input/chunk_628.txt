@@ -1,0 +1,10 @@
+nullable.toDate=The "to" date value cannot be empty.
+objectAlreadyExists.message={0} {1}
+objectCreationError.message={0} ({1} relation) has not been created due to permission limitations
+objectWasCreated.message={0} {1}
+ofm.directoryAlreadyExists=Folder already exists
+ofm.fileAlreadyExists=File already exists
+ofm.fileDoesNotExists=File does not exists
+ofm.invalidCall=Invalid call
+ofm.invalidFile=Invalid file
+ofm.invalidFileType=Invalid file type

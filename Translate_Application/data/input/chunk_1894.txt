@@ -1,0 +1,10 @@
+ssm.emailtemplates.workflows.processFailed.message.summary=An error occurred during the publishing process at {0}. The affected catalog is ''{1}''.
+ssm.emailtemplates.workflows.processFailed.message.summary.attachments=For further information please look at the attached log file.
+ssm.emailtemplates.workflows.processFailed.message.summary.links=Attachments size is too big for sending by email. Please find the files at
+ssm.emailtemplates.workflows.processFailed.title=Error Occurred
+ssm.emailtemplates.workflows.processFailedByException.message.summary=An error occurred during the publishing process at {0}.<br/>Error message\: {1}
+ssm.emailtemplates.workflows.processFailedByException.message.summary.attachments=For further information please look at the attached log file.
+ssm.emailtemplates.workflows.processFailedByException.message.summary.details=The affected catalog is <i>{0}</i>.
+ssm.emailtemplates.workflows.processFailedByException.message.summary.links=Attachments size is too big for sending by email. Please find the files at
+ssm.emailtemplates.workflows.processFailedByException.title=Error Occurred
+ssm.emailtemplates.workflows.rejected.message.comment=Comment of the customer

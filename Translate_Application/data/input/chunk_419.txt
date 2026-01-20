@@ -1,0 +1,10 @@
+contractCompliance.header.contractedDiscount=Contracted Discount
+contractCompliance.header.deltaInPercent=Delta in %
+contractCompliance.header.newPrice=New Price
+contractCompliance.header.notContractedClassificationGroups=The following NOT CONTRACTED classification groups are referenced in the catalog
+contractCompliance.header.numberOfProducts=Number of Products
+contractCompliance.header.oldPrice=Old Price
+contractCompliance.header.productDescription=Description
+contractCompliance.header.productId=Product ID
+contractCompliance.header.productsViolatingContractedValues=Products violating contracted values
+contractCompliance.label.contract=Contract\:

@@ -1,0 +1,10 @@
+plugin.platformCore.security.sign.up.button=Sign up
+plugin.platformCore.test.message=This is a test message from i18n
+plugin.postingEditors.com.jcatalog.posting.internal.CatalogUser2PostingDimValue.label=Catalog User to Posting Dimension Value
+plugin.postingEditors.com.jcatalog.posting.internal.CatalogUser2PostingDimValue.loginName.label=User
+plugin.postingEditors.com.jcatalog.posting.internal.CatalogUser2PostingDimValue.postingDimensionValue.label=Posting Dimension Value
+plugin.postingEditors.com.jcatalog.posting.internal.PostingAccountingRule.classificationGroupId.label=Classification Group
+plugin.postingEditors.com.jcatalog.posting.internal.PostingAccountingRule.classificationId.label=Classification
+plugin.postingEditors.com.jcatalog.posting.internal.PostingAccountingRule.currencyId.label=Currency
+plugin.postingEditors.com.jcatalog.posting.internal.PostingAccountingRule.customerId.label=Customer
+plugin.postingEditors.com.jcatalog.posting.internal.PostingAccountingRule.fromItemValue.label=From Item Value

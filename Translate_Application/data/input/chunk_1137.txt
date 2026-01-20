@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.label.owner=Owner
+plugin.opcDraftRequisition.label.releaseDraftRequisition=Share Draft Requisition
+plugin.opcDraftRequisition.label.selectContract=Select Contract
+plugin.opcDraftRequisition.label.selectDraftRequisition=Select Draft Requisition
+plugin.opcDraftRequisition.label.title.customerForShare=Share Personal Draft Requisition
+plugin.opcDraftRequisition.label.user=User
+plugin.opcDraftRequisition.label.userRole=User Role
+plugin.opcDraftRequisition.label.visibility=Visibility
+plugin.opcDraftRequisition.label.workLocation=Work Location
+plugin.opcDraftRequisition.mapping.error.findChildAttribute=The ''{0}'' attribute of child item cannot be found.

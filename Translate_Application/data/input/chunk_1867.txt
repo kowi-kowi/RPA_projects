@@ -1,0 +1,10 @@
+scheduling.params.message.calendar=This job will run every {0} {1}. The start time is {2}, {3}.
+scheduling.params.message.cron=This job will run according to cron expression ''{0}''. The start time is {1}, {2}.
+scheduling.params.message.custom=This job will run every {0} milliseconds. The start time is {1}, {2}.
+scheduling.params.message.daily=This job will run every {0} days. The start time is {1}, {2}.
+scheduling.params.message.endTime=The end time is {0}, {1}.
+scheduling.params.message.handleDaylightSavingsTime=Handle daylight savings time.
+scheduling.params.message.minutely=This job will run every {0} minutes. The start time is {1}, {2}.
+scheduling.params.message.monthly=This job will run on the {0} days of a month, every {1} months. The start time is {2}, {3}.
+scheduling.params.message.never=Never stop.
+scheduling.params.message.once=This job will run once at {0}, {1}.

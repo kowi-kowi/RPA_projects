@@ -1,0 +1,10 @@
+plugin.procEditors.workflowConfigurator.soCreatedBy.label=Requisition Created By
+plugin.procEditors.workflowConfigurator.validation.error.message=Error occured when saving the configuration.
+plugin.procEditors.workflowConfigurator.validation.error.noAuthority.message=Authority must be defined.
+plugin.procEditors.workflowConfigurator.validation.error.severalSuppliers=The approval chain cannot be defined as the requisition contains different suppliers.
+plugin.procEditors.workflowConfigurator.validation.success.message=Configuration was successfully saved.
+plugin.procEditors.workflowConfigurator.validation.warning.currencyAmount.message=There is no sense to define Limit Amount without Currency and vice versa.
+plugin.procEditors.workflowConfigurator.workflowType.label=Workflow Type
+plugin.procExportSupport.validator.notValidEmailAddresses=Email address you entered is not valid
+plugin.procModeNavigation.label.buyOnBehalfOf=Buying on behalf of
+plugin.procModeNavigation.menu.administration.activeUsers=Active Users

@@ -1,0 +1,10 @@
+masterDataImportCommand.filePath.nullable=Value is required
+masterDataImportCommand.format.blank=Value is required
+masterDataImportCommand.format.nullable=Value is required
+masterDataImportCommand.formatOptionsAsJson.additionalFields.nullable=Value is required (additionalFields)
+masterDataImportCommand.formatOptionsAsJson.customerId.nullable=Value is required (customerId)
+masterDataImportCommand.formatOptionsAsJson.responsibilityLevel.nullable=Value is required (responsibilityLevel)
+masterDataImportCommand.formatOptionsAsJson.responsibilityType.nullable=Value is required (responsibilityType)
+masterDataImportCommand.jobName.matches.error=Your entry contains illegal characters. Please correct your entry. Allowed are\: characters, numbers, underscores and hyphens.
+masterDataImportCommand.jobName.validator.jobName.exists=Value must be unique
+max.exceeded=Field value ''{2}'' is more than maximum value ''{3}''.

@@ -1,0 +1,10 @@
+plugin.budget.message.booked={0} {1} was booked on {2} {3}
+plugin.budget.message.cancelled={0} {1} was refunded on {2} {3}
+plugin.budget.message.confirm.delete=Do you really want to delete this entry?
+plugin.budget.message.confirm.deleteSelected=Do you really want to delete the selected items?
+plugin.budget.message.created={0} was created
+plugin.budget.message.delete.budgetPosting.exists=Posting items are already available for this budget. Do you want to delete it anyway?
+plugin.budget.message.deleted={0} was deleted
+plugin.budget.message.edit.budgetPosting.exists=Posting items are already available for this budget. Do you want to edit it anyway?
+plugin.budget.message.failed=Operation on budget was not performed
+plugin.budget.message.not.deleted={0} could not be deleted

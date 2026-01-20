@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.RequisitionDefaults.limitAmount.min.error=Limit Amount must be a positive number.
+com.jcatalog.salesorder.SalesOrder.totalGrossPrice.max.error.totalGrossPrice=The total Gross Price exceeds the maximum allowed value of {3}.
+com.jcatalog.salesorder.SalesOrder.totalNetPrice.max.error.totalNetPrice=The total Net Price exceeds the maximum allowed value of {3}.
+com.jcatalog.salesorder.SalesOrderItem.leadTimeInDays.min.error=Lead Time in Days cannot be less than the minimum value ''{3}''.
+com.jcatalog.salesorder.SalesOrderItem.previewUrl.maxSize.error=Preview URL must be not more than 255 characters.
+com.jcatalog.salesorder.SalesOrderItem.priceUnit.min.error=Price Unit cannot be less than the minimum value ''{3}''.
+com.jcatalog.salesorder.SalesOrderItem.productDescLong.maxSize.error=The value of Long Description may not be longer than {3} characters.
+com.jcatalog.salesorder.SalesOrderItem.taxAmount.min.error=Tax Amount cannot be less than the minimum value ''{3}''.
+com.jcatalog.salesorder.SalesOrderItem.totalGrossPrice.max.error.totalGrossPrice=The total Gross Price of the item exceeds the maximum allowed value of {3}.
+com.jcatalog.salesorder.SalesOrderItem.totalNetPrice.max.error.totalNetPrice=The total Net Price of the item exceeds the maximum allowed value of {3}.

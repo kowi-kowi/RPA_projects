@@ -1,0 +1,10 @@
+plugin.dbQueryTool.title.queryTool.desc=Executes a set of arbitrary SQL statements. Note\: comments (--) in SQL statements are not supported.
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.commentary.label=Commentary
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.customerId.label=Customer
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.delegate.label=Stand-in
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.interval.label=Interval
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.label=Delegation
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.scope.label=Scope
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.substitutedFrom.label=From
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.substitutedTo.label=To
+plugin.delegationEditor.com.jcatalog.delegation.GormDelegation.unavailablePerson.label=Unavailable User

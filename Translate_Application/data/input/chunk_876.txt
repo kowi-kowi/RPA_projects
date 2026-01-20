@@ -1,0 +1,10 @@
+plugin.enversUi.label.revision=Revision
+plugin.enversUi.label.versions=Versions
+plugin.eprocBookmarks.editor.head.title=Bookmarks Editor
+plugin.eprocBookmarks.headerMenu.notAvailable=The bookmarks cannot be loaded.
+plugin.eprocBookmarks.headerMenu.totalMenuItem=Bookmarks Editor
+plugin.eprocBookmarks.modal.addBookmark.button.add=Add
+plugin.eprocBookmarks.modal.addBookmark.field.name=Description
+plugin.eprocBookmarks.modal.addBookmark.field.uri=URL
+plugin.eprocBookmarks.modal.addBookmark.label.header=Adding a Bookmark
+plugin.eprocBookmarks.modal.editBookmark.button.edit=Save

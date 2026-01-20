@@ -1,0 +1,10 @@
+plugin.simpleQuestionnaire.com.jcatalog.businesspartner.GormCustomer=Customer
+plugin.simpleQuestionnaire.com.jcatalog.businesspartner.GormSupplier=Supplier
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.changedBy.label=Changed By
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.changedOn.label=Changed On
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.createdBy.label=Created By
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.createdOn.label=Created On
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.description.label=Description
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.id.label=Questionnaire ID
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.Questionnaire.label=Questionnaire
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.RatableQuestion.attribute.label=Question

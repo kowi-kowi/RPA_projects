@@ -1,0 +1,10 @@
+jasperReports.CostObjectReport.productDescShort.label=Product Description
+jasperReports.CostObjectReport.productId.label=Material No
+jasperReports.CostObjectReport.purchaseOrderId.label=Purchase Order ID
+jasperReports.CostObjectReport.quantity.label=Quantity
+jasperReports.CostObjectReport.report.name=Cost Object Report
+jasperReports.CostObjectReport.reportingPeriod.label=Reporting period
+jasperReports.CostObjectReport.responsiblePerson.label=Responsible Person
+jasperReports.CostObjectReport.resultEmail=Email for sending the report
+jasperReports.CostObjectReport.salesOrderId.label=Requisition ID
+jasperReports.CostObjectReport.salesOrderName.label=Requisition Name

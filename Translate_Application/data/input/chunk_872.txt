@@ -1,0 +1,10 @@
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.supplierId.label=Supplier
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.userId.label=Value
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.workLocation.label=Value
+plugin.entitlementEditor.entitlements.label=Entitlements
+plugin.entitlementEditor.error.entitlement.duplicate=Duplicate Entitlement
+plugin.entitlementEditor.error.entitlement.empty=Entitlement cannot be empty. Please, fill in at least one of the properties in the Entitlements section.
+plugin.entitlementEditor.error.report.countryUserIdContracts=Neither Country nor User Entitlement found
+plugin.entitlementEditor.error.report.purchaseTypeContracts=No Purchase Type defined
+plugin.entitlementEditor.error.report.purchaseTypeCountryUserIdContracts=No Purchase Type and neither Country nor User Entitlement found
+plugin.entitlementEditor.find.entriesNumber={0} items found.

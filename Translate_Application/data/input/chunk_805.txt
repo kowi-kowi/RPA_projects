@@ -1,0 +1,10 @@
+plugin.crudEditor.export.format.cml2Extended=CML 2 Extended
+plugin.crudEditor.export.format.csv=CSV
+plugin.crudEditor.export.format.excel=EXCEL
+plugin.crudEditor.export.format.rtf=RTF
+plugin.crudEditor.message.ajax.loading=Please wait...
+plugin.crudEditor.noAssociationEntriesFound.message=No entries found. You can {1} a new entry.
+plugin.crudEditor.noItemsSelected.alert=Items are not selected\!
+plugin.crudEditor.objectDeleteFailed.message=Failed to delete object, perhaps it is already in use.
+plugin.crudEditor.objectDeleted.message=Object deleted.
+plugin.crudEditor.objectDuplicated.message=Object is copied.

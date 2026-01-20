@@ -1,0 +1,10 @@
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.changedBy.label=Changed By
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.changedOn.label=Changed On
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.classificationGroupId.label=Classification Group
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.classificationId.label=Classification
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.contractCategoryId.label=Contract Category
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.contractId.label=Contract
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.currency.label=Currency
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.customerId.label=Customer
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.customerId.tooltip=The customer, for whom the responsibility is created.
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.exclude.label=Deny

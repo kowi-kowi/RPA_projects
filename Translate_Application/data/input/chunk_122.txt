@@ -1,0 +1,10 @@
+RFQ.rfx.action.close=Close
+RFQ.rfx.action.confirmation.close=Do you really want to close this RFX?
+RFQ.rfx.action.confirmation.delete=Do you really want to delete this RFX?
+RFQ.rfx.action.confirmation.editScheduledForSubmit=Your request {id} will now be moved to the 'open' status. It is scheduled to start on {date}. After you finish editing, click the 'Release' button and move the request to the 'scheduled for submit' status before this date. Otherwise your request will not be sent to the suppliers. Do you want to proceed?
+RFQ.rfx.action.confirmation.editSubmitted=In case the suppliers have already provided their responses, these responses will be deleted. Do you want to proceed?
+RFQ.rfx.action.confirmation.pause=When an RFX is paused, the participating suppliers will be notified that quotes cannot be submitted at this time. Do you want to proceed?
+RFQ.rfx.action.confirmation.resume=When an RFX is resumed, the participating suppliers will be notified that responses can now be submitted. Please ensure your Expiration Date has not passed. Do you want to proceed?
+RFQ.rfx.action.delete=Delete
+RFQ.rfx.action.duplicate=Duplicate
+RFQ.rfx.action.edit=Edit

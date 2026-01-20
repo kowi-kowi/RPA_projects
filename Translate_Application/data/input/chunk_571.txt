@@ -1,0 +1,10 @@
+menu.documents.supplierRequisition.label.customerId=Customer ID
+menu.documents.supplierRequisition.someError=Please, contact your administrator.
+menu.emailConnectorEditor=Email Connectors
+menu.entitlement=Entitlements
+menu.entitlementType=Entitlement Types
+menu.exchangeRate=Conversion Rates
+menu.expressCatalogContract=Express Catalog/Contract Creation
+menu.fieldLevelSecurityEditor=Field Level Security
+menu.files=Files
+menu.header.tab.approve=Approve

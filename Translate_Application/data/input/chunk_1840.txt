@@ -1,0 +1,10 @@
+scheduling.RepublishCatalogJob.productCatalogId.label=Catalog ID
+scheduling.RepublishCatalogJob.productReview.hint=Check this flag if you want to do Product Review during republishing.
+scheduling.RepublishCatalogJob.productReview.label=Product Review
+scheduling.RepublishCatalogJob.republishedCustomerId.label=Customer ID
+scheduling.RepublishCatalogJob.republishedSupplierId.label=Supplier ID
+scheduling.RepublishCatalogJob.success.message=Republishing of catalog {0} has been finished successfully.
+scheduling.RepublishCatalogJob.success.title=Catalog Republishing completed successfully
+scheduling.RestoreCatalogJob.baseVersion.blank=Base Versions is a required field
+scheduling.RestoreCatalogJob.baseVersion.label=Base Version
+scheduling.RestoreCatalogJob.baseVersion.nullable=Base Version is a required field

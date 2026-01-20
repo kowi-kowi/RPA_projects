@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.contractId=Contract
+SSM.productEditor.grid.columns.cost=Cost
+SSM.productEditor.grid.columns.currencyId=Currency
+SSM.productEditor.grid.columns.customerId=Customer
+SSM.productEditor.grid.columns.defaultValue=Default Value
+SSM.productEditor.grid.columns.delete=Delete
+SSM.productEditor.grid.columns.descLong=Long Description
+SSM.productEditor.grid.columns.descShort=Short Description
+SSM.productEditor.grid.columns.description=Description
+SSM.productEditor.grid.columns.discount=Discount, %

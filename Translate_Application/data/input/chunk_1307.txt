@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.action.order=Order
+plugin.opcShoppingCart.action.orderText=Order Text
+plugin.opcShoppingCart.action.orderText.allItems=Order Text for all positions
+plugin.opcShoppingCart.action.postingDetails=Posting Details
+plugin.opcShoppingCart.action.punchoutDetails=Punchout Details
+plugin.opcShoppingCart.action.punchoutValidate=Punchout Validate
+plugin.opcShoppingCart.action.purchaseOrder.addItems=Add to Purchase Order
+plugin.opcShoppingCart.action.recipient=Recipient
+plugin.opcShoppingCart.action.rfq=Create RfQ
+plugin.opcShoppingCart.action.rfq.addItems=Add to RFX

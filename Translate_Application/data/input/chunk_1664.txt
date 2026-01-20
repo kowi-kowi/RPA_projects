@@ -1,0 +1,10 @@
+plugin.ssmCore.message.customer.notAssignedToCatalog=Customer "{0}" is not assigned to Catalog "{1}".
+plugin.ssmCore.message.customer.notAssignedToContract=Customer "{0}" is not assigned to Contract "{1}".
+plugin.ssmCore.message.customer.notAssignedToSupplier=Customer "{0}" is not assigned to supplier "{1}".
+plugin.ssmCore.message.customer.notExists=Customer {0} doesn't exist.
+plugin.ssmCore.message.customer.required=Customer is a required field, please fill it.
+plugin.ssmCore.message.supplier.invalidCharacterCase=Supplier ID is case sensitive. Use "{1}" instead of "{0}".
+plugin.ssmCore.message.supplier.notAssignedToCatalog=Supplier "{0}" is not assigned to Catalog "{1}".
+plugin.ssmCore.message.supplier.notAssignedToContract=Supplier "{0}" is not assigned to Contract "{1}".
+plugin.ssmCore.message.supplier.notExists=Supplier {0} doesn't exist.
+plugin.ssmCore.message.supplier.required=Supplier is a required field.

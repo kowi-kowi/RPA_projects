@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.action.close=Close
+plugin.opcProductSuggestion.action.reset=Reset
+plugin.opcProductSuggestion.action.search=Search
+plugin.opcProductSuggestion.action.sendToSupplier=Send
+plugin.opcProductSuggestion.command.attachments.uploadFile=Upload Attachment
+plugin.opcProductSuggestion.description.productSuggestion=Fill out this form to request or suggest a product to the supplier and the catalog team. <br/> The new product can be for your own purposes only or can be included as a standard product into the catalog.
+plugin.opcProductSuggestion.description.searchSuggestion=Search for products created by suppliers on user's requests. If nothing found, please, create request for a new product.
+plugin.opcProductSuggestion.error.attachment.fileSavingError=Error during saving uploaded file
+plugin.opcProductSuggestion.error.attachment.files.totalSizeTooBig=File cannot be attached because total size of attachments will exceed limit of 5 MB.
+plugin.opcProductSuggestion.error.classificationGroup.required=Classification Group ID is a required field. Please enter an appropriate value.

@@ -1,0 +1,10 @@
+plugin.grailsflow.label.scheduler.resume=Resume Scheduler
+plugin.grailsflow.label.schedulerDetails=Scheduler Details
+plugin.grailsflow.label.schedulerDetails.desc=This page shows you the properties of the internal scheduler, as well as the scheduled jobs and their triggers.
+plugin.grailsflow.label.schedulerInfo=Scheduler Info
+plugin.grailsflow.label.schedulerStatus=Scheduler Status
+plugin.grailsflow.label.schedulerStatus.desc=In this section you can pause/resume scheduler. By pressing "Resume Scheduler" you will trigger one execution for each job for all possible missed scheduled launchings.
+plugin.grailsflow.label.schedulingDetails=Scheduling Details
+plugin.grailsflow.label.search=Search
+plugin.grailsflow.label.searchUrl=Search URL
+plugin.grailsflow.label.selectBoxView=Selectbox

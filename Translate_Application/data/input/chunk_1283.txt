@@ -1,0 +1,10 @@
+plugin.opcSearch.label.parametersInfo.textQuery=for <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.withAllTheWords=with all the words <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.withoutWords=without the words <b>{0}</b>
+plugin.opcSearch.label.perPage=Per Page\:
+plugin.opcSearch.label.priceFilter.from=from
+plugin.opcSearch.label.priceFilter.to=to
+plugin.opcSearch.label.productId=Product ID
+plugin.opcSearch.label.punchoutHint=Products of this supplier will be added to your cart after selecting them in the external supplier web shop.
+plugin.opcSearch.label.readingConfirmation=Confirmation of reading\: I confirm that I read the above listed messages.
+plugin.opcSearch.label.relatedProducts=Related Products

@@ -1,0 +1,10 @@
+PROC.OrderItemEditor.tabs.productInfo.labels.manufacturerName=Manufacturer Name
+PROC.OrderItemEditor.tabs.productInfo.labels.mfgProductId=Manufacturer Product ID
+PROC.OrderItemEditor.tabs.productInfo.labels.productDescLong=Long Description
+PROC.OrderItemEditor.tabs.productInfo.labels.productDescShort=Short Description
+PROC.OrderItemEditor.tabs.productInfo.labels.productId=Product ID
+PROC.OrderItemEditor.tabs.productInfo.labels.stdProductClassificationGrpName=Classification Group
+PROC.OrderItemEditor.tabs.productInfo.labels.supplierId=Supplier
+PROC.OrderItemEditor.tabs.recipientInfo.labels.building=Building
+PROC.OrderItemEditor.tabs.recipientInfo.labels.department=Department
+PROC.OrderItemEditor.tabs.recipientInfo.labels.email=Email

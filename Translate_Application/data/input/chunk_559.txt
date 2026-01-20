@@ -1,0 +1,10 @@
+log.message.CleanupBackupJob.version.deleting=Deleting Catalog Version...
+log.message.CleanupBackupJob.version.end=Version processing is completed. Execution time\: {0}\n---------------------------------------------------------------------------------
+log.message.CleanupBackupJob.version.failed=The catalog version was not cleaned. Neither zip archive nor Catalog Version and Catalog Quality were deleted.
+log.message.CleanupBackupJob.version.failure=Catalog version was not cleaned.
+log.message.CleanupBackupJob.version.file.doesNot.exist=Zip archive was not found by relative path {0}
+log.message.CleanupBackupJob.version.file.exists=Zip archive was found by relative path {0}
+log.message.CleanupBackupJob.version.info=Zip archive was not found by relative path {0}. Getting info about the catalog version.
+log.message.CleanupBackupJob.version.info.processed.for=The version was processed for ''{0}'' Supplier(s), ''{1}'' Customer(s) within ''{2}'' processes. Checking suppliers' directories.
+log.message.CleanupBackupJob.version.no.info=No info about the catalog version found.
+log.message.CleanupBackupJob.version.success=The catalog version was successfully cleaned.

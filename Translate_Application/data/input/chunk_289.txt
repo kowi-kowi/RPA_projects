@@ -1,0 +1,10 @@
+catalogStatistics.label.itemsWithSpecialTreatmentClass.withBrake=Hazardous<br/>items
+catalogStatistics.label.itemsWithUNSPSCAssignment=Products assigned to "UNSPSC"
+catalogStatistics.label.itemsWithUNSPSCAssignment.withBrake=Products assigned<br/>to "UNSPSC"
+catalogStatistics.label.itemsWithUnambiguousProductId=Product ID is unique
+catalogStatistics.label.itemsWithUnambiguousShortDesc=Short description is unambiguous
+catalogStatistics.label.itemsWithUoM=Sales UoM
+catalogStatistics.label.itemsWithUoM.withBrake=Sales UoM
+catalogStatistics.label.mappingSteps=Mapping Steps
+catalogStatistics.label.modified.price=Modified
+catalogStatistics.label.modified.product=Modified

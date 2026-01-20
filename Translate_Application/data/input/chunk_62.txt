@@ -1,0 +1,10 @@
+PROC.PostingBulkOperationsEditor.labels.applyToSurcharges=Apply to all surcharges
+PROC.PostingBulkOperationsEditor.labels.tabs.replace=Replace
+PROC.PostingBulkOperationsEditor.labels.tabs.replaceWithoutGLAccount=Replace without GL Account
+PROC.PostingBulkOperationsEditor.labels.tabs.update=Update
+PROC.PostingBulkOperationsEditor.messages.bulkReplaceHint=Current Posting data will be completely replaced with the Posting data you enter on this tab. The changes will be applied to the selected items.
+PROC.PostingBulkOperationsEditor.messages.bulkUpdateHint=Be aware that the current Posting Dimension values will be updated with the data you enter on this tab. The changes will be applied to the selected items.
+PROC.PostingDimensionValueInput.customer=Customer
+PROC.PostingDimensionValueInput.descShort=Short Description
+PROC.PostingDimensionValueInput.dialogTitle=Posting Dimension Value Search
+PROC.PostingDimensionValueInput.label=Label

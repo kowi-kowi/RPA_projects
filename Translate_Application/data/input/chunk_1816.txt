@@ -1,0 +1,10 @@
+rfx.item.uom=UoM
+rfx.itemId=Item ID
+rfx.items=Requested Items
+rfx.items.requestedPrice=Requested Price
+rfx.priceUnit=Price Unit
+rfx.unitPrice=Unit Price
+roleEmpty.com.jcatalog.participant.BusinessObjectParticipant.role=Participant Role is a required field.
+salesOrder.LimitOrderValidityPeriod.invalidRange=The validity period is invalid.
+salesOrder.receivedOn.empty=The Receipt Date is required, in case the Already Received check box is selected.
+salesOrder.receivedOn.invalidRange=The Receipt Date is invalid.

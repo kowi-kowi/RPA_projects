@@ -1,0 +1,10 @@
+plugin.grailsflow.message.nodeAuthorities.invalid=The current user cannot send event to the node.
+plugin.grailsflow.message.nodeID.duplicated=The Process Node with the same Node ID already exists.
+plugin.grailsflow.message.nodeID.invalid=The Node ID is not valid. Please check it.
+plugin.grailsflow.message.nodeID.required=The Node ID is a required value.
+plugin.grailsflow.message.notSuitableValue=Otherwise variable will be saved without value.
+plugin.grailsflow.message.notSupported=The operation is not supported.
+plugin.grailsflow.message.parameters.invalid=invalid request parameters
+plugin.grailsflow.message.params.empty=Incoming parameters are empty.
+plugin.grailsflow.message.params.expired=Incoming parameters expired.
+plugin.grailsflow.message.precondition.failed=412 Precondition Failed.

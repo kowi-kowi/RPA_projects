@@ -1,0 +1,10 @@
+Excel.product-ean=GTIN/EAN
+Excel.product-extProductId=External Product ID
+Excel.product-isConfigurable=Configurable
+Excel.product-isForSales=For Sales
+Excel.product-isMainProdLine=Main Product Line
+Excel.product-isPunchout=Punchout
+Excel.product-isSpecialOffer=Special Offer
+Excel.product-isStocked=Stocked
+Excel.product-keywords=Keywords
+Excel.product-manufacturerName=Manufacturer Name

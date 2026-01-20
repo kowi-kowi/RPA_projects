@@ -1,0 +1,10 @@
+com.jcatalog.classification.attribute.GormAttribute.description.label=Description
+com.jcatalog.classification.attribute.GormAttribute.header=Search for Attributes
+com.jcatalog.classification.attribute.GormAttribute.id.label=Attribute ID
+com.jcatalog.classification.attribute.GormAttribute.id.matches.invalid=In "Attribute ID" only alphabetical, numerical, ''_'', ''-'' and ''.'' symbols are allowed.
+com.jcatalog.classification.attribute.GormAttribute.type.label=Type
+com.jcatalog.classification.attribute.GormAttributeSection.attributeSectionId.label=Attribute Section ID
+com.jcatalog.classification.attribute.GormAttributeSection.header=Search for Attribute Sections
+com.jcatalog.classification.attribute.GormAttributeSection.name.label=Name
+com.jcatalog.classification.attribute.GormAttributeValueOption.value.validator.error=Incorrect option value according to Attribute type.
+com.jcatalog.classification.mapping.ClassGrpMapping.customer.customerId.label=Customer ID

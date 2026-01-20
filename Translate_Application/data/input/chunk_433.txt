@@ -1,0 +1,10 @@
+default.boolean.true=True
+default.button.create.label=Create
+default.button.delete.confirm.message=Are you sure?
+default.button.delete.label=Delete
+default.button.edit.label=Edit
+default.button.update.label=Update
+default.create.label=Create {0}
+default.created.message={0} {1} created
+default.deleted.message={0} {1} deleted
+default.doesnt.match.message=Value does not match the required pattern ''{3}''

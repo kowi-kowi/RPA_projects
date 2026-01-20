@@ -1,0 +1,10 @@
+scheduling.procurementDocs2SuppliersJob.label.poId=PO ID
+scheduling.procurementDocs2SuppliersJob.label.pos=Purchase Orders
+scheduling.procurementDocs2SuppliersJob.label.radio.all=All POs
+scheduling.procurementDocs2SuppliersJob.label.radio.notTransferred=POs that have not been transferred
+scheduling.procurementDocs2SuppliersJob.label.radio.previous=POs from previous job
+scheduling.procurementDocs2SuppliersJob.label.radio.single=Single PO
+scheduling.procurementDocs2SuppliersJob.label.sendProtocol=Send protocol to
+scheduling.procurementDocs2SuppliersJob.label.transferOrderCancelation=Transfer canceled Purchase Orders
+scheduling.procurementDocs2SuppliersJob.label.transferPurchaseOrderChanges=Transfer changed Purchase Orders
+scheduling.procurementDocs2SuppliersJob.label.transferPurchaseOrders=Transfer Purchase Orders

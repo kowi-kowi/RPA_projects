@@ -1,0 +1,10 @@
+message.customer.workflow.validation.errors=Validation completed with errors.
+message.customer.workflow.validation.warnings=Validation performed with warnings.
+message.customer.workflow.validationResults.errors=Errors occurred during the validation steps.
+message.customer.workflow.validationResults.fail=Errors occurred during the validation steps.
+message.customer.workflow.validationResults.warnings=Warnings occurred during the validation steps.
+message.customer.workflow.vars.exportFileName=File Name\: ${exportFileName}
+message.datetime=Date/time\:        {0,date,MM/dd/yyyy} {0,time,h\:mm\:ss a}
+message.derived.catalog.workflow.derivedCatalog.notFound=Derived catalogs were not found\n-------------------\nStarted at      ${now}
+message.derived.catalog.workflow.execute.getDerivedCatalogs=Get derived catalogs\n-------------------\nStarted at      ${now}
+message.derived.catalog.workflow.execute.ok=Finished at     ${now}

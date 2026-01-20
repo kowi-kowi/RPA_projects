@@ -1,0 +1,10 @@
+plugin.deliveryNote.serviceEntries.error.empty.comment=The service entry sheet cannot be rejected without comment.
+plugin.deliveryNote.serviceEntries.error.noItems=Service Entry Sheet should contain at least one item.
+plugin.deliveryNote.serviceEntries.error.overbookingMessage=You are overbooking the PO. As customer does not accept overbookings, you cannot release your SES. Please, correct your entries or contact customer for the further clarification.
+plugin.deliveryNote.serviceEntries.error.purchaseOrder.notAService=The Purchase Order ''{0}'' must be a service oder.
+plugin.deliveryNote.serviceEntries.error.purchaseOrder.notFound=The Purchase Order ''{0}'' was not found.
+plugin.deliveryNote.serviceEntries.error.zeroQuantity=The quantity can be zero, if the position is marked as final reporting.
+plugin.deliveryNote.serviceEntries.history.action=Action
+plugin.deliveryNote.serviceEntries.history.assignee=Assignee
+plugin.deliveryNote.serviceEntries.history.changedBy=Changed by
+plugin.deliveryNote.serviceEntries.history.changedOn=Changed on

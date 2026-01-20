@@ -1,0 +1,10 @@
+plugin.opcCostDistribution.message.defaultCostObjectSelection.title=Cost Objects list
+plugin.opcCostDistribution.message.delivery.confirmCopyDeliveryInfo=Do you really want to overwrite the delivery address in all positions?
+plugin.opcCostDistribution.message.distribution.defined=Distribution for this object already defined.
+plugin.opcCostDistribution.message.distribution.reset=All Cost Distributions on position level will be reset to the header Cost Distribution. Continue?
+plugin.opcCostDistribution.message.emptyCostObject=Please specify a Cost Object in each row.
+plugin.opcCostDistribution.message.nonPositive=Percentage for one of the positions is not valid (equal to 0%).
+plugin.opcCostDistribution.message.notValidCostObject=Cost Object {0} with type {1} is not valid.
+plugin.opcCostDistribution.message.section.multipleCostDistributionNotAllowed=It is not allowed to use multiple Cost Distributions for the selected Cost Object types({0}).
+plugin.opcCostDistribution.message.section.notValidAnalyticalCostObjectIds=The selected Cost Object IDs for Product(''{0}'') are not Configured via Analytical Cost Object Rules ({1}). It is not allowed to use them.
+plugin.opcCostDistribution.message.section.requiredAnalyticalCostObjectTypes=The analytical Cost Object types ({0}) are required.

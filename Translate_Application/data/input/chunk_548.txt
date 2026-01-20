@@ -1,0 +1,10 @@
+label.job.name=Job Name
+label.job.name.desc=Name of the new job.
+label.loading=Loading...
+label.move=Move File(s) to Location
+label.newPassword=New Password
+label.oldPassword=Old Password
+label.operations=Operations
+label.others=Others
+label.permission.create=Create
+label.permission.delete=Delete

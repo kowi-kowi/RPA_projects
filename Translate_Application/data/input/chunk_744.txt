@@ -1,0 +1,10 @@
+plugin.catalogVersioning.message.catalogDB.migration.successful=Catalog DB has been migrated successfully. Execution time\: {0}. Check <a href\="{1}" target\="_blank">log</a> for details.
+plugin.catalogVersioning.message.error.backup.backup.exists=Zip file with the name ''{0}'' already exists at ''{1}''. It cannot be deleted, because it is used by another application or for other reasons.
+plugin.catalogVersioning.message.error.backup.catalogDB.notFound=Catalog DB can''t be found for {0} version of the catalog (''{1}'').
+plugin.catalogVersioning.message.error.backup.exception.adding.new.zip.entry=Unexpected error occurred during adding new zip entry for file\: {0}
+plugin.catalogVersioning.message.error.backup.invalid.folder=Backup folder can't be created. Invalid Backup Folder configuration ('jcatalog.ssm.backup.folder') or a file with such name already exists.
+plugin.catalogVersioning.message.error.backup.noFolder=No backup folder defined. Please, specify Backup Folder configuration ('jcatalog.ssm.backup.folder').
+plugin.catalogVersioning.message.error.backup.unexpected.exception.during.resolving.files=Unexpected error occurred during resolving files for backup\: {0}
+plugin.catalogVersioning.message.error.backup.unexpectedProblem={0} version of the Catalog (''${1}'') wasn't backed up due to unexpected exception\: {2}.
+plugin.catalogVersioning.message.error.catalogDB.invalid=Standard Catalog DB is invalid, please contact the Administrator
+plugin.catalogVersioning.message.error.catalogDB.migration.failed=Error occurred during catalog migration\: {0}

@@ -1,0 +1,10 @@
+plugin.opcSalesorder.message.validation.invalid.supplierProvisioningNotFound=There is no Supplier Provisioning for Customer {0} and Supplier {1}.
+plugin.opcSalesorder.message.validation.isConfigurableProduct=Configurable product "{0}" cannot be added to cart from search result.
+plugin.opcSalesorder.message.validation.isServiceConfigurator=Service Configuration Product '{0}' cannot be added from the search results.
+plugin.opcSalesorder.message.validation.maxQuantity.fail=The supplier of this item has defined a maximum quantity of {1} for this item.
+plugin.opcSalesorder.message.validation.minQuantity.fail=The supplier of this item has defined a minimum quantity of {1} for this item.
+plugin.opcSalesorder.message.validation.missed.account=GL Account is mandatory. Please, specify a valid account for product ''{0}'' and proceed to check out.
+plugin.opcSalesorder.message.validation.missed.commissionCostObject=Cost distribution with type COMMISSION for ''{0}'' is missing.
+plugin.opcSalesorder.message.validation.missed.costDistribution=Cost distribution for ''{0}'' is missing. Please enter a valid cost object.
+plugin.opcSalesorder.message.validation.missed.costObject=Cost Object {0} of the type {1} has an invalid date range.
+plugin.opcSalesorder.message.validation.missed.deliveryAddress=Some required fields are missing in delivery address.

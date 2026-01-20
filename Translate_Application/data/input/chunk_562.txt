@@ -1,0 +1,10 @@
+mail.rfxExpiration.subject.to.supplier=The {0} {1} ({2}) has been expired.
+mail.scheduled.subject.to.customer={0} schedule notification
+mail.submit.rfQ.to.supplier={0} has invited you to participate in an event\: {1} {2} ({3})
+mail.submit.subject.to.customer=Supplier Response available for your {0} {1}
+mail.submit.subject.to.supplier=Response submitted for {0} {1}
+mail.submittedByScheduler.subject.to.customer={0} sending notification
+mail.supplierAwardNotification.subject={0} Award Notification\: Your offer for {0} {1} ({2}) is awarded
+mail.supplierNotAwardedNotification.subject=The {0} {1} ({2}) has been awarded to another supplier without considering your offer.
+mail.terminate.rfQ={0} {1} ({2}) terminated
+maintenanceEditor.label.jobName=Job Name

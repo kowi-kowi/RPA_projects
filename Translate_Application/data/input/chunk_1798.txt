@@ -1,0 +1,10 @@
+prov.ExpressCatalogContractEditor.buttons.supplier.addNew=New
+prov.ExpressCatalogContractEditor.buttons.supplier.selectExists=Select existing
+prov.ExpressCatalogContractEditor.labels.catalog=Product Catalog
+prov.ExpressCatalogContractEditor.labels.contract=Contract
+prov.ExpressCatalogContractEditor.labels.customer=Customer
+prov.ExpressCatalogContractEditor.labels.supplier=Supplier
+prov.ExpressCatalogContractEditor.messages.blank=Field cannot be blank
+prov.ExpressCatalogContractEditor.messages.doesnt.match=Value does not match the required pattern '%{pattern}'
+prov.ExpressCatalogContractEditor.messages.invalid.maxSize=Value exceeds the maximum size of '%{count}'
+prov.ExpressCatalogContractEditor.messages.invalid.minSize=Value is less than the minimum size of '%{count}'

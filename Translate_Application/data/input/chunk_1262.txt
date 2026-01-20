@@ -1,0 +1,10 @@
+plugin.opcSalesorder.message.validation.requestedQuantityNotAvailable=The requested quantity is not available at the moment. The available quantity\: {0}.
+plugin.opcSalesorder.message.validation.required.costObject=Cost Object type is mandatory. Please, specify a ''{0}'' for product ''{1}'' and proceed to check out.
+plugin.opcSalesorder.message.validation.required.glAccount=GL Account is required. Please, specify a GL Account for each line of Accounting Details for the product ''{0}'' and proceed to check out.
+plugin.opcSalesorder.message.validation.searchResult.hasSeveralContracts=Product ''{0}'' cannot be added directly as it has multiple contracts. Use standard process for adding instead.
+plugin.opcSalesorder.message.validation.soHasErrorsOnItemLevel=Shopping Cart has validation errors on item level.
+plugin.opcSalesorder.message.validation.supplier.minOrderPrice=The minimum order value of {0} for supplier {1} has not been reached. Your current order value for the supplier is {2} and includes the following products\: {3}.
+plugin.opcSalesorder.message.validation.unitOfMeasurePresence.fail=Unit of measurement is empty. Only products with unit of measurement can be added to cart.
+plugin.opcSalesorder.message.validation.wrong.suppliers.count=Limit order cannot contain items from more than one supplier.
+plugin.opcSalesorder.message.validation.wrong.validity.period=Wrong validity period specified.
+plugin.opcSalesorder.salesOrder.createdBy=Created by

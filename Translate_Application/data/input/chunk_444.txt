@@ -1,0 +1,10 @@
+deltaReport.header.catalogStatistics.totalProductsNew=Total Products (new)
+deltaReport.header.catalogStatistics.totalProductsOld=Total Products (old)
+deltaReport.header.catalogStatistics.updatedProducts=Updated Products
+deltaReport.header.catalogStatistics.updatedProductsPrice=Updated Products (Price)
+deltaReport.header.catalogStatistics.version=Version
+deltaReport.header.changeAbsolute=Absolute change
+deltaReport.header.changeInPercents=Change in %
+deltaReport.header.classification.classificationDescription=Classification Description
+deltaReport.header.classification.classificationGroupDesc=ClassificationGroup Description
+deltaReport.header.classification.classificationGroupID=ClassificationGroup ID

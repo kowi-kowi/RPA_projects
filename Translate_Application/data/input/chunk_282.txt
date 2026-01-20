@@ -1,0 +1,10 @@
+catalogExportJob.mailSubject.success=Catalog export success
+catalogExportJobParameterSet.additionalOutputDirectoryPath.matches.invalid=Path to additional export directory can''t contain any of the following characters\: * \: ? " < > |
+catalogExportJobParameterSet.catalogVersion.blank=Catalog Version is a required field.
+catalogExportJobParameterSet.catalogVersion.nullable=Catalog Version is a required field.
+catalogExportJobParameterSet.exportCustomerId.nullable=Customer is a required field.
+catalogExportJobParameterSet.exportDestination.blank=Export destination is a required field.
+catalogExportJobParameterSet.exportDestination.nullable=Export destination is a required field.
+catalogExportJobParameterSet.exportSupplierId.nullable=Supplier is a required field.
+catalogExportJobParameterSet.message.exportDestination.wrongValue=Export destination is wrong. It can be either 'customer' or 'supplier'.
+catalogExportJobParameterSet.outputFileName.matches.invalid=Name of the output file can''t contain any of the following characters\: \\ / \: * ? " < > |

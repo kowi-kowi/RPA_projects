@@ -1,0 +1,10 @@
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityCurrency.label=Opportunity Currency
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityDescription.label=Opportunity Description
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityEndsOn.label=Opportunity Ends on
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityEstimatedValue.label=Opportunity Estimated Value
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityName.label=Opportunity Name
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityOwnerBackup.label=Opportunity Owner Backup email
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityOwnerEmail.label=Opportunity Owner email
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityOwnerFullName.label=Opportunity Owner Name
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityOwnerId.label=Opportunity Owner ID
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.opportunityOwnerPhoneNo.label=Opportunity Owner Phone Number

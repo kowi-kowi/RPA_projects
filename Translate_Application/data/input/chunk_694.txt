@@ -1,0 +1,10 @@
+plugin.budget.posting.reason.transfer.from=Transferred from budget {0} ({1})
+plugin.budget.posting.reason.transfer.to=Transferred to budget {0} ({1})
+plugin.budget.rollOver.message.from=Rollover from last period {0}
+plugin.budget.rollOver.message.to=Rollover to actual period {0}
+plugin.budget.title.budget=Budget
+plugin.budget.warning.budget.noEnoughAvailableAmount=Pay attention that after moving operation the available amount of target budget will be negative. Are you sure you want to proceed?
+plugin.businessPartner.addresses.table.action.add.hint=Add Address Association
+plugin.businessPartner.addresses.table.action.create.hint=Create Address
+plugin.businessPartner.addresses.table.action.edit.hint=Edit Address
+plugin.businessPartner.addresses.table.action.remove.hint=Remove Address Association

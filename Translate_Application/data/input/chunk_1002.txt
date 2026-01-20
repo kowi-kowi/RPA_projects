@@ -1,0 +1,10 @@
+plugin.opcAddToCart.label.addToCart.duplicatedItem.message=This product is already present in your cart. How would you like to proceed\:
+plugin.opcAddToCart.label.addToList.duplicatedItem.message=This product is already present in the list. How would you like to proceed\:
+plugin.opcAddToCart.label.notLowestPriceJustification=Justification for original product
+plugin.opcAddToCart.label.originalProductId=Original product ID\:
+plugin.opcAddToCart.label.substituteProductId=Substitute product ID\:
+plugin.opcAddToCart.label.warningNotLowerPriceJustification=Please choose justification for original product.
+plugin.opcAddToCart.message.addedProductAmount={0} product(s) was(were) added to cart.
+plugin.opcAddToCart.message.error.addToCart.failed=Error occurred during adding to shopping cart, please contact administrator.
+plugin.opcAddToCart.message.error.failedToAddSomeItemsToCart=Some of the selected products cannot be added to the Shopping Cart. Please check error message(s) on the product level.
+plugin.opcAddToCart.message.feeRulesMissingParameters=There are certain parameters missing to calculate the fees. Please contact your administrator.

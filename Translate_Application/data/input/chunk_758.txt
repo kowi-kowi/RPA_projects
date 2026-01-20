@@ -1,0 +1,10 @@
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isReadonly.label=Is Readonly
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isRequired.label=Is Required
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isSupplierResponse.label=Is Supplier Response
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isVariable.label=Is Variable
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.label=Attribute
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.layout.label=Layout
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.longDescription.label=Long Description
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.options.button.label=Edit
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.options.label=Value Options
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.orderNo.label=Order No

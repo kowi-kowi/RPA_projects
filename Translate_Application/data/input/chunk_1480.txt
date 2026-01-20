@@ -1,0 +1,10 @@
+plugin.procRequisition.command.Rejected=rejected
+plugin.procRequisition.command.Save=save
+plugin.procRequisition.command.WaitingRfq=Waiting RFQ
+plugin.procRequisition.command.approval=Approve
+plugin.procRequisition.command.confirm=Confirm
+plugin.procRequisition.command.edit=Edit
+plugin.procRequisition.command.groupByAddressAndRecipient=Group by Address and Recipient
+plugin.procRequisition.command.groupBySupplier=Group by Supplier
+plugin.procRequisition.command.history=Requisition History
+plugin.procRequisition.command.overdue=overdue

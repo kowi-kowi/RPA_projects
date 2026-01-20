@@ -1,0 +1,10 @@
+plugin.opcCommons.label.loginName=Login Name
+plugin.opcCommons.label.message=Message\:
+plugin.opcCommons.label.missing=missing
+plugin.opcCommons.label.myAccount=My Account
+plugin.opcCommons.label.myShoppingList=My Shopping List
+plugin.opcCommons.label.newsletter=Newsletter
+plugin.opcCommons.label.notOrderable=Not orderable
+plugin.opcCommons.label.onRequest=On request
+plugin.opcCommons.label.orderAmount=Order amount
+plugin.opcCommons.label.organizationName=OpusCapita Software GmbH

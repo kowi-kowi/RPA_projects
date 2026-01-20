@@ -1,0 +1,10 @@
+plugin.opcGenericAttributes.attributes.tooltip.editAttribute=Edit Attribute
+plugin.opcGenericAttributes.attributes.tooltip.editClassificationGroup=Edit Classification Group
+plugin.opcGenericAttributes.boolean.false=No
+plugin.opcGenericAttributes.boolean.true=Yes
+plugin.opcGenericAttributes.error.attribute.multivalued.noOptions=Multivalued attribute must have options.
+plugin.opcGenericAttributes.error.attribute.radiogroup.noOptions=No-boolean attribute with "radiogroup" layout must have options.
+plugin.opcGenericAttributes.error.attribute.reference.unsupportedReferenceClass=Unsupported "Reference Class" of "reference" attribute.
+plugin.opcGenericAttributes.error.attribute.selectbox.noOptions=Attribute with "selectbox" layout must have options.
+plugin.opcGenericAttributes.label.section.additionalDocuments=Additional Documents
+plugin.opcGenericAttributes.label.section.productInformation=Catalog Information

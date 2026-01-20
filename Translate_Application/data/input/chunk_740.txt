@@ -1,0 +1,10 @@
+plugin.catalogScorecard.label.productMasterData=Product Master Data
+plugin.catalogScorecard.label.productRelationsAndDocuments=Product Relations and Documents
+plugin.catalogScorecard.label.specialFeatures=Special Features
+plugin.catalogScorecard.label.supplier=Supplier
+plugin.catalogScorecard.message.asterisk=Fields marked with asterisk are required fields.
+plugin.catalogScorecard.message.customerAssignement.required=Warning\: Customer assignment is required to run the Catalog Scorecard.
+plugin.catalogScorecard.message.error.invalidData=Catalog quality doesn't exist for the catalog. Scorecard form can't be filled correctly.
+plugin.catalogScorecard.message.error.noVersion=Catalog version for supplier ''{4}'' and catalog ''{3}'' hasn't been selected
+plugin.catalogScorecard.message.error.noVersionsForCatalog=No versions were found for this catalog.
+plugin.catalogScorecard.title.catalogsKPI=Catalogs KPI

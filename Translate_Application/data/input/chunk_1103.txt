@@ -1,0 +1,10 @@
+plugin.opcCommons.label.contactUs=Contact Us
+plugin.opcCommons.label.convertedPrice=Converted Price
+plugin.opcCommons.label.dailyPrice=Daily Price
+plugin.opcCommons.label.dependsOnContract=Multiple contracts
+plugin.opcCommons.label.detailedContractAndFeeInfo=Click here for detailed contract and fees information.
+plugin.opcCommons.label.emailAddress=Enter email address
+plugin.opcCommons.label.errorDetails=Error Details
+plugin.opcCommons.label.errorPage=Error page
+plugin.opcCommons.label.errorPage.message=Message
+plugin.opcCommons.label.errorPage.stackTrace=Stack Trace

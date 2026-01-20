@@ -1,0 +1,10 @@
+reports.futurespends.table.header.quantity=Total Ordered Quantity
+reports.futurespends.table.header.relativePriceGrowth=Relative Price Growth (%)
+reports.futurespends.table.header.salesUOM=Sales UOM
+reports.futurespends.table.header.uom=UOM
+reports.futurespends.text.reportLevel.classificationGroups=Classification {0}, with or without sales UOMs
+reports.futurespends.text.reportLevel.classificationGroups.quickOverview=Top Five Classification Groups with the strongest relative growth in approximate spend volume
+reports.futurespends.text.reportLevel.classificationGroups.reportDescription=This report allows to calculate the future spends volume based on new prices for given catalog or classification group, assuming the same purchase behaviour as in certain reference time period. It is recommended to run this report in the process of catalog approval.
+reports.futurespends.text.reportLevel.classificationGroupsWithUOMs=Standard Classification Groups with sales UOM
+reports.futurespends.text.reportLevel.classificationGroupsWithUOMs.quickOverview=Top Five Classification Groups with the strongest relative growth in approximate spend volume
+reports.futurespends.text.reportLevel.classificationGroupsWithUOMs.reportDescription=This report allows to calculate the future spends volume based on new prices for given catalog or classification group, assuming the same purchase behaviour as in certain reference time period. It is recommended to run this report in the process of catalog approval.

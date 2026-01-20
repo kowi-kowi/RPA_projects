@@ -1,0 +1,10 @@
+plugin.stateWorkflow.rFX.rFXTemplate.state.draft=draft
+plugin.supplierDirectory.action.ok=Ok
+plugin.supplierDirectory.details.action.edit.contract=Edit
+plugin.supplierDirectory.details.action.print=Print
+plugin.supplierDirectory.header.browseContracts.catalogId=Catalog ID
+plugin.supplierDirectory.header.browseContracts.contractDescription=Contract Description
+plugin.supplierDirectory.header.browseContracts.contractId=Contract ID
+plugin.supplierDirectory.header.browseContracts.contracts=Contracts
+plugin.supplierDirectory.header.browseContracts.expirationDate=Expiration Date
+plugin.supplierDirectory.header.browseContracts.generalInformation=General Information

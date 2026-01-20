@@ -1,0 +1,10 @@
+RFQ.rfxAward.contractModal.table.minOrderValueRequired=Min Order Value Required
+RFQ.rfxAward.contractModal.table.numberOfPrices=Number Of Prices
+RFQ.rfxAward.contractModal.table.offerId=Offered ID
+RFQ.rfxAward.contractModal.table.parentContract=Parent Contract
+RFQ.rfxAward.contractModal.table.requireChemicalCheck=Require Chemical Check
+RFQ.rfxAward.contractModal.table.requireHazardousCheck=Require Hazardous Check
+RFQ.rfxAward.contractModal.table.requireSafetyCheck=Require Safety Check
+RFQ.rfxAward.contractModal.table.smallVolumeSurcharge=Small Volume Surcharge
+RFQ.rfxAward.contractModal.table.status=Status
+RFQ.rfxAward.contractModal.table.supplierId=Supplier ID / Name

@@ -1,0 +1,10 @@
+jasperReports.WorkflowReport.professionalBuyerApproval.label=Professional Buyer Approval
+jasperReports.WorkflowReport.professionalBuyerApprover.label=Professional Buyer Approval Approver
+jasperReports.WorkflowReport.professionalBuyerDuration.label=Professional Buyer Approval Duration
+jasperReports.WorkflowReport.professionalBuyerFinishedAt.label=Professional Buyer Approval finished on
+jasperReports.WorkflowReport.professionalBuyerStartedAt.label=Professional Buyer Approval started on
+jasperReports.WorkflowReport.purchaseOrderId.label=Purchase Order
+jasperReports.WorkflowReport.requisitionOwner.label=Requisition Owner
+jasperReports.WorkflowReport.salesOrderId.label=Requisition ID
+jasperReports.WorkflowReport.status.label=Status
+jasperReports.WorkflowReport.toDate=To Date

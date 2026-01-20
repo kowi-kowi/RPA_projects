@@ -1,0 +1,10 @@
+plugin.ssmGrailsflow.label.logFile=Log File
+plugin.ssmGrailsflow.label.mails=Email Addresses
+plugin.ssmGrailsflow.label.nodeID=Action
+plugin.ssmGrailsflow.label.open=Open
+plugin.ssmGrailsflow.label.prevProcess=Predecessor
+plugin.ssmGrailsflow.label.processingVersion=Version
+plugin.ssmGrailsflow.label.productCatalog=Catalog
+plugin.ssmGrailsflow.label.productCatalogId=Catalog ID
+plugin.ssmGrailsflow.label.productCatalogVersion=Catalog Version
+plugin.ssmGrailsflow.label.responsibility=Responsibilities of Catalog

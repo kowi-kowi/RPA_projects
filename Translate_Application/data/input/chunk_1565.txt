@@ -1,0 +1,10 @@
+plugin.productReviewEditor.message.error.noSelection=Select one or more elements first.
+plugin.productReviewEditor.message.error.noTwoSelection=Select two or more elements first.
+plugin.productReviewEditor.message.error.outOfComparisionMasterRelations=Some products have material relations with products which are not among selected products. Add them all to be able to edit material relations.
+plugin.productReviewEditor.message.error.price.add.failed=Price can't be added, check whether data in the form is valid.
+plugin.productReviewEditor.message.error.price.already.exists=Price already exists.
+plugin.productReviewEditor.message.error.price.delete.failed=The Price can not be deleted.
+plugin.productReviewEditor.message.error.price.update.failed=Price can't be updated, check whether data in the form is valid.
+plugin.productReviewEditor.message.error.product.add.failed=Product can't be added, check whether data in the form is valid.
+plugin.productReviewEditor.message.error.product.delete.failed=The Product can not be deleted.
+plugin.productReviewEditor.message.error.product.update.failed=Product can't be updated, check whether data in the form is valid.

@@ -1,0 +1,10 @@
+com.jcatalog.boilerplate.Boilerplate.commentary.label=Commentary
+com.jcatalog.boilerplate.Boilerplate.description.label=Description
+com.jcatalog.boilerplate.Boilerplate.header=Search for Boilerplates
+com.jcatalog.boilerplate.Boilerplate.keywords.label=Keywords
+com.jcatalog.boilerplate.GormBoilerplate.boilerplateId.label=Boilerplate ID
+com.jcatalog.boilerplate.GormBoilerplate.commentary.label=Commentary
+com.jcatalog.boilerplate.GormBoilerplate.description.label=Description
+com.jcatalog.boilerplate.GormBoilerplate.header=Search for Boilerplates
+com.jcatalog.boilerplate.GormBoilerplate.keywords.label=Keywords
+com.jcatalog.bre.scheduling.job.BusinessRulePerformanceJobParameterSet.businessRuleListId.blank=Business Rule List ID is a required field.

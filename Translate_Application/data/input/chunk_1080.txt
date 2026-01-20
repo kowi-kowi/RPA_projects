@@ -1,0 +1,10 @@
+plugin.opcCms.cmsElementEditor.cmsElementType.label.dynamic.newsArticle=News Article
+plugin.opcCms.cmsElementEditor.cmsElementType.label.dynamic.productMessage=Product Message
+plugin.opcCms.cmsElementEditor.cmsElementType.label.dynamic.searchMessage=Search Message
+plugin.opcCms.cmsElementEditor.cmsElementType.label.dynamic.systemMessage=System Message
+plugin.opcCms.cmsElementEditor.cmsElementType.label.dynamic.welcomeCarouselSlide=Welcome Carousel Slide
+plugin.opcCms.cmsElementEditor.cmsElementType.label.standardTypesGroup=Standard Types
+plugin.opcCms.cmsElementEditor.editForm.action.baseUrlInputCollapseButton=Click here if you have problems with displaying images in the WYSIWYG editor.
+plugin.opcCms.cmsElementEditor.editForm.action.openCmsElement2CustomerEditor=Open CMS Element to Customer assignment editor
+plugin.opcCms.cmsElementEditor.editForm.description.baseUrlHint=To properly display images with relative links in the WYSIWYG editor, enter the address of the page on which you intend to display the content. E.g.\: /opc/search/newsMessage or /opc/content/page/somePage
+plugin.opcCms.cmsElementEditor.editForm.description.manyAssignedCustomers={0} customers assigned.

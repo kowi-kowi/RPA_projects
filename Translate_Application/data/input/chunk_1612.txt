@@ -1,0 +1,10 @@
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.postingDimensionValueId.label=Posting Dimension Value
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.priceStatusId.label=Price Status
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.productId.label=Product
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.productStatusId.label=Product Status
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.responsibilityLevel.label=Level
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.responsibilityType.hint=Responsibility type can be defined only during creating Responsibility and can't be changed after saving.
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.responsibilityType.label=Type
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.roleName.label=Authority
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.salesOrderCreatedBy.label=Sales Order Created By
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.salesOrderType.label=Sales Order Type

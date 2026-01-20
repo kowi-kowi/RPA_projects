@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.ok=OK
+SSM.productEditor.grid.columns.orderNo=No.
+SSM.productEditor.grid.columns.priceQuantity=Price Quantity
+SSM.productEditor.grid.columns.priceType=Price Type
+SSM.productEditor.grid.columns.priceUnit=Price Unit
+SSM.productEditor.grid.columns.productId=Product ID
+SSM.productEditor.grid.columns.productIdExtensionForUoM=Product ID Ext. for UoM
+SSM.productEditor.grid.columns.quantity=Quantity
+SSM.productEditor.grid.columns.quantityInterval=Quantity Interval
+SSM.productEditor.grid.columns.relatedCatalogId=Related Catalog

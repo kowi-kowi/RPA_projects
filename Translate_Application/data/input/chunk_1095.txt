@@ -1,0 +1,10 @@
+plugin.opcCommonUi.label.stockProduct=Stock product
+plugin.opcCommonUi.label.supplier=Supplier
+plugin.opcCommonUi.label.tieredPrices=Tiered Price
+plugin.opcCommonUi.label.waiting=Waiting...
+plugin.opcCommonUi.message.loading=Loading...
+plugin.opcCommonUi.message.noProductInformation=There is no information specified for this product
+plugin.opcCommonUi.message.updatePrices.editablePrice.warningMsg=The Price cannot be updated as it is editable.
+plugin.opcCommonUi.shoppingList.notAvailable=Unable to load shopping list.
+plugin.opcCommonUi.systemMessagesDialog.error.confirmationRequest=An error occurred during the message confirmation request.
+plugin.opcCommonUi.title.priceInfo=Price Info

@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.message.invoiceDate.required='Invoice Date' and 'Booking Date' are both required fields. Please fill them.
+plugin.procPurchaseorder.message.invoiceReceipt.notSelected=The invoiceReceipt was not selected.
+plugin.procPurchaseorder.message.invoiceReceiptID.required='Invoice Receipt ID' is required field. Please fill it.
+plugin.procPurchaseorder.message.invoiceStatus.required=Invoice status is required field. Please fill it.
+plugin.procPurchaseorder.message.matching.error=Differences not within tolerance limit
+plugin.procPurchaseorder.message.matching.ok=No differences in amount and price
+plugin.procPurchaseorder.message.matching.taxAmount.warn=Tax amount does not match
+plugin.procPurchaseorder.message.matching.warn=Differences within tolerance limit
+plugin.procPurchaseorder.message.menu.getPurchaseOrders.description=Get Purchase Orders description...
+plugin.procPurchaseorder.message.methodOfPayment.notDefined=Method of Payment for supplier {0} is not defined.

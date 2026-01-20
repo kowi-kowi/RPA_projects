@@ -1,0 +1,10 @@
+plugin.procCommon.boolean.false=No
+plugin.procCommon.boolean.true=Yes
+plugin.procCommon.button.add=Add
+plugin.procCommon.button.changeAssignment=Switch assignment
+plugin.procCommon.button.generate=Generate
+plugin.procCommon.button.no=No
+plugin.procCommon.button.ok=Ok
+plugin.procCommon.button.remove=Remove
+plugin.procCommon.button.search=Search
+plugin.procCommon.button.submit=Save

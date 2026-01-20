@@ -1,0 +1,10 @@
+plugin.opcProductDetails.label.quantityAndUom=Quantity and UoM
+plugin.opcProductDetails.label.quantityInterval=Order Interval
+plugin.opcProductDetails.label.rating=Rating
+plugin.opcProductDetails.label.relatedProducts=Related Products
+plugin.opcProductDetails.label.relatedType=Relation Type
+plugin.opcProductDetails.label.salesUnitOfMeasure=Sales UoM
+plugin.opcProductDetails.label.shortDescription=Short Description
+plugin.opcProductDetails.label.showProducts=Show Products
+plugin.opcProductDetails.label.showVariants=Show Variants
+plugin.opcProductDetails.label.stdclassification=Std Classification

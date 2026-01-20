@@ -1,0 +1,10 @@
+customizationarea.unzipWithErrors.message=Selected file was unzipped with errors. Please refer to the log files for details.
+customizationareaBrowser.copyToExternalCustomizationCommand.buttons.cancel=Cancel
+customizationareaBrowser.copyToExternalCustomizationCommand.buttons.overrideAll=Override all files
+customizationareaBrowser.copyToExternalCustomizationCommand.buttons.skipExisting=Skip existing files
+customizationareaBrowser.copyToExternalCustomizationCommand.dialog.message=Some files/folders already exist in destination directory. What would you like to do?
+customizationareaBrowser.copyToExternalCustomizationCommand.dialog.title=Confirmation
+customizationareaBrowser.errors.noSelectedFiles=No files were selected for copying
+customizationareaBrowser.external.copyTo.action=Copy selected files into external Customization Area
+customizationareaBrowser.external.downloadAsZip=Download as zip
+customizationareaBrowser.external.header=Customized sources

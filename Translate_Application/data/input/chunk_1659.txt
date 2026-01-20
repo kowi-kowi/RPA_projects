@@ -1,0 +1,10 @@
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SourcingRule.customerId.label=Customer
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SourcingRule.label=Sourcing Rule
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SourcingRule.supplierPriorityList.label=Supplier Priority List
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.description.label=Description
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.items.label=Supplier Priority List Items
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.label=Supplier Priority List
+plugin.sourcingRule.com.jcatalog.businesspartner.sourcingrule.SupplierPriorityList.supplierPriorityListId.label=Supplier Priority List ID
+plugin.spm.command.createShippingNotice=Create Shipping Notice
+plugin.spm.command.listDocumentTransfers=List Document Transfers
+plugin.spm.command.printPickList=Print PickList

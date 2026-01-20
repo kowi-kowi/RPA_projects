@@ -1,0 +1,10 @@
+log.message.CleanupBackupJob.version.zip.cannot.be.deleted=Zip archive cannot be removed.
+log.message.CleanupBackupJob.version.zip.cannot.be.found=Zip archive was not found in backup directory. Nothing is deleted.
+log.message.CleanupBackupJob.version.zip.deleting=Deleting zip archive...
+log.message.version.repeat=Processing of the version was interrupted due to the database deadlock. Current DB transaction was rolled back. Reprocessing the {0} version of ''{1}'' Catalog.
+mail.close.rfx=The {0} {1} ({2}) has been closed.
+mail.dc.hasFailsOnAward.subject.to.customer=The award of Demand Collection {0}{1} ends with errors.
+mail.dc.start.subject.to.participant=Demand Collection process is started
+mail.dc.terminate.subject.to.participant=Demand Collection process is terminated
+mail.extend.rfQ.to.supplier={0} {1} ({2}) extended
+mail.pause.rfQ={0} {1} ({2}) is paused.

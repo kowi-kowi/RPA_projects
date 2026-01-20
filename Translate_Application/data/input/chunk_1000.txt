@@ -1,0 +1,10 @@
+plugin.opc.partsBook.sparePartsSearchResult.title=Spare Parts
+plugin.opcAddToCart.action.addOriginalProduct=Add original Product
+plugin.opcAddToCart.action.cancel=Cancel
+plugin.opcAddToCart.action.ok=Ok
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.currency.conversion=Conversion rate {0}/{1} can not be found.
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.nullable.error=Editable price must not be empty.
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.validator.positive.error=Editable price must be a positive number.
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.validator.too.big.error=The length of the Price exceeds the maximum value.
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.expectedAmount.nullable.error=Expected Amount must not be empty.
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.expectedAmount.validator.notNumber.error=Expected Amount must be a number.

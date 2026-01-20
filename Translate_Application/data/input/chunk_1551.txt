@@ -1,0 +1,10 @@
+plugin.productReviewEditor.label.actions.price.add=Add price
+plugin.productReviewEditor.label.actions.product.add=Add product
+plugin.productReviewEditor.label.actions.productRelation.add=Add product relation
+plugin.productReviewEditor.label.attribute=Attribute
+plugin.productReviewEditor.label.attribute.attributeId=Attribute ID
+plugin.productReviewEditor.label.attribute.languageId=Language
+plugin.productReviewEditor.label.attribute.orderNo=No.
+plugin.productReviewEditor.label.attribute.statusId=Status
+plugin.productReviewEditor.label.attribute.value=Value
+plugin.productReviewEditor.label.br.list=Business Rule List

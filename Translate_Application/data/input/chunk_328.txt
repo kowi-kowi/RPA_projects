@@ -1,0 +1,10 @@
+com.jcatalog.contract.GormContract.header=Search for Contract
+com.jcatalog.contract.GormContract.maxOrderValue.invalid.min=Property 'Max Order Value' cannot be less than 'Min Order Value'
+com.jcatalog.contract.GormContract.parentContract.validator.error=The relation cannot be created since it leads to cyclic dependencies.
+com.jcatalog.contract.GormContractCategory.description.label=Description
+com.jcatalog.contract.GormContractCategory.header=Search for Contract Category
+com.jcatalog.contract.GormContractCategory.id.label=ID
+com.jcatalog.core.Country.countryName.label=Country Name
+com.jcatalog.core.Country.header=Search for Countries
+com.jcatalog.core.Country.internatAccessCode.label=Internat Access Code
+com.jcatalog.core.Country.key.label=Country ID

@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.statusId=Status
+SSM.productEditor.grid.columns.supplierId=Supplier
+SSM.productEditor.grid.columns.syncTypeId=Synchronization Type ID
+SSM.productEditor.grid.columns.timePeriod=Time Period
+SSM.productEditor.grid.columns.type=Type
+SSM.productEditor.grid.columns.typeId=Relation Type
+SSM.productEditor.grid.columns.udxNum1=Udx Num 1
+SSM.productEditor.grid.columns.udxNum2=Udx Num 2
+SSM.productEditor.grid.columns.udxNum3=Udx Num 3
+SSM.productEditor.grid.columns.udxSortKey1=Udx Sort Key 1

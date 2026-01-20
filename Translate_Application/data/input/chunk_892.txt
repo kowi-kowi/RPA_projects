@@ -1,0 +1,10 @@
+plugin.filemanager.label.create.unzip=Unzip Archive
+plugin.filemanager.label.create.zipArchive=Create Zip Archive
+plugin.filemanager.label.move.items=Move File(s) to Location
+plugin.filemanager.label.override.file=Override file or folder.
+plugin.filemanager.label.uploadFrom=Upload from
+plugin.filemanager.label.uploadTo=To Location
+plugin.filemanager.pattern.label=File/directory name mask
+plugin.filemanager.search.hint=Use wildcards like '*' and '?' for searching. The asterisk substitutes one or more characters, the question mark substitutes exactly one character. Example\: &quot;car*&quot; will find &quot;cartonnage&quot;, &quot;caretaker&quot;, &quot;carriage&quot; and more; &quot;car?&quot; will find &quot;cart&quot;, &quot;carp&quot;, &quot;card&quot; and more. Search will be performed in current directory and all subdirectories recursively.
+plugin.filemanager.title.error=Error
+plugin.filemanager.title.filemanager=File Manager

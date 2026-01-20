@@ -1,0 +1,10 @@
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.createdBy.label=Created By
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.createdOn.label=Created On
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.description.label=Description
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.id.label=Product Relation Type ID
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.isSystemDefined.label=Is System Defined
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.label=Product Relation Type
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.orderNo.label=Order No.
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.sourceTargetName.label=Source Target Name
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.targetSourceName.label=Target Source Name
+plugin.productSupportEditors.tab.additional=Additional

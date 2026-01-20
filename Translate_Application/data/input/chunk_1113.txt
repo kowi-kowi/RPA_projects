@@ -1,0 +1,10 @@
+plugin.opcCommons.message.supplierIsRequiered=Supplier is required.
+plugin.opcCommons.message.supplierNotFoundBySupplierName=Cannot find supplier by Supplier Name "{0}".
+plugin.opcCommons.message.supplierProvider=Index data references supplier {0} that cannot be loaded from database.
+plugin.opcCommons.message.surchargeNotCalculated=Product ''{0}'' contains metals but surcharge cannot be calculated as there is no info regarding price on metal ''{1}'' for customer ''{2}''
+plugin.opcCommons.message.unitOfMeasureIsRequiered=Unit of measure is required
+plugin.opcCommons.message.updating=Updating cart item...
+plugin.opcCommons.message.updatingProduct=Updating selected product...
+plugin.opcCommons.message.validation.attribute.checkboxIsRequired=The check box must be selected.
+plugin.opcCommons.message.validation.attribute.isRequired=Required attribute is empty.
+plugin.opcCommons.message.validation.attribute.valueIsNotInOptions=Attribute value "{0}" is not one of attribute option values.

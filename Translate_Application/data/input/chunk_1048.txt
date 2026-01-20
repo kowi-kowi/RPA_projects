@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.debugInfo.filter=Solr Filter
+plugin.opcAnalysis.label.debugInfo.foundItems=Found Items
+plugin.opcAnalysis.label.debugInfo.query=Solr Query
+plugin.opcAnalysis.label.debugInfo.title=Debug Info
+plugin.opcAnalysis.label.displayRangeFromTo={0}\u00A0TO\u00A0{1}
+plugin.opcAnalysis.label.email=Email
+plugin.opcAnalysis.label.exactPhrase=with the <b>exact phrase</b>
+plugin.opcAnalysis.label.execute=Execute
+plugin.opcAnalysis.label.export=Export
+plugin.opcAnalysis.label.export.section=Export

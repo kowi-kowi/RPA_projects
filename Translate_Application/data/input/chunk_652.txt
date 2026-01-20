@@ -1,0 +1,10 @@
+opc.product.details.information.catalog.classification.title=Std Classification
+opc.product.details.information.catalog.contracts.title=Contracts
+opc.product.details.information.catalog.date.delivery.title=Delivery Date
+opc.product.details.information.catalog.header=Catalog Information
+opc.product.details.information.catalog.lead.time.title=Lead time in days
+opc.product.details.information.catalog.manufacturer.name.title=Manufacturer Name
+opc.product.details.information.catalog.manufacturer.product.id.title=Manufacturer Product ID
+opc.product.details.information.catalog.manufacturer.title=Manufacturer
+opc.product.details.information.catalog.msrp.title=MSRP
+opc.product.details.information.catalog.product.contracted.id.ext.alt.title=Contracted product Alt. Ext. Product IDs

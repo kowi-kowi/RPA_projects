@@ -1,0 +1,10 @@
+ssm.worklist.label.task=Task
+ssm.worklist.label.type=Type
+ssm.worklist.title.worklist.desc=When a catalog is published it may go through a customer defined workflow. During this process there might be manual interactions which need to be performed by users. The Worklist displays actions available to your user based on current catalogs being processed. The workflow might be pending until a user executes a specified action.
+subject.customer.activate.process.activated=Catalog processing completed.
+subject.customer.activate.process.activationCancellationAccept=Activation cancellation for catalog ${catalogId} in version ${catalogVersion} accepted by the customer
+subject.customer.activate.process.activationCancellationReject=Activation cancellation for catalog ${catalogId} in version ${catalogVersion} rejected by the customer
+subject.customer.activate.process.activationCancellationRequest=Activation cancellation requested by the supplier for catalog ${catalogId} in version ${catalogVersion}
+subject.customer.activate.process.cancelledByCustomer=Future activation of catalog ${catalogId} in version ${catalogVersion} canceled by the customer.
+subject.customer.activate.process.cancelledBySupplier=Catalog activation for catalog ${catalogId} in version ${catalogVersion} canceled by the supplier.
+subject.customer.activate.process.date.changed.by.customer=The activation date for the catalog ${catalogId} in version ${catalogVersion} was changed by the customer.

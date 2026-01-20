@@ -1,0 +1,10 @@
+textlocalization.reportAction.button.close=Close
+textlocalization.reportAction.button.send=Send
+textlocalization.system.Maintenance.modifiedDuplicatesRemoval.failed.message=Removing modified message duplicates failed with errors.
+textlocalization.system.Maintenance.modifiedDuplicatesRemoval.message=Click the button to remove modified messages, that are equal to the standard ones.
+textlocalization.system.Maintenance.modifiedDuplicatesRemoval.successful.message=Removal of Modified Message Duplicates started. The report will be sent to your email.
+textlocalization.system.Maintenance.title=Maintenance
+textlocalization.system.PersistentConfig.error.response=Error occurred.
+textlocalization.system.PersistentConfig.fieldErrors.languages.empty=Language fields must not be empty.
+textlocalization.system.PersistentConfig.fieldErrors.languages.hasDuplicates=Languages must be unique, please remove duplicate values.
+textlocalization.system.PersistentConfig.hint.languages.line1=Enter a comma-separated list of language identifiers to work with (e.g.\: en,de,fi,no,ru,sv,fr,it,es).

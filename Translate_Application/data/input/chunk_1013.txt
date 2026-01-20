@@ -1,0 +1,10 @@
+plugin.opcAdministration.header.requestStatistics.date.title=Date
+plugin.opcAdministration.header.requestStatistics.duration.title=Duration avg (ms)
+plugin.opcAdministration.header.requestStatistics.supplier=Supplier
+plugin.opcAdministration.header.requestStatistics.uri.title=URI
+plugin.opcAdministration.header.requestStatistics.user.title=User
+plugin.opcAdministration.label.ClearIndex=Clear Index
+plugin.opcAdministration.label.SelectionGroupId=Selection Group ID
+plugin.opcAdministration.label.SeqNo=Seq. No
+plugin.opcAdministration.label.SyncTypeId=Sync. Type ID
+plugin.opcAdministration.label.allowedActions=Allowed actions

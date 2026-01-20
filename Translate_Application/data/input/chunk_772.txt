@@ -1,0 +1,10 @@
+plugin.cml2solrmlExport.message.startUploadingAnIndexing=Uploading and indexing CML...
+plugin.cml2solrmlExport.title=SOLR Indexer
+plugin.cmlDemodata.demoData.button.populate.label=Populate
+plugin.cmlDemodata.demoData.error.nothingSelected=Neither an absolute URL is entered nor a valid zip file is selected
+plugin.cmlDemodata.demoData.field.file.error.notValidExtension=The given file extension ''{0}'' is not allowed
+plugin.cmlDemodata.demoData.field.file.hint=Select a valid zip archive with demo data to populate
+plugin.cmlDemodata.demoData.field.url.error.urlIsNotAbsolute=The given url ''{0}'' is not an absolute URL
+plugin.cmlDemodata.demoData.field.url.hint=Enter an absolute URL to the zip archive with demo data to populate
+plugin.cmlDemodata.demoData.notification=Enter an absolute URL or select a valid zip file and populate
+plugin.cmlDemodata.demoData.page.header=Demo Data

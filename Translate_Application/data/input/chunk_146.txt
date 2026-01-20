@@ -1,0 +1,10 @@
+RFQ.rfxItemEditor.RFA.item.label=RFA Item
+RFQ.rfxItemEditor.RFC.item.label=RFC Item
+RFQ.rfxItemEditor.RFI.item.label=RFI Item
+RFQ.rfxItemEditor.RFQ.item.label=RFQ Item
+RFQ.rfxItemEditor.RFS.item.label=RFS Item
+RFQ.rfxItemEditor.action.back=Back
+RFQ.rfxItemEditor.action.cancel=Cancel
+RFQ.rfxItemEditor.action.save=Save
+RFQ.rfxItemEditor.action.saveAndNew=Save and New
+RFQ.rfxItemEditor.deleteConfirmation=Do you really want to delete this entry?

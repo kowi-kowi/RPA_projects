@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.message.glAccount.required='GL Account' is a required property.
+plugin.procPurchaseorder.message.grossPrice.invalid=Gross Price is invalid. Can't convert '{0}' into number.
+plugin.procPurchaseorder.message.iRList=** Please, pay attention that grey color is used for Invoice Receipts with type 'invoice'<br/> and yellow color is used when Invoice Receipt type is 'credit note'.
+plugin.procPurchaseorder.message.invalidNumber=Wrong input type. Can't convert '{0}' into number.
+plugin.procPurchaseorder.message.invalidSupplier=Attention\: The invoice receipt contains a critical supplier. Do you want to continue?
+plugin.procPurchaseorder.message.invoice.canNotDelete=It's impossible to delete Invoice Receipt with unknown identifier.
+plugin.procPurchaseorder.message.invoice.collective.created=Collective Invoice Receipt was created successfully.
+plugin.procPurchaseorder.message.invoice.collective.failed=Collective Invoice Receipt cannot be created.
+plugin.procPurchaseorder.message.invoice.deleted=Invoice Receipt with key {0} was deleted
+plugin.procPurchaseorder.message.invoice.invalidPO=Invalid Purchase Order.

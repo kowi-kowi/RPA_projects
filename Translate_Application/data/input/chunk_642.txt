@@ -1,0 +1,10 @@
+opc.product.actions.main.list.add=Add to List
+opc.product.actions.main.preview=Preview
+opc.product.actions.main.price.and.availability=Price and Availability
+opc.product.actions.main.print=Print
+opc.product.actions.main.product.check=Check Product
+opc.product.actions.main.products.show=Show Products
+opc.product.actions.main.requisition.draft.add=Add to Draft Requisition
+opc.product.actions.main.rfq.create=Create RfQ
+opc.product.actions.main.showPrice=Show Price for Supplier
+opc.product.actions.main.variants.show=Show Variants

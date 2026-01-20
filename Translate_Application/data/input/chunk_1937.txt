@@ -1,0 +1,10 @@
+typeMismatch.com.jcatalog.system.ErrorReportCommand.tailLines=The value for "Tail Lines" must be a positive number.
+typeMismatch.com.jcatalog.system.ScheduleCommand.repeatInterval=Property ''Repeat interval'' must be a valid number
+typeMismatch.dateFrom=''Date from'' value is not a valid date
+typeMismatch.dateTo=''Date to'' value is not a valid date
+typeMismatch.fromDate=The "from" date value is invalid.
+typeMismatch.java.lang.Boolean=Property {0} must be a valid boolean
+typeMismatch.java.lang.Double=Value must be a valid number
+typeMismatch.java.lang.Integer=Value must be a valid number
+typeMismatch.java.lang.Long=Value must be a valid number
+typeMismatch.java.lang.Short=Value must be a valid number

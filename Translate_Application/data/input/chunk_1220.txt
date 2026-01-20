@@ -1,0 +1,10 @@
+plugin.opcProductReview.button.productReview.yes=Yes
+plugin.opcProductReview.com.jcatalog.review.ProductReview.comment.maxSize.exceeded=Comment cannot exceed {3} characters.
+plugin.opcProductReview.com.jcatalog.review.ProductReview.displayName.maxSize.exceeded=Displayed name cannot exceed {3} characters.
+plugin.opcProductReview.com.jcatalog.review.ProductReview.title.maxSize.exceeded=Title cannot exceed {3} characters.
+plugin.opcProductReview.error.productReview.notCreateTwoReviewForOneUser=You cannot add additional product review for this product.
+plugin.opcProductReview.error.productReview.notFoundReviewForDeleting=No reviews for deleting available.
+plugin.opcProductReview.error.productReview.notFoundReviewForEditing=No reviews for editing available.
+plugin.opcProductReview.error.productReview.requiredFieldsCanNotBeEmpty=Required fields can't be empty.
+plugin.opcProductReview.header.productReview.shareYourOpinion=Share your opinion
+plugin.opcProductReview.header.productReview.startHere=Start here

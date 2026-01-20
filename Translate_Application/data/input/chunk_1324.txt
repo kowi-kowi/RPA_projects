@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.label.priceRecalculation.discount.tooBig=Discount value cannot be greater than 100%.
+plugin.opcShoppingCart.label.priceRecalculation.itemNotExist=The selected product is missing in the shopping cart. Please, refresh the Shopping Cart page.
+plugin.opcShoppingCart.label.priceRecalculation.warning=The discount calculation can be performed only for editable prices. Please select products with editable price and try again.
+plugin.opcShoppingCart.label.priceRecalculationDialog.discount=Discount in Percentage
+plugin.opcShoppingCart.label.priceRecalculationDialog.title=Calculation of Discount
+plugin.opcShoppingCart.label.productAttributes=Attributes
+plugin.opcShoppingCart.label.productDescription=Description
+plugin.opcShoppingCart.label.productNo=Product ID
+plugin.opcShoppingCart.label.purchaseOrderType=Order Type
+plugin.opcShoppingCart.label.recipient.building=Building

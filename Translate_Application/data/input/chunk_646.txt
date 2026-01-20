@@ -1,0 +1,10 @@
+opc.product.details.configuration.settings.editor.label.and.select.value=And select value
+opc.product.details.configuration.settings.editor.label.attachment.select.existing.file=selecting an existing file
+opc.product.details.configuration.settings.editor.label.attachment.uploading=uploading
+opc.product.details.configuration.settings.editor.label.attribute=Attribute
+opc.product.details.configuration.settings.editor.label.attribute.evaluated=Attribute "<em>{description}</em>" is evaluated by expression\: "<em>{expression}</em>"
+opc.product.details.configuration.settings.editor.label.description.add=Add Description
+opc.product.details.configuration.settings.editor.label.description.placeholder=Description
+opc.product.details.configuration.settings.editor.label.evaluate.automatically=Automatically on page load execute groovy script "<em>{script}</em>"
+opc.product.details.configuration.settings.editor.label.evaluate.manually=Manually for attribute "<em>{description}</em>" execute groovy script "<em>{script}</em>"
+opc.product.details.configuration.settings.editor.label.from.to=From {from} to {to}

@@ -1,0 +1,10 @@
+proc.widgets.description.delegation=Displays the information about current user delegations and substitutions.
+proc.widgets.description.myCartsInApproval=Displays the list of requisitions, which undergo approval workflow\: 1. short information mode - only the quantity of requisitions in approval; or 2. detailed information mode - the first 10 requisitions in approval.
+proc.widgets.description.numberOfSuppliers=Displays the quantity of all suppliers, with whom you cooperate in the current year (by default) and previous year (by selecting the corresponding check box).
+proc.widgets.description.openDeliveries=Displays the information about orders, which are still not delivered (fully or partially). The data can be displayed depending on the selected filter parameters\: by total price or quantity, Customer, Supplier.
+proc.widgets.description.poCount=Displays the purchase orders quantity created in the current year (by default) and previous year (by selecting the corresponding check box).
+proc.widgets.description.poLineCount=Displays the total purchase order items quantity in the current year (by default) and previous year (by selecting the corresponding check box).
+proc.widgets.description.purchaseOrderDelivery=Displays the information about Purchase Orders quantity delivered on time, late or early.
+proc.widgets.description.recurrentRequisitions=Displays the information about the recurrent requisitions (created via RecurrentRequisitionsJob).
+proc.widgets.description.requisitionApprovements=Displays the information about requisitions created by the current user. Also it displays quantity of approved and rejected requisitions (created >\= rejected + approved).
+proc.widgets.description.requisitionBreakdown=Displays the 'per step' information about requisitions that are currently in the approval process.

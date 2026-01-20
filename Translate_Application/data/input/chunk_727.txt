@@ -1,0 +1,10 @@
+plugin.businessPartnerProfile.toolTip.booleanPattern=Boolean Pattern
+plugin.businessPartnerProfile.toolTip.datePattern=Date Pattern
+plugin.businessPartnerProfile.toolTip.decimalSeparator=Decimal Separator
+plugin.businessPartnerProfile.toolTip.exportFormatName=Select format for the exported file
+plugin.businessPartnerProfile.toolTip.formatName=Select the file format of the import file
+plugin.businessPartnerProfile.toolTip.mapping=Name of the file containing the Units of Measurement mapping information
+plugin.businessPartnerProfile.toolTip.numberPattern=Number Pattern
+plugin.businessPartnerProfile.toolTip.quotationMark=Quotation Mark
+plugin.businessPartnerProfile.toolTip.reviewFormatName=Select the review format
+plugin.businessPartnerProfile.toolTip.separator=Separator

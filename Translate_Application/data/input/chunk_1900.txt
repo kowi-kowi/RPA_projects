@@ -1,0 +1,10 @@
+ssm.webservice.RepublishCatalogService.error.no.current.version=There is no CURRENT version for '{0}' Product Catalog ID
+ssm.webservice.RepublishCatalogService.error.process.not.started=Republishing process was not started due to some unexpected reason.
+ssm.webservice.RepublishCatalogService.error.productCatalogId.required=Mandatory parameter 'Product Catalog ID' is either empty or has not been passed.
+ssm.webservice.RepublishCatalogService.error.username.required=Mandatory parameter 'Username' is either empty or has not been passed.
+ssm.widgets.catalogs.label=Catalog Filter
+ssm.widgets.error.noDataFound=There is no data to display for the current widget.
+ssm.widgets.showObjectInformation.label=Show object information
+ssm.widgets.showRealmLabel.label=Show realm
+ssm.widgets.title.assignment=Assignment
+ssm.widgets.title.assignment.topQuantity=Top Quantity

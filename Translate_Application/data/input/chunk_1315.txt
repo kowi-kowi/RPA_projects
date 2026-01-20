@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.header.desc.requisitionCompletionMode=You are currently in the Completion mode for this Requisition. Here you can edit or delete the existing items or add new items to the cart, if required.
+plugin.opcShoppingCart.header.desc.reverseRequisitioningMode=You are currently in the Reverse Requisition mode and will make the order under the following customer assignment\: {0} ({1}).
+plugin.opcShoppingCart.header.desc.rfxAddingItemsMode=You are currently in the Adding Items to RFX mode. Here you can add items to your RFX.
+plugin.opcShoppingCart.header.desc.rfxAwardingMode=You are currently in the RFX Awarding mode. Here you can edit the data of the header section, but cannot edit the cart items as the items section is in the view only mode. It is possible to delete an item using the corresponding Delete button or submit a cart using the Proceed to checkout button.
+plugin.opcShoppingCart.header.desc.rfxSupplierResponseMode=You are currently in the Supplier Response mode. Here you can add items or sub-items to your Response.
+plugin.opcShoppingCart.header.desc.soEditingMode=You are currently in the editing mode for this Requisition
+plugin.opcShoppingCart.header.desc.soTemplateMode=You are currently in the Recurrent Template mode for this Requisition. Here you can create an order or requisition template.
+plugin.opcShoppingCart.header.description=Description
+plugin.opcShoppingCart.header.draftRequisitionEdit=Cart in the Draft Requisition Editing Mode
+plugin.opcShoppingCart.header.invoiceAddress=Invoice Address

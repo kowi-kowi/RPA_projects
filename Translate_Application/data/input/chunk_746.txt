@@ -1,0 +1,10 @@
+plugin.catalogVersioning.message.noMigrationNeeded=Catalog DB schema is up to date.
+plugin.catalogVersioning.message.noVersions=No versions
+plugin.catalogVersioning.message.only.admin.has.access=Please note\: the Catalog Version Manager is available only for users with admin rights.
+plugin.catalogVersioning.message.recentResult=Recent result\:
+plugin.catalogVersioning.message.result.size={0} entries found.
+plugin.catalogVersioning.message.stopped=The Job was stopped manually. Statistics shows job's state at the moment of stop.
+plugin.catalogVersioning.message.tool.not.available=You can't use backup tool until Backup Folder configuration (''jcatalog.ssm.backup.folder'') is defined.
+plugin.catalogVersioning.title.backupCatalogJob=Catalog Backup
+plugin.catalogVersioning.title.bulkBackupCatalogJob=Bulk Catalogs Backup
+plugin.catalogVersioning.title.catalogVersionManager=Catalog Version Manager

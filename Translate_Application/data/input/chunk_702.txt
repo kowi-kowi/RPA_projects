@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.label.catalogExpiration.expiredInWeek=Next Week
+plugin.businessPartnerDashboard.label.catalogExpiration.expiredLater=Later
+plugin.businessPartnerDashboard.label.catalogExpiration.validFrom=Valid From
+plugin.businessPartnerDashboard.label.catalogExpiration.validTo=Valid To
+plugin.businessPartnerDashboard.label.catalogExpiration.withoutExpiration=No expiration data available
+plugin.businessPartnerDashboard.label.catalogList.catalogDescription=Catalog Description\:
+plugin.businessPartnerDashboard.label.catalogList.catalogId=Catalog ID\:
+plugin.businessPartnerDashboard.label.catalogList.noEndData=(no data)
+plugin.businessPartnerDashboard.label.catalogList.noStartData=(no data) -
+plugin.businessPartnerDashboard.label.catalogList.validTime=Valid Time\:

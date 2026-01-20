@@ -1,0 +1,10 @@
+plugin.opcOrder.posting.header.glAccount=GL Account
+plugin.opcOrder.posting.header.percentage=%
+plugin.opcOrder.splitCarts.head.error=One or more split cart(s) cannot be submitted. Please check error message(s) on the split cart level.
+plugin.opcOrder.summary.automaticApprovment=Automatic Approval
+plugin.opcOrder.summary.header.approver=Expected Approval Chain
+plugin.opcOrder.summary.helpText=May we help you? If there are remaining open questions, please don't hesitate to visit our help pages or contact us. What will happen if I place my order now? Your requisition will be redirected to your approver who will confirm your order or cancel it. What can I do when I made a mistake in my order? You are able to correct errors in your order by following the instructions hereafter\: [...] Your bought product and services underlie a refundment period of XX days. You can return or reclaim them to us with a money-back guarantee\! Please learn more relevant information related to this topic from our Return Policy.Go back to your Shopping Cart without confirmation.
+plugin.opcOrder.summary.noApprovers=To be defined...
+plugin.opcOrder.title.address=Address
+plugin.opcOrder.title.checkout=Checkout
+plugin.opcOrder.title.items=Items

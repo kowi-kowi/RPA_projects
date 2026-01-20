@@ -1,0 +1,10 @@
+ssm.emailtemplates.workflows.pending.activation.original.date=Original Activation Date\: {0}
+ssm.emailtemplates.workflows.pending.activation.provisioning.date=Provisioning Date\: ''{0}''
+ssm.emailtemplates.workflows.pending.activation.reason=Reason\: <br/>''{0}''
+ssm.emailtemplates.workflows.pending.activation.reason.by.supplier=Reason provided by the supplier\: <br/>{0}
+ssm.emailtemplates.workflows.pending.activation.supplier=Supplier\: ''{0}''
+ssm.emailtemplates.workflows.processActivationDateChanged.document.title=Change activation date
+ssm.emailtemplates.workflows.processActivationDateChanged.message.summary=New Activation Date \= ''{0}''.
+ssm.emailtemplates.workflows.processActivationDateChanged.title=Activation date was changed
+ssm.emailtemplates.workflows.processChangeDate.document.title=Change activation date
+ssm.emailtemplates.workflows.processChangeDate.title=Activation date must be changed

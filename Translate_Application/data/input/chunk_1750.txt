@@ -1,0 +1,10 @@
+plugin.systemMaintenance.label.db.url=Database URL
+plugin.systemMaintenance.label.db.user=Database User
+plugin.systemMaintenance.label.dontKnow=don''t know
+plugin.systemMaintenance.label.errorDescription=Error Description
+plugin.systemMaintenance.label.errorPage=Error page
+plugin.systemMaintenance.label.errorPage.message=Message
+plugin.systemMaintenance.label.errorPage.stackTrace=Stack Trace
+plugin.systemMaintenance.label.executeQuery=Execute Query
+plugin.systemMaintenance.label.export=Possible export formats\:
+plugin.systemMaintenance.label.fileIOTest=File IO Speed

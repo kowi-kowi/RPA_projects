@@ -1,0 +1,10 @@
+plugin.supplierDirectory.message.browseContracts.alreadyAdded={0} ''{1}'' is already added.
+plugin.supplierDirectory.message.browseContracts.emptySearchTermForCatalog=Please enter catalog ID or description.
+plugin.supplierDirectory.message.browseContracts.emptySearchTermForContract=Please enter contract ID or description.
+plugin.supplierDirectory.message.browseContracts.emptySearchTermForSupplier=Please enter supplier ID or name.
+plugin.supplierDirectory.message.browseContracts.emptySearchTermForSupplierGroup=Please enter supplier group ID or name.
+plugin.supplierDirectory.message.browseContracts.false=No
+plugin.supplierDirectory.message.browseContracts.notAvailable={0} ''{1}'' is not available.
+plugin.supplierDirectory.message.browseContracts.notFound=Nothing found.
+plugin.supplierDirectory.message.browseContracts.true=Yes
+plugin.supplierDirectory.message.invalidServerResponse=Invalid response format\!

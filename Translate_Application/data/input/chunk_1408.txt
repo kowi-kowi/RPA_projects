@@ -1,0 +1,10 @@
+plugin.procEditors.workflowConfigurator.createConfiguration.title=Create Configuration
+plugin.procEditors.workflowConfigurator.createTemplate.button=Create Template from OPC
+plugin.procEditors.workflowConfigurator.currency.label=Currency
+plugin.procEditors.workflowConfigurator.customer.label=Customer
+plugin.procEditors.workflowConfigurator.delete.button=Delete
+plugin.procEditors.workflowConfigurator.deleteConfirmation.message=Do you really want to delete this entry?
+plugin.procEditors.workflowConfigurator.edit.button=Edit
+plugin.procEditors.workflowConfigurator.editConfiguration.title=Edit Configuration
+plugin.procEditors.workflowConfigurator.limitAmount.label=Limit Amount
+plugin.procEditors.workflowConfigurator.noTemplate.message=Please, select a requisition template.

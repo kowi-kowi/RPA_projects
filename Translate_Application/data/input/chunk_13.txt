@@ -1,0 +1,10 @@
+Excel.FixAttribute_convRateSales=Content Quantity
+Excel.FixMultiLangAttribute_LongDescription_de=Long Description de
+Excel.FixMultiLangAttribute_LongDescription_en=Long Description
+Excel.FixMultiLangAttribute_LongDescription_es=Long Description es
+Excel.FixMultiLangAttribute_LongDescription_fi=Long Description fi
+Excel.FixMultiLangAttribute_LongDescription_fr=Long Description fr
+Excel.FixMultiLangAttribute_LongDescription_it=Long Description it
+Excel.FixMultiLangAttribute_LongDescription_no=Long Description no
+Excel.FixMultiLangAttribute_LongDescription_ru=Long Description ru
+Excel.FixMultiLangAttribute_LongDescription_sv=Long Description sv-SE

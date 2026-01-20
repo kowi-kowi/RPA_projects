@@ -1,0 +1,10 @@
+plugin.productCompare.label.supplier=Supplier
+plugin.productCompare.label.total=Total
+plugin.productCompare.label.uom=UoM
+plugin.productCompare.label.waiting=Waiting...
+plugin.productCompare.message.addingProduct=Adding selected product to cart...
+plugin.productCompare.message.compareDialog=Compare Products
+plugin.productCompare.message.compareError.moreThanTwentySelection=There are {0} selected. But max count of products for comparison is {1}.
+plugin.productCompare.message.compareError.onlyOneSelection=At least 2 products must be selected.
+plugin.productCompare.message.compareWarning.tooManySelected=There are {0} selected. But max count of products for comparison is {1}.
+plugin.productCompare.message.confirmClearCompareProducts=Do you really want to clear products for comparison?

@@ -1,0 +1,10 @@
+SDP.export.pdf.purchaseOrder.labels.deliveryAddress=Delivery Address\:
+SDP.export.pdf.purchaseOrder.labels.deliveryTerms=Delivery Terms\:
+SDP.export.pdf.purchaseOrder.labels.department=Department\:
+SDP.export.pdf.purchaseOrder.labels.email=Email\:
+SDP.export.pdf.purchaseOrder.labels.floor=Floor\:
+SDP.export.pdf.purchaseOrder.labels.floorRoom=Floor / Room\:
+SDP.export.pdf.purchaseOrder.labels.invoiceAddress=Invoice Address\:
+SDP.export.pdf.purchaseOrder.labels.isUrgent=URGENT
+SDP.export.pdf.purchaseOrder.labels.item.deliveryDate=Delivery Date
+SDP.export.pdf.purchaseOrder.labels.item.discount=Discount\:

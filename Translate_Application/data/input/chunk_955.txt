@@ -1,0 +1,10 @@
+plugin.jcatalogLocalization.import.description=Imported file should be in Excel 97-2003 format (.xls) or Excel 2007 Office Open XML format (.xlsx)
+plugin.jcatalogLocalization.import.header=Import
+plugin.jcatalogLocalization.importFailed.message=Runtime error\: incorrect file format.
+plugin.jcatalogLocalization.importSuccessful.message=Import successful, you can press <a href\="{0}">Reload translations</a> to apply the changes.
+plugin.jcatalogLocalization.localizationViewContext.disabled.title=Disable Localization Context View
+plugin.jcatalogLocalization.localizationViewContext.enabled.title=Enable Localization Context View
+plugin.jcatalogLocalization.localizationViewContext.textLocalizationNotAvailable.message=Text Localization Service must be enabled.
+plugin.jcatalogLocalization.localizationViewContext.title=Localization Context View
+plugin.jcatalogLocalization.reload.message=Translations were reloaded.
+plugin.jcatalogLocalization.reloadTranslations.button=Reload translations

@@ -1,0 +1,10 @@
+plugin.sdpSsmNavigation.menu.customer.catalogProfile.desc=If you logged in to the SSM for the first time, please also check your content processing profile. SSM evaluates these data so it is important that they are correct, otherwise you may experience problems with the export or download of your files. Entries made here are evaluated for the creation of catalogs and  contracts by suppliers to make the publishing process easier.<br/>If you leave the fields empty, the supplier will need to fill them manually during the catalog publishing process. It contains the information on your current preferences for classification, units of measurements and the format for the catalog and contract files which your supplier provides.
+plugin.sdpSsmNavigation.menu.customer.catalogStatus=Status
+plugin.sdpSsmNavigation.menu.customer.catalogVerification=Export Catalog
+plugin.sdpSsmNavigation.menu.customer.catalogVerification.toolTip=You can download the complete catalog data in CSV format for a complete and manual verification.
+plugin.sdpSsmNavigation.menu.customer.compareCatalogs=Compare Catalog Versions
+plugin.sdpSsmNavigation.menu.customer.compareCatalogs.toolTip=This application compares the data of latest available released catalog version of the supplier with the version you are currently using. The result is displayed in a new window. It is also saved in your own folder in the application.
+plugin.sdpSsmNavigation.menu.customer.dashboard=Dashboards
+plugin.sdpSsmNavigation.menu.customer.dashboard.toolTip=This dashboard offers you an excellent overview of catalog and contract statistics available per month, quarter or year, the validity period of catalogs and contracts, and a list of all currently released catalogs and contracts. This enables you to view all important information on your catalogs or contracts at one glance without having to browse through different programs.
+plugin.sdpSsmNavigation.menu.customer.delegation=Delegation
+plugin.sdpSsmNavigation.menu.customer.editAddress=Addresses

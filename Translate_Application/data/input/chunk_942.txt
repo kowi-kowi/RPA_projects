@@ -1,0 +1,10 @@
+plugin.grailsflow.message.processType.reloaded=Process script definition of type {0} was reloaded from file.
+plugin.grailsflow.message.processType.saved=Process definition {0} was successfully saved.
+plugin.grailsflow.message.processes.size.large=The process for getting filter values was skipped\: there are too many processes [{0}] for search. Please configure 'maxRestrictedProcesses' value (currently it is [{1}] processes).
+plugin.grailsflow.message.property.required={0} is a required field\!
+plugin.grailsflow.message.repeatInterval.zero=Setting repeat interval to '0' will schedule job to be executed only once, after execution it wont be available in jobs list and will be lost.
+plugin.grailsflow.message.script.invalid=Process script cannot be parsed and compiled.
+plugin.grailsflow.message.searchResult=Found {0} entries.
+plugin.grailsflow.message.selectedItems=Selected items\:
+plugin.grailsflow.message.sendEvent.error.1=Process {1} not found
+plugin.grailsflow.message.sendEvent.error.2=Node {2} not found for process {0}

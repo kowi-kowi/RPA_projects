@@ -1,0 +1,10 @@
+proc.RichTextEditor.menuItem.tooltip.dynamic.bulleted-list=Bulleted list
+proc.RichTextEditor.menuItem.tooltip.dynamic.italic=Italic (Ctrl + I)
+proc.RichTextEditor.menuItem.tooltip.dynamic.numbered-list=Numbered list
+proc.RichTextEditor.modal.action.addClause=Add Clause
+proc.RichTextEditor.modal.action.cancel=Cancel
+proc.RichTextEditor.modal.action.save=Save
+proc.RichTextEditor.modal.placeholder.enterTextHere=Enter text here
+proc.com.jcatalog.salesorder.GLAccount.accountType.label=Type
+proc.com.jcatalog.salesorder.GLAccount.descShort.label=Short Description
+proc.com.jcatalog.salesorder.GLAccount.glAccountID.label=GL Account ID

@@ -1,0 +1,10 @@
+scheduling.label.result=Result
+scheduling.label.status=Status
+scheduling.label.status.ABORTED=Aborted
+scheduling.label.status.FAILED=Failed
+scheduling.label.status.IN_PROGRESS=In progress
+scheduling.label.status.STOPPED=Stopped
+scheduling.label.status.SUCCESS=Success
+scheduling.label.status.UNKNOWN=Unknown
+scheduling.label.status.last=Last execution status
+scheduling.label.trigger=Trigger

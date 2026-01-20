@@ -1,0 +1,10 @@
+plugin.systemMaintenance.label.free.memory=Free Memory
+plugin.systemMaintenance.label.from=From
+plugin.systemMaintenance.label.host=Host/IP
+plugin.systemMaintenance.label.ipAddress=IP Address
+plugin.systemMaintenance.label.itemsPerPage=Items per Page
+plugin.systemMaintenance.label.java.runtime=Java Runtime
+plugin.systemMaintenance.label.java.vendor=Java Vendor
+plugin.systemMaintenance.label.java.version=Java Version
+plugin.systemMaintenance.label.java.vm=Java VM
+plugin.systemMaintenance.label.jvm.impl.version=JVM Implementation Version

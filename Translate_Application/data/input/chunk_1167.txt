@@ -1,0 +1,10 @@
+plugin.opcIntegration.summary.noMoreApprovalNeed=No more approval is required
+plugin.opcIntegration.title.product=Search for Product
+plugin.opcLoggerInterceptor.administrationMode.label=Pay Attention\: Now you are working in <b>Administration mode</b>. Current mode is used only for checking product visibility.
+plugin.opcLoggerInterceptor.error.productNotExist=Product with Product ID {0} and Catalog ID {1} doesn''t exist in index.
+plugin.opcLoggerInterceptor.invisibleProduct.message=The product is not accessible to the current user by the following reason\:
+plugin.opcLoggerInterceptor.productVisibilityRestriction.process.message=Checking...
+plugin.opcLoggerInterceptor.productVisibilityRestriction.toggle.message=Product Visibility Restriction
+plugin.opcLoggerInterceptor.searchExplanation.action.explain=Explain
+plugin.opcLoggerInterceptor.searchExplanation.label.catalogId=Catalog ID
+plugin.opcLoggerInterceptor.searchExplanation.label.contractIds=Contract ID

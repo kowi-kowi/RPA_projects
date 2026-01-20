@@ -1,0 +1,10 @@
+businessRule.desc.rule=Groovy expression. Main expression where some conditions are checked.
+businessRule.desc.targetListId=These are IDs of all Business Rule Lists available in the system except current Business Rule List. Please, specify the ID where you want to copy current Business Rule.
+businessRule.error.action.invalid=Invalid action. Parsing the action was aborted with exception\: {0}.
+businessRule.error.action.required=Action field is required.
+businessRule.error.id.required=ID field is required.
+businessRule.error.newIdExisted=The ID ({0}) already exists in the current business rule list ({1}). Please, specify another value.
+businessRule.error.not.copied=The rule hasn't been copied.
+businessRule.error.not.created=New rule hasn't been created.
+businessRule.error.not.saved=The rule hasn't been saved.
+businessRule.error.pathToCustomScript.required=Path To Custom Script is required field.

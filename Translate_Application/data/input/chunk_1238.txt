@@ -1,0 +1,10 @@
+plugin.opcQuickEntry.error.productHasSubstitute=Product ''{0}'' was substituted by product ''{1}''.
+plugin.opcQuickEntry.error.productMultipleFound=There is more than one product with the specified ID (supplier).
+plugin.opcQuickEntry.error.productNotFound=There is no product with the specified ID (supplier).
+plugin.opcQuickEntry.error.productWithSeveralContracts=Products with multiple contracts cannot be ordered from Quick Entry.
+plugin.opcQuickEntry.error.punchoutCannotBeOrdered=Punchout products cannot be ordered from Quick Entry.
+plugin.opcQuickEntry.error.quantityIsZero=Quantity must be a positive number.
+plugin.opcQuickEntry.error.quantityNotValidNumber=Quantity is not a valid number.
+plugin.opcQuickEntry.error.supplierNotAllowed=Supplier ''{0}'' is not allowed.
+plugin.opcQuickEntry.header.product=Product
+plugin.opcQuickEntry.header.quantity=Quantity

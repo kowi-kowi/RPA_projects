@@ -1,0 +1,10 @@
+SSM.productEditor.contractInput.dialogTitle=Search for Contract
+SSM.productEditor.create.catalog.header=Create Catalog
+SSM.productEditor.create.catalog.switch.existing=Existing
+SSM.productEditor.create.catalog.switch.new=New
+SSM.productEditor.createProduct=Create Product
+SSM.productEditor.deleteProduct.confirmation.message=Do you really want to delete the product '{productId}'?
+SSM.productEditor.edit.status.edited=Data have been changed
+SSM.productEditor.edit.status.error=An error occurred when saving the data.
+SSM.productEditor.edit.status.saved=Data saved
+SSM.productEditor.edit.status.validation=Validation has failed for several rows.

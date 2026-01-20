@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.message.purchaseOrder.reminder.subject=Reminder for PO confirmation
+plugin.procPurchaseorder.message.purchaseOrderItem.notFound=Purchase Order Item \#{0} does not exist.
+plugin.procPurchaseorder.message.quantity.invalid=Quantity is invalid. Can't convert '{0}' into number.
+plugin.procPurchaseorder.message.quantity.invalidDouble=Quantity {0} is not valid double value.
+plugin.procPurchaseorder.message.quantity.less=Quantity {0} is less than minimum value 0
+plugin.procPurchaseorder.message.quantity.negative='Quantity can't be negative.
+plugin.procPurchaseorder.message.recalculatePrices=Recalculate Gross Prices?
+plugin.procPurchaseorder.message.reject.comment=Please enter a comment for rejection.
+plugin.procPurchaseorder.message.reminder.email.invalid=Email address is not valid.
+plugin.procPurchaseorder.message.revertedPoStatus=Purchase Order status has been reverted back to the previous state.

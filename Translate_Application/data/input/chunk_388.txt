@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormSalesOrderItem.deliveryDate=Delivery Date
+com.jcatalog.salesorder.GormSalesOrderItem.department=Department
+com.jcatalog.salesorder.GormSalesOrderItem.email=Email
+com.jcatalog.salesorder.GormSalesOrderItem.extAssetAccountId=Ext Asset Account ID
+com.jcatalog.salesorder.GormSalesOrderItem.extGLAccountId=Ext GL Account ID
+com.jcatalog.salesorder.GormSalesOrderItem.extProductId=Ext Product ID
+com.jcatalog.salesorder.GormSalesOrderItem.floor=Floor
+com.jcatalog.salesorder.GormSalesOrderItem.glAccount=GL Account
+com.jcatalog.salesorder.GormSalesOrderItem.hasSerialNumber=Has Serial Number
+com.jcatalog.salesorder.GormSalesOrderItem.internalNotes=Internal Notes

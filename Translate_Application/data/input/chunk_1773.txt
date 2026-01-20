@@ -1,0 +1,10 @@
+plugins.jcatalogBootstrapUi.BootstrapDialogs.confirmDialog.title=Confirmation
+portal.label.delegated=You are stand-in for Mr./Mrs.
+portal.label.delegation.substitution=Your current Delegations
+portal.label.from=from
+portal.label.noDelegations=There are no delegations for the user <b>{0}</b>.
+portal.label.permanentDelegation=in permanent delegation
+portal.label.substituted=Your stand-in is Mr./Mrs.
+portal.label.until=until
+portal.label.withinScope=within the scope of "{0}"
+portal.title.requisitioning=Requisition

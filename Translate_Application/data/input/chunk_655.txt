@@ -1,0 +1,10 @@
+opc.product.details.price.label.price.hiddenFromSupplier=Price is hidden from Supplier
+opc.product.details.price.label.price.preferred=Preferred price
+opc.product.details.price.label.price.surcharge=Including Surcharge
+opc.product.details.price.label.price.tiered=Tiered Price
+opc.product.details.price.label.price.title=Price Info
+opc.product.details.price.label.product.stock=Stock Product
+opc.product.editProductModal.content.text=Current product cannot be edited in SSM. The SSM application might not be available, or the current product might not exist in any catalog.
+opc.product.editProductModal.header.text=Failure to edit product
+opc.product.excluded.warning=Warning\: this product is in the Hidden Products list and is not visible in the search results. See System Administration -> SmartForm Products.
+opc.product.favourite.add.title=Add to favourites

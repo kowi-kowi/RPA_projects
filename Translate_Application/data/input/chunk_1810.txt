@@ -1,0 +1,10 @@
+reports.futurespends.label.standardClassification=Standard Classification
+reports.futurespends.label.supplier=Supplier
+reports.futurespends.table.header.absoluteChange=Absolute Change ({0})
+reports.futurespends.table.header.approximateSpend=Approximate Spend Volume based on new prices ({0})
+reports.futurespends.table.header.classificationGroupId=Classification Group ID
+reports.futurespends.table.header.classificationGroupName=Classification Group Name
+reports.futurespends.table.header.contentQuantityPerSalesUOM=Content Quantity per sales UOM
+reports.futurespends.table.header.currentSpend=Current Spend Volume ({0})
+reports.futurespends.table.header.productId=Product ID
+reports.futurespends.table.header.productShortDescription=Product Short Description

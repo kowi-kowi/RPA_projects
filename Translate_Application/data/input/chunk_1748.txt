@@ -1,0 +1,10 @@
+plugin.systemMaintenance.label.and=and
+plugin.systemMaintenance.label.app.server=Application Server
+plugin.systemMaintenance.label.attachLog=Attach Log File
+plugin.systemMaintenance.label.auditInfo=Audit Info
+plugin.systemMaintenance.label.behaviour=Expected Behaviour
+plugin.systemMaintenance.label.build=Build Version
+plugin.systemMaintenance.label.button.download=Download
+plugin.systemMaintenance.label.button.show=Show
+plugin.systemMaintenance.label.caBuild=Customization Area Build Version
+plugin.systemMaintenance.label.changedBy=Changed By

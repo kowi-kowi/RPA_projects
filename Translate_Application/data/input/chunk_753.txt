@@ -1,0 +1,10 @@
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.compatibilityAttributes.label=Compatibility Attributes
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.createdBy.label=Created By
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.createdOn.label=Created On
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.descLong.label=Long Description
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.descShort.label=Short Description
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.documentUrl1.label=Document 1
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.documentUrl2.label=Document 2
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.documentUrl3.label=Document 3
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.label=Classification
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.orderNo.label=Order No

@@ -1,0 +1,10 @@
+plugin.opcCommons.title.customerAssignment=Customer not available
+plugin.opcCommons.title.customerAssignments=Customer
+plugin.opcCommons.title.customerNotAvailable=Customer is not available
+plugin.opcCommons.title.errorDialog=Error
+plugin.opcCommons.title.grailsException=Grails Runtime Exception
+plugin.opcCommons.title.home=Home
+plugin.opcCommons.title.indexSessionError=Index access failed
+plugin.opcCommons.title.login=Login
+plugin.opcCommons.title.logout=Logout
+plugin.opcCommons.title.popupWarningTitle=Warning

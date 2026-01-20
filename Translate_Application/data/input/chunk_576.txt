@@ -1,0 +1,10 @@
+menu.ociObjectVisibility=OCI Object Visibility
+menu.ociObjectVisibilityEditor=OCI Object Visibility
+menu.orderData=Order Data
+menu.orderType2CustomerEditor=Order Type to Customer
+menu.orderTypeEditor=Order Types
+menu.organization=Organization
+menu.organizationUnits=Organization Units
+menu.organizations=Organizations
+menu.permissionCleaner=Clean Permissions
+menu.permissionEditor=Permissions

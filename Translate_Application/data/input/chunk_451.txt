@@ -1,0 +1,10 @@
+deltaReport.header.price.priceType=Price Type
+deltaReport.header.price.priceTypeId=Price Type ID
+deltaReport.header.price.sheetName=Price
+deltaReport.header.price.validFromQuantity=Valid From Quantity
+deltaReport.header.priceChangeInterval=Interval of maximum change in the Net Price
+deltaReport.header.priceUnit=Price Unit
+deltaReport.header.prices=Prices
+deltaReport.header.processingLogSN=ProcessingLogSN
+deltaReport.header.processingStep=ProcessingStep
+deltaReport.header.productData.attributes=Attributes

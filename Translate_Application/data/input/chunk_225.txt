@@ -1,0 +1,10 @@
+administration.label.classificationGroup=Classification Group
+administration.label.comment=Commentary
+administration.label.confirmation=Confirmation
+administration.label.costObjectApprovers=Upcoming CostObject Approvers
+administration.label.costcenter=Cost Object
+administration.label.createdOn=Created on
+administration.label.customer=Customer
+administration.label.delivery=Delivery Date
+administration.label.deliveryAddress=Delivery Address
+administration.label.description=Description

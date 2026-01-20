@@ -1,0 +1,10 @@
+ssm.widgets.title.priceExpirationPerContract.desc.sorting=Date-descending
+ssm.widgets.title.priceExpirationPerContract.notificationThreshold=Notification Threshold (days)
+ssm.widgets.title.priceExpirationPerContract.quantity=Quantity of Contracts Displayed
+ssm.widgets.title.priceExpirationPerContract.sorting=Sorting
+ssm.widgets.title.priceExpirationPerContract.warningThreshold=Warning Threshold (days)
+ssm.widgets.title.productsPerCatalog=Products per Catalog
+ssm.widgets.title.workFlowTrends=Workflow Trends
+ssm.worklist.label.assignee=Assignee
+ssm.worklist.label.catalogDescription=Catalog Description
+ssm.worklist.label.catalogId=Catalog ID

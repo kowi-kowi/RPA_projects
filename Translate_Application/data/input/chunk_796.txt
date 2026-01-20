@@ -1,0 +1,10 @@
+plugin.contractEditor.com.jcatalog.contract.GormContract.type.label=Type
+plugin.contractEditor.com.jcatalog.contract.GormContract.usages.label=Customer
+plugin.contractEditor.com.jcatalog.contract.GormContract.validRange.label=Valid Range
+plugin.contractEditor.com.jcatalog.contract.GormContractCategory.description.label=Description
+plugin.contractEditor.com.jcatalog.contract.GormContractCategory.id.label=Contract Category ID
+plugin.contractEditor.com.jcatalog.contract.GormContractCategory.label=Contract Category
+plugin.contractEditor.com.jcatalog.contract.GormContractedClassificationGroup.amount.label=Amount
+plugin.contractEditor.com.jcatalog.contract.GormContractedClassificationGroup.classificationGroup.label=Classification Group
+plugin.contractEditor.com.jcatalog.contract.GormContractedClassificationGroup.contract.label=Contract ID
+plugin.contractEditor.com.jcatalog.contract.GormContractedClassificationGroup.cost.label=Cost

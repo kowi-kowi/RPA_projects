@@ -1,0 +1,10 @@
+plugin.procDoctransfer.poDoc.AdvancedShippingNotice=Advanced Shipping Notice
+plugin.procDoctransfer.poDoc.DeliveryNoteCanceled=Canceled Delivery Note
+plugin.procDoctransfer.poDoc.DeliveryNoteNew=New Delivery Note
+plugin.procDoctransfer.poDoc.PurchaseOrder=Purchase Order
+plugin.procDoctransfer.poDoc.PurchaseOrderCancellation=Purchase Order Cancellation
+plugin.procDoctransfer.poDoc.PurchaseOrderCancellationRequest=Purchase Order Cancellation
+plugin.procDoctransfer.poDoc.PurchaseOrderChange=Purchase Order Change
+plugin.procDoctransfer.poDoc.PurchaseOrderChangeRequest=Purchase Order Change
+plugin.procDoctransfer.poDoc.PurchaseOrderCmlUpdate=Purchase Order CML Update
+plugin.procDoctransfer.poDoc.PurchaseOrderCreate=Purchase Order Create

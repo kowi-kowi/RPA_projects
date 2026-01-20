@@ -1,0 +1,10 @@
+message.frame.agreement.workflow.cleansing.warnings=Warnings occurred during the cleansing.
+message.frame.agreement.workflow.collect.warnings=Warnings occurred during the validation steps.
+message.frame.agreement.workflow.execute.acceptChanges=Accepting Changes\n-------------------\nStarted at      ${now}\nAccepted by     ${user}
+message.frame.agreement.workflow.execute.analyzeCatalog=Catalog Analyzing\n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.execute.approvalInitialization=Approver Initialization\n-------------------\nStarted at ${now}
+message.frame.agreement.workflow.execute.attributeValueMapping=Attribute Value Mapping \n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.execute.calculatePriceExpiration=Calculate Price Expiration\n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.execute.catalogCreation=Catalog Creation\n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.execute.classificationMapping=Classification Mapping ${index}\n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.execute.cleansing=Cleansing\n-------------------\nStarted at      ${now}

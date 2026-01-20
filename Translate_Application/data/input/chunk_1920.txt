@@ -1,0 +1,10 @@
+textlocalization.importForm.ExcelImportForm.button.upload=Upload Excel
+textlocalization.importForm.ExcelImportForm.dropZone.dropHereOr=Drag .xlsx file or click here to browse
+textlocalization.importForm.ExcelImportForm.label.email=Email
+textlocalization.importForm.ExcelImportForm.notification.success=The Import Statistics will be sent to your email.
+textlocalization.importForm.ExcelImportForm.validation.email.empty=Please state your email.
+textlocalization.importForm.ExcelImportForm.validation.email.invalid=The entered email is not valid.
+textlocalization.importForm.button.cancel=Cancel
+textlocalization.importForm.error.response=Error occurred.
+textlocalization.importForm.file.ready=file is selected and ready for download.
+textlocalization.report.action.deApproval.title=DE Approval

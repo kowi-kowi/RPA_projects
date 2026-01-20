@@ -1,0 +1,10 @@
+plugin.opcShoppingList.label.owner=Owner
+plugin.opcShoppingList.label.replaceCartWithSelectedListItems=Replace cart with selected items
+plugin.opcShoppingList.label.saveList=Save
+plugin.opcShoppingList.label.searchResult=Search Result
+plugin.opcShoppingList.label.selectContract=Select Contract
+plugin.opcShoppingList.label.selectShoppingList=Select Shopping List
+plugin.opcShoppingList.label.shoppingList=Shopping List
+plugin.opcShoppingList.label.shoppingListButtonsGroup=Shopping List Actions
+plugin.opcShoppingList.label.shoppingListDescription=Description
+plugin.opcShoppingList.label.shoppingListName=Shopping List Name

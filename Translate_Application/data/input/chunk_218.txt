@@ -1,0 +1,10 @@
+WeceemContentSearch.message.searchResult={0} items found.
+WeceemContentSearch.parentAliasUri.label=Parent Alias URI
+WeceemContentSearch.search.all.label=All
+WeceemContentSearch.search.resultsPerPage.label=Results per page
+WeceemContentSearch.spaceName.label=Space Name
+WeceemContentSearch.wcId.label=ID
+WeceemContentSearch.wcTitle.label=Title
+action.save=Save
+action.saveAndExecute=Save and Execute
+action.sendRequest=Send

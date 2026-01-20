@@ -1,0 +1,10 @@
+plugin.uiHeader.bookmarks.menu.tip=Show bookmarked pages
+plugin.uiHeader.bookmarks.menu.title=My Bookmarks
+plugin.uiHeader.timeZone.localUTC=Local UTC
+plugin.uiHeader.timeZone.systemUTC=System UTC
+plugin.uiHeader.timeZone.timeDifference=Time difference
+plugin.userDelegation.button.search=Search
+plugin.userDelegation.command.add=Add
+plugin.userDelegation.command.cancel=Cancel
+plugin.userDelegation.command.create=Create
+plugin.userDelegation.command.createMutualDelegation=Create Mutual Delegation

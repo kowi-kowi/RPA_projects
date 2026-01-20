@@ -1,0 +1,10 @@
+plugin.classificationEditor.label.isForSales=Is for sales
+plugin.classificationEditor.label.isMainProdLine=Is main product line
+plugin.classificationEditor.label.isMaster=Is master
+plugin.classificationEditor.label.isSpecialOffer=Is special offer
+plugin.classificationEditor.label.isStocked=Is Stocked
+plugin.classificationEditor.label.isVariant=Is Variant
+plugin.classificationEditor.label.keywords=Keywords
+plugin.classificationEditor.label.manufacturerId=Manufacturer ID
+plugin.classificationEditor.label.manufacturerName=Manufacturer Name
+plugin.classificationEditor.label.mfgProductId=MfgProduct ID

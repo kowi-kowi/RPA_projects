@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.validation=Validation
+SSM.productEditor.grid.columns.value=Value
+SSM.productEditor.grid.columns.vatPercentage=VAT, %
+SSM.productEditor.grid.columns.view=View
+SSM.productEditor.grid.columns.visibility=Visibility
+SSM.productEditor.grid.columns.changedOn=Changed On
+SSM.productEditor.grid.columns.createdByOn=Created By / On
+SSM.productEditor.grid.columns.changedBy=Changed By
+SSM.productEditor.search.product.mfgProductId=Manufacturer Product ID
+SSM.productEditor.header.createdUpdated=Created / Updated

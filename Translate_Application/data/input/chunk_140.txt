@@ -1,0 +1,10 @@
+RFQ.rfxAward.incorrectSelections.dialog=Please select items according to the defined Award Restrictions.
+RFQ.rfxAward.incorrectSelections.dialog.title=Information
+RFQ.rfxAward.initialRfq=Initial RFX
+RFQ.rfxAward.list.itemDetails=Show details
+RFQ.rfxAward.none=None
+RFQ.rfxAward.qualificationStatistics.header=Qualification Results
+RFQ.rfxAward.qualificationStatistics.supplierLabel=Supplier
+RFQ.rfxAward.qualificationStatistics.supplierQuoteIdLabel=Supplier Response ID
+RFQ.rfxAward.section.itemCount=Item(s)
+RFQ.rfxAward.section.totalRequested=Total Requested

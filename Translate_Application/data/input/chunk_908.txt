@@ -1,0 +1,10 @@
+plugin.grailsflow.command.save=Save
+plugin.grailsflow.command.saveType=Generate Process File
+plugin.grailsflow.command.scheduleProcess=Schedule Process
+plugin.grailsflow.command.search=Search
+plugin.grailsflow.command.showCode=Show Source Code
+plugin.grailsflow.command.showDetails=Show Details
+plugin.grailsflow.command.showGraphic=Graphic
+plugin.grailsflow.command.showGraphicEditor=Show Graphical Process
+plugin.grailsflow.command.showRules=Custom Page and Controller Rules
+plugin.grailsflow.command.start=Start

@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.classificationGroupId=Classification Group ID
+plugin.opcAdministration.label.classificationGroups=Classification Groups
+plugin.opcAdministration.label.classificationId=Classification ID
+plugin.opcAdministration.label.classifications=Classifications
+plugin.opcAdministration.label.contractId=Contract ID
+plugin.opcAdministration.label.contracts=Contracts
+plugin.opcAdministration.label.contractsForUser=Contracts
+plugin.opcAdministration.label.currency=Currency
+plugin.opcAdministration.label.customerRestrictions=Customer restrictions
+plugin.opcAdministration.label.customerViews=Customer Views

@@ -1,0 +1,10 @@
+message.republish.enriched.products.workflow.execute.ok=Finished at     ${now}
+message.republish.enriched.products.workflow.execute.productEnrichment=Product Enrichment\n-------------------\nStarted at      ${now}
+message.republish.enriched.products.workflow.execute.publishCatalog=Publish Catalog\n-------------------\nStarted at      ${now}
+message.republish.enriched.products.workflow.execute.publishEnrichedProduct=Publish Enriched Product\n-------------------\nStarted at      ${now}
+message.republish.enriched.products.workflow.execute.setupCatalog=Setup Catalog\n-------------------\nStarted at      ${now}
+message.republish.enriched.products.workflow.execute.validationResults=Validation Results \n-------------------\nStarted at      ${now}
+message.republish.enriched.products.workflow.executedBusinessRuleContext=External variables\: ${businessRulesContext}
+message.republish.enriched.products.workflow.executedBusinessRuleLists=Executed Business Rule Lists\: ${executedBusinessRuleLists}
+message.republish.enriched.products.workflow.export.script=Export using script\: ${script}
+message.republish.enriched.products.workflow.finish.actionErrorMessage=ErrorMessage\: ${errorMessage}

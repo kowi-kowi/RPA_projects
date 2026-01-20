@@ -1,0 +1,10 @@
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.Contract2OciObjectVisibility.label=Contract to OCI Object Visibility
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.Contract2OciObjectVisibility.ociObjectVisibility.label=OCI Object Visibility
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.Contract2OciObjectVisibility.unique=Contract to OCI Object Visibility with provided OCI Object Visibility and Contract already exists
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.ContractFilter.contract.label=Contract ID(s)
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.ContractFilter.contractFilterId.label=Contract Filter ID
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.ContractFilter.label=Contract Filter
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.ContractFilter.operator.label=Operator
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.ContractFilter.shortDescription.label=Description
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.OciObjectVisibility.contractFilterId.label=Contract Filter ID
+plugin.ociObjectVisibility.com.opuscapita.ociobjectvisibility.OciObjectVisibility.description.label=Description

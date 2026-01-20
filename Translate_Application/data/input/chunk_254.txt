@@ -1,0 +1,10 @@
+applicationMenu.tab.supplierResponses=Supplier Responses
+approval.page.additional.approvers.title=Additional approvers
+approval.page.predefined.approvers.title=Predefined approvers
+approval.purchaseOrder.original.description=Original Purchase Order
+approval.purchaseOrder.title.description=Approval for Purchase Order
+attributeValueEditor.error.params=No or wrong params passed into editor.
+attributeValueEditor.error.save=Object save failed.
+attributeValueEditor.label.back=Back
+attributeValueEditor.label.false=No
+attributeValueEditor.label.header.attribute=Attribute

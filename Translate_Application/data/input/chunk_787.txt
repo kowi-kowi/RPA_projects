@@ -1,0 +1,10 @@
+plugin.compareCatalogs.label.supplier=Supplier
+plugin.compareCatalogs.label.supplierId=Supplier ID
+plugin.compareCatalogs.label.version=Version
+plugin.compareCatalogs.message.asterisk=Fields marked with asterisk are required fields.
+plugin.compareCatalogs.message.error.concurrency=The Compare Catalog Process for Catalog "{0}" and Version "{1}" has been already run.
+plugin.compareCatalogs.message.error.generate.report=An error occurred at the beginning of the Compare Catalog Process.
+plugin.compareCatalogs.message.nothingFound=Nothing found.
+plugin.compareCatalogs.message.report.generate=The Compare Catalog Process has been successfully started\:
+plugin.compareCatalogs.message.selectedVersions=It is allowed to select two catalog versions only.
+plugin.compareCatalogs.title.compareCatalogs=Compare Catalog Versions

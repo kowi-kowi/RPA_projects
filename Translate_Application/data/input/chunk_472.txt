@@ -1,0 +1,10 @@
+emailMessage.soApproved.label.salutation=Dear {0},<br><br>We are pleased to inform you that Requisition has been approved. You are receiving this acknowledgement due to your role in the approval process. Although the total amount of Requisition exceeds your current approval limit, you are included as an acknowledgement user in the approval chain.<br><br>Thank you for your attention.
+emptyConditionsJoinType.com.opuscapita.ociobjectvisibility.ProductFilter.conditionsJoinType=Conditions Join Type is required in case of multiple conditions.
+emptyFilters.com.opuscapita.ociobjectvisibility.ProductFilterSet.filters=Product Filter Set must contain at least one Product Filter.
+emptyFiltersJoinType.com.opuscapita.ociobjectvisibility.ProductFilterSet.filtersJoinType=Filters Join Type is required in case of multiple filters.
+eproc.bookmark.editor.main.title=My Bookmarks
+eproc.bookmark.editor.removeItem.confirmationMessage=Do you really want to delete bookmark "{value}"?
+eproc.bookmark.editor.table.columnName.actions=Actions
+eproc.bookmark.editor.table.columnName.description=Description
+eproc.bookmark.editor.table.columnName.uri=URL
+eproc.dashboard.action.add=Add

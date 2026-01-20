@@ -1,0 +1,10 @@
+plugin.productCompare.label.manufacturer=Manufacturer
+plugin.productCompare.label.manufacturerNo=Manufacturer No.
+plugin.productCompare.label.notOrderable=Not orderable
+plugin.productCompare.label.price=Price/PU
+plugin.productCompare.label.productId=Product ID
+plugin.productCompare.label.productPromotionalMessage=Supplier Promotional Message
+plugin.productCompare.label.productsInComparison=Products in Comparison
+plugin.productCompare.label.quantity=Quantity
+plugin.productCompare.label.rating=Rating
+plugin.productCompare.label.shortDescription=Short Description

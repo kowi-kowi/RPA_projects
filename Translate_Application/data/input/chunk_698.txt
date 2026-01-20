@@ -1,0 +1,10 @@
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.street3.label=Address Line 3
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.zipCode.label=Zip Code
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.alternatePhone.label=Alternate Phone
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.contactId.label=Contact ID
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.contactType.label=Contact Type
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.department.label=Department
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.description.label=Description
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.email.label=Email
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.firstName.label=First Name
+plugin.businessPartner.com.jcatalog.businesspartner.GormContact.label=Contact

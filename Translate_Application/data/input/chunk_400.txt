@@ -1,0 +1,10 @@
+com.jcatalog.ssm.scheduling.job.backup.BulkBackupCatalogJobParameterSet.numberOfSavedOldVersions.blank="Number of saved versions" is a required field
+com.jcatalog.ssm.scheduling.job.backup.BulkBackupCatalogJobParameterSet.numberOfSavedOldVersions.min.notmet="Number of saved versions" must be greater than or equal to 2
+com.jcatalog.ssm.scheduling.job.backup.BulkBackupCatalogJobParameterSet.numberOfSavedOldVersions.nullable="Number of saved versions" is a required field
+com.jcatalog.ssm.scheduling.job.backup.BulkBackupCatalogJobParameterSet.selectedStatuses.blank=At least one status must be selected.
+com.jcatalog.ssm.scheduling.job.backup.BulkBackupCatalogJobParameterSet.timeInterval.max.exceeded=Number of days must be less than or equal to 3650
+com.jcatalog.ssm.scheduling.job.backup.BulkBackupCatalogJobParameterSet.timeInterval.min.notmet=Number of days must be greater than or equal to 1
+com.jcatalog.ssm.scheduling.job.backup.CleanupBackupJob.timeInterval.max.exceeded=Number of days must be less than or equal to 3650
+com.jcatalog.ssm.scheduling.job.backup.CleanupBackupJob.timeInterval.min.notmet=Number of days must be greater than or equal to 0
+com.jcatalog.ssm.web.forms.QualityCommand.catalogId.blank=Catalog is a required field
+com.jcatalog.ssm.web.forms.QualityCommand.catalogId.nullable=Catalog is a required field

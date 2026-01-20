@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.label.catalogPublishing.catalogDescription=Catalog Description
+plugin.businessPartnerDashboard.label.catalogPublishing.catalogId=Catalog ID
+plugin.businessPartnerDashboard.label.catalogPublishing.lastMonth=Last Month
+plugin.businessPartnerDashboard.label.catalogPublishing.lastQuarter=Last Quarter
+plugin.businessPartnerDashboard.label.catalogPublishing.lastSixMonth=Last 6 Months
+plugin.businessPartnerDashboard.label.catalogPublishing.lastWeek=Last Week
+plugin.businessPartnerDashboard.label.catalogPublishing.lastYear=Last Year
+plugin.businessPartnerDashboard.label.catalogPublishing.older=Older
+plugin.businessPartnerDashboard.label.catalogPublishing.publishedAt=Published At
+plugin.businessPartnerDashboard.label.contractExpiration.contractDescription=Contract Description

@@ -1,0 +1,10 @@
+plugin.businessPartnerProfile.label.customer.profile.desc=If you logged in to the SSM for the first time, please check your personal profile. It contains the information on your address (street, city) and your email address.<br/> SSM needs these data to work correctly, otherwise you may experience problems with your files and also your access to the available functions and services. Make sure all required fields are filled with the correct data.
+plugin.businessPartnerProfile.label.customerId=Customer ID
+plugin.businessPartnerProfile.label.datePattern=Date Pattern
+plugin.businessPartnerProfile.label.decimalSeparator=Decimal Separator
+plugin.businessPartnerProfile.label.editAddress=Addresses
+plugin.businessPartnerProfile.label.editAddress.desc=Enter or edit all address information on this page. This address is used system wide if it has been assigned to a user.
+plugin.businessPartnerProfile.label.email=Email
+plugin.businessPartnerProfile.label.exportInitCatalogReview=Catalog Export for Review
+plugin.businessPartnerProfile.label.faxNo=FaxNo
+plugin.businessPartnerProfile.label.formatName=Input File Format

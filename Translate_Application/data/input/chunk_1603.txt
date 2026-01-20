@@ -1,0 +1,10 @@
+plugin.requisitionProcessingRulesCommon.label.actions=Actions
+plugin.requisitionProcessingRulesCommon.label.changedBy=Changed By
+plugin.requisitionProcessingRulesCommon.label.changedOn=Changed On
+plugin.requisitionProcessingRulesCommon.label.createdBy=Created By
+plugin.requisitionProcessingRulesCommon.label.createdOn=Created On
+plugin.requisitionProcessingRulesCommon.tooltip.locked=Locked
+plugin.requisitionProcessingRulesCommon.value.no=N
+plugin.requisitionProcessingRulesCommon.value.notExist=does not exist
+plugin.requisitionProcessingRulesCommon.value.null=Empty (no value)
+plugin.requisitionProcessingRulesCommon.value.reset=---Reset---

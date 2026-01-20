@@ -1,0 +1,10 @@
+language.es.name=Espa\u00f1ol
+lockManager.confirm.unlock=Do you really want to unlock object?
+lockManager.desc=Lock Manager displays list of locked objects in the system and provides possibility to unlock them.
+lockManager.error.invalidId=Object Lock with given ID doesn't exist
+lockManager.error.unlockFail=Failed to unlock object
+lockManager.label.actions=Actions
+lockManager.label.app=App
+lockManager.label.appServInstance=App Server Instance
+lockManager.label.aquiredOn=Acquired On
+lockManager.label.desc=Desc

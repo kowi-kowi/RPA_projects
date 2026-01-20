@@ -1,0 +1,10 @@
+jobExecutionVisualization.message.recentResult=Recent result\:
+jobExecutionVisualization.operation.stop=Stop
+jobExecutionVisualization.title.jobProgress=Job execution progress
+jobParameterSet.message.activationDate.tooEarly=Activation date can't be earlier than current one.
+jobParameterSet.message.businessRuleList.notExists=Business Rule List "{3}" does not exist.
+jobParameterSet.message.catalog.notExists=Catalog "{3}" does not exist.
+jobParameterSet.message.contract.notAssignedToCatalog=Contract "{3}" is not assigned to Catalog "{4}".
+jobParameterSet.message.contract.notExists=Contract with version {3} does not exist.
+jobParameterSet.message.contract.restrictedByCatalog=The contract "{4}" is not assigned to the catalog "{3}".
+jobParameterSet.message.customer.notAssignedToCatalog=Customer "{3}" is not assigned to Catalog "{4}".

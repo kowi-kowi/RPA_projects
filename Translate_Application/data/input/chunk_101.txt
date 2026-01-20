@@ -1,0 +1,10 @@
+PROC.Validation.errors.required=The field cannot be empty.
+PROC.export.pdf.purchaseOrder.labels.attachments=Attachments\:
+PROC.export.pdf.purchaseOrder.labels.building=Building\:
+PROC.export.pdf.purchaseOrder.labels.changeDate=Change Date\:
+PROC.export.pdf.purchaseOrder.labels.customerId=Customer ID\:
+PROC.export.pdf.purchaseOrder.labels.deliveryAddress=Delivery Address\:
+PROC.export.pdf.purchaseOrder.labels.deliveryTerms=Delivery Terms\:
+PROC.export.pdf.purchaseOrder.labels.department=Department\:
+PROC.export.pdf.purchaseOrder.labels.email=Email\:
+PROC.export.pdf.purchaseOrder.labels.floor=Floor\:

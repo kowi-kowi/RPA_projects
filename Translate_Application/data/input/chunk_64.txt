@@ -1,0 +1,10 @@
+PROC.PostingEditor.errors.bulk.noItemsSelected=No items were selected for the bulk update.
+PROC.PostingEditor.errors.setAsDefault.saveError=An error occurred when setting the Default Posting Dimension Value.
+PROC.PostingEditor.errors.setAsDefault.saveSuccess=Default Posting Dimension Value has been updated.
+PROC.PostingEditor.labels.PERCENT=Percent
+PROC.PostingEditor.labels.PRICE=Price
+PROC.PostingEditor.labels.QUANTITY=Quantity
+PROC.PostingEditor.labels.glAccount=GL Account
+PROC.PostingEditor.labels.primaryDimension=Primary Dimension
+PROC.PostingEditor.labels.secondaryDimension=Secondary Dimension
+PROC.PostingGlAccountInput.customerId=Customer ID

@@ -1,0 +1,10 @@
+opc.product.attachments.button.manage=Manage Attachments
+opc.product.attachments.header=Product attachments
+opc.product.attachments.list=Attached documents
+opc.product.cart.duplicate.modal.button.add=Add one more item
+opc.product.cart.duplicate.modal.button.increase=Add the quantity to the existing item
+opc.product.cart.duplicate.modal.content=This product is already present in your cart. How would you like to proceed
+opc.product.cart.duplicate.modal.header=Duplicated Item
+opc.product.details.attributes.configure=Configure Attributes
+opc.product.details.classification.catalog.classification.group.title=Group
+opc.product.details.classification.catalog.classification.title=Classification

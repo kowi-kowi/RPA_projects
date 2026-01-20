@@ -1,0 +1,10 @@
+PROC.ProfessionalBuyerTool.labels.requisition=Requisition
+PROC.ProfessionalBuyerTool.labels.requisitionId=Requisition ID
+PROC.ProfessionalBuyerTool.labels.requisitionItems=Requisition Items
+PROC.ProfessionalBuyerTool.labels.requisitionName=Requisition Name
+PROC.ProfessionalBuyerTool.labels.salutation=Salutation
+PROC.ProfessionalBuyerTool.labels.shortDescription=Short Description
+PROC.ProfessionalBuyerTool.labels.split=Split
+PROC.ProfessionalBuyerTool.labels.splitQuantity=Units of {quantity} {uom}
+PROC.ProfessionalBuyerTool.labels.splitRequisitionItem=Split Requisition Item for {salesOrderId}
+PROC.ProfessionalBuyerTool.labels.splitSpecInfo={quantity} {uom} remain(s) constant for each division.

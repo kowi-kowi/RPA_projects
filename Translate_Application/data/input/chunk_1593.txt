@@ -1,0 +1,10 @@
+plugin.purchasingProjectEditor.rfQItem.untyped=Untyped
+plugin.purchasingProjectEditor.rfq.creation.message=Creating RFQ for product...
+plugin.purchasingProjectEditor.rfqTemplate.action.cancel=Cancel
+plugin.purchasingProjectEditor.rfqTemplate.action.createRfq=Create
+plugin.purchasingProjectEditor.rfqTemplate.createRfq.label=Use blank template
+plugin.purchasingProjectEditor.rfqTemplate.createRfqFromTemplate.label=Use the following template
+plugin.purchasingProjectEditor.rfqTemplate.templateSelection.title=Create RFX
+plugin.purchasingProjectEditor.section.collaboration=Collaboration
+plugin.purchasingProjectEditor.tab.attachments=Attachments
+plugin.purchasingProjectEditor.tab.attributes=Attributes

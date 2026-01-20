@@ -1,0 +1,10 @@
+plugin.customerViewEditor.viewFilter.property.isMainProdLine=IsMainProdLine
+plugin.customerViewEditor.viewFilter.property.keywords=Keywords
+plugin.customerViewEditor.viewFilter.property.manufacturerName=Manufacturer Name
+plugin.customerViewEditor.viewFilter.property.mfgProductId=Manufacturer product no
+plugin.customerViewEditor.viewFilter.property.supplierId=Supplier
+plugin.customerViewEditor.viewFilter.unique.message=Duplicate condition
+plugin.customerViewEditor.viewProduct.unique.message=Duplicate product
+plugin.customerViews.error.view.exist=Customer View with such ID and customer already exists.
+plugin.dbQueryTool.command.execute=Execute
+plugin.dbQueryTool.command.export.excel=Excel

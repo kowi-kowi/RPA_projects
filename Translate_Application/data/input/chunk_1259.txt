@@ -1,0 +1,10 @@
+plugin.opcSalesorder.message.validation.posting.invalidsum.percentage=The sum of percentages of the Posting Items for the product ''{0}'' is not equal to 100%.
+plugin.opcSalesorder.message.validation.posting.invalidsum.price=The sum of split prices of the Posting items for the product ''{0}'' is not equal to {1}.
+plugin.opcSalesorder.message.validation.posting.invalidsum.quantity=The sum of split quantities of the Posting items for the product ''{0}'' is not equal to {1}.
+plugin.opcSalesorder.message.validation.posting.item.nonUnique=Lines with the same combination of GL Account and Primary Dimension values are not allowed.
+plugin.opcSalesorder.message.validation.posting.item.required=Please, specify the Posting Details for the product ''{0}''.
+plugin.opcSalesorder.message.validation.posting.notAvailable.dimension=Dimension ''{0}'' is not available for the current user.
+plugin.opcSalesorder.message.validation.posting.notAvailable.dimensionValue=Dimension Value ''{0}'' of the Dimension ''{1}'' is not available in the system.
+plugin.opcSalesorder.message.validation.posting.notAvailable.glAccount=GL Account ''{0}'' is not available in the system. Please specify a valid GL Account for each entry of the Posting Details for the product ''{1}'' and proceed to checkout.
+plugin.opcSalesorder.message.validation.posting.primaryDimension.statisticalValue=Dimension Value ''{0}'' is statistical and cannot be used with the Primary Dimension ''{1}''.
+plugin.opcSalesorder.message.validation.posting.required.dimensionValue=Dimension Value is required. Please, specify a Primary Dimension Value for each line of Posting Details for the product ''{0}'' and proceed to check out.

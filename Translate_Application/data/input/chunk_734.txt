@@ -1,0 +1,10 @@
+plugin.catalogReport.command.back=Back
+plugin.catalogReport.command.generate=Generate Report
+plugin.catalogReport.command.refresh=Refresh
+plugin.catalogReport.error.unexpected=Unexpected error occurred\: {0}
+plugin.catalogReport.label.activatedOn=Activated On
+plugin.catalogReport.label.approvedOn=Approved On
+plugin.catalogReport.label.catalog=Catalog
+plugin.catalogReport.label.customer=Customer
+plugin.catalogReport.label.downloadedOn=Downloaded On
+plugin.catalogReport.label.links=Links

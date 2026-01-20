@@ -1,0 +1,10 @@
+plugin.customDemodata.label.upload=Upload
+plugin.customDemodata.message.error=Error\:
+plugin.customDemodata.success.importPassed=The import has been finished successfully.
+plugin.customDemodata.title=Populate custom demo data
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.addressAssociations.label=Address Associations
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.catalogUsages.label=Catalog Usages
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.classificationUsages.label=Classification Usages
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.contractUsages.label=Contract Usages
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.currency.label=Currency
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.customerGroup.label=Customer Group

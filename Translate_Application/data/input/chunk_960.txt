@@ -1,0 +1,10 @@
+plugin.maintenance.desc=The Maintenance functionality provides the possibility to restrict access to the system for the users without appropriate roles. This functionality can be scheduled for the further realms disabling for some period of time.
+plugin.maintenance.disable=Disable
+plugin.maintenance.disablePeriod=Do you really want to disable the selected maintenance period?
+plugin.maintenance.disableSelected=Disable Selected
+plugin.maintenance.disableSelected.confirmation=Do you really want to disable the selected maintenance periods?
+plugin.maintenance.enabledPeriods=Enabled Maintenance Periods
+plugin.maintenance.futureMaintenancePeriods=Future Maintenance Periods
+plugin.maintenance.hint.executionTime=Scheduler time to start exporting, if not specified export is executed immediately.
+plugin.maintenance.hint.jobName.edit=Schedule unique Job Name
+plugin.maintenance.label.enableMaintenanceModeTitle=Enable Maintenance Mode

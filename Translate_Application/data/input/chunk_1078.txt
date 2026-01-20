@@ -1,0 +1,10 @@
+plugin.opcBrowseContracts.message.noDocuments=No Documents available.
+plugin.opcBrowseContracts.message.supplier.isNotAllowed=You are not allowed to see detailed information for Supplier ''{0}''.
+plugin.opcBrowseContracts.message.supplier.wasNotFound=We cannot find the supplier ''{0}''. Please adjust your search keyword and use a wildcard * when you are unsure of the supplier's spelling.
+plugin.opcBrowseContracts.section.addresses=Addresses
+plugin.opcBrowseContracts.section.catalogsAndContracts=Catalogs and Contracts
+plugin.opcBrowseContracts.section.classificationGroups=Classification Groups
+plugin.opcBrowseContracts.section.contacts=Contacts
+plugin.opcBrowseContracts.section.documents=Documents
+plugin.opcBrowseContracts.section.supplierGroups=Supplier Groups
+plugin.opcBrowseContracts.section.suppliers=Suppliers

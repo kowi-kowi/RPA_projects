@@ -1,0 +1,10 @@
+businessRule.label.targetListId=Target list ID
+businessRule.label.type=Type
+businessRule.message.copied=The business rule has been copied.
+businessRule.message.created=New business rule has been created.
+businessRule.message.saved=The business rule has been saved.
+businessRule.precondition=Precondition
+businessRule.rule=Rule
+businessRule.search.header=Search
+businessRule.search.hint.actionExpression=Groovy expression or pattern for searching business rules by its action.
+businessRule.search.hint.description=Pattern for searching business rule by its description.

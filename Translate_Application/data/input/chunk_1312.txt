@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.error.edit.draftRequisition.conflict=The Draft Requisition was edited by another user. Your changes will not be applied.
+plugin.opcShoppingCart.error.emailSendFailed=Email for supplier is not sent.
+plugin.opcShoppingCart.error.glAccount.missing=GLAccount is missing.
+plugin.opcShoppingCart.error.itemWasRemoved=This item was removed from the current Cart. You can reload your cart to see the updates or wait for a while until the Surcharges recalculation has been ended.
+plugin.opcShoppingCart.error.massOperation.invalidDeliveryDate=The Delivery Due value is invalid. Please specify a valid date.
+plugin.opcShoppingCart.error.massOperation.updateDeliveryDate=An empty Delivery Date cannot be applied to Cart items
+plugin.opcShoppingCart.error.moveExternalItemsToDraftRequisition.fail=Selected items contain external product(s) and cannot be moved to the Draft Requisition.
+plugin.opcShoppingCart.error.orderNotificationEmail.invalid=Email "{0}" is not valid.
+plugin.opcShoppingCart.error.saveAddressInfoToSOI=Error occurred when saving data for the following sales order items\: {0}
+plugin.opcShoppingCart.error.saveGlAccount=Failed to save Item.

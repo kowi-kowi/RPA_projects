@@ -1,0 +1,10 @@
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.foreignTradeNo.label=Foreign Trade Number
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.foreignTradeType.label=Foreign Trade Type
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.id.label=Country ID
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.internatAccessCode.label=Internat Access Code
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.label=Country
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.language.label=Language
+plugin.domainCoreEditors.com.jcatalog.core.GormCountry.showDiversityInfo.label=Show Diversity Info
+plugin.domainCoreEditors.com.jcatalog.core.GormCurrency.description.label=Description
+plugin.domainCoreEditors.com.jcatalog.core.GormCurrency.id.label=Currency ID
+plugin.domainCoreEditors.com.jcatalog.core.GormCurrency.label=Currency

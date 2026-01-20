@@ -1,0 +1,10 @@
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxNum1.label=Udx Num1
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxNum2.label=Udx Num2
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxNum3.label=Udx Num3
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxSortKey1.label=Udx Sort Key1
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxSortKey2.label=Udx Sort Key2
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxSortKey3.label=Udx Sort Key3
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxText1.label=Manufacturer
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxText2.label=Site Survey Required
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.udxText3.label=Udx Text3
+plugin.purchasingProject.com.jcatalog.participant.BusinessObjectParticipant.businessObjectId.label=Business Object ID

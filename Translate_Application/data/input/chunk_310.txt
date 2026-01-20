@@ -1,0 +1,10 @@
+com.jcatalog.businesspartner.GormContact.lastName.label=Last Name
+com.jcatalog.businesspartner.GormContact.mobile.label=Mobile
+com.jcatalog.businesspartner.GormContact.phone.label=Phone
+com.jcatalog.businesspartner.GormContact.url.label=URL
+com.jcatalog.businesspartner.GormCustomer.customerGroup.name.label=Customer Group Name
+com.jcatalog.businesspartner.GormCustomer.customerId.label=Customer ID
+com.jcatalog.businesspartner.GormCustomer.customerName.label=Customer Name
+com.jcatalog.businesspartner.GormCustomer.header=Search for Customers
+com.jcatalog.businesspartner.GormCustomer.parentCustomer.validator.error=The relation cannot be created since it leads to cyclic dependencies.
+com.jcatalog.businesspartner.GormCustomerGroup.customerGroupId.blank=Property Customer Group ID cannot be blank

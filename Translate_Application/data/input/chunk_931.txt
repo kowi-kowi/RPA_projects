@@ -1,0 +1,10 @@
+plugin.grailsflow.label.status.KILLING=KILLING
+plugin.grailsflow.label.status.PENDING=PENDING
+plugin.grailsflow.label.status.RUNNING=RUNNING
+plugin.grailsflow.label.status.STOPPED=STOPPED
+plugin.grailsflow.label.status.SUSPENDED=SUSPENDED
+plugin.grailsflow.label.statuses=Statuses
+plugin.grailsflow.label.styleClass=Style class
+plugin.grailsflow.label.template=template
+plugin.grailsflow.label.textAreaView=Textarea
+plugin.grailsflow.label.time=Time

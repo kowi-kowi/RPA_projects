@@ -1,0 +1,10 @@
+plugin.productCatalogEditor.com.jcatalog.product.GormCatalogCategory.id.label=Catalog Category ID
+plugin.productCatalogEditor.com.jcatalog.product.GormCatalogCategory.label=Catalog Category
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.catalogCategory.label=Catalog Category
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.description.label=Description
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.isPunchoutOnly.label=Is Punchout Only
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.label=Catalog
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.languages.label=Languages
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.productCatalogId.hint=It can be defined only in create mode and can contain only alphanumeric characters, hyphens (-) and underscores (_).
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.productCatalogId.label=Catalog ID
+plugin.productCatalogEditor.com.jcatalog.product.GormProductCatalog.provisionings.label=Supplier

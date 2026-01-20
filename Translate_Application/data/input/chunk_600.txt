@@ -1,0 +1,10 @@
+message.export.catalog.workflow.mapping.empty.source.classification=Source classification is empty.
+message.export.catalog.workflow.mapping.empty.target.classification=Target classification is empty.
+message.export.catalog.workflow.mapping.errors=Errors occurred during the mapping.
+message.export.catalog.workflow.mapping.parameters=Source UoM \= ${sourceUom}, Target UoM \= ${targetUom}
+message.export.catalog.workflow.message.classificationMappingSkipped=Service message\: Classification mapping skipped because source and/or target classification is not specified.
+message.export.catalog.workflow.message.mappingsAreEqual=Service message\: Mapping skipped because source UoM equals to target UoM.
+message.export.catalog.workflow.noCurrentVersion=The catalog can not be exported because it has not yet been published.
+message.export.catalog.workflow.script.names.empty=No business rule scripts were found for the '${contentType}' content business rule type. No actions were performed.
+message.export.catalog.workflow.start=*******************\nCatalog Export Process\n*******************\n\nIdentification\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nProcess ID               ${processId}\nCatalog ID               ${catalogId}\nStarted at               ${now}\nby                       ${startedBy}\n\nDetails\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nSupplierId               ${supplierId}\nCustomerId               ${customerId}\n\n\nProcess Steps\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+message.export.catalog.workflow.validationResults.errors=Errors occurred during the catalog processing.

@@ -1,0 +1,10 @@
+plugin.opcAdministration.message.productNotFound=Product was not found by key
+plugin.opcAdministration.message.requestStatistics.assignment.customer=Customer ({0})
+plugin.opcAdministration.message.requestStatistics.assignment.supplier=Supplier ({0})
+plugin.opcAdministration.message.solrDataUsageInfo=Additional Solr search query
+plugin.opcAdministration.message.solrIsBusy=Solr is in progress
+plugin.opcAdministration.message.startCleaning=Cleaning...
+plugin.opcAdministration.message.statisticReports=Show statistics for searches\: used search terms and number of items found.
+plugin.opcAdministration.message.updateWarhouse=Update Data Warehouse for POI Analysis
+plugin.opcAdministration.message.userInfo=Show user info (session parameters, oci parameters, customer restrictions for catalogs and contracts, customer views, permissions, responsibilities)
+plugin.opcAdministration.opcAdministration.cmsContentIndexingForm.reindexButton.label=Reindex

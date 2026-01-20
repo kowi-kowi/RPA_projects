@@ -1,0 +1,10 @@
+plugin.grailsflow.command.deleteAll=Delete All
+plugin.grailsflow.command.details=Details
+plugin.grailsflow.command.down=Down
+plugin.grailsflow.command.edit=Edit
+plugin.grailsflow.command.editNodeActions=Edit Node Actions
+plugin.grailsflow.command.editTransitions=Edit Transitions
+plugin.grailsflow.command.exportAsHTML=Export as HTML
+plugin.grailsflow.command.exportCSV=Export CSV
+plugin.grailsflow.command.exportExcel=Export Excel
+plugin.grailsflow.command.filter=Filter

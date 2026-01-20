@@ -1,0 +1,10 @@
+plugin.deliveryNote.serviceEntriesSheet.headline.release=Service Entry Sheets Releasing
+plugin.deliveryNote.shipping_noticeSaveFailed.message=The Shipping Notice cannot be booked. Please check the entered data.
+plugin.deliveryNote.shipping_noticeSaveSuccess.message=Shipping Notice has been saved.
+plugin.deliveryNote.state.name1=Delivery Address
+plugin.deliveryNote.supplierName.label=Supplier Name
+plugin.deliveryNote.totalNetPrice.state=Total
+plugin.deliveryNote.type.delivery.headline=Goods Receipt
+plugin.deliveryNote.type.delivery.title=Goods Receipt
+plugin.deliveryNote.type.order_confirmation.headline=Order Confirmation
+plugin.deliveryNote.type.order_confirmation.title=Order Confirmation

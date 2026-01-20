@@ -1,0 +1,10 @@
+scheduling.label.jobStatus.ACTIVE=active
+scheduling.label.jobStatus.PASSIVE=passive
+scheduling.label.jobStatus.PAUSED=paused
+scheduling.label.jobStatus.RUNNING=running
+scheduling.label.lastRun=Last Run
+scheduling.label.logFile=Log file
+scheduling.label.nextRun=Next Run
+scheduling.label.operations=Operations
+scheduling.label.other.actions=Other actions
+scheduling.label.recurrence=Recurrence

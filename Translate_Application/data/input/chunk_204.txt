@@ -1,0 +1,10 @@
+SSM.productEditor.processCatalog.modal.supplierReview=Supplier Review
+SSM.productEditor.processCatalog.modal.title=Process Catalog
+SSM.productEditor.products=Products
+SSM.productEditor.productsBulkEdit.tab.classificationAttributes=Classifications
+SSM.productEditor.productsBulkEdit.tab.masterData=Master Data
+SSM.productEditor.productsBulkEdit.tab.productAttributes=Attributes
+SSM.productEditor.recheckCatalog=Recheck Catalog
+SSM.productEditor.republish.latest.catalog=Republish Current Catalog
+SSM.productEditor.resultsPerPage=Results per page
+SSM.productEditor.search.attribute.between=Between

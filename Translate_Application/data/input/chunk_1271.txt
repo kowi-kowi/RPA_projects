@@ -1,0 +1,10 @@
+plugin.opcSearch.fastEntryLink.label=Quick Entry
+plugin.opcSearch.filter.recommendationLevel.value={0} and higher
+plugin.opcSearch.filters.label.days=days
+plugin.opcSearch.filters.label.from=From
+plugin.opcSearch.filters.label.to=to
+plugin.opcSearch.freeTextOrderLink.label=Free Text Order
+plugin.opcSearch.header.advancedSearch=Advanced Search
+plugin.opcSearch.header.buy=Buy
+plugin.opcSearch.header.documentThumbnail=Preview
+plugin.opcSearch.header.extendedSearch=Extended Search

@@ -1,0 +1,10 @@
+command.copy=Copy
+command.createFile=Create
+command.createFolder=Create
+command.delete=Delete
+command.edit=Edit
+command.help=Help
+command.logout=Logout
+command.move=Move
+command.save=Save
+command.upload=Upload

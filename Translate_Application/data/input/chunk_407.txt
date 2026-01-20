@@ -1,0 +1,10 @@
+com.jcatalog.termsofbusiness.TermsOfPayment.header=Search for Terms Of Payment
+com.jcatalog.termsofbusiness.TermsOfPayment.key.label=Terms Of Payment ID
+com.jcatalog.termsofbusiness.TermsOfPayment.longDescription.label=Long Description
+com.jcatalog.valuelist.ValueList.description.label=Description
+com.jcatalog.valuelist.ValueList.header=Search for Value Lists
+com.jcatalog.valuelist.ValueList.id.label=Value List ID
+com.jcatalog.valuelist.ValueListItem.description.label=Description
+com.jcatalog.valuelist.ValueListItem.header=Search for Value List Items
+com.jcatalog.valuelist.ValueListItem.isDefault.label=Is Default
+com.jcatalog.valuelist.ValueListItem.orderNo.label=Order No

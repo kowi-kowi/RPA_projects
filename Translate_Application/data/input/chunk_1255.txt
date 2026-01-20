@@ -1,0 +1,10 @@
+plugin.opcSalesorder.message.validation.contract.notvalid=Contract is not valid.
+plugin.opcSalesorder.message.validation.costdistribution.invalidsum=Percentage sum for cost distribution positions for product {0} is not equal to 100%
+plugin.opcSalesorder.message.validation.costdistribution.invisible=Cost object {0} for product {1} in position {2} is not assigned to current user.
+plugin.opcSalesorder.message.validation.currencyConversion=Conversion rate {0}/{1} can not be found.
+plugin.opcSalesorder.message.validation.deliveryDate.invalid=Delivery date {1} for product {0} is before allowed {2}
+plugin.opcSalesorder.message.validation.details.isServiceConfigurator=Master of Service Configuration does not contain any child.
+plugin.opcSalesorder.message.validation.formProduct=Product {0} cannot be added to cart because it is form product.
+plugin.opcSalesorder.message.validation.frameAgreement.quantityContract.exceeded=The Cart contains product(s) <b>{0}</b> from contract <b>{1}</b> and catalog <b>{2}</b>. The Quantity of the Frame Agreement has been already exceeded. Please edit your Cart and try again.
+plugin.opcSalesorder.message.validation.frameAgreement.quantityContract.willExceed=The Cart contains product(s) <b>{0}</b> from contract <b>{1}</b> and catalog <b>{2}</b>. The remaining Quantity within the Frame Agreement is <b>{3} {4}</b>. The Frame Agreement will be exceeded during this order. Please edit your Cart and try again.
+plugin.opcSalesorder.message.validation.frameAgreement.valueContract.exceeded=The Cart contains product(s) <b>{0}</b> from contract <b>{1}</b> and catalog <b>{2}</b>. The Value (Total Price) of the Frame Agreement has been already exceeded. Please edit your Cart and try again.

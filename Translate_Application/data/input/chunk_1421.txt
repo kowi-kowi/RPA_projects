@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.deliverySchedule.button.hide=Delivery Plan (Hide)
+plugin.procPurchaseorder.deliverySchedule.button.show=Delivery Plan (Show)
+plugin.procPurchaseorder.deliverySchedule.label.delivery=Delivery
+plugin.procPurchaseorder.description.delivery.date=Exp. Delivery Date
+plugin.procPurchaseorder.erpTransfer.DeliveryNoteExport=Transfer manual Delivery Notes to ERP via Bapi
+plugin.procPurchaseorder.erpTransfer.PurchaseOrderExport=Transfer Purchase Orders to ERP via Bapi
+plugin.procPurchaseorder.error.booking=Booking was not successfully done for purchase order position {0}. Please, contact the administrator.
+plugin.procPurchaseorder.error.comment.required=Please add reason of cancelation.
+plugin.procPurchaseorder.error.emptyFields=Please fill date interval.
+plugin.procPurchaseorder.error.job.notSpecified=No jobs were specified for scheduling.

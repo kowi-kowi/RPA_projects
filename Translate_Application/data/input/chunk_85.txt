@@ -1,0 +1,10 @@
+PROC.PurchaseOrderEditor.grid.columns.manufacturerId=Manufacturer ID
+PROC.PurchaseOrderEditor.grid.columns.manufacturerName=Manufacturer Name
+PROC.PurchaseOrderEditor.grid.columns.mfgProductId=Manufacturer Product ID
+PROC.PurchaseOrderEditor.grid.columns.netPrice=Price
+PROC.PurchaseOrderEditor.grid.columns.netPriceLabel=Price
+PROC.PurchaseOrderEditor.grid.columns.orderItemNo=Item \#
+PROC.PurchaseOrderEditor.grid.columns.orderText=Order Text
+PROC.PurchaseOrderEditor.grid.columns.orderingStatus=Ordering
+PROC.PurchaseOrderEditor.grid.columns.percentageDiscount=Discount Percentage
+PROC.PurchaseOrderEditor.grid.columns.productDescLong=Long Description

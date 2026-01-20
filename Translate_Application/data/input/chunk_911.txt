@@ -1,0 +1,10 @@
+plugin.grailsflow.label.addAttributes=Add custom attributes here
+plugin.grailsflow.label.addItem=Add Item
+plugin.grailsflow.label.additionalFields=Additional fields
+plugin.grailsflow.label.analyseResponseTime=Analyse Response Time
+plugin.grailsflow.label.assignee=Assignee
+plugin.grailsflow.label.assignees=Assignees
+plugin.grailsflow.label.attributeName=Attribute Name
+plugin.grailsflow.label.attributeValue=Attribute Value
+plugin.grailsflow.label.attributes=Attributes
+plugin.grailsflow.label.availablePages=Available Pages\:

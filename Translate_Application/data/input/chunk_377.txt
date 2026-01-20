@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormPurchaseOrderItem.billingStatus=Billing Status
+com.jcatalog.salesorder.GormPurchaseOrderItem.building=Building
+com.jcatalog.salesorder.GormPurchaseOrderItem.comment=Comment
+com.jcatalog.salesorder.GormPurchaseOrderItem.confirmationComment=Confirmation Comment
+com.jcatalog.salesorder.GormPurchaseOrderItem.confirmedDate=Confirmed Date
+com.jcatalog.salesorder.GormPurchaseOrderItem.confirmedPrice=Confirmed Price
+com.jcatalog.salesorder.GormPurchaseOrderItem.confirmedQuantity=Confirmed Quantity
+com.jcatalog.salesorder.GormPurchaseOrderItem.contractedAbsoluteDiscount=Absolute Discount
+com.jcatalog.salesorder.GormPurchaseOrderItem.contractedPercentageDiscount=Percentage Discount
+com.jcatalog.salesorder.GormPurchaseOrderItem.costDistribution=Cost Distribution

@@ -1,0 +1,10 @@
+plugin.applicationMetrics.message.nothingFound=Nothing found.
+plugin.applicationMetrics.warning.applicationMetricsSwitchedOff=The Application Metrics functionality is switched off. To switch on the functionality and to display the actual data, please, set the value of the corresponding configuration attribute to "True".
+plugin.bootstrapUiCustomization.backToTop.button=Back to top
+plugin.bootstrapUiCustomization.cancel.button=Cancel
+plugin.bootstrapUiCustomization.confirmation.title=Confirmation
+plugin.bootstrapUiCustomization.exists.message=Theme already exists. Would you like to overwrite it?
+plugin.bootstrapUiCustomization.lessVariables.section.hint=Customize Less variables to define colors, sizes and more inside your custom CSS stylesheets.
+plugin.bootstrapUiCustomization.lessVariables.section.title=Less variables
+plugin.bootstrapUiCustomization.load.label=Load Theme
+plugin.bootstrapUiCustomization.message.ajax.loading=Please wait...

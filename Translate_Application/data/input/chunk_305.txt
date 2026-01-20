@@ -1,0 +1,10 @@
+com.jcatalog.bre.scheduling.job.BusinessRulePerformanceJobParameterSet.businessRuleListId.nullable=Business Rule List ID is a required field.
+com.jcatalog.bre.scheduling.job.BusinessRulePerformanceJobParameterSet.languageId.maxSize.exceeded=Language field must be a five-character code.
+com.jcatalog.budget.Budget.amount.label=Available Amount
+com.jcatalog.budget.Budget.objectId.label=Budget Object ID
+com.jcatalog.budget.Budget.period.validRange.to.label=Period To
+com.jcatalog.budget.Budget.plannedAmount.label=Planned Amount
+com.jcatalog.budget.Budget.usedAmount.label=Used Amount
+com.jcatalog.businesspartner.Address.addressId.label=Address ID
+com.jcatalog.businesspartner.Address.city.label=City
+com.jcatalog.businesspartner.Address.header=Search for Addresses

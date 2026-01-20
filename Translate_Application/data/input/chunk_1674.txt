@@ -1,0 +1,10 @@
+plugin.ssmGrailsflow.message.status.validationErrors=with validation errors
+plugin.ssmGrailsflow.message.status.validationWarnings=with validation/cleansing warnings
+plugin.ssmGrailsflow.message.status.withoutErrorWarnings=without any errors/warnings
+plugin.ssmGrailsflow.message.supplier.invalidCharacterCase=Supplier ID is case sensitive. Use "{1}" instead of "{0}".
+plugin.ssmGrailsflow.message.supplier.notExists=Supplier "{0}" does not exist.
+plugin.ssmGrailsflow.message.supplierNotAssignedToCatalog=The selected catalog is not assigned to the current supplier. You need to remove the catalog selection or select a different catalog (if this is a required field).
+plugin.ssmGrailsflow.message.worklist.customerAssignement.required=Warning\: Customer assignment is required to show the Work List.
+plugin.ssmGrailsflow.message.worklist.supplierAssignement.required=Warning\: Supplier assignment is required to show the Work List.
+plugin.ssmGrailsflow.rerun.error.import.file.cannot.be.resolved=Product import file cannot be resolved from upload directory of previous process. Please, choose new files.
+plugin.ssmGrailsflow.title.processDetails.desc=This page displays the details of the Process, you can see all Process Variables, Nodes, Logs of workflow execution, links to the generated Reports, details descriptions and explanations of any errors/warnings and etc.

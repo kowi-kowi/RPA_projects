@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.oldTotalNetPrice=Previous Total Net Price
+plugin.procPurchaseorder.label.oldValue=Old value
+plugin.procPurchaseorder.label.onBehalfOf=On Behalf of
+plugin.procPurchaseorder.label.openQuantity=Open Quantity
+plugin.procPurchaseorder.label.operation=Operations
+plugin.procPurchaseorder.label.operations=Operations
+plugin.procPurchaseorder.label.orderHeaderChanges=Order Header Changes
+plugin.procPurchaseorder.label.orderId=Purchase Order ID
+plugin.procPurchaseorder.label.orderItemNo=Order Item Number
+plugin.procPurchaseorder.label.orderItemsChanges=Order Items Changes

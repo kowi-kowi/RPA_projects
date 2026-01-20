@@ -1,0 +1,10 @@
+plugin.procRequisition.title.salesOrderHistory=Requisition History
+plugin.procRequisition.title.search=Search for Requisitions
+plugin.procRequisition.title.sendEvent=Approval event notification
+plugin.procRequisition.title.soPosition=Requisition positions
+plugin.procRequisition.tooltip.delegationInfo=Delegated from
+plugin.procRequisition.tooltip.mailInfo=Reminder email sent to {0} at {1}
+plugin.procRequisition.value.unknown=unknown
+plugin.procRequisition.warning.customerIsDiffer=You are currently assigned to customer ''{0}''. To see requisition ''{1}'' you must switch assignment to ''{2}''. <br/> (Attention\: if you have active shopping cart it will be lost)
+plugin.procRequisition.warning.customerIsNotAssignedForUser=The operation cannot be performed. Customer "{0}" is not in the user-to-customer relation.
+plugin.procRequisition.warning.customerNotAvailable=Requisition was created by customer ''{0}'' which you don't have access to and therefore cannot see the requisition.

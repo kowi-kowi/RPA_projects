@@ -1,0 +1,10 @@
+com.jcatalog.businesspartner.Customer.header=Search for Customers
+com.jcatalog.businesspartner.CustomerGroup.customerGroupId.label=Customer Group ID
+com.jcatalog.businesspartner.CustomerGroup.header=Search for Customer Groups
+com.jcatalog.businesspartner.CustomerGroup.name.label=Description
+com.jcatalog.businesspartner.GormAddress.addressId.label=Address ID
+com.jcatalog.businesspartner.GormAddress.city.label=City
+com.jcatalog.businesspartner.GormAddress.corporateURL.url.error=Value must be a valid URL
+com.jcatalog.businesspartner.GormAddress.email.validator.error=Email (or comma separated emails) is expected
+com.jcatalog.businesspartner.GormAddress.header=Search for Addresses
+com.jcatalog.businesspartner.GormAddress.name1.label=Name 1

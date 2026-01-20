@@ -1,0 +1,10 @@
+deltaReport.header.productData.relatedSheets.c=C
+deltaReport.header.productData.relatedSheets.cpi=CPI
+deltaReport.header.productData.relatedSheets.pr=PR
+deltaReport.header.productData.sheetName=Product Data
+deltaReport.header.productData.tooltip.classification.body=Change details on "Classification" sheet
+deltaReport.header.productData.tooltip.classification.header=Classification
+deltaReport.header.productData.tooltip.contactedProduct.body=Change details on "Contacted Product Info" sheet
+deltaReport.header.productData.tooltip.contactedProduct.header=Contacted Product Info
+deltaReport.header.productData.tooltip.productRelation.body=Change details on "Product Relation" sheet
+deltaReport.header.productData.tooltip.productRelation.header=Product Relation

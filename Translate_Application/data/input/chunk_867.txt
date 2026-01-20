@@ -1,0 +1,10 @@
+plugin.employeeBudget.jobCategoryId.notFound.message=Job Category with this ID was not found.
+plugin.employeeBudget.noBudgetsFound.message=No Budgets found.
+plugin.employeeBudget.noJobCategoryFound.message=Job category is required to create budget.
+plugin.employeeBudget.postingReason.label=Posting Reason
+plugin.employeeBudget.reversingEntry.button=Reversing Entry
+plugin.employeeBudget.section.bookBudget=Book Credits
+plugin.employeeBudget.section.createBudget=Assign Credits
+plugin.employeeBudget.section.existingBudgets=Assigned Credits
+plugin.employeeBudget.validRange.from.null.message='From' cannot be null.
+plugin.employeeBudget.validRange.overlap.message=Work terms are overlapped. <b><a href\="{0}" target\="_blank">Click</a></b> to see it.

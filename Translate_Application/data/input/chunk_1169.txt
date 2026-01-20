@@ -1,0 +1,10 @@
+plugin.opcOci.message.invalidRelations=Related products cannot be added to the cart. Please check the error messages on the related products.
+plugin.opcOci.message.pageIsReadonly=This page is displayed in read only mode. Please don't try to use the search and other functions on this page.
+plugin.opcOci.message.productUpdated=Cart item ''{0}'' updated.
+plugin.opcOci.message.validation.ambiguousContract=Contract cannot be determined.
+plugin.opcOci.message.validation.contractNotFound=Contract with Contract ID ''{0}'' was not found.
+plugin.opcOci.message.validation.productNotFound=Product with key ''{0}'' was not found.
+plugin.opcOci.message.validtion.quantity.notValid=Quantity is not valid.
+plugin.opcOci.title.invalidOciParameters=Invalid OCI parameters
+plugin.opcOci.title.submitingData=Submitting data
+plugin.opcOrder.action.ok=Ok

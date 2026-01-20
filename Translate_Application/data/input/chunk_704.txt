@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.label.contractExpiration.contractId=Contract ID
+plugin.businessPartnerDashboard.label.contractExpiration.expired=Expired
+plugin.businessPartnerDashboard.label.contractExpiration.expiredInMonth=Next Month
+plugin.businessPartnerDashboard.label.contractExpiration.expiredInQuarter=Next Quarter
+plugin.businessPartnerDashboard.label.contractExpiration.expiredInWeek=Next Week
+plugin.businessPartnerDashboard.label.contractExpiration.expiredLater=Later
+plugin.businessPartnerDashboard.label.contractExpiration.validFrom=Valid From
+plugin.businessPartnerDashboard.label.contractExpiration.validTo=Valid To
+plugin.businessPartnerDashboard.label.contractExpiration.withoutExpiration=No expiration data available
+plugin.businessPartnerDashboard.label.export=Export

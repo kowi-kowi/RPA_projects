@@ -1,0 +1,10 @@
+plugin.productReviewEditor.label.price.grossPrice=Gross Price
+plugin.productReviewEditor.label.price.listPrice=List Price
+plugin.productReviewEditor.label.price.netPrice=Net Price
+plugin.productReviewEditor.label.price.priceType=Price Type
+plugin.productReviewEditor.label.price.priceUnit=Price Unit
+plugin.productReviewEditor.label.price.productIdExtensionForUoM=Extension for UoM
+plugin.productReviewEditor.label.price.statusId=Status
+plugin.productReviewEditor.label.price.unitOfMeasureId=Unit of measure
+plugin.productReviewEditor.label.price.valid=Valid
+plugin.productReviewEditor.label.price.validFromQuantity=From Quantity

@@ -1,0 +1,10 @@
+SSM.TimeOfCatalogProcessing.appMetrics.chart.yaxis.label=Time (in minutes) of Catalogs Processing via Supplier Workflow
+SSM.TimeOfCatalogProcessing.appMetrics.numbers.label=Time (in minutes)
+SSM.TimeOfCatalogProcessing.description=The total time of execution (in minutes) of the Supplier Workflows, which have been finished during the day; executed daily
+SSM.TotalNoOfCatalogs.appMetrics.chart.yaxis.label=Number of Catalogs
+SSM.TotalNoOfCatalogs.appMetrics.numbers.label=Number of Catalogs
+SSM.TotalNoOfCatalogs.description=The total number of catalogs
+SSM.TotalNoOfContracts.appMetrics.chart.yaxis.label=Number of Contracts
+SSM.TotalNoOfContracts.appMetrics.numbers.label=Number of Contracts
+SSM.TotalNoOfContracts.description=The total number of contracts
+SSM.TotalNoOfSuppliers.appMetrics.chart.yaxis.label=Number of Suppliers

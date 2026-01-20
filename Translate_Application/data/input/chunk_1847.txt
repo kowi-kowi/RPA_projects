@@ -1,0 +1,10 @@
+scheduling.confirm.delete.job.yes=Yes
+scheduling.confirm.deleteSelected=Are you sure to delete the selected items?
+scheduling.confirm.deleteSelected.job.title=Delete Jobs
+scheduling.confirm.deleteSelected.noItemsSelected.alert=Items are not selected\!
+scheduling.details.boolean.no=No
+scheduling.details.boolean.yes=Yes
+scheduling.details.command.addJob=Add Job
+scheduling.details.command.scheduleProcess=Schedule Process
+scheduling.details.label.attributes=Attributes
+scheduling.details.label.clockTime=(24 hour clock)

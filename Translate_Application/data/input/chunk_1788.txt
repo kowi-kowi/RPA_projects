@@ -1,0 +1,10 @@
+proc.widgets.title.approvalCount=Total Approval Workflows
+proc.widgets.title.averageApprovalTime=Average Approval Time
+proc.widgets.title.budgetStatus=Budget Status
+proc.widgets.title.messageBoard=Message Board
+proc.widgets.title.numberOfSuppliers=Total Suppliers Quantity
+proc.widgets.title.openDeliveries=Open Deliveries
+proc.widgets.title.poCount=Total Purchase Orders
+proc.widgets.title.poLineCount=Total Purchase Order Items
+proc.widgets.title.purchaseOrderDelivery=Purchase Order Delivery Overview
+proc.widgets.title.recurrentRequisitions=Recurrent Requisitions

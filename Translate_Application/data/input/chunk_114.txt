@@ -1,0 +1,10 @@
+RFQ.expirationLabel.expiresInDay={count} day left
+RFQ.expirationLabel.expiresInDays={count} days left
+RFQ.expirationLabel.expiresToday=Today
+RFQ.fieldValue.label.none=none
+RFQ.importItemsModal.cancel=Cancel
+RFQ.importItemsModal.titleItems=Import Items
+RFQ.importItemsModal.titleSubItems=Import Subitems
+RFQ.importResultStep.addedItems={count} Item(s) were added.
+RFQ.importResultStep.failedItems=Import of {count} item(s) failed.
+RFQ.importResultStep.finishedWithErrors=The import is finished with errors.

@@ -1,0 +1,10 @@
+plugin.opcGenericAttributes.attributes.description.checkbox.unselected=Unselected
+plugin.opcGenericAttributes.attributes.description.copyAttributeValues=from {0} to {1}
+plugin.opcGenericAttributes.attributes.description.expression=Attribute {0} is evaluated by expression\: {1}
+plugin.opcGenericAttributes.attributes.description.externalDataLookupForField.forAttribute=Manually for attribute {0} execute groovy script {1}
+plugin.opcGenericAttributes.attributes.description.externalDataLookupForField.onPageLoad=Automatically on page load execute groovy script {0}
+plugin.opcGenericAttributes.attributes.description.fieldMandatory=If attribute {0} has value(s) {1} then make attribute(s) {2} mandatory
+plugin.opcGenericAttributes.attributes.description.fieldMandatory_multiple=If the following attributes and values are selected\: {0} then make attribute(s) {1} mandatory
+plugin.opcGenericAttributes.attributes.description.fieldVisibility=If attribute {0} has value(s) {1} then make attribute(s) {2} hidden
+plugin.opcGenericAttributes.attributes.description.fieldVisibility_multiple=If the following attributes and values are selected\: {0} then make attribute(s) {1} hidden
+plugin.opcGenericAttributes.attributes.description.selectboxTooltip=If attribute {0} has value(s) {1} then show image {2} and description {3}

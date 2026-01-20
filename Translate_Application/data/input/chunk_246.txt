@@ -1,0 +1,10 @@
+administration.title.rejection=Rejection
+administration.title.rejectionWindow=Note that the whole order will be rejected. Please, enter a reason for rejecting the selected items.
+administration.title.soPosition=Requisition positions
+administration.warning.budget.exceeded=Budget of {0}({1}) is exceeded for the list\: {2}.
+administration.warning.soi.budget.exceeded=Budget is exceeded for this item.
+appMetrics.button.calculate=Calculate
+appMetrics.chart.yaxis.label=Data Values
+appMetrics.command.collectMetricsNow=Collect Metrics Now
+appMetrics.command.reset=Reset
+appMetrics.command.search=Search

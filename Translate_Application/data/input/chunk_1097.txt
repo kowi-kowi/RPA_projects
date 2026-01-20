@@ -1,0 +1,10 @@
+plugin.opcCommons.action.configure=Fill in form
+plugin.opcCommons.action.continue=Continue
+plugin.opcCommons.action.delete=Delete
+plugin.opcCommons.action.download=Download
+plugin.opcCommons.action.edit=Edit
+plugin.opcCommons.action.execute=Execute
+plugin.opcCommons.action.hide=Hide
+plugin.opcCommons.action.less=Less
+plugin.opcCommons.action.more=More
+plugin.opcCommons.action.ok=Ok

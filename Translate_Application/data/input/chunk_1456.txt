@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.menu.checkInvoices=Check Invoices
+plugin.procPurchaseorder.menu.enterInvoices=Enter Invoices
+plugin.procPurchaseorder.menu.getPurchaseOrders=Purchase Orders
+plugin.procPurchaseorder.menu.invoiceManagement=Invoice Management
+plugin.procPurchaseorder.menu.myProfile=My Profile
+plugin.procPurchaseorder.menu.purchase.automaticGRBooking=Auto Goods Receipt
+plugin.procPurchaseorder.menu.purchase.purchaseOrderConfirmation=Purchase Order Confirmation
+plugin.procPurchaseorder.menu.purchase.purchaseOrdersOverview=Purchase Orders
+plugin.procPurchaseorder.menu.setup=Setup
+plugin.procPurchaseorder.merge2PurchaseOrder.error.common=The Requisition item(s) cannot be added to the Purchase Order ''{0}''.

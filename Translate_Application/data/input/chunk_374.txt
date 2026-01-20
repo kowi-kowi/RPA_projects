@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormPurchaseOrder.orderText=Order Text
+com.jcatalog.salesorder.GormPurchaseOrder.orderTypeId=Order Type
+com.jcatalog.salesorder.GormPurchaseOrder.owner=Owner
+com.jcatalog.salesorder.GormPurchaseOrder.phoneNo=Phone No.
+com.jcatalog.salesorder.GormPurchaseOrder.poId.label=PO ID
+com.jcatalog.salesorder.GormPurchaseOrder.purchaseOrderId=Purchase Order ID
+com.jcatalog.salesorder.GormPurchaseOrder.purchaseOrderInfo.label=PO ID<br>Ext. Purchase Order
+com.jcatalog.salesorder.GormPurchaseOrder.purchaseOrderItems.requisitionId.label=Requisition ID
+com.jcatalog.salesorder.GormPurchaseOrder.purchaseOrderItems.requisitionInfo.label=Requisition ID<br>Requisition Name
+com.jcatalog.salesorder.GormPurchaseOrder.purchaseOrderItems.requisitionName.label=Requisition Name

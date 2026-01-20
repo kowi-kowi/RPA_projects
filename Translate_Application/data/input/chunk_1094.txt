@@ -1,0 +1,10 @@
+plugin.opcCommonUi.label.salesorder.DELEGATED=Delegated
+plugin.opcCommonUi.label.salesorder.PENDING_CHANGES=Pending Changes
+plugin.opcCommonUi.label.salesorder.PERSONAL=Personal
+plugin.opcCommonUi.label.salesorder.SHARED=Shared
+plugin.opcCommonUi.label.salesorder.demandCollection=Demand Collection
+plugin.opcCommonUi.label.salesorder.replenishment=Replenishment
+plugin.opcCommonUi.label.searchOnBehalf=Search on behalf of
+plugin.opcCommonUi.label.serviceConfiguration=Service Configuration
+plugin.opcCommonUi.label.serviceConfiguratorProduct=Service Configurator
+plugin.opcCommonUi.label.sessionExpired=Communication with server failed. Try to reload current page in browser.

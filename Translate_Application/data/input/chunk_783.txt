@@ -1,0 +1,10 @@
+plugin.collaboration.confirmation.title=Confirmation
+plugin.collaboration.error.accessDeniedError=Access denied
+plugin.collaboration.error.badRequestError=Bad request
+plugin.collaboration.error.notFoundError=Data is not found
+plugin.collaboration.error.serverError=Error occurred, please contact your administrator
+plugin.collaboration.error.unauthorizedError=Unauthorized access
+plugin.collaboration.info.postingMessage=Posting message...
+plugin.collaboration.info.sentSuccessfully=Message was sent successfully to group ''{0}''
+plugin.collaboration.link.attachments=attachments
+plugin.collaboration.link.comment=comment

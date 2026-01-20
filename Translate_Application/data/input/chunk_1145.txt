@@ -1,0 +1,10 @@
+plugin.opcEasysearch.label.catalog=Product Catalog Search
+plugin.opcEasysearch.label.catalogUserFirstName=First Name
+plugin.opcEasysearch.label.catalogUserLoginName=Login
+plugin.opcEasysearch.label.catalogUserSecondName=Second Name
+plugin.opcEasysearch.label.city=City
+plugin.opcEasysearch.label.contract=Contract Search
+plugin.opcEasysearch.label.costObject.descr=Item Description
+plugin.opcEasysearch.label.costObject.id=Cost Object ID
+plugin.opcEasysearch.label.costObject.type=Cost Object Type
+plugin.opcEasysearch.label.customerId=Customer ID

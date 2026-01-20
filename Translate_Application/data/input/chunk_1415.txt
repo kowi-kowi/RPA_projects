@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.command.check=Check
+plugin.procPurchaseorder.command.clear=Clear
+plugin.procPurchaseorder.command.confirm=Confirm
+plugin.procPurchaseorder.command.confirmSelected=Confirm Selected
+plugin.procPurchaseorder.command.create=Create
+plugin.procPurchaseorder.command.createCollectiveInvoice=Create Collective Invoice
+plugin.procPurchaseorder.command.createCreditNote=Create Credit Note
+plugin.procPurchaseorder.command.createInvoice=Create Invoice
+plugin.procPurchaseorder.command.createManualCreditNote=Manual Credit Note
+plugin.procPurchaseorder.command.createManualInvoice=Manual Invoice

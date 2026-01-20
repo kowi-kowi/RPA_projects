@@ -1,0 +1,10 @@
+plugin.opcCommons.tabtitle.shoppingList=My List
+plugin.opcCommons.tabtitle.user=User
+plugin.opcCommons.title.accessDenied=Access Denied
+plugin.opcCommons.title.admin=System Administration
+plugin.opcCommons.title.analysis=Analysis
+plugin.opcCommons.title.authorizationError=Authorization failed
+plugin.opcCommons.title.cart=Cart
+plugin.opcCommons.title.changePassword=Change Password
+plugin.opcCommons.title.contractSelection=Contract Selection
+plugin.opcCommons.title.currentUser=Current User

@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.purchaseOrderUpdate.addItems.reject=The items should have the same supplier ({0}) and currency ({1}) as in the current order.
+plugin.opcShoppingCart.question.deleteAllCartItems=Do you really want to remove all products from the shopping cart?
+plugin.opcShoppingCart.question.deleteCartItem=Do you really want to remove the product from the shopping cart?
+plugin.opcShoppingCart.rfq.required.message=RfQ must be used.
+plugin.opcShoppingCart.rfq.required.productId=Product ID
+plugin.opcShoppingCart.rfq.required.quantity=Quantity
+plugin.opcShoppingCart.rfq.required.reason=Reason\: {0}. <br> Products involved\:
+plugin.opcShoppingCart.rfq.required.shortDesc=Short Description
+plugin.opcShoppingCart.salesOrderItem.quantity.max.error=Value {2} of quantity is not valid. It must be less then {3}.
+plugin.opcShoppingCart.salesOrderUpdate.addItemsToRfqOrder.reject=The non-RfQ items cannot be added to the shopping cart that contains RfQ items during the requisition update process.

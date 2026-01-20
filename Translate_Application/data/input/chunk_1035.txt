@@ -1,0 +1,10 @@
+plugin.opcAdministration.title.requestStatistic=Request Statistics
+plugin.opcAdministration.title.solrAdmin=SOLR Manager
+plugin.opcAdministration.title.solrMaster=Master SOLR
+plugin.opcAdministration.title.solrSlave=Slave SOLR
+plugin.opcAdministration.title.userInfo=Technical User Details
+plugin.opcAnalysis.action.cancel=Cancel
+plugin.opcAnalysis.action.cancelConfirm=Cancel
+plugin.opcAnalysis.action.clear=Clear
+plugin.opcAnalysis.action.save=Save Query
+plugin.opcAnalysis.action.search=Search

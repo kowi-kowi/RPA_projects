@@ -1,0 +1,10 @@
+plugin.opcOrder.label.orderText.quantity=Quantity
+plugin.opcOrder.label.orderText.shortDesc=Item Description
+plugin.opcOrder.label.orderText.supplier=Supplier
+plugin.opcOrder.label.orderText.uom=UoM
+plugin.opcOrder.label.phoneNo=Phone No
+plugin.opcOrder.label.pobox=PO Box
+plugin.opcOrder.label.poboxZipCode=PO Box Zip Code
+plugin.opcOrder.label.purchaseOrderType=Order Type\: {0}
+plugin.opcOrder.label.receivedOn=Received on
+plugin.opcOrder.label.recipient.building=Building

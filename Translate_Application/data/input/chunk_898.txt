@@ -1,0 +1,10 @@
+plugin.frameAgreement.warning.contract.afterStartWorkflow=After the workflow is started, the corresponding assignments are created.
+plugin.frameAgreement.warning.contract.notAssignedToCustomer=Customer "{0}" is not assigned to Contract "{1}".
+plugin.frameAgreement.warning.contract.notAssignedToSupplier=Supplier "{0}" is not assigned to Contract "{1}".
+plugin.frameAgreement.warning.contract.restrictedByCatalog=Catalog "{0}" is not assigned to Contract "{1}".
+plugin.frameAgreement.warning.newContract=The contract does not exist. After the workflow is started, the contract and the corresponding assignments are created.
+plugin.futureSpendsReport.chart.spends.legendLabel.approximateSpend=Approximate Spend Volume based on new prices ({0})
+plugin.futureSpendsReport.chart.spends.legendLabel.currentSpend=Current Spend Volume ({0})
+plugin.futureSpendsReport.chart.spends.title=Current Spend and Approximate Spend Based on New Prices
+plugin.futureSpendsReport.chart.spends.xTitle=Thousands
+plugin.futureSpendsReport.chart.spends.yLabel.salesUom={0} classification group<br/> with {1} sales UOM

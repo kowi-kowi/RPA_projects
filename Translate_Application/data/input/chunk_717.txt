@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.title.widget.contractExpiration.desc=Displays chart overview of all contracts that have been expired or will be expired in future.
+plugin.businessPartnerDashboard.title.widget.manualWorkflowSteps=Catalogs held-up in approval
+plugin.businessPartnerDashboard.title.widget.manualWorkflowSteps.desc=Displays processes with long running manual steps. Maximum 5 active processes will be displayed on the chart.
+plugin.businessPartnerDashboard.title.widget.news=Message Board
+plugin.businessPartnerDashboard.title.widget.news.continueReading=&hellip; Continue Reading
+plugin.businessPartnerDashboard.title.widget.priceExpiration=Suppliers Contracts with expiring prices
+plugin.businessPartnerDashboard.title.widget.priceExpiration.desc=Displays chart overview of all contracts with expired prices and prices that will expire in future.
+plugin.businessPartnerDashboard.title.widget.productsPerCatalog=No. of Products per Catalog
+plugin.businessPartnerDashboard.title.widget.productsPerCatalog.desc=Displays pie chart with products ratio per catalog.
+plugin.businessPartnerDashboard.title.widget.workflowTrends=Catalog Workflow Trend Line

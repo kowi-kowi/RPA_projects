@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.pOItem=PO Item
+plugin.procPurchaseorder.label.pOItemDetails=Show Purchase Order Item
+plugin.procPurchaseorder.label.pOItems=Purchase Order Items List
+plugin.procPurchaseorder.label.pageResult=Result per page
+plugin.procPurchaseorder.label.pageResultAll=All
+plugin.procPurchaseorder.label.partialInvoice=Partial Invoice
+plugin.procPurchaseorder.label.paymentDate=Payment Due Date
+plugin.procPurchaseorder.label.paymentDue=Payment Due
+plugin.procPurchaseorder.label.percent=%
+plugin.procPurchaseorder.label.periodOfService=Period Of Service

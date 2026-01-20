@@ -1,0 +1,10 @@
+PROC.PurchaseOrderInput.requisitionName=Requisition Name
+PROC.PurchaseOrderInput.supplierName=Supplier Name
+PROC.SalesOrderInput.createdOn=Created On
+PROC.SalesOrderInput.dialogTitle=Search for Requisitions
+PROC.SalesOrderInput.salesOrderId=Requisition ID
+PROC.SalesOrderInput.salesOrderName=Requisition Name
+PROC.SalesOrderItemEditor.actions.back=Back
+PROC.SalesOrderItemEditor.actions.cancel=Cancel
+PROC.SalesOrderItemEditor.actions.edit=Edit
+PROC.SalesOrderItemEditor.actions.save=Save

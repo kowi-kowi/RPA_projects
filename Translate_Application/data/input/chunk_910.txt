@@ -1,0 +1,10 @@
+plugin.grailsflow.hint.varVisibility=* Will be taken into account if the node type is 'Wait'
+plugin.grailsflow.id=ID
+plugin.grailsflow.label.SORT_BY_AVERAGE_TIME=Average Time
+plugin.grailsflow.label.SORT_BY_INTERACTIVE_NODE=Interactive node
+plugin.grailsflow.label.SORT_BY_MAX_TIME=Max Time
+plugin.grailsflow.label.SORT_BY_MIN_TIME=Min time
+plugin.grailsflow.label.SORT_BY_NODE=NodeID
+plugin.grailsflow.label.SORT_BY_NONINTERACTIVE_NODE=Non-Interactive node
+plugin.grailsflow.label.actionEditor=Process Action Editor
+plugin.grailsflow.label.actions=Available Actions

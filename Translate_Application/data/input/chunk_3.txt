@@ -1,0 +1,10 @@
+DerivedMultiSheet.contractedPrice-statusId=Price Status
+DerivedMultiSheet.contractedPrice-unitOfMeasureId=Price Unit of Measure ID
+DerivedMultiSheet.contractedPrice-validFrom=Price Effective Date
+DerivedMultiSheet.contractedPrice-validFromQuantity=Valid From Quantity
+DerivedMultiSheet.contractedPrice-validTo=Price Expiration Date
+DerivedMultiSheet.contractedPrice-vatPercentage=Vat (%)
+DerivedMultiSheet.contractedProduct-altExtProductId=Cust Alt Ext Product ID
+DerivedMultiSheet.contractedProduct-amount=Amount
+DerivedMultiSheet.contractedProduct-contractId=Contract
+DerivedMultiSheet.contractedProduct-cost=Cost

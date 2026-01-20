@@ -1,0 +1,10 @@
+administration.systemAdministration.workflows.startProcesses.desc=Single processes can be started here.
+administration.systemAdministration.workflows.startProcesses.toolTip=Single processes can be started here.
+administration.systemAdministration.workflows.viewGrailsflowScheduler=Workflow Scheduler
+administration.systemAdministration.workflows.viewGrailsflowScheduler.desc=Manage jobs related to processes execution.
+administration.title.approval=Approval
+administration.title.commentary=Comments
+administration.title.confirmation=Approver selection and Confirmation
+administration.title.description=Approval for Requisition
+administration.title.forwarding=Assign to Another Approver
+administration.title.inspection=Assign for Additional Inspection

@@ -1,0 +1,10 @@
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMappingItem.label=Value Mapping Item
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMappingItem.sourceValue.label=Source Value
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMappingItem.targetValue.label=Target Value
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMappingItem.valueMapping.label=Value Mapping
+plugin.valueMapping.editItems.button=Edit Items
+plugin.workarea.workareaBrowser.title=Work Area
+plugins.jcatalogBootstrapUi.BootstrapDialogs.alertDialog.ok.label=Ok
+plugins.jcatalogBootstrapUi.BootstrapDialogs.alertDialog.title=Alert
+plugins.jcatalogBootstrapUi.BootstrapDialogs.confirmDialog.cancel.label=Cancel
+plugins.jcatalogBootstrapUi.BootstrapDialogs.confirmDialog.confirm.label=Confirm

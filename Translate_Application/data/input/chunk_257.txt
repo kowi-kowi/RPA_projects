@@ -1,0 +1,10 @@
+averagePriceChanges.label.delta=Delta
+averagePriceChanges.label.generatedOnBy=Generated on/by\:
+averagePriceChanges.label.numberOfProducts=Contained Products
+averagePriceChanges.label.supplier=Supplier\:
+averagePriceChanges.message.tooManyEntries=These are the first 260000 entries. Other entries cannot be displayed in this report.
+breJobExecutionVisualization.message.error.unexpected.startup=Unexpected error occurred during {0} start up. Please, contact the administrator.
+breJobExecutionVisualization.message.inQueue=In queue
+breJobExecutionVisualization.message.noProgress=No progress
+breJobExecutionVisualization.message.progress.left=, left\:
+breJobExecutionVisualization.message.progress.seconds=seconds

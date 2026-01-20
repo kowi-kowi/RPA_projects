@@ -1,0 +1,10 @@
+plugin.userDelegation.error.permanentDelegation.exist=Permanent delegation within the scope of "{0}" for customer "{1}", unavailable user "{2}" and stand-in "{3}" already exists.
+plugin.userDelegation.error.scope.required=Scope is a required field.
+plugin.userDelegation.error.substitutedFrom.required='From' is a required field. Please fill it.
+plugin.userDelegation.error.substitutedTo.required='To' is a required field. Please fill it.
+plugin.userDelegation.error.unavailablePerson.required='Unavailable person' is a required field. Please fill it.
+plugin.userDelegation.error.users.equality=User {0} can''t substitute himself.
+plugin.userDelegation.label.changedBy=Changed By
+plugin.userDelegation.label.changedOn=Changed On
+plugin.userDelegation.label.comment=Commentary
+plugin.userDelegation.label.createdBy=Created By

@@ -1,0 +1,10 @@
+plugin.orderAttachment.action.delete=Delete
+plugin.orderAttachment.actions.tableHeader=Actions
+plugin.orderAttachment.delete.confirmation=Do you really want to delete this entry?
+plugin.orderAttachment.exceededTotalSize.warning=The total size of all attached files exceeds {0} MB. This may cause issues when sending the email. Please reduce the file size to avoid potential problems.
+plugin.orderAttachment.failedToAttach.error=Impossible to attach file for {0}({1}), please contact your administrator.
+plugin.orderAttachment.fileExists.error=The file ''{0}'' already exists.
+plugin.orderAttachment.fileIsTooBig.error=The file exceeds the maximum size limit of {0}.
+plugin.orderAttachment.fileName.tableHeader=File Name
+plugin.orderAttachment.fileSize.tableHeader=Size
+plugin.orderAttachment.fileSystem.error=Impossible to attach the file to {0}({1})\: {2}

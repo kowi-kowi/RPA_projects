@@ -1,0 +1,10 @@
+plugin.opcCommons.label.buyOnBehalfOf=Buying on behalf of
+plugin.opcCommons.label.buyOnBehalfOf.empty=There is no buying organization you are responsible for to buy on behalf. Please add responsibility.
+plugin.opcCommons.label.buyingOnBehalfUser=User
+plugin.opcCommons.label.buyingOnBehalfUser.autocomplete.max.size.message=The maximum number of autocomplete users is 100. Please start typing to get a more detailed search.
+plugin.opcCommons.label.cartInfo.total=Total\: {0} {1}.
+plugin.opcCommons.label.cause=Caused by\:
+plugin.opcCommons.label.changeAccountDetails=Change Account Details
+plugin.opcCommons.label.class=Class\:
+plugin.opcCommons.label.code=Code Snippet\:
+plugin.opcCommons.label.connectWithUs=Connect with us

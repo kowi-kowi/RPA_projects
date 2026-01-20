@@ -1,0 +1,10 @@
+plugin.userInfo.command.change=Change
+plugin.userInfo.error.bothAssigned=Supplier and Customer can not be assigned at the same time
+plugin.userInfo.error.customer.notAssigned=Customer ''{0}'' is not assigned to current user
+plugin.userInfo.error.customer.notFound=Customer ''{0}'' was not found
+plugin.userInfo.error.customer.required=Customer is required
+plugin.userInfo.error.notAllowed=You are not allowed to change the Supplier or Customer assignment
+plugin.userInfo.error.notAssigned=You must choose supplier or customer
+plugin.userInfo.error.supplier.notAssigned=Supplier ''{0}'' is not assigned to current user
+plugin.userInfo.error.supplier.notFound=Supplier ''{0}'' was not found
+plugin.userInfo.error.supplier.required=Supplier is required

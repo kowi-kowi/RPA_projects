@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.myProfile=My Profile
+plugin.procPurchaseorder.label.name=Name
+plugin.procPurchaseorder.label.name1=Name1
+plugin.procPurchaseorder.label.netValue=Net Value
+plugin.procPurchaseorder.label.newPassword=New Password
+plugin.procPurchaseorder.label.newTotalNetPrice=New Total Net Price
+plugin.procPurchaseorder.label.newValue=New Value
+plugin.procPurchaseorder.label.no=No
+plugin.procPurchaseorder.label.noChanges=No changes.
+plugin.procPurchaseorder.label.numberOfPO={0} Purchase Order found

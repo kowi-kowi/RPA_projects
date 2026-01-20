@@ -1,0 +1,10 @@
+plugin.opcCommons.label.address.city=Dortmund
+plugin.opcCommons.label.address.country=Germany
+plugin.opcCommons.label.address.email=info@opuscapita.com
+plugin.opcCommons.label.address.fax=+49 231 39 67-100
+plugin.opcCommons.label.address.postalCode=44137
+plugin.opcCommons.label.address.street=Lindemannstra\u00DFe 79
+plugin.opcCommons.label.address.tel=+49 231 39 67-0
+plugin.opcCommons.label.appName=Online Product Catalog
+plugin.opcCommons.label.appTitle=OPC
+plugin.opcCommons.label.backToExternalSystem=Back to external system

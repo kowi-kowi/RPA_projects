@@ -1,0 +1,10 @@
+jasperReports.label.templateName=Report Type
+jasperReports.mail.title.failed=Report generation failed.
+jasperReports.mail.title.success=Report generation was successfully finished.
+jasperReports.reportName.label.CostObjectReport=Cost Object Report
+jasperReports.reportName.label.FrameAgreementsCallOffsReport=Frame Agreement Call-offs Report
+jasperReports.reportName.label.OrderLineItemReport=Order Line Item Report
+jasperReports.reportName.label.OrderedProductsReport=Product Level Spend History Report
+jasperReports.reportName.label.RecurrentRequisitionReport=Recurrent Requisition Report
+jasperReports.reportName.label.RollendeWareReport=Stock on the Road Report
+jasperReports.reportName.label.SpendPerClassificationAndSupplierReport=Spend per Classification and Supplier Report

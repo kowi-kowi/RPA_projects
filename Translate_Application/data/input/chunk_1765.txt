@@ -1,0 +1,10 @@
+plugin.userDelegation.command.delete=Delete
+plugin.userDelegation.command.edit=Edit
+plugin.userDelegation.command.save=Save
+plugin.userDelegation.command.saveAndNew=Save and New
+plugin.userDelegation.error.customer.required='Customer' is a required field. Please fill it.
+plugin.userDelegation.error.delegate.required='Stand-in' is a required field. Please fill it.
+plugin.userDelegation.error.delegateIsUnavailable=The selected stand-in "{0}" is unavailable for the period from {1} to {2}. Please, change the date interval or select another user.
+plugin.userDelegation.error.delegation.overlap=The delegation you want to apply overlaps with an existing delegation defined within the scope of "{0}", the customer "{1}", the unavailable user "{2}" and the stand-in "{3}" for the period from {4} to {5}.
+plugin.userDelegation.error.delegationNotFound=Delegation with id [{0}] was not found.
+plugin.userDelegation.error.invalidDateRange=Defined time interval is incorrect.

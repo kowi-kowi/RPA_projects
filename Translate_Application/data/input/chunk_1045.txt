@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.action.deleteRestriction=Delete
+plugin.opcAnalysis.label.actionNothingResult=Action Found Nothing
+plugin.opcAnalysis.label.actionPerformedWithErrors=Action Performed With Errors
+plugin.opcAnalysis.label.allWords=with <b>all</b> of the words
+plugin.opcAnalysis.label.and=AND
+plugin.opcAnalysis.label.atLeastOneWord=with <b>at least one</b> of the words
+plugin.opcAnalysis.label.attribute=Attribute
+plugin.opcAnalysis.label.averageRating=Average Rating
+plugin.opcAnalysis.label.bucket=Query
+plugin.opcAnalysis.label.button.add=Add

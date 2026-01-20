@@ -1,0 +1,10 @@
+com.jcatalog.rfq.RFX.expectedPrice.min.error=Expected Price must be positive.
+com.jcatalog.rfq.RFX.expectedPrice.notEqual.error=Expected Price must be positive.
+com.jcatalog.rfq.RFX.expectedPriceCurrencyId.validator.error=The currency is required in case the price is specified.
+com.jcatalog.rfq.RFX.expirationDate.notValid=Date of Closing Date cannot be empty.
+com.jcatalog.rfq.RFX.expirationTime.notValid=Closing Date/Time are not filled properly.
+com.jcatalog.rfq.RFX.fixedPrice.contractedCurrency=The sub item cannot be added\: the contracted price currency of sub item does not match the master item contracted price currency.
+com.jcatalog.rfq.RFX.id.notExist.error=The RFX with the given ID {0} does not exist.
+com.jcatalog.rfq.RFX.items.error=Item pos. {0} has an error\: {1}
+com.jcatalog.rfq.RFX.move.configuration.item=The sub item cannot be added to the configurable product.
+com.jcatalog.rfq.RFX.move.fixedPrice.contractedCurrency.mismatch=The sub item cannot be added\: the sub item contracted price currency does not match the master item contracted price currency.

@@ -1,0 +1,10 @@
+plugin.scriptScheduler.label.scheduler.reset=Reset
+plugin.scriptScheduler.label.scheduler.section=Scheduling
+plugin.scriptScheduler.label.scheduler.title=Script Scheduler
+plugin.scriptScheduler.label.scriptPath=Script path
+plugin.scriptScheduler.message.job.started=Job started
+plugin.scriptScheduler.message.noEntries=No entries found
+plugin.scriptScheduler.parameters.key.placeholder=Parameter Key
+plugin.scriptScheduler.parameters.label=Parameters
+plugin.scriptScheduler.parameters.value.placeholder=Parameter Value
+plugin.sdpSsmNavigation.menu.customer.catalogProfile=Content Processing Profile

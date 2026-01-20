@@ -1,0 +1,10 @@
+textlocalization.export.label.messageBundle=Message Bundle
+textlocalization.export.label.targetLanguages=Target Languages
+textlocalization.export.notification.sent=The message bundle has been sent to your email.
+textlocalization.export.title=Export Translations
+textlocalization.export.validation.email.empty=Please state your email.
+textlocalization.export.validation.email.invalid=The entered email is not valid.
+textlocalization.export.validation.targetLanguages.empty=Select one or more target languages.
+textlocalization.import.bundle.title=Import Standard Bundle
+textlocalization.import.downloadTemplate.label=Download the Template
+textlocalization.import.excel.title=Import Modified Translations

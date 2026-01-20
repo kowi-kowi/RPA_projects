@@ -1,0 +1,10 @@
+plugin.grailsflow.message.specifiedClass.invalid=There is no class with specified type.
+plugin.grailsflow.message.specifiedClass.notDomain=Specified Object Type is not a custom specific Domain Class.
+plugin.grailsflow.message.specifiedValue.items.notSuitable=Specified values for List items do not fit the type of List elements. Please check items values.
+plugin.grailsflow.message.specifiedValue.notSuitable=Specified value does not fit the type. Please check value.
+plugin.grailsflow.message.startedProcess.key=The result of starting process is identifier\: {0}
+plugin.grailsflow.message.transition.invalid=The Transition was not created\: the same transition already exists.
+plugin.grailsflow.message.transition.required=Event ID, Start Node and Finish Nodes properties are required values.
+plugin.grailsflow.message.valueHint=The default value should be approptiate to the variable type.
+plugin.grailsflow.message.varHint=Please notice that variable name should not contain spaces.
+plugin.grailsflow.message.variable.deleted=Process Variable "{0}" was deleted.

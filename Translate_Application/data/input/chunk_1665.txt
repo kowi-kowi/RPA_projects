@@ -1,0 +1,10 @@
+plugin.ssmFileareaManager.title.customizationarea=Customization Area File Manager
+plugin.ssmFileareaManager.title.viewFiles=Manage Files
+plugin.ssmFileareaManager.title.viewFiles.desc=This program allows you to browse and view the content of your Work Area where the files you exported are stored and ready for download. This Work Area can also contain supplemental files like stylesheets.
+plugin.ssmFileareaManager.title.workarea=Work Area
+plugin.ssmGrailsflow.command.rerun=Rerun process
+plugin.ssmGrailsflow.command.reset=Reset
+plugin.ssmGrailsflow.completionStatus.error=Errors
+plugin.ssmGrailsflow.completionStatus.hasProblems=Errors/Warnings
+plugin.ssmGrailsflow.completionStatus.label=Completion Status
+plugin.ssmGrailsflow.completionStatus.success=Without Errors/Warnings

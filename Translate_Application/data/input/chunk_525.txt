@@ -1,0 +1,10 @@
+jasperReports.SpendPerClassificationAndSupplierReport.dateRange=Date Range
+jasperReports.SpendPerClassificationAndSupplierReport.emptyReportMessage=There is no data for the report. Please, revise the parameters.
+jasperReports.SpendPerClassificationAndSupplierReport.fromDate=From Date
+jasperReports.SpendPerClassificationAndSupplierReport.grandTotal.label=Grand total
+jasperReports.SpendPerClassificationAndSupplierReport.supplierId.label=Supplier ID
+jasperReports.SpendPerClassificationAndSupplierReport.supplierName.label=Supplier Name
+jasperReports.SpendPerClassificationAndSupplierReport.toDate=To Date
+jasperReports.SpendPerClassificationAndSupplierReport.totalNetPrice.label=Total
+jasperReports.SpendPerClassificationReport.CurrencyId_1=Currency
+jasperReports.SpendPerClassificationReport.CurrencyId_1.infoTip=If the customer is selected, but the currency is not defined, the report will be generated taking into account the costumer's default currency.If neither the currency nor the customer is selected, the report will be generated in 'EUR'.

@@ -1,0 +1,10 @@
+customization.block.catalogInformationMfgProductId=Manufacturer Product ID
+customization.block.catalogInformationMsrp=MSRP
+customization.block.catalogInformationProductPromotionalMessage=Supplier Promotional Message
+customization.block.catalogInformationRemarks=Remarks
+customization.block.catalogInformationSupplier=Supplier
+customization.block.classification=Classification Information
+customization.block.clearCache=Clear Cache
+customization.block.comparePricesButton=Compare Prices
+customization.block.configuratorSettingsEditor=Configurator Settings
+customization.block.description=Long Description

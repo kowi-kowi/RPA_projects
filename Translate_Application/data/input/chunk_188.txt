@@ -1,0 +1,10 @@
+SSM.productEditor.compare.compare.product.relations.of=of
+SSM.productEditor.compare.contracts.and.prices.section.title=Contracts & Prices
+SSM.productEditor.compare.edit.product.modal=Edit product
+SSM.productEditor.compare.insert.into.selected.label=insert into selected
+SSM.productEditor.compare.messages.nothingToCompare=Nothing to compare
+SSM.productEditor.compare.product.imageUrl=Image
+SSM.productEditor.compare.product.relation.section.title=Product Relations
+SSM.productEditor.compare.update.selected.label=update selected
+SSM.productEditor.contractInput.contractIdLabel=Contract ID
+SSM.productEditor.contractInput.descriptionLabel=Description

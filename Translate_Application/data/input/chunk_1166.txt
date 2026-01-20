@@ -1,0 +1,10 @@
+plugin.opcIntegration.message.approvalStep.moreDialog.placeholder=The preliminary list of approvers for a certain approval step
+plugin.opcIntegration.message.approvalStep.moreDialog.title=Approvers
+plugin.opcIntegration.message.approvalStep.showManualApproverSelection=Select approver(s) manually
+plugin.opcIntegration.message.equalApprovers.or=OR
+plugin.opcIntegration.message.selectAnApprover=Please select approver(s) for ''{0}'' step.
+plugin.opcIntegration.similarProductExceptionReason.a00001=Specification does not meet requirements
+plugin.opcIntegration.similarProductExceptionReason.a00002=Item cannot be delivered on short notice
+plugin.opcIntegration.similarProductExceptionReason.a00003=Replacement of an identical item
+plugin.opcIntegration.summary.automaticApprovement=Automatic Approval
+plugin.opcIntegration.summary.noApprovers=To be defined...

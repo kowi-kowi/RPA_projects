@@ -1,0 +1,10 @@
+message.priceUnit.notValid=Price unit is not valid.
+message.productAdded=Product ''{0}'' added to cart.
+message.quantity.notValid=Quantity is not valid.
+message.republish.catalog.workflow.cleansing.errors=Errors occurred during the cleansing.
+message.republish.catalog.workflow.execute.attributeValueMapping=Attribute Value Mapping \n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.execute.automaticEnrichment=Automatic Enrichment\n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.execute.automaticEnrichment.skip=The automatic enrichment step was skipped because the enriched file doesn't exist.
+message.republish.catalog.workflow.execute.globalAutomaticEnrichment=Global Automatic Enrichment\n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.execute.globalAutomaticEnrichment.skip=The global enrichment step was skipped because the enriched file doesn't exist.
+message.republish.catalog.workflow.execute.globalAutomaticProductEnrichment=Global Automatic Product Enrichment\n-------------------\nStarted at      ${now}

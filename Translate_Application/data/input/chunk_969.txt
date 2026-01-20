@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.entry.contractAttributeValue.definition=Can be used to assign Attribute Values to Contracts.
+plugin.masterDataImportExport.entry.contractCategory.definition=Can be used to define Contract Categories.
+plugin.masterDataImportExport.entry.contractEntitlement.definition=Contract Entitlement Information
+plugin.masterDataImportExport.entry.contractFilter.definition=Contract Filter
+plugin.masterDataImportExport.entry.contractProvisioning.definition=Can be used to assign Contracts to Suppliers.
+plugin.masterDataImportExport.entry.contractUsage.definition=Can be used to assign Contracts to Customers.
+plugin.masterDataImportExport.entry.contractedCatalog.definition=Can be used to assign Catalogs to Contracts.
+plugin.masterDataImportExport.entry.contractedClassificationGroup.definition=Can be used to assign Classification Groups to Contracts.
+plugin.masterDataImportExport.entry.contractedProduct.definition=Contracted Product Information
+plugin.masterDataImportExport.entry.conversionRate.definition=Conversion Rates

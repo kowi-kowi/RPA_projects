@@ -1,0 +1,10 @@
+PROC.PurchaseOrderEditor.grid.columns.forManualProdReceipt=For Manual Product Receipt
+PROC.PurchaseOrderEditor.grid.columns.fulfillmentStatus=Fulfillment
+PROC.PurchaseOrderEditor.grid.columns.grossPrice=Gross Price
+PROC.PurchaseOrderEditor.grid.columns.grossPriceLabel=Gross Price
+PROC.PurchaseOrderEditor.grid.columns.hasSerialNumber=Has Serial Number
+PROC.PurchaseOrderEditor.grid.columns.internalNotes=Internal Notes
+PROC.PurchaseOrderEditor.grid.columns.isConfigurationItem=Is Configuration Item
+PROC.PurchaseOrderEditor.grid.columns.isDiscounted=Is Discounted
+PROC.PurchaseOrderEditor.grid.columns.isSurcharge=Is Surcharge
+PROC.PurchaseOrderEditor.grid.columns.leadTimeInDays=Lead Time in Days

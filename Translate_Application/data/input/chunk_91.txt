@@ -1,0 +1,10 @@
+PROC.PurchaseOrderEditor.purchaseOrderItem.message.save.impossible=The Purchase Order item cannot be saved. Please make the required changes in the tabs with the exclamation marks.
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.attachments=Attachments
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.attributes=Attributes
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.deliveryAddress=Delivery Address
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.deliveryInfo=Delivery
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.details=Item Details
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.messages=Messages
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.posting=Posting Details
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.priceInfo=Price
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.productInfo=Product Info

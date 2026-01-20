@@ -1,0 +1,10 @@
+plugin.opcSearch.noProductsFound.youCan1=Or you can request a
+plugin.opcSearch.noProductsFound.youCan2=or start a
+plugin.opcSearch.opcProductDetails.label.isMainProdLine=Is main product line
+plugin.opcSearch.opcSearch.label.manufacturerId=Manufacturer PN\:
+plugin.opcSearch.opcSearch.label.manufacturerName=Manufacturer Name\:
+plugin.opcSearch.opcSearch.label.price=Price/PU\:
+plugin.opcSearch.opcSearch.label.productId=Product ID\:
+plugin.opcSearch.opcSearch.link.didYouMean.text=Did you mean
+plugin.opcSearch.opcSearch.link.performFuzzySearch.label=Fuzzy
+plugin.opcSearch.opcSearch.link.performFuzzySearch1=Perform a

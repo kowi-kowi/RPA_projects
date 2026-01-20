@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.firstName=First Name
+plugin.procPurchaseorder.label.footerText=Footer Text
+plugin.procPurchaseorder.label.freightNet=Freight Net
+plugin.procPurchaseorder.label.freightTax=Freight Tax
+plugin.procPurchaseorder.label.freightTotal=Freight Total
+plugin.procPurchaseorder.label.glAccount=GL Account
+plugin.procPurchaseorder.label.headerText=Header Text
+plugin.procPurchaseorder.label.hello=Hello
+plugin.procPurchaseorder.label.homepage=Homepage
+plugin.procPurchaseorder.label.iRGoodsReceipt=Goods Receipt

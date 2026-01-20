@@ -1,0 +1,10 @@
+message.validation.product.smartForm.notAllowedAttribute=Attribute(s) ''{0}'' is (are) not in the list of allowed attributes for Quick Entry page. Please contact administrator.
+message.validation.product.smartForm.redundantAttributeValues=SmartForm ''{0}'' does not have editable attributes ''{1}''.
+min.notmet=Field value ''{2}'' is less than minimum value ''{3}''
+modelCommand.calendarInterval.validator.invalid=Repeat interval must be defined and must be greater than 0.
+modelCommand.cronExpression.blank=Cron expression can't be blank.
+modelCommand.cronExpression.format=Cron expression is invalid.
+modelCommand.endDate.range=End date can't be earlier than start date.
+modelCommand.endHour.max.error=End hour must be in 0..23 range.
+modelCommand.endMin.max.error=End minute must be in 0..59 range.
+modelCommand.everyDays.validator.invalid=''Every days'' field must be greater than 0.

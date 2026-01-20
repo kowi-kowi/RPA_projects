@@ -1,0 +1,10 @@
+plugin.procDoctransfer.channel.cxml=cXML
+plugin.procDoctransfer.channel.email=Email
+plugin.procDoctransfer.channel.erp=ERP
+plugin.procDoctransfer.channel.restapi=REST API
+plugin.procDoctransfer.channel.sap=SAP
+plugin.procDoctransfer.channel.soap=SOAP
+plugin.procDoctransfer.channel.unknown=Unknown
+plugin.procDoctransfer.command.retransfer=Retransfer
+plugin.procDoctransfer.label.communicationInfo=Communication info
+plugin.procDoctransfer.label.docTransferShow=Document Transfers

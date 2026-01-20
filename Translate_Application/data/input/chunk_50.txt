@@ -1,0 +1,10 @@
+PROC.ConfirmationEditor.label.splitDelivery=Split Delivery
+PROC.ConfirmationEditor.label.undefined=Undefined
+PROC.ConfirmationEditor.message.confirmReject=Do you really want to reject this Purchase Order?
+PROC.ConfirmationEditor.message.confirmedDate=Please note that the defined date will be applied to all selected Purchase Order Confirmation items.
+PROC.ConfirmationPopover.cancel=Cancel
+PROC.ConfirmationPopover.ok=Ok
+PROC.ConfirmationWrapper.cancel=Cancel
+PROC.ConfirmationWrapper.ok=Ok
+PROC.CustomerHierarchyInput.customerGroupName=Customer Group
+PROC.CustomerHierarchyInput.customerId=Customer ID

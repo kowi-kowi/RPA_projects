@@ -1,0 +1,10 @@
+plugin.procRequisition.command.Accept=approved
+plugin.procRequisition.command.Approve=approved
+plugin.procRequisition.command.Cancel=withdrawn
+plugin.procRequisition.command.Confirm=confirmed
+plugin.procRequisition.command.Forward=forwarded
+plugin.procRequisition.command.Inspect=in inspection
+plugin.procRequisition.command.Manual=manual
+plugin.procRequisition.command.Merge=merged
+plugin.procRequisition.command.Proceed=processed
+plugin.procRequisition.command.Reject=rejected

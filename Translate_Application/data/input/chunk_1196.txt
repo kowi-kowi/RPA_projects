@@ -1,0 +1,10 @@
+plugin.opcProductDetails.label.extProductId=External Product ID
+plugin.opcProductDetails.label.fee.total=Total
+plugin.opcProductDetails.label.issueReport=Issue Report
+plugin.opcProductDetails.label.leadTime=Lead time
+plugin.opcProductDetails.label.leadTime.unitOfMeasure=(days)
+plugin.opcProductDetails.label.leadTimeInDays=Lead time in days
+plugin.opcProductDetails.label.limitProductExpectedValue=Expected Amount*
+plugin.opcProductDetails.label.limitProductOverallValue=Limit Amount
+plugin.opcProductDetails.label.longDescription=Long Description
+plugin.opcProductDetails.label.maxOrderQuantity=Max Order Quantity

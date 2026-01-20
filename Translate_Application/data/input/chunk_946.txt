@@ -1,0 +1,10 @@
+plugin.grailsflow.messages.error.schedulerDetails=Errors in getting Scheduler Details
+plugin.grailsflow.messages.error.startTime=Start time (hours, minutes) cannot be empty, string or contain negative value.
+plugin.grailsflow.messages.intValue.invalid={0} parameter is not a valid Integer value.
+plugin.grailsflow.messages.job.deleted=Job was deleted successfully.
+plugin.grailsflow.messages.job.notUpdated=Errors in rescheduling Job [{0}].
+plugin.grailsflow.messages.job.scheduled=Job for starting process {0} was scheduled successfully.
+plugin.grailsflow.messages.job.scheduled.error=Error in scheduling job for process {0}.
+plugin.grailsflow.messages.job.updated=Job {0} was updated successfully.
+plugin.grailsflow.messages.required={0} is a required field.
+plugin.grailsflow.messages.startDay.invalid=Start Day [{0}] was not parsed successfully, today was used as a start day.

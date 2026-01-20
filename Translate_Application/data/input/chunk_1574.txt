@@ -1,0 +1,10 @@
+plugin.productSupportEditors.tab.general=General
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.header=Product Sync Definition
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.id.label=Product Sync Definition ID
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.productSyncMapping.label=Product Sync Mapping
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.srcCatalogId.label=Source Catalog ID
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.srcSyncProperty.label=Source Sync Property
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.targetCatalogId.label=Target Catalog ID
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.targetSyncProperty.label=Target Sync Property
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncDefinition.type.label=Type
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncMapping.id.label=Product Sync Mapping ID

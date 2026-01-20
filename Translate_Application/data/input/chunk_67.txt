@@ -1,0 +1,10 @@
+PROC.ProfessionalBuyerTool.actions.close=Close
+PROC.ProfessionalBuyerTool.actions.confirmChanges=Confirm Changes and Release Order
+PROC.ProfessionalBuyerTool.actions.delete=Delete
+PROC.ProfessionalBuyerTool.actions.edit=Edit
+PROC.ProfessionalBuyerTool.actions.expandAll=Show/Hide All Items
+PROC.ProfessionalBuyerTool.actions.generate=Generate
+PROC.ProfessionalBuyerTool.actions.generateOrders=Generate Draft POs
+PROC.ProfessionalBuyerTool.actions.merge=Merge
+PROC.ProfessionalBuyerTool.actions.preview=Preview
+PROC.ProfessionalBuyerTool.actions.print=Print

@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.exportFormat=Export Format
+plugin.opcAnalysis.label.fieldName.manufacturerName=Manufacturer Name
+plugin.opcAnalysis.label.fieldName.mfgProductId=Mfg. Product ID
+plugin.opcAnalysis.label.fieldName.productCatalogId=Catalog ID
+plugin.opcAnalysis.label.fieldName.productId=Product ID
+plugin.opcAnalysis.label.fieldName.shortDesc=Short Description
+plugin.opcAnalysis.label.fieldName.supplierId=Supplier ID
+plugin.opcAnalysis.label.fieldName.supplierName=Supplier Name
+plugin.opcAnalysis.label.helpfulCount=Considered Helpful
+plugin.opcAnalysis.label.keywordSearch=Keyword Search

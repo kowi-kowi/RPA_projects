@@ -1,0 +1,10 @@
+plugin.budget.label.targetBudget=Target Budget
+plugin.budget.label.to=to
+plugin.budget.label.totalAvailableBudget=Total available budget
+plugin.budget.label.totalBookedBudget=Total booked budget
+plugin.budget.label.totalPlannedBudget=Total planned budget
+plugin.budget.label.transferAmount=Transfer Amount
+plugin.budget.label.usedAmount=Amount Booked
+plugin.budget.menu.budget.bookBudgets=Book Budgets
+plugin.budget.menu.budget.budgetsOverview=Budgets Overview
+plugin.budget.menu.budget.listBudgets=List Budgets

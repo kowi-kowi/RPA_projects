@@ -1,0 +1,10 @@
+plugin.opcSearch.message.addingProductToList=Adding selected product to shopping list...
+plugin.opcSearch.message.addingProductsToList=Adding selected products to shopping list...
+plugin.opcSearch.message.autocomplete.in.delimiter.withClassificationGroup=in
+plugin.opcSearch.message.external.search.limit=The search result within the catalog ''{0}'' contains more than {1} hits. The search process was stopped and the result of {1} products will be shown on the result list.
+plugin.opcSearch.message.externalShopsCount=Not more than 3 external shops can be selected.
+plugin.opcSearch.message.help.example1=computer "computer monitor"
+plugin.opcSearch.message.help.example2=+computer +monitor
+plugin.opcSearch.message.help.example3=+computer -monitor
+plugin.opcSearch.message.help.for1=A word or phrase in the description
+plugin.opcSearch.message.help.for2=Two words or phrases which both occur anywhere in the description

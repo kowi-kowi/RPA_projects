@@ -1,0 +1,10 @@
+ExtendedMultiSheet.contractedProduct-extClassificationGroupId=Cust Classification Group ID
+ExtendedMultiSheet.contractedProduct-extClassificationId=Cust Class ID
+ExtendedMultiSheet.contractedProduct-extGlAccountId=GL Account ID
+ExtendedMultiSheet.contractedProduct-extProductId=Cust Prod ID
+ExtendedMultiSheet.contractedProduct-leadtimeInDays=Lead Time
+ExtendedMultiSheet.contractedProduct-maxQuantity=Max Qty
+ExtendedMultiSheet.contractedProduct-minQuantity=Min Qty
+ExtendedMultiSheet.contractedProduct-priceQuantity=Price Qty
+ExtendedMultiSheet.contractedProduct-quantityInterval=Qty Interval
+ExtendedMultiSheet.contractedProduct-salesUnitOfMeasureID=Cust Sales Unit of Measure ID

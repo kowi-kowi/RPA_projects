@@ -1,0 +1,10 @@
+plugin.requisitionProcessingRulesCommon.button.cancel=Cancel
+plugin.requisitionProcessingRulesCommon.button.create=Create
+plugin.requisitionProcessingRulesCommon.button.save=Save
+plugin.requisitionProcessingRulesCommon.button.search=Search
+plugin.requisitionProcessingRulesCommon.command.back=Back
+plugin.requisitionProcessingRulesCommon.command.delete=Delete
+plugin.requisitionProcessingRulesCommon.command.edit=Edit
+plugin.requisitionProcessingRulesCommon.command.execute=Execute
+plugin.requisitionProcessingRulesCommon.command.import=Import
+plugin.requisitionProcessingRulesCommon.command.reset=Reset

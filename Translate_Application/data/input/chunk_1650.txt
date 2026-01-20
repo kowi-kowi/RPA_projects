@@ -1,0 +1,10 @@
+plugin.shoppingCart.error.surcharge.delivery.methodId.not.found=No Delivery Method ID found for Surcharges with type {0} and rule No.{1}.
+plugin.shoppingCart.error.surcharge.description.not.found=No Rule description found for Surcharges with type {0} and rule No.{1}.
+plugin.shoppingCart.error.surcharge.object=The shopping cart Surcharges rule is not valid. Please, check the corresponding script.
+plugin.shoppingCart.error.surcharge.productId.not.found=No Surcharge Product ID found for Surcharges with type {0} and rule No.{1}.
+plugin.shoppingCart.error.surcharge.result.contractId.not.found=No Surcharge Contract ID found for Surcharges with type {0} and rule No.{1}.
+plugin.shoppingCart.error.surcharge.result.supplierId.not.found=No Surcharge Supplier ID found for Surcharges with type {0} and rule No.{1}.
+plugin.shoppingCart.error.surcharge.rules.not.found=No Rule configuration found for Surcharges with type {0}.
+plugin.shoppingCart.error.surcharge.supplierId.not.found=No Supplier ID found for Surcharges with type {0} and rule No.{1}.
+plugin.shoppingCartRule.command.reload=Reload
+plugin.shoppingCartRule.command.save=Save

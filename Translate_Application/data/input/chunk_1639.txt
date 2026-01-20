@@ -1,0 +1,10 @@
+plugin.sdpSsmNavigation.menu.services.expressCatalogAndContract=Express Catalog/Contract Creation
+plugin.sdpSsmNavigation.menu.services.extendPrice=Extend Price
+plugin.sdpSsmNavigation.menu.services.extendPrice.toolTip=Extend Price valid range.
+plugin.sdpSsmNavigation.menu.services.frameAgreement=Frame Agreement
+plugin.sdpSsmNavigation.menu.services.frameAgreement.toolTip=Define Frame Agreement
+plugin.sdpSsmNavigation.menu.services.futureSpends=Future Spends Report
+plugin.sdpSsmNavigation.menu.services.highLevelActionEditor=Process Actions
+plugin.sdpSsmNavigation.menu.services.importEnrichmentData=Import Enrichment Data
+plugin.sdpSsmNavigation.menu.services.jasperReports=Advanced Report Generator
+plugin.sdpSsmNavigation.menu.services.jobManager=Scheduling Job Manager

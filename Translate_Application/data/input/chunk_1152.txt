@@ -1,0 +1,10 @@
+plugin.opcExternalShops.warning.externalShopNotAvailable=External Shop is not available
+plugin.opcExternalShops.warning.noExternalShops=There are no external shops
+plugin.opcExternalShops.warning.noProductsFound=No Products Found
+plugin.opcExternalShops.warning.noPurchasingProdForClassification=There are no purchasing products within defined classification\: {0}
+plugin.opcExternalShops.warning.unableLoadProducts=Unable to load {0} External Product(s).
+plugin.opcFavouriteProducts.buttons.ok=Ok
+plugin.opcFavouriteProducts.errors.add.failed=An error occurred at the time of adding the product "{0}" to the favourite products list.
+plugin.opcFavouriteProducts.errors.delete.failed=An error occurred during deleting of the favourite product "{0}".
+plugin.opcFavouriteProducts.errors.maxAmount=The favourite products quantity must be less than or equal to {0}.
+plugin.opcFavouriteProducts.errors.product.removed=Product does not exist anymore.

@@ -1,0 +1,10 @@
+menu.catalogCategories=Catalog Categories
+menu.catalogUser2PostingDimensionValue=Catalog Users to Posting Dimension Values
+menu.catalogs=Catalogs
+menu.catalogsManagement=Catalogs
+menu.changePassword=Change Password
+menu.classification=Classification
+menu.classification.browser=Classification Browser
+menu.classification.desc=A classification is a hierarchical system for grouping materials, products and services according to a logical structure with a level detail that corresponds to the product-specific properties that can be described using norm-conforming properties. Standard classification systems are for example eCl@ss and UNSPSC.
+menu.classification.edit=Classifications
+menu.classificationGroupMappingItems=Classification Group Mapping Items

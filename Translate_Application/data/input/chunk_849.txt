@@ -1,0 +1,10 @@
+plugin.derivedCatalogFilters.error.startedWorkflow=Derived Catalog Workflow cannot be started for filter {0}.
+plugin.derivedCatalogFilters.label.button.backToSearch=Back to Search
+plugin.derivedCatalogFilters.label.button.create=Create
+plugin.derivedCatalogFilters.label.button.createExportJob=Export
+plugin.derivedCatalogFilters.label.button.createImportJob=Import
+plugin.derivedCatalogFilters.label.button.delete=Delete
+plugin.derivedCatalogFilters.label.button.deleteSelectedFilters=Delete Selected
+plugin.derivedCatalogFilters.label.button.edit=Edit
+plugin.derivedCatalogFilters.label.button.newItem=New Item
+plugin.derivedCatalogFilters.label.button.not=Not

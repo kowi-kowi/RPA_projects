@@ -1,0 +1,10 @@
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.label=Supplier Provisioning
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.leadtimeInDays.label=Lead time In Days
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.limitAmountForAutoGoodsReceipt.label=Limit Amount For Auto Goods Receipt
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.manualProdReceipt.label=Manual Prod Receipt
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.methodOfPayment.label=Method of Payment
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.methodOfPayment.tooltip=Methods of payment that are accepted by the supplier.
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.minOrderBehaviour.label=Min Order Behaviour
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.minOrderValue.label=Min Order Value
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.minOrderValueCurrency.label=Min Order Value Currency
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.status.label=Status

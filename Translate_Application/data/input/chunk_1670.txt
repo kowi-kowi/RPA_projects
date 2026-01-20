@@ -1,0 +1,10 @@
+plugin.ssmGrailsflow.label.responsibility.action=Action
+plugin.ssmGrailsflow.label.responsibility.action.ApprovalLevel2=Approval Level 2
+plugin.ssmGrailsflow.label.responsibility.action.ApprovalLevel3=Approval Level 3
+plugin.ssmGrailsflow.label.responsibility.action.ContentManagement=Content Management
+plugin.ssmGrailsflow.label.responsibility.userGroups=User Groups
+plugin.ssmGrailsflow.label.responsibility.userRoles=User Roles
+plugin.ssmGrailsflow.label.responsibility.users=Users
+plugin.ssmGrailsflow.label.responsibilityTable=Responsibility Items
+plugin.ssmGrailsflow.label.runningOnly=Running only
+plugin.ssmGrailsflow.label.supplier=Supplier

@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.message.upload.desc=To proceed with the workflow, you have to upload the catalog data. Depending on the selected import format, you have to upload different count of files and different file types.
+plugin.ssmWorkflow.message.warning.hasPreviousVersion=This catalog has been published already and is available as version {0}. If you continue the process all catalog data will be fully replaced by the new data.
+plugin.ssmWorkflow.title.activationCancellationRequest=Activation Cancellation Request
+plugin.ssmWorkflow.title.approve.catalog=Catalog Approval
+plugin.ssmWorkflow.title.change.activationDate=Change Activation Date
+plugin.ssmWorkflow.title.pendingActivation=Pending Catalog Activation
+plugin.ssmWorkflow.title.processAnalyzer=Catalogs Processing Analyzer
+plugin.ssmWorkflow.title.processAnalyzer.desc=This page displays the list of Nodes waiting a free thread for execution.
+plugin.ssmWorkflow.title.processAnalyzer.nodes.desc=This tool provides ability to search Process Nodes.
+plugin.ssmWorkflow.title.processDetails=Process Details

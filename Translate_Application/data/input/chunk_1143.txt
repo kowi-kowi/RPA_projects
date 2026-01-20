@@ -1,0 +1,10 @@
+plugin.opcEasysearch.header.catalogDesc=Product Catalog Description
+plugin.opcEasysearch.header.catalogId=Product Catalog ID
+plugin.opcEasysearch.header.catalogUser=Search for Users
+plugin.opcEasysearch.header.city=City
+plugin.opcEasysearch.header.contractDesc=Contract Description
+plugin.opcEasysearch.header.contractId=Contract ID
+plugin.opcEasysearch.header.customer=Search for Customers
+plugin.opcEasysearch.header.docTransfer=Document Transfer
+plugin.opcEasysearch.header.invoiceReceipt.createdOn=Created On
+plugin.opcEasysearch.header.invoiceReceipt.id=Invoice Receipt ID

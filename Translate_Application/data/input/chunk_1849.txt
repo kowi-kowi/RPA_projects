@@ -1,0 +1,10 @@
+scheduling.details.label.groupName=Group Name
+scheduling.details.label.jobName=Job Name
+scheduling.details.label.jobParams=Job Parameters
+scheduling.details.label.lastFired=Last Fired
+scheduling.details.label.manageJobSchedule=Manage Job Schedule
+scheduling.details.label.milliseconds=(in milliseconds)
+scheduling.details.label.nextFired=Next Fired
+scheduling.details.label.noEntries=No entries found
+scheduling.details.label.pause=Pause
+scheduling.details.label.paused=Paused

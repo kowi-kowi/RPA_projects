@@ -1,0 +1,10 @@
+plugin.opcProductReview.header.productReview.thisProduct=Product being reviewed
+plugin.opcProductReview.label.add2Cart=Add to Cart
+plugin.opcProductReview.label.addToList=Add to List
+plugin.opcProductReview.label.productReview=reviews
+plugin.opcProductReview.label.productReview.averageRating=Average rating
+plugin.opcProductReview.label.productReview.comment=Written review
+plugin.opcProductReview.label.productReview.createYourOwnReview=Create your own review
+plugin.opcProductReview.label.productReview.createYourReview=Create your review
+plugin.opcProductReview.label.productReview.criticalReview=The most helpful critical review
+plugin.opcProductReview.label.productReview.customerReviews=Customer Reviews

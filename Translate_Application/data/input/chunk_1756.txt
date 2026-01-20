@@ -1,0 +1,10 @@
+plugin.systemMaintenance.label.used.memory=Used Memory
+plugin.systemMaintenance.label.user.language=User Language
+plugin.systemMaintenance.label.user.timezone=User Timezone
+plugin.systemMaintenance.label.userName=User Name
+plugin.systemMaintenance.label.viewLog.LogFile=Log File
+plugin.systemMaintenance.label.viewLog.LogFile.hint=This is name of log file. Select from the list an element to see its contents.
+plugin.systemMaintenance.label.viewLog.exceptionOnly=Show Exceptions Only
+plugin.systemMaintenance.label.viewLog.exceptionOnly.hint=The option allows to display only exceptions.
+plugin.systemMaintenance.label.viewLog.logLevel=Log Level
+plugin.systemMaintenance.label.viewLog.logLevel.hint=The option allows to display messages with selected level.

@@ -1,0 +1,10 @@
+plugin.productPreview.search.header.productId=Product ID
+plugin.productPreview.search.header.shortDescription=Short Description
+plugin.productPreview.search.header.validFrom=Valid From
+plugin.productPreview.search.header.validTo=Valid To
+plugin.productPreview.title.productPreview=Product Preview
+plugin.productPreview.title.productPreview.desc=Product Preview displays product details from your published product catalog. Here you may search based on a Catalog ID and Product ID (optional) using the magnifying glass to search the catalogs. Type the value in the text box next to the appropriate labels. The search results display the ProductID, Short Description, Created on and Changed on information. The Product ID link displays the details of the Product.
+plugin.productReviewEditor.action.add.price.master.material.relations=Price master
+plugin.productReviewEditor.action.continueReadingAction=Continue reading..
+plugin.productReviewEditor.action.insertIntoMaster=Insert into master
+plugin.productReviewEditor.action.insertIntoSelected=Insert into selected

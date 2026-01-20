@@ -1,0 +1,10 @@
+DerivedMultiSheet.contractedPrice-currencyId=Currency
+DerivedMultiSheet.contractedPrice-description=Price Description
+DerivedMultiSheet.contractedPrice-fixNetPrice=Fixed Net Price
+DerivedMultiSheet.contractedPrice-grossPrice=Gross Price
+DerivedMultiSheet.contractedPrice-isPreferred=Is Preferred Price
+DerivedMultiSheet.contractedPrice-listPrice=List Price
+DerivedMultiSheet.contractedPrice-netPrice=Price
+DerivedMultiSheet.contractedPrice-priceType=Price Type
+DerivedMultiSheet.contractedPrice-priceUnit=Unit Price
+DerivedMultiSheet.contractedPrice-productIdExtensionForUoM=Product ID Extension for UoM

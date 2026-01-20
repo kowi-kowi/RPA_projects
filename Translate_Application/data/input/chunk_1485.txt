@@ -1,0 +1,10 @@
+plugin.procRequisition.error.nodeAccessDenied=It seems that you have tried to perform an operation that is not valid for the current state of this requisition.<br/>The likely cause is that somebody already performed this operation (i.e. approved/rejected/forwarded) on this requisition.
+plugin.procRequisition.error.process.notFound=Process ''{0}'' was not found.
+plugin.procRequisition.error.property.comment.required=Comment is a required field.
+plugin.procRequisition.error.property.invalid.max.size=''{0}'' may not be longer than ''{1}'' characters.
+plugin.procRequisition.error.property.required=''{0}'' is required.
+plugin.procRequisition.error.request.incorrect=Incorrect event notification request. Probably you have no permission to perform it.
+plugin.procRequisition.error.requisition.another.locked=You are already editing another requisition with ID {0}. Please, finish with it first.
+plugin.procRequisition.error.requisition.dummyCostObject=The replacement of the DUMMY ASSET Cost Object is mandatory. Please recheck the requisition and apply a valid Cost Object.
+plugin.procRequisition.error.requisition.dummySupplier=The Requisition cannot be approved, because item has dummy supplier {0}.
+plugin.procRequisition.error.requisition.locked=The Requisition is currently being modified by {0} and therefore locked.

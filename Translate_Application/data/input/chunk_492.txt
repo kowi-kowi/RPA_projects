@@ -1,0 +1,10 @@
+grailsflow.processesExport.column.sourceClassification=Source Classification
+grailsflow.processesExport.column.startedOn=StartedOn
+grailsflow.processesExport.column.status=Status
+grailsflow.processesExport.column.supplierEmail=Supplier Email
+grailsflow.processesExport.column.supplierId=SupplierID
+grailsflow.processesExport.column.updateType=Update Type
+grailsflow.processesExport.excel.sheet.processes=Processes
+head.title.customerStatistics=Customer Statistics
+head.title.supplierStatistics=Supplier Statistics
+header.BeginningOfLongDescriptionDiffersFromShortText=Beginning of long description differs from short text

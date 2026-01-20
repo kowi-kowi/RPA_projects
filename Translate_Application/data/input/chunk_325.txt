@@ -1,0 +1,10 @@
+com.jcatalog.classification.mapping.ClassGrpMapping.header=Search for Classification Group mapping
+com.jcatalog.classification.mapping.ClassGrpMapping.sourceClassification.classificationId.label=Source Classification ID
+com.jcatalog.classification.mapping.ClassGrpMapping.supplier.supplierId.label=Supplier ID
+com.jcatalog.classification.mapping.ClassGrpMapping.targetClassification.classificationId.label=Target Classification ID
+com.jcatalog.cmp.Chapter.chapterId.label=Chapter ID
+com.jcatalog.cmp.Chapter.header=Search for Chapters
+com.jcatalog.cmp.Chapter.title.label=Title
+com.jcatalog.cmp.Publication.description.label=Description
+com.jcatalog.cmp.Publication.header=Search for Publications
+com.jcatalog.cmp.Publication.publicationId.label=Publication

@@ -1,0 +1,10 @@
+scheduling.params.label.endHour.incorrect=Value of end hour must be between 0 and 23.
+scheduling.params.label.endMinute.incorrect=Value of end minute must be between 0 and 59.
+scheduling.params.label.endTime.required=Time fields are required
+scheduling.params.label.ends=Ends
+scheduling.params.label.every=Every
+scheduling.params.label.everyDays.incorrect=Value of repeating days must be between 1 and 99.
+scheduling.params.label.everyMinutes.incorrect=Value of repeating minutes must be between 1 and 99.
+scheduling.params.label.everyMonths.incorrect=Value of repeating months must be between 1 and 99.
+scheduling.params.label.friday=Friday
+scheduling.params.label.handleDaylightSavingsTime=Handle daylight savings time

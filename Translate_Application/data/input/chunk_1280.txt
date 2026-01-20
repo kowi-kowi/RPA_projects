@@ -1,0 +1,10 @@
+plugin.opcSearch.label.isMainProdLine=Preferred items
+plugin.opcSearch.label.isServiceConfigurator=Service Configurator Products
+plugin.opcSearch.label.isStockedItem=Stock Products
+plugin.opcSearch.label.leadTimInDaysFilter.from=from
+plugin.opcSearch.label.leadTimInDaysFilter.to=to
+plugin.opcSearch.label.less=View less
+plugin.opcSearch.label.lessNews=Less&hellip;
+plugin.opcSearch.label.linkToExternalShop=Link to the product in external shop
+plugin.opcSearch.label.list=Switch to List View
+plugin.opcSearch.label.listView=List View

@@ -1,0 +1,10 @@
+scheduling.CatalogExportJob.download.message=You can download file from next link\: {0}.
+scheduling.CatalogExportJob.emailAddress.label=Notification Email Address
+scheduling.CatalogExportJob.exportCustomerId.label=Customer ID
+scheduling.CatalogExportJob.exportDestination.label=Export destination is
+scheduling.CatalogExportJob.exportDestination.label.all=any
+scheduling.CatalogExportJob.exportDestination.label.customer=customer
+scheduling.CatalogExportJob.exportDestination.label.or=or
+scheduling.CatalogExportJob.exportDestination.label.supplier=supplier
+scheduling.CatalogExportJob.exportFormat.label=Export Format
+scheduling.CatalogExportJob.exportSupplierId.label=Supplier ID

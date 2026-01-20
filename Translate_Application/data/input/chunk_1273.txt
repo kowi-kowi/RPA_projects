@@ -1,0 +1,10 @@
+plugin.opcSearch.header.placeholder.facet_supplierName=supplier
+plugin.opcSearch.header.price=Price/PU
+plugin.opcSearch.header.priceUnit=Unit Price
+plugin.opcSearch.header.productId=Product ID
+plugin.opcSearch.header.quantity=Quantity
+plugin.opcSearch.header.shortDescription=Item Description
+plugin.opcSearch.header.supplierName=Supplier
+plugin.opcSearch.header.uom=UoM
+plugin.opcSearch.header.variant=Variant
+plugin.opcSearch.importantProducts.spinnerMessage=Loading key products...

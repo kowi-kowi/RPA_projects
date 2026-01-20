@@ -1,0 +1,10 @@
+label.status=Status
+label.status.backup=BACKUP
+label.status.current=CURRENT
+label.status.error=ERROR
+label.status.exception=EXCEPTION
+label.status.inactive=INACTIVE
+label.status.new=NEW
+label.status.old=OLD
+label.status.reject=REJECT
+label.status.unknown=UNKNOWN

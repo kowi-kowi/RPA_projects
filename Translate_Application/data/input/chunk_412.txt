@@ -1,0 +1,10 @@
+com.opuscapita.ociobjectvisibility.ProductFilterSet.shortDescription.label=Description
+com.opuscapita.ordertype.OrderType.header=Search for Order Types
+com.opuscapita.ordertype.OrderType.orderTypeId.label=Order Type ID
+com.opuscapita.purchasingclause.PurchasingClause.customerId.label=Customer ID
+com.opuscapita.purchasingclause.PurchasingClause.header=Search for Purchasing Clause
+com.opuscapita.purchasingclause.PurchasingClause.id.label=Clause ID
+com.opuscapita.purchasingclause.PurchasingClause.name.label=Name
+command.backToApplication=Back to previous application
+command.cancel=Cancel
+command.change=Change

@@ -1,0 +1,10 @@
+orderReport.title.poApprovalHistory=Purchase Order Approval History
+orderReport.title.purchaseOrder=Purchase Order
+orderReport.title.receipt=Receipt
+orderReport.title.requisition=Requisition
+parametersAreNotSpecified.com.opuscapita.ociobjectvisibility.OciObjectVisibility=Parameters are not specified
+pligin.procPurchaseorder.label.limitAmount=Limit Amount
+plugin.applicationMetrics.OPC.NoOfCarts.description=Number of carts submitted to the calling system in the period
+plugin.applicationMetrics.OPC.NoOfSearches.description=The total number of searches performed in the defined period
+plugin.applicationMetrics.OPC.TotalNoOfProducts.description=Total number of products in OPC
+plugin.applicationMetrics.PROC.AvgFreetextApproveHandlingTime.description=The average time in minutes, for which an approver handles a requisition on the Freetext Approval step

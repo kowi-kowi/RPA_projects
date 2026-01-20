@@ -1,0 +1,10 @@
+scheduling.button.schedule=Define Schedule
+scheduling.button.scheduleJob=Schedule Job
+scheduling.button.search=Search
+scheduling.confirm.delete.dialog=Do you really want to delete this entry?
+scheduling.confirm.delete.history=Are you sure to delete execution history?
+scheduling.confirm.delete.history.title=Delete history
+scheduling.confirm.delete.job=Are you sure to delete Job?
+scheduling.confirm.delete.job.files=Delete job's files
+scheduling.confirm.delete.job.no=No
+scheduling.confirm.delete.job.title=Delete Job

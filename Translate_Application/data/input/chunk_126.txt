@@ -1,0 +1,10 @@
+RFQ.rfx.layout.action.edit=Edit
+RFQ.rfx.layout.action.reset=Reset
+RFQ.rfx.layout.action.save=Save
+RFQ.rfx.layout.label.hidden=Hidden
+RFQ.rfx.layout.label.layoutConfiguration=Layout Configuration
+RFQ.rfx.layout.label.readonly=Read only
+RFQ.rfx.layout.label.required=Required
+RFQ.rfx.layout.saved.success=The layout configuration is successfully saved.
+RFQ.rfx.longDesc=Description
+RFQ.rfx.options=Options

@@ -1,0 +1,10 @@
+scheduling.title.job=Job
+scheduling.title.jobParameters=Job Parameters
+scheduling.title.jobProgress=Job execution progress
+scheduling.title.jobResult=Job execution result
+scheduling.title.manageJobs=Manage jobs
+scheduling.title.manageJobs.desc=Job Manager is designed to manage various Jobs. Here you can find a previously created Job matching the input search parameters or create a new Job. Any Job can be executed, edited, copied, scheduled or deleted.
+scheduling.title.scheduleJob=Define Schedule
+scheduling.title.searchresult=Jobs
+scheduling.title.viewJob=View Job
+schedulingJob.command.refresh=Refresh

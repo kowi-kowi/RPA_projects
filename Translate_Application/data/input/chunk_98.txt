@@ -1,0 +1,10 @@
+PROC.ServiceEntrySheetEditor.labels.quantity=Quantity
+PROC.ServiceEntrySheetEditor.labels.receivingPerson=Performed By
+PROC.ServiceEntrySheetEditor.labels.rejectImpossible=Impossible to reject SES without items.
+PROC.ServiceEntrySheetEditor.labels.releasedInfo=Released in {deliveryNoteId}
+PROC.ServiceEntrySheetEditor.labels.reportedTotalNetPrice=Total value (reported)
+PROC.ServiceEntrySheetEditor.labels.saved=Service Entry Sheet was saved successfully.
+PROC.ServiceEntrySheetEditor.labels.sesHeader=Service Entry Sheet
+PROC.ServiceEntrySheetEditor.labels.sesItemHeader=Description, Quantity, Price
+PROC.ServiceEntrySheetEditor.labels.sesTotalNetPrice=Total for SES
+PROC.ServiceEntrySheetEditor.labels.supplier=Supplier

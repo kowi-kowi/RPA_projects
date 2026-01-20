@@ -1,0 +1,10 @@
+scheduling.params.label.after=After
+scheduling.params.label.calendar=Calendar interval
+scheduling.params.label.cron=Cron expression
+scheduling.params.label.custom=Custom interval
+scheduling.params.label.daily=Daily
+scheduling.params.label.date=Date
+scheduling.params.label.dateRange.incorrect=End date must be later than start date.
+scheduling.params.label.dayMonth.incorrect=You must select at least one day of month.
+scheduling.params.label.days=day(s)
+scheduling.params.label.endDate.required=End date is a required field

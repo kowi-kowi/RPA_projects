@@ -1,0 +1,10 @@
+com.jcatalog.opc.shoppinglist.commands.RenameShoppingListCommand.shoppingListName.maxSize.exceeded=Shopping list name may not be longer than {3} characters.
+com.jcatalog.opc.shoppinglist.commands.RenameShoppingListCommand.shoppingListName.nullable=Shopping list name cannot be blank.
+com.jcatalog.opc.shoppinglist.commands.RenameShoppingListCommand.shoppingListName.validator.error=Shopping list with name ''{2}'' already exists.
+com.jcatalog.ordermanagement.PurchasingProject.customerName.label=Customer Name
+com.jcatalog.ordermanagement.PurchasingProject.header=Search for Purchasing Project
+com.jcatalog.ordermanagement.PurchasingProject.id.label=Purchasing Project ID
+com.jcatalog.ordermanagement.PurchasingProject.opportunityName.label=Opportunity Name
+com.jcatalog.ordermanagement.PurchasingProject.opportunityOwnerFullName.label=Opportunity Owner Name
+com.jcatalog.ordermanagement.PurchasingProject.projectDescription.label=Purchasing Project Description
+com.jcatalog.organization.CatalogUser.Approver.header=Search for Users Responsible in Ordering

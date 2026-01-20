@@ -1,0 +1,10 @@
+scheduling.BackupCatalogJob.catalogVersionsKeys.nullable=Catalog Versions is a required field
+scheduling.BackupCatalogJob.create.info=You can't create this job manually. Use Operations tool of Catalog Version Manager to create and execute the job.
+scheduling.BackupCatalogJob.edit.info=You can't edit this job manually. Use Operations tool of Catalog Version Manager to create and execute the job.
+scheduling.BackupCatalogJob.languageId.label=Language
+scheduling.BackupCatalogJob.link.operations.tool=Go to Operations tool.
+scheduling.BudgetImportJob.objectType.budget.label=Budget
+scheduling.BudgetRollOverJob.dateFrom.label=Date From
+scheduling.BudgetRollOverJob.dateTo.label=Date To
+scheduling.BulkBackupCatalogJob.email.hint=Email where a letter with Job Execution info will be sent to after all catalog versions are backed up.
+scheduling.BulkBackupCatalogJob.email.label=Email

@@ -1,0 +1,10 @@
+plugin.productCompare.typeMismatch.com.jcatalog.opc.commons.commands.CompareItemCommand.quantity=Quantity is not a valid number.
+plugin.productEnrichment.command.apply=Apply
+plugin.productEnrichment.command.cancel=Cancel
+plugin.productEnrichment.command.close=Close
+plugin.productEnrichment.command.edit=Edit
+plugin.productEnrichment.command.insert=Insert
+plugin.productEnrichment.command.save=Save
+plugin.productEnrichment.command.update=Update
+plugin.productEnrichment.desc=Product Enrichment allows you to quickly add or update product information, that is shown in OPC. Edit and save the updated product attribute values below. For the information on how to change the set of editable product attributes, please contact your administrator.
+plugin.productEnrichment.editor.common.validation.email=Please enter a valid email.

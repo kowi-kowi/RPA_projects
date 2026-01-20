@@ -1,0 +1,10 @@
+deltaReport.header.currencyId=CurrencyId
+deltaReport.header.deltaProductSN=DeltaProductSN
+deltaReport.header.errorId=ErrorId
+deltaReport.header.errorType=ErrorType
+deltaReport.header.errorsWarnings=Errors/Warnings
+deltaReport.header.explanation=Explanation
+deltaReport.header.fieldName=FieldName
+deltaReport.header.fieldType=FieldType
+deltaReport.header.fieldValue=FieldValue
+deltaReport.header.languageId=LanguageId

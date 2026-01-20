@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.error.supplier.required=Supplier is a required field. Please enter an appropriate value.
+plugin.opcProductSuggestion.error.userEmail.invalid=User email "{0}" is invalid.
+plugin.opcProductSuggestion.error.userEmail.required=User email is a required field. Please enter an appropriate value.
+plugin.opcProductSuggestion.header.productSuggestion=Product Suggestion and Request
+plugin.opcProductSuggestion.header.searchSuggestion=Search suggestion
+plugin.opcProductSuggestion.hint.adminEmail=Put contract sourcing admin email here
+plugin.opcProductSuggestion.hint.attachments=Attachments to be sent with product request. Total size of attachments should not exceed 5 MB.
+plugin.opcProductSuggestion.hint.classificationGroup=Classification group of requested product
+plugin.opcProductSuggestion.hint.contract=Contract of requested product
+plugin.opcProductSuggestion.hint.description=Description of requested product

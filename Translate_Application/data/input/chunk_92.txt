@@ -1,0 +1,10 @@
+PROC.PurchaseOrderEditor.purchaseOrderItem.tabs.labels.recipient=Recipient
+PROC.PurchaseOrderInput.createdBy=Ordered By
+PROC.PurchaseOrderInput.createdOn=Ordered On
+PROC.PurchaseOrderInput.dialogTitle=Search for Purchase Order
+PROC.PurchaseOrderInput.extPurchaseOrderId=Ext. Purchase Order
+PROC.PurchaseOrderInput.itemsAmount=No. of Items
+PROC.PurchaseOrderInput.purchaseOrderId=Purchase Order
+PROC.PurchaseOrderInput.purchaseOrderInfo=Purchase Order
+PROC.PurchaseOrderInput.requisitionId=Requisition
+PROC.PurchaseOrderInput.requisitionInfo=Requisition

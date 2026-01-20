@@ -1,0 +1,10 @@
+StandardMultiSheet.contractedPrice-listPrice=List Price
+StandardMultiSheet.contractedPrice-netPrice=Price
+StandardMultiSheet.contractedPrice-priceType=Price Type
+StandardMultiSheet.contractedPrice-priceUnit=Unit Price
+StandardMultiSheet.contractedPrice-productIdExtensionForUoM=Product ID Extension for UoM
+StandardMultiSheet.contractedPrice-statusId=Price Status
+StandardMultiSheet.contractedPrice-unitOfMeasureId=Price Unit of Measure ID
+StandardMultiSheet.contractedPrice-validFrom=Price Effective Date
+StandardMultiSheet.contractedPrice-validFromQuantity=Valid From Quantity
+StandardMultiSheet.contractedPrice-validTo=Price Expiration Date

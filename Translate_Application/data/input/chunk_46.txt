@@ -1,0 +1,10 @@
+PROC.ConfirmationEditor.errors.noItemFinalDelivery=The value of confirmed quantity can be zero if the position is marked as final confirmation.
+PROC.ConfirmationEditor.errors.noItems=There are no items selected.
+PROC.ConfirmationEditor.errors.warning=Warning
+PROC.ConfirmationEditor.header.createdBy=Ordered By
+PROC.ConfirmationEditor.header.createdOn=Created On
+PROC.ConfirmationEditor.header.customer=Customer
+PROC.ConfirmationEditor.header.extConfirmationNumber=Ext. Confirmation Number
+PROC.ConfirmationEditor.header.purchaseOrder=Purchase Order
+PROC.ConfirmationEditor.header.purchaseOrderConfirmation=Purchase Order Confirmation
+PROC.ConfirmationEditor.header.supplier=Supplier

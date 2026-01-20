@@ -1,0 +1,10 @@
+plugin.opcAddToCart.message.validation.product.hasSeveralContracts=Product ''{0}'' cannot be added directly as it has multiple contracts. Use standard process for adding instead.
+plugin.opcAddToCart.message.validation.product.hasSimilarProducts=Product ''{0}'' cannot be added directly as there are similar products in catalog. Use standard process for adding instead.
+plugin.opcAddToCart.message.validation.product.hasSubstitute=Product ''{0}'' cannot be added as it was substituted by product ''{1}''. Use standard process for adding instead.
+plugin.opcAddToCart.message.validation.product.hasVariants=The product ''{0}'' is not orderable. Go to the details page and add some variants of this product first.
+plugin.opcAddToCart.message.validation.product.isNotOrederable=Product ''{0}'' is not orderable.
+plugin.opcAddToCart.message.validation.product.nonSmartForm.hasAttributeValues=Product ''{0}'' is not a SmartForm and cannot have attribute values.
+plugin.opcAddToCart.message.validation.product.notAvailable=Product is not available.
+plugin.opcAddToCart.message.validation.product.punchout=Punchout product ''{0}'' cannot be added directly. Go to external catalog first.
+plugin.opcAddToCart.message.validation.product.serviceConfigurator=The Service Configuration product '{0}' cannot be directly added to the Shopping Cart. Go to the Product Details page first.
+plugin.opcAddToCart.message.validation.product.smartForm=SmartForm product ''{0}'' cannot be added directly. Go to the details page first.

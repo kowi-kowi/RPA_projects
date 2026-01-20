@@ -1,0 +1,10 @@
+plugin.opcBrowseContracts.label.address.url=Internet
+plugin.opcBrowseContracts.label.address.zipAndCity=ZIP code and City
+plugin.opcBrowseContracts.label.browseContracts.addButton=Add
+plugin.opcBrowseContracts.label.browseContracts.catalog=Catalog
+plugin.opcBrowseContracts.label.browseContracts.classificationGroup=Classification Group
+plugin.opcBrowseContracts.label.browseContracts.clearButton=Clear
+plugin.opcBrowseContracts.label.browseContracts.commonOptions=Common Options
+plugin.opcBrowseContracts.label.browseContracts.containsChemicalItems=Contains Chemical Items
+plugin.opcBrowseContracts.label.browseContracts.containsHazardousItems=Contains Hazardous Items
+plugin.opcBrowseContracts.label.browseContracts.containsSafetyItems=Contains Safety Items

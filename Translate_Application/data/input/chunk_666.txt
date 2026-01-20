@@ -1,0 +1,10 @@
+opc.product.stock.modal.header.warehouseId=Warehouse ID
+opc.product.stock.modal.header.warehouseName=Warehouse Name
+opc.product.stock.modal.title=Stock information for the product '{productKey}'
+opc.product.type.freetext=Freetext
+opc.product.type.info=Info Product
+opc.product.type.regular=Regular Product
+opc.product.type.serviceConfigurator=Service Configurator
+opc.productDetails.message.causedByLocaleChange=This might happen due to changed locale. Please refresh the page.
+opc.requisition.draft.button.close.label=Close
+opc.requisition.draft.button.ok.label=OK

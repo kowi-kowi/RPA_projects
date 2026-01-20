@@ -1,0 +1,10 @@
+plugin.opcShoppingList.message.confirmDeleteSelectedItems=Do you really want to delete the selected items?
+plugin.opcShoppingList.message.edit.success=The Shopping List changes were successfully saved.
+plugin.opcShoppingList.message.error.addToList.failed=Error occurred during adding to shopping list, please contact administrator.
+plugin.opcShoppingList.message.error.update.empty=Please select Shopping List.
+plugin.opcShoppingList.message.itemNotFound=Action cannot be performed. The selected item is not found.
+plugin.opcShoppingList.message.moveToCartSelectedListItem=Moving selected product to cart...
+plugin.opcShoppingList.message.moveToCartSelectedListItems=Moving selected products to cart...
+plugin.opcShoppingList.message.noProductsFound=No products found in this Shopping List.
+plugin.opcShoppingList.message.notFound=Nothing found.
+plugin.opcShoppingList.message.pricesUpdated=Some product prices have been updated. Check the price changes on the item level.

@@ -1,0 +1,10 @@
+scheduling.ImportEnrichmentDataJob.failure.title=Enrichment Data Import Failed
+scheduling.ImportEnrichmentDataJob.importFile.hint=Select the file that you want to import.
+scheduling.ImportEnrichmentDataJob.importFile.label=Import file
+scheduling.ImportEnrichmentDataJob.languageId.label=Language
+scheduling.ImportEnrichmentDataJob.mailSubject.failure=Enrichment Data Import failed.
+scheduling.ImportEnrichmentDataJob.mailSubject.success=Enrichment Data Import finished successfully.
+scheduling.ImportEnrichmentDataJob.selection=selecting an existing file
+scheduling.ImportEnrichmentDataJob.success.message=Enrichment Data Import finished. You can see log files for details.
+scheduling.ImportEnrichmentDataJob.success.title=Enrichment Data Import is successfully completed
+scheduling.ImportEnrichmentDataJob.upload-select.hint=Select source of the importing file

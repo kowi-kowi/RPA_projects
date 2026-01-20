@@ -1,0 +1,10 @@
+plugin.domainModelTags.button.delete.alt=Delete
+plugin.domainModelTags.button.delete.title=Delete
+plugin.domainModelTags.message.alert=You can not add more translations.
+plugin.domainObjectAttachment.action.cancel=Cancel
+plugin.domainObjectAttachment.action.close=Close
+plugin.domainObjectAttachment.action.delete=Delete
+plugin.domainObjectAttachment.actions.tableHeader=Actions
+plugin.domainObjectAttachment.delete.confirmation=Do you really want to delete this entry?
+plugin.domainObjectAttachment.fileExists.error=File exists
+plugin.domainObjectAttachment.fileIsTooBig.error=The file exceeds the maximum size limit of {0}.

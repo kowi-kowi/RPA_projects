@@ -1,0 +1,10 @@
+plugin.uiHeader.application.order.label=Order
+plugin.uiHeader.application.payments.label=Payments
+plugin.uiHeader.application.productInformation.label=Product Information
+plugin.uiHeader.application.provisioning.label=User and Master Data
+plugin.uiHeader.application.receivablesCollection.label=Receivables Collection
+plugin.uiHeader.application.rfq.label=Quote
+plugin.uiHeader.application.shop.label=Shop
+plugin.uiHeader.application.supplierInformation.label=Supplier Information
+plugin.uiHeader.applicationMenu.title=Available apps
+plugin.uiHeader.bookmarks.addButton.tip=Add current page to bookmarks

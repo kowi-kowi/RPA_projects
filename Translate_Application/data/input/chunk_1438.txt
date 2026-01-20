@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.invoiceEditor=Invoice
+plugin.procPurchaseorder.label.invoiceReceiptId=Invoice Receipt ID
+plugin.procPurchaseorder.label.invoiceReceiptItem=Invoice Receipt Item
+plugin.procPurchaseorder.label.invoiceReceiptItemNo=Invoice Receipt Item No
+plugin.procPurchaseorder.label.invoiceStatus=Invoice status
+plugin.procPurchaseorder.label.invoicesCreated=Invoices created
+plugin.procPurchaseorder.label.ir=IR
+plugin.procPurchaseorder.label.irAccountingDetails=Accounting Details
+plugin.procPurchaseorder.label.irDetails=Invoice Receipt Details
+plugin.procPurchaseorder.label.irI=IR Item

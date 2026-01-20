@@ -1,0 +1,10 @@
+plugin.opcSearchCore.excludeCatalogsForSearch.desc=Provides the ability of excluding catalogs from the search.
+plugin.opcSearchCore.excludeCatalogsForSearch.label=Excluded catalogs
+plugin.opcSearchCore.excludeCatalogsForSearch.title=Exclude Catalogs
+plugin.opcSearchCore.smartFormsManagement.button.create=Start
+plugin.opcSearchCore.smartFormsManagement.button.delete=Remove from List
+plugin.opcSearchCore.smartFormsManagement.button.details=Product Details
+plugin.opcSearchCore.smartFormsManagement.button.edit=Edit Product
+plugin.opcSearchCore.smartFormsManagement.catalogId=Catalog
+plugin.opcSearchCore.smartFormsManagement.catalogId.empty=Catalog is a required field
+plugin.opcSearchCore.smartFormsManagement.confirmRemoveFromList=Do you really want to remove this product from the exclusion list?

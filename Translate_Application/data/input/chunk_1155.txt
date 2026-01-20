@@ -1,0 +1,10 @@
+plugin.opcGenericAttributes.attributes.action.startConfiguration=Configure Attributes
+plugin.opcGenericAttributes.attributes.actionDescription.modalAttribute.buttonCancel=Cancel
+plugin.opcGenericAttributes.attributes.actionDescription.modalAttribute.buttonSubmit=Save
+plugin.opcGenericAttributes.attributes.actionDescription.modalAttribute.title=Edit Action Description
+plugin.opcGenericAttributes.attributes.actionDescription.modalAttribute.updateWarning=Edited description will no longer be automatically updated. Clear this field to generate the value automatically.
+plugin.opcGenericAttributes.attributes.button.addAttribute=Add Source Attribute
+plugin.opcGenericAttributes.attributes.button.addDescription=Add Description
+plugin.opcGenericAttributes.attributes.configurationSource.classificationGroup=Classification Group\: {0}
+plugin.opcGenericAttributes.attributes.configurationSource.product=Product\: {0}
+plugin.opcGenericAttributes.attributes.description.checkbox.selected=Selected

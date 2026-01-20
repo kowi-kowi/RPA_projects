@@ -1,0 +1,10 @@
+PROC.ProfessionalBuyerTool.actions.reject=Reject
+PROC.ProfessionalBuyerTool.actions.reset=Reset
+PROC.ProfessionalBuyerTool.actions.save=Save
+PROC.ProfessionalBuyerTool.actions.search=Search
+PROC.ProfessionalBuyerTool.actions.split=Split
+PROC.ProfessionalBuyerTool.actions.splitAndGenerate=Split & Generate
+PROC.ProfessionalBuyerTool.errors.splitValueGreaterOriginalValue=Split value cannot be greater than the original requisition item quantity.
+PROC.ProfessionalBuyerTool.errors.splitValueIsNegative=Split value cannot be negative.
+PROC.ProfessionalBuyerTool.errors.splitValuesExceedOriginalValue=The sum of split values exceeds the original quantity of the requisition item.
+PROC.ProfessionalBuyerTool.labels.addressId=Address ID

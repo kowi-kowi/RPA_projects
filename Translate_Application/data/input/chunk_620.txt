@@ -1,0 +1,10 @@
+message.supplier.workflow.finish.error=Workflow completed with errors at ${now}.
+message.supplier.workflow.finish.exception=Workflow completed with the exception at ${now}.
+message.supplier.workflow.finish.success=Workflow completed successfully at ${now}.
+message.supplier.workflow.mapping.classification.are.equal=Source classification and target classification are equal. Classification mapping skipped.
+message.supplier.workflow.mapping.empty.source.classification=Source classification is empty.
+message.supplier.workflow.mapping.empty.target.classification=Target classification is empty.
+message.supplier.workflow.mapping.errors=Errors occurred during the mapping.
+message.supplier.workflow.mapping.parameters=Source UoM \= ${sourceUom}, Target UoM \= ${targetUom}
+message.supplier.workflow.mapping.warnings=Warnings occurred during the mapping.
+message.supplier.workflow.message.attributeValueMappingSkipped=Service message\: Attribute Value Mapping skipped because it is not specified for the Customer and/or Supplier.

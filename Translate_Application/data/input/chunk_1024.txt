@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.relatedProductCatalogId=Related product catalog
+plugin.opcAdministration.label.relatedProductId=Related product
+plugin.opcAdministration.label.relationType=Relation type
+plugin.opcAdministration.label.requestStatistics.clearButton=Clear
+plugin.opcAdministration.label.requestStatistics.customer=Customer
+plugin.opcAdministration.label.requestStatistics.logDate=Statistical Period
+plugin.opcAdministration.label.requestStatistics.searchButton=Search
+plugin.opcAdministration.label.requestStatistics.supplier=Supplier
+plugin.opcAdministration.label.requestStatistics.uri=URI
+plugin.opcAdministration.label.requestStatistics.user=User

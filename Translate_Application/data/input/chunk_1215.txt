@@ -1,0 +1,10 @@
+plugin.opcProductFees.message.feeRulesMissingParameters=There are certain parameters missing to calculate the fees. Please contact your administrator.
+plugin.opcProductProcessing.action.addOriginalProduct=Add original Product
+plugin.opcProductProcessing.action.cancel=Cancel
+plugin.opcProductProcessing.action.close=Close
+plugin.opcProductProcessing.action.configure=Fill in form
+plugin.opcProductProcessing.action.continue=Continue
+plugin.opcProductProcessing.action.ok=Ok
+plugin.opcProductProcessing.header.buy=Buy
+plugin.opcProductProcessing.header.documentThumbnail=Preview
+plugin.opcProductProcessing.header.price=Price/PU

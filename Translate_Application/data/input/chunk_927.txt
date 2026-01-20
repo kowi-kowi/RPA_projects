@@ -1,0 +1,10 @@
+plugin.grailsflow.label.role=Role
+plugin.grailsflow.label.roles=Roles
+plugin.grailsflow.label.rows=Rows
+plugin.grailsflow.label.running=Running
+plugin.grailsflow.label.runningJobs=Running Jobs
+plugin.grailsflow.label.runningTime=Running Time
+plugin.grailsflow.label.scheduleProcess=Schedule Process
+plugin.grailsflow.label.scheduledJobs=Scheduled Jobs
+plugin.grailsflow.label.scheduledJobs.desc=In this section you can pause/resume jobs. By pressing "resume" you will trigger one execution of job for all possible missed scheduled launchings.
+plugin.grailsflow.label.scheduler.pause=Pause Scheduler

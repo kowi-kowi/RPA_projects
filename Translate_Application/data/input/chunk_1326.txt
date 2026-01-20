@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.label.showErrorItems=Show only failed items
+plugin.opcShoppingCart.label.street=Street
+plugin.opcShoppingCart.label.surchargeItem=Surcharge item
+plugin.opcShoppingCart.label.tax=Tax
+plugin.opcShoppingCart.label.tieredPrices=Tiered Price
+plugin.opcShoppingCart.label.totalFees=Total Fees
+plugin.opcShoppingCart.label.update.deliveryDate=Update Delivery Date
+plugin.opcShoppingCart.label.update.postingDetails=Update Posting Details
+plugin.opcShoppingCart.label.updateAllCartItems=Update all cart items
+plugin.opcShoppingCart.label.updateCartItem=Update cart item

@@ -1,0 +1,10 @@
+customization.block.relatedItemsEditor=Related Products
+customization.block.specialIcons=Special Icons
+customization.edit.ui.grid.button.back.edit.label=Back to Edit
+customization.edit.ui.grid.button.cancel.label=Cancel
+customization.edit.ui.grid.button.elements.hidden.label=Hidden Elements
+customization.edit.ui.grid.button.preview.label=Preview
+customization.edit.ui.grid.button.reset.default.label=Reset to Default
+customization.edit.ui.grid.button.save.label=Save
+customization.edit.ui.grid.buttons.edit=Edit
+customization.edit.ui.grid.buttons.print=Print

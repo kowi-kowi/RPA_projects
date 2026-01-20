@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.question.deleteAllNotAvailableListItems=Do you really want to remove all not available products from draft requisition?
+plugin.opcDraftRequisition.question.deleteDraftRequisition=Do you really want to remove the draft requisition?
+plugin.opcDraftRequisition.question.deleteDraftRequisitionItem=Do you really want to remove the product from the Draft Requisition?
+plugin.opcDraftRequisition.question.deleteNotAvailableListItem=Do you really want to remove this not available product from the draft requisition?
+plugin.opcDraftRequisition.question.replaceDraftRequisition=The Draft Requisition with this name already exists. Would you like to replace it?
+plugin.opcDraftRequisition.title.assignTo=Assign Draft Requisition to specific user
+plugin.opcDraftRequisition.title.draftRequisition=Draft Requisition
+plugin.opcDraftRequisition.title.headerInfo=Header Information
+plugin.opcDraftRequisition.title.popupWarningTitle=Warning
+plugin.opcDraftRequisition.title.punchout=Punchout

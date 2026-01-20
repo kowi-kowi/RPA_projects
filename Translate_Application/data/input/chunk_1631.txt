@@ -1,0 +1,10 @@
+plugin.salesorder.message.validation.approver2.missed=Purchasing Approver is missing.
+plugin.salesorder.message.validation.approver3.missed=First Commercial Approver is missing.
+plugin.salesorder.message.validation.approver4.missed=Second Commercial Approver is missing.
+plugin.salesorder.postingDimensionValue.label=Posting Dimension Value
+plugin.salesorder.salesOrder.command.import=Cart Import
+plugin.salesorder.title.approverSearch=Approver Search
+plugin.salesorder.title.approverSearchInfo=Search for users responsible for ordering.
+plugin.salesorder.title.cart.import=Cart Import
+plugin.salesorder.title.requisition.import=Requisition Import
+plugin.salesorder.title.userProfile=Requisition Defaults

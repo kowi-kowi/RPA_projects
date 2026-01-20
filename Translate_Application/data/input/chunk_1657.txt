@@ -1,0 +1,10 @@
+plugin.solrIndexer.menu.tabTitle.configureLog4j=Logging Settings
+plugin.solrIndexer.menu.tabTitle.indexer=Indexer
+plugin.solrIndexer.menu.tabTitle.logs=Logs
+plugin.solrIndexer.menu.tabTitle.masterConfig=SOLR Master
+plugin.solrIndexer.menu.tabTitle.slaveConfig=SOLR Slave
+plugin.solrIndexer.menu.tabTitle.solrServers=SOLR Servers
+plugin.solrIndexer.menu.tabTitle.systemInfo=System Information
+plugin.solrIndexer.menu.tabTitle.viewLogs=View Logs
+plugin.solrIndexer.notification.subject.error=SOLR Indexer Notification (Error)
+plugin.solrIndexer.notification.subject.ok=SOLR Indexer Notification (Success)

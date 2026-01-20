@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.hint.includeProduct=Create new product for your own purposes <br/> or include it as a standard product into catalog
+plugin.opcProductSuggestion.hint.manufacturer=Manufacturer of requested product
+plugin.opcProductSuggestion.hint.mfgProductId=Manufacturer Product ID of requested product
+plugin.opcProductSuggestion.hint.ownerEmail=Put contract sourcing owner email here
+plugin.opcProductSuggestion.hint.phoneNo=Put the phone number of the requestor here
+plugin.opcProductSuggestion.hint.productId=ID of requested product
+plugin.opcProductSuggestion.hint.quantity=Quantity for requested product
+plugin.opcProductSuggestion.hint.quoteId=Response Number of created product
+plugin.opcProductSuggestion.hint.requestorEmail=Put the email of the requestor here
+plugin.opcProductSuggestion.hint.requestorName=Put the name of the requestor here

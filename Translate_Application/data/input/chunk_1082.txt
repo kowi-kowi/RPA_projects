@@ -1,0 +1,10 @@
+plugin.opcCms.cmsElementEditor.ociObjectVisibilityTab.restrictionTypeRadio.label.byCustomerAndOOV=Customer and OCI Object Visibility
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.action.add=Add
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.action.delete=Delete
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.label.catalogId=Catalog ID
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.label.classificationGroupId=Classification Group ID
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.label.classificationId=Classification ID
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.label.contractId=Contract ID
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.label.productId=Product ID
+plugin.opcCms.cmsElementEditor.productsAssignmentTab.table.label.supplierId=Supplier ID
+plugin.opcCms.cmsElementEditor.userConfirmationsTab.action.withdrawAll=Withdraw All

@@ -1,0 +1,10 @@
+proc.widgets.spendPerSupplier.delivered.label=Delivered
+proc.widgets.spendPerSupplier.notDelivered.label=Not delivered
+proc.widgets.spendPerSupplier.total.label=Total
+proc.widgets.spendPerSupplier.yAxis.label=Total price, {0}
+proc.widgets.spendVsVolume.orderVolume.label=Order Volume
+proc.widgets.spendVsVolume.spendVolume.label=Spend Volume
+proc.widgets.spendVsVolume.yAxis.label=Orders
+proc.widgets.spendVsVolume.yAxis.right.label=Total price, {0}
+proc.widgets.supplier.label=Supplier
+proc.widgets.timeDimensions.label=Time dimensions

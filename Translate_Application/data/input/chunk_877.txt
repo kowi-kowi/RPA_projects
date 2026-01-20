@@ -1,0 +1,10 @@
+plugin.eprocBookmarks.modal.editBookmark.button.remove=Remove
+plugin.eprocBookmarks.modal.editBookmark.label.header=Editing a Bookmark
+plugin.eprocBookmarks.modal.validation.exceedMaxBookmarkSize=The maximum allowed number of bookmarks is exceeded.
+plugin.eprocBookmarks.modal.validation.noDescription=Please, enter a bookmark description.
+plugin.eprocDashboard.accessDenied.message=Access Denied
+plugin.eprocDashboard.changeCustomerAssignment.label=Change Assignment
+plugin.eprocDashboard.dashboards.errors.maxCountExceeded=You cannot create more than {0} dashboards.
+plugin.eprocDashboard.externalView.error=Please check the accuracy of the URL address you entered.
+plugin.eprocDashboard.page.dashboard.title=Dashboard
+plugin.eprocDashboard.widget.title.clock=Clock

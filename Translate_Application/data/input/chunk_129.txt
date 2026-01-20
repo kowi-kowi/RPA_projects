@@ -1,0 +1,10 @@
+RFQ.rfx.responses.available={responded} available / {total} suppliers invited
+RFQ.rfx.rfxItem.catalogId=Catalog ID
+RFQ.rfx.rfxItem.contractId=Contract ID
+RFQ.rfx.rfxItem.contractedCurrency=Contracted currency
+RFQ.rfx.rfxItem.contractedNetPrice=Contracted Price
+RFQ.rfx.rfxItem.currency=Currency
+RFQ.rfx.rfxItem.deliveryDate=Delivery Date
+RFQ.rfx.rfxItem.deviation=Deviation
+RFQ.rfx.rfxItem.extProductId=Ext. product ID
+RFQ.rfx.rfxItem.isFixedQuantity=Fixed Quantity

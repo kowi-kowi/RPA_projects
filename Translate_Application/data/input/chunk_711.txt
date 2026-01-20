@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.label.workflowTrends.node.exceptionSupplierProcess=End with Exception
+plugin.businessPartnerDashboard.label.workflowTrends.node.export=Publish Catalog
+plugin.businessPartnerDashboard.label.workflowTrends.node.exportCustomerReview=Compile Review Package
+plugin.businessPartnerDashboard.label.workflowTrends.node.finish=End Catalog Process
+plugin.businessPartnerDashboard.label.workflowTrends.node.globalAutomaticEnrichment=Global Automatic Enrichment
+plugin.businessPartnerDashboard.label.workflowTrends.node.importConversion=Import Conversion
+plugin.businessPartnerDashboard.label.workflowTrends.node.productReview=Catalog Revision
+plugin.businessPartnerDashboard.label.workflowTrends.node.rejecting=Reject Catalog
+plugin.businessPartnerDashboard.label.workflowTrends.node.supplierRejection=Supplier Rejection
+plugin.businessPartnerDashboard.label.workflowTrends.node.supplierReview=Supplier Approval

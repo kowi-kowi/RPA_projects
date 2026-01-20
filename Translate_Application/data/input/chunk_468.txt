@@ -1,0 +1,10 @@
+emailMessage.purchaseOrderReminder.label.termOfDelivery=Delivery Terms
+emailMessage.purchaseOrderReminder.label.total=Total (net)
+emailMessage.purchaseOrderReminder.label.totalPrice=Total Price
+emailMessage.purchaseOrderReminder.label.totalQuantity=Total Quantity
+emailMessage.purchaseOrderReminder.label.uom=UoM
+emailMessage.purchaseOrderReminder.overdueDelivery.label.salutation=Dear Sir or Madam,<br><br>Please, check the overdue delivery dates for the listed items and organize the delivery or contact us.
+emailMessage.soApprove.label.acceptAction=Accept
+emailMessage.soApprove.label.addedBy=Added By
+emailMessage.soApprove.label.approvalStep=Approval Step
+emailMessage.soApprove.label.attachments=Attachments

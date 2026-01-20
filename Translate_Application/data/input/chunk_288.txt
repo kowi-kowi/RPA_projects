@@ -1,0 +1,10 @@
+catalogStatistics.label.itemsWithImages=Items with images
+catalogStatistics.label.itemsWithIsMainProdLine=Ratio of core assortment items
+catalogStatistics.label.itemsWithIsMainProdLine.withBrake=Core assortment<br/>items
+catalogStatistics.label.itemsWithKeywords=Keywords
+catalogStatistics.label.itemsWithLongDesc=Long Description
+catalogStatistics.label.itemsWithLongDesc.withBrake=Long Description
+catalogStatistics.label.itemsWithMfgProductId=Manufacturer Part No.
+catalogStatistics.label.itemsWithMfrName=Manufacturer name
+catalogStatistics.label.itemsWithProductRelations=Product Relations
+catalogStatistics.label.itemsWithSpecialTreatmentClass=Hazardous items

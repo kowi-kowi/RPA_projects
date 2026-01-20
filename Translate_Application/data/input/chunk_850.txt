@@ -1,0 +1,10 @@
+plugin.derivedCatalogFilters.label.button.reset=Reset
+plugin.derivedCatalogFilters.label.button.run=Run
+plugin.derivedCatalogFilters.label.button.runSelectedFilters=Run Selected
+plugin.derivedCatalogFilters.label.button.save=Save
+plugin.derivedCatalogFilters.label.button.search=Search
+plugin.derivedCatalogFilters.message.cannotRemove=The last filter cannot be removed.
+plugin.derivedCatalogFilters.message.confirmDelete=Do you really want to delete this filter?
+plugin.derivedCatalogFilters.message.confirmDeleteSelected=Do you really want to delete the selected items?
+plugin.derivedCatalogFilters.message.deleteError=Filter <{0}> cannot be removed\: {1}.
+plugin.derivedCatalogFilters.message.deleteFromCustomizationError=Filter <{0}> cannot be removed from the Customization Area. Please, deactivate the filter first or contact the administrator.

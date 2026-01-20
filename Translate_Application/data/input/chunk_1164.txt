@@ -1,0 +1,10 @@
+plugin.opcGenericAttributes.label.section.punchoutAttributes=Attributes
+plugin.opcGenericAttributes.message.required=* Required field
+plugin.opcGenericAttributes.warning.recalculateGLAccount.message=Be careful, if value of Editable Classification Group is changed, the GL Account will be recalculated automatically.
+plugin.opcIntegration.approvalStep.InvestmentApproval=Investment Approval
+plugin.opcIntegration.approvalStep.OrderConfirmation=Order Confirmation
+plugin.opcIntegration.approvalStep.PurchaseOrderApproval=Purchase Order Approval
+plugin.opcIntegration.command.clear=Reset
+plugin.opcIntegration.command.search=Search
+plugin.opcIntegration.header.productCatalog=Product Catalog
+plugin.opcIntegration.header.productId=Product

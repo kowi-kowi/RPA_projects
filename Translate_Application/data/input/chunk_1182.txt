@@ -1,0 +1,10 @@
+plugin.opcOrder.orderFor.modal.button.change=Change
+plugin.opcOrder.orderFor.modal.message.clearOrderFor=You are going to clear the "Order For" field.<br> You will become the new owner for this Requisition.<br>Delivery and Invoice Addresses, Recipient Information, Accounting Details will be re-calculated based on your defaults.<br>Do you really want to continue and change the selected owner?
+plugin.opcOrder.orderFor.modal.message.clearOrderFor.postingMode=You are going to clear the "Order For" field.<br> You will become the new owner for this Requisition.<br>Delivery and Invoice Addresses, Recipient Information, Posting Details will be re-calculated based on your defaults.<br>Do you really want to continue and change the selected owner?
+plugin.opcOrder.orderFor.modal.message.orderForOtherUser=You are going to set a new owner <b>%NEW_OWNER%</b> for this Requisition.<br> Requisition will be still visible to you. <br>Delivery and Invoice Addresses, Recipient Information, Accounting Details will be re-calculated based on the defaults of the new owner <b>%NEW_OWNER%</b>.<br>Do you really want to change the owner?
+plugin.opcOrder.orderFor.modal.message.orderForOtherUser.postingMode=You are going to set a new owner <b>%NEW_OWNER%</b> for this Requisition.<br> Requisition will be still visible to you. <br>Delivery and Invoice Addresses, Recipient Information, Posting Details will be re-calculated based on the defaults of the new owner <b>%NEW_OWNER%</b>.<br>Do you really want to change the owner?
+plugin.opcOrder.orderFor.modal.title=Order For
+plugin.opcOrder.orderFor.textfield.label=Order For
+plugin.opcOrder.orderType.select.label=Order Type
+plugin.opcOrder.posting.header.dimensionLabel=Name
+plugin.opcOrder.posting.header.dimensionType=Type

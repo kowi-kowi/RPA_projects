@@ -1,0 +1,10 @@
+plugin.opcCommonUi.highlight.label.productText_no=Product text (NO)
+plugin.opcCommonUi.highlight.label.productText_ru=Product text (RU)
+plugin.opcCommonUi.highlight.label.productText_sv=Product text (SV)
+plugin.opcCommonUi.highlight.label.shortDesc_de=Short Description (DE)
+plugin.opcCommonUi.highlight.label.shortDesc_en=Short Description (EN)
+plugin.opcCommonUi.highlight.label.shortDesc_fi=Short Description (FI)
+plugin.opcCommonUi.highlight.label.shortDesc_no=Short Description (NO)
+plugin.opcCommonUi.highlight.label.shortDesc_ru=Short Description (RU)
+plugin.opcCommonUi.highlight.label.shortDesc_sv=Short Description (SV)
+plugin.opcCommonUi.hint.unreadNotificationMessages=Your unread notification messages

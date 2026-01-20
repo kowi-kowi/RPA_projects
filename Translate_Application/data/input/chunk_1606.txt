@@ -1,0 +1,10 @@
+plugin.requisitionProcessingRulesEditors.command.show=Show
+plugin.requisitionProcessingRulesEditors.label.approvalRule.revision=Requisition Processing Rules Revision
+plugin.requisitionProcessingRulesEditors.label.approvalRuleHistory=Requisition Processing Rules History
+plugin.requisitionProcessingRulesEditors.label.changedBy=Changed by
+plugin.requisitionProcessingRulesEditors.label.changedOn=Changed on
+plugin.requisitionProcessingRulesEditors.label.created=Created
+plugin.requisitionProcessingRulesEditors.message.job.notStarted=Job has not been started
+plugin.requisitionProcessingRulesEditors.message.noselection=Please select at least one record in the left column.
+plugin.requisitionProcessingRulesEditors.message.procesing=Processing {0} approval rules. Please refresh the result list.
+plugin.requisitionProcessingRulesEditors.save.failed.message=Failed to save the Requisition Processing Rule.

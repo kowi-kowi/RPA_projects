@@ -1,0 +1,10 @@
+plugin.compareCatalogs.hint.supplier=Select the supplier who owns the product catalog for which the comparison should be performed.
+plugin.compareCatalogs.label.approvedAt=Approved at
+plugin.compareCatalogs.label.catalog=Catalog
+plugin.compareCatalogs.label.catalogId=Catalog ID
+plugin.compareCatalogs.label.createdOn=Created On
+plugin.compareCatalogs.label.customer=Customer
+plugin.compareCatalogs.label.customerId=Customer ID
+plugin.compareCatalogs.label.details=Details
+plugin.compareCatalogs.label.outputStyle=Output Style
+plugin.compareCatalogs.label.status=Status

@@ -1,0 +1,10 @@
+PROC.export.pdf.purchaseOrder.labels.item.qntUom=Quantity\nUoM
+PROC.export.pdf.purchaseOrder.labels.item.status=Status
+PROC.export.pdf.purchaseOrder.labels.item.totalPrice=Total Price
+PROC.export.pdf.purchaseOrder.labels.orderDate=Order Date\:
+PROC.export.pdf.purchaseOrder.labels.orderText=Order text\:
+PROC.export.pdf.purchaseOrder.labels.paymentTerms=Payment Terms\:
+PROC.export.pdf.purchaseOrder.labels.phoneNo=Phone No\:
+PROC.export.pdf.purchaseOrder.labels.purchaseOrderId=Purchase Order ID\:
+PROC.export.pdf.purchaseOrder.labels.recipient=Recipient\:
+PROC.export.pdf.purchaseOrder.labels.room=Room\:

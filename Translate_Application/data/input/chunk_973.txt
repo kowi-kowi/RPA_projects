@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.entry.productCatalog2Language.definition=Can be used to assign Product Catalog to Languages.
+plugin.masterDataImportExport.entry.productFee.definition=Product Fee Information
+plugin.masterDataImportExport.entry.productFeeRule.definition=Product Fee calculation rules
+plugin.masterDataImportExport.entry.productFilter.definition=Product Filter
+plugin.masterDataImportExport.entry.productFilterCondition.definition=Product Filter Condition
+plugin.masterDataImportExport.entry.productFilterSet.definition=Product Filter Set
+plugin.masterDataImportExport.entry.relationsType.definition=Can be used to define Product Relation Types (e.g., variants, accessories, extensions etc.)
+plugin.masterDataImportExport.entry.responsibility.definition=Responsibilities allow users to carry out specific operations and can be assigned to users, roles, or user groups.
+plugin.masterDataImportExport.entry.responsibilityAction.definition=Responsibility Actions
+plugin.masterDataImportExport.entry.responsibilityLevel.definition=Responsibility Levels can be used to define the Actions available within the specified level.

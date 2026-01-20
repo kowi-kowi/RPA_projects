@@ -1,0 +1,10 @@
+plugin.userDelegation.label.createdOn=Created On
+plugin.userDelegation.label.customer=Customer
+plugin.userDelegation.label.delegate=Stand-in
+plugin.userDelegation.label.delegation=Delegation
+plugin.userDelegation.label.isPermanent=Is Permanent
+plugin.userDelegation.label.scope=Scope
+plugin.userDelegation.label.substitutedBetween=Interval
+plugin.userDelegation.label.substitutedFrom=From
+plugin.userDelegation.label.substitutedTo=To
+plugin.userDelegation.label.unavailablePerson=Unavailable User

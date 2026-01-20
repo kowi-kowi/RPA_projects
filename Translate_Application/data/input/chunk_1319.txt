@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.label.city=City
+plugin.opcShoppingCart.label.commentary=Commentary
+plugin.opcShoppingCart.label.copyAttributes=Copy Attributes
+plugin.opcShoppingCart.label.copyAttributes.warning=The attributes copying can be performed only for SmartForm products. Please select at least two SmartForm products and try again.
+plugin.opcShoppingCart.label.copyFrom=Copy from
+plugin.opcShoppingCart.label.customerSOId=Sales Order ID
+plugin.opcShoppingCart.label.defined=view details
+plugin.opcShoppingCart.label.deleteAllCartItems=Delete all
+plugin.opcShoppingCart.label.deleteCartItem=Delete cart item
+plugin.opcShoppingCart.label.deliveryDue=Delivery due\:

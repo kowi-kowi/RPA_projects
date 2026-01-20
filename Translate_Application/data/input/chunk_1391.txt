@@ -1,0 +1,10 @@
+plugin.procCommon.label.waiting=Waiting ...
+plugin.procCommon.label.zipCodeAndCity_A=City / State / Zip Code
+plugin.procCommon.label.zipCodeAndCity_B=Zip Code / City
+plugin.procCommon.message.checkSum=Sum of percentages not equals to 100%
+plugin.procCommon.message.confirmDelete=Do you really want to delete this item?
+plugin.procCommon.message.confirmDeleteAll=Do you really want to delete all the items?
+plugin.procCommon.message.confirmForceChanges=Warning\! If you continue, all PO items will be restored from the existing requisition items. The process will be running in background and may take some time.\nAfter the process is finished, the PO status will be updated.
+plugin.procCommon.message.createNewRecord=Please press 'Add' button to get the input form for inserting a new record.
+plugin.procCommon.message.distribution.defined=Distribution for this object already defined.
+plugin.procCommon.message.distribution.reset=All CostDistributions on position level will be reset to the header CostDistribution. Continue?

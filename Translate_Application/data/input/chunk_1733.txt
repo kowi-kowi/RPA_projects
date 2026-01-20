@@ -1,0 +1,10 @@
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.validRange.label=Valid Range
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.vatRegNo.label=VAT Registration No
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.vendorNo.label=Vendor No
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.waitingPeriod.label=Waiting Period
+plugin.supplierEditor.dateRange.to=to
+plugin.supplierEditor.editProvisionings.button=Edit Provisionings
+plugin.supplierEditor.minOrderBehaviour.1=Show message
+plugin.supplierEditor.minOrderBehaviour.2=Prevent cart transfer
+plugin.supplierEditor.tab.additional=Additional
+plugin.supplierEditor.tab.addresses=Addresses

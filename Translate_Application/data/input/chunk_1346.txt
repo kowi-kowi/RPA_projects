@@ -1,0 +1,10 @@
+plugin.opcShoppingList.message.product.removed=''{0}'' does not exist anymore.
+plugin.opcShoppingList.message.product.unavailable=''{0}'' is not available for the current user.
+plugin.opcShoppingList.message.productAdded=Product ''{0}'' added to cart.
+plugin.opcShoppingList.message.productAddedToList=Product ''{0}'' added to shopping list.
+plugin.opcShoppingList.message.refresh.list.suggestion=Try to refresh shopping list in order to remove invalid products
+plugin.opcShoppingList.message.replaceCartWithSelectedListItems=Replacing shopping cart with selected items...
+plugin.opcShoppingList.message.shoppingListHasSmartFormProduct=You are adding a SmartForm which already contains values. Please check whether those values are still valid before transferring the SmartForm into cart.
+plugin.opcShoppingList.message.validation.add2Cart.fail=The following products couldn't be added to cart\:
+plugin.opcShoppingList.message.validation.contract.notvalid=Contract is not valid.
+plugin.opcShoppingList.message.validation.formProduct.add2Cart=Product {0} cannot be added to cart because it is a forms product. Please use the forms icon in the position.

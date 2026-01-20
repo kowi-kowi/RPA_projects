@@ -1,0 +1,10 @@
+message.automatic.workflow.execute.validation=Validation\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.validationResults=Validation Results \n-------------------\nStarted at      ${now}
+message.automatic.workflow.executedBusinessRuleContext=External variables\: ${businessRulesContext}.
+message.automatic.workflow.executedBusinessRuleLists=Executed Business Rule Lists\: ${executedBusinessRuleLists}
+message.automatic.workflow.finish.actionErrorMessage=Error Message\: ${errorMessage}
+message.automatic.workflow.finish.error=Workflow completed with errors at ${now}.
+message.automatic.workflow.finish.exception=Workflow completed with the exception at ${now}.
+message.automatic.workflow.finish.success=Workflow finished successfully at ${now}.
+message.automatic.workflow.mapping.classification.are.equal=Source classification and target classification are equal. Classification mapping skipped.
+message.automatic.workflow.mapping.empty.source.classification=Source classification is empty.

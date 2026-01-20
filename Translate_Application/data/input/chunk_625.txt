@@ -1,0 +1,10 @@
+modelCommand.repeatUnit.validator.invalid=You must select repeat unit.
+modelCommand.weekDays.validator.invalid=You must select at least one week day.
+noAssignmentRequired.title=Users with supplier or customer assignment are not allowed to access this page. Please, click the link below and change the assignment to 'None'.
+notApprovedBarChart.header=Not Approved Catalogs
+notApprovedBarChart.noDataDesc.customerStatistics=No catalogs which are waiting for approval were found for any supplier. 'Not Approved Catalogs' chart can't be displayed.
+notApprovedBarChart.noDataDesc.supplierStatistics=No catalogs which are waiting for approval were found for any customer. 'Not Approved Catalogs' chart can't be displayed.
+notApprovedBarChart.title.chart.customerStatistics=Number of not approved catalogs per supplier\:
+notApprovedBarChart.title.chart.supplierStatistics=Number of not approved catalogs per customer\:
+notApprovedBarChart.xaxis.label=Period the catalogs have been waiting for approval
+notApprovedBarChart.xaxis.tick.0-7=0-7 Days

@@ -1,0 +1,10 @@
+menu.supplierPriorityList=Supplier Priority List
+menu.supplierProvisioning=Supplier Provisioning
+menu.synchronization=Synchronization
+menu.systemAdministration=System Administration
+menu.systemAdministration.desc=System related data and control options
+menu.systemConfiguration=System Configuration
+menu.systemInfo=System Information
+menu.systemMaintenance=System Diagnostics
+menu.tag=Tags
+menu.tax=Taxes

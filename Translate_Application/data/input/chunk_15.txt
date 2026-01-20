@@ -1,0 +1,10 @@
+Excel.FixMultiLangAttribute_ShortDescription_zh=Description zh-CN
+Excel.FixMultiLangAttribute_WebSite_de=Website de
+Excel.FixMultiLangAttribute_WebSite_en=Website
+Excel.FixMultiLangAttribute_WebSite_es=Website es
+Excel.FixMultiLangAttribute_WebSite_fi=Website fi
+Excel.FixMultiLangAttribute_WebSite_fr=Website fr
+Excel.FixMultiLangAttribute_WebSite_it=Website it
+Excel.FixMultiLangAttribute_WebSite_no=Website no
+Excel.FixMultiLangAttribute_WebSite_ru=Website ru
+Excel.FixMultiLangAttribute_WebSite_sv=Website sv

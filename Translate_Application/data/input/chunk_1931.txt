@@ -1,0 +1,10 @@
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.endMin=End minutes is not a valid number.
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.everyDays=''Every days'' is not a valid number.
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.everyMinutes=''Every minutes'' is not a valid number.
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.everyMonths=''Every months'' is not a valid number.
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.hour=Hours is not a valid number.
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.min=Minutes is not a valid number.
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.repeatCount=''Specified numbers of times'' is not a valid number.
+typeMismatch.com.jcatalog.jasperreports.commands.BigDecimalParameterCommand.value=The value "{0}" is invalid. It cannot be converted to Big Decimal format.
+typeMismatch.com.jcatalog.jasperreports.commands.BooleanParameterCommand.value=The value "{0}" is invalid. It cannot be converted to Boolean format.
+typeMismatch.com.jcatalog.jasperreports.commands.ClassificationReferenceSearchParameterCommand.classificationGroupId=The value "{0}" is invalid. It cannot be converted to String format.

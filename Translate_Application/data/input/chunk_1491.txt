@@ -1,0 +1,10 @@
+plugin.procRequisition.label.costObject.type=Type
+plugin.procRequisition.label.costcenter=Costobject
+plugin.procRequisition.label.createdByOn=Created by / Created on
+plugin.procRequisition.label.createdOn=Requested on
+plugin.procRequisition.label.currency=Currency
+plugin.procRequisition.label.customer=Customer
+plugin.procRequisition.label.customerSOId=Customer Requisition ID
+plugin.procRequisition.label.daysPassed=Days since requested
+plugin.procRequisition.label.delivery=Supply date
+plugin.procRequisition.label.deliveryAddress=Delivery Address

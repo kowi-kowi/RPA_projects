@@ -1,0 +1,10 @@
+plugin.compareCatalogs.title.compareCatalogs.desc=This application compares the data of your latest released catalog version with the latest version which was e.g. created by updates or replacements in a merging process. The result is displayed in a new window. It is also saved in your own folder in the application.
+plugin.compareCatalogs.tooltip.excute=Start Comparison process
+plugin.configurationCheckerTool.command.check=Check
+plugin.configurationCheckerTool.command.migrate=Migrate
+plugin.configurationCheckerTool.desc=Configuration Checker Tool provides the ability to check each and every configuration custom script, validate these scripts against the current version of API and generate recommendations about what should be changed/modified to be aligned with the standard version of application.
+plugin.configurationCheckerTool.header.checkerMessages=Result
+plugin.configurationCheckerTool.header.path=Path
+plugin.configurationCheckerTool.header.testScript=Test Script
+plugin.configurationCheckerTool.notConfigured=Configuration Checker Tool is not configured.
+plugin.configurationCheckerTool.success=Configuration Area was successfully checked. Log file\:

@@ -1,0 +1,10 @@
+RFQ.rfxSuppliers.supplierSelectionSearchForm.resetButton=Reset
+RFQ.rfxSuppliers.supplierSelectionSearchForm.searchButton=Search
+RFQ.rfxSuppliers.supplierSelectionSearchForm.supplierGroup=Supplier Group
+RFQ.rfxSuppliers.supplierSelectionSearchForm.supplierId=Supplier ID
+RFQ.rfxSuppliers.supplierSelectionSearchForm.supplierName=Supplier Name
+RFQ.rfxSuppliers.supplierSelectionSearchList.selectButton=Select
+RFQ.rfxSuppliers.supplierSelectionSearchList.supplierGroup=Supplier Group
+RFQ.rfxSuppliers.supplierSelectionSearchList.supplierId=Supplier ID
+RFQ.rfxSuppliers.supplierSelectionSearchList.supplierName=Supplier Name
+RFQ.rfxTemplate.action.activate=Activate

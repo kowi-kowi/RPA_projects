@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.creditNote=Credit Note
+plugin.procPurchaseorder.label.creditNoteDate=Credit Note Date
+plugin.procPurchaseorder.label.creditNoteDetails=Credit Note Details
+plugin.procPurchaseorder.label.creditNoteEditor=Credit Note
+plugin.procPurchaseorder.label.creditNoteId=Credit Note ID
+plugin.procPurchaseorder.label.currency=Currency
+plugin.procPurchaseorder.label.currentValue=Current value
+plugin.procPurchaseorder.label.customer=Customer
+plugin.procPurchaseorder.label.customerId=Customer ID
+plugin.procPurchaseorder.label.customerTransferStatus=Customer Transfer Status

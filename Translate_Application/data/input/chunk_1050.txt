@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.manageQuery.createdBy=Created By
+plugin.opcAnalysis.label.manageQuery.lastModified=Last Modified
+plugin.opcAnalysis.label.manageQuery.queryName=Query Name
+plugin.opcAnalysis.label.manageQuery.table.action=Action
+plugin.opcAnalysis.label.manageQuery.table.createdBy=Created By
+plugin.opcAnalysis.label.manageQuery.table.description=Description
+plugin.opcAnalysis.label.manageQuery.table.lastModified=Last Modified
+plugin.opcAnalysis.label.manageQuery.table.queryName=Query name
+plugin.opcAnalysis.label.notHelpfulCount=Considered Not Helpful
+plugin.opcAnalysis.label.onlyActiveContent=include current user search restrictions

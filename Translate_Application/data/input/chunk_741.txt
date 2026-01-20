@@ -1,0 +1,10 @@
+plugin.catalogScorecard.title.catalogsKPI.desc=This tool provides ability to show KPI statistics about the last ten versions of a catalog.
+plugin.catalogScorecard.title.supplierScorecard=Catalog Scorecard
+plugin.catalogScorecard.title.supplierScorecardStatistic=Catalog Scorecard Statistics
+plugin.catalogVersioning.action.backup=Backup
+plugin.catalogVersioning.action.backupSelected=Backup Selected Catalog DB
+plugin.catalogVersioning.action.executeSearchJob=Execute search job
+plugin.catalogVersioning.action.executeTestMigrationJob=Execute Test Migration
+plugin.catalogVersioning.action.migrate=Migrate
+plugin.catalogVersioning.action.migrateAll=Migrate all
+plugin.catalogVersioning.action.migrateSelected=Migrate selected

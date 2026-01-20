@@ -1,0 +1,10 @@
+textlocalization.editor.model.field.translation.label=Translation Message
+textlocalization.editor.model.field.translations.label=Translations
+textlocalization.editor.model.name=Text Localization
+textlocalization.editor.model.tab.general.label=General
+textlocalization.error404.back=Back to application
+textlocalization.error404.header=404
+textlocalization.error404.label=Page not found
+textlocalization.export.error.response=Error occurred.
+textlocalization.export.label.email=Email
+textlocalization.export.label.exportFormat=Export Format

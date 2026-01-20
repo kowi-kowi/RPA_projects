@@ -1,0 +1,10 @@
+plugin.deliveryNote.deliveryNoteItem.shipping_notice.quantity=Quantity Shipped
+plugin.deliveryNote.deliveryNoteItem.specialTreatment=Special Treatment
+plugin.deliveryNote.deliveryNoteItem.unitOfMeasure=Unit of Measure
+plugin.deliveryNote.deliveryNoteReceivedQuantityFailed.message=The received quantity must be equal to the sum of the warehouse location quantities.
+plugin.deliveryNote.deliveryNoteSaveFailed.message=Delivery Note not saved
+plugin.deliveryNote.deliveryNoteSaveSuccess.message=Delivery Note saved
+plugin.deliveryNote.deliverySaveFailed.message=The Goods Receipt cannot be booked. Please check the entered data.
+plugin.deliveryNote.deliverySaveSuccess.message=Goods Receipt has been saved.
+plugin.deliveryNote.deviantAddress.label=Additional address for position
+plugin.deliveryNote.error.checkExtPurchaseOrderId=It's impossible to book Goods Receipt. Ext. Purchase Order ID is not valid.

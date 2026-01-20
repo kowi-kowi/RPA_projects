@@ -1,0 +1,10 @@
+plugin.opcAddToCart.message.validation.product.smartForm.missingRequiredAttributes=SmartForm ''{0}'' has required attributes ''{1}'' that are not filled.
+plugin.opcAddToCart.message.validation.product.smartForm.notAllowedAttribute=Attribute(s) ''{0}'' is (are) not in the list of allowed attributes for Quick Entry page. Please contact administrator.
+plugin.opcAddToCart.message.validation.product.smartForm.redundantAttributeValues=SmartForm ''{0}'' does not have editable attributes ''{1}''.
+plugin.opcAddToCart.message.validation.quantityInterval.fail=Invalid quantity ''{0}''. Quantity must be of quantity interval {2}.
+plugin.opcAddToCart.message.validation.unitOfMeasurePresence.fail=Unit of measure for the product ''{0}'' is empty. Only products with unit of measure can be ordered.
+plugin.opcAddToCart.productCommand.quantity.validator.error=Quantity is not valid.
+plugin.opcAddToCart.title.duplicatedItemPopup=Duplicated Item
+plugin.opcAddToCart.title.productSubstitution=Confirm Product Substitution
+plugin.opcAddToCart.title.similarProductCheck=Similar Products
+plugin.opcAddToCart.typeMismatch.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice=Price is not valid.

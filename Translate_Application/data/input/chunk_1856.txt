@@ -1,0 +1,10 @@
+scheduling.label.allFiles=All Files
+scheduling.label.before=Execution before
+scheduling.label.email=Email
+scheduling.label.execution.status=Execution status
+scheduling.label.executionTime=Execution Time
+scheduling.label.files=Files
+scheduling.label.finishTime=Finish Time
+scheduling.label.firstRun=First Run
+scheduling.label.jobGroup=Job Group
+scheduling.label.jobName=Job Name

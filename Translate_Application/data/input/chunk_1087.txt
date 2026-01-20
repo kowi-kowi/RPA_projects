@@ -1,0 +1,10 @@
+plugin.opcCommonUi.header.budget.info=Expense Balance for Company Issued Equipment
+plugin.opcCommonUi.header.messages=Messages
+plugin.opcCommonUi.highlight.label.contractIds_search=Contract IDs
+plugin.opcCommonUi.highlight.label.contracted_altExtProductId=Contracted alternate Product ID
+plugin.opcCommonUi.highlight.label.contracted_extProductId=Contracted external Product ID
+plugin.opcCommonUi.highlight.label.ean=EAN
+plugin.opcCommonUi.highlight.label.extProductId=External Product ID
+plugin.opcCommonUi.highlight.label.keywords=Keywords
+plugin.opcCommonUi.highlight.label.longDesc_de=Long Description (DE)
+plugin.opcCommonUi.highlight.label.longDesc_en=Long Description (EN)

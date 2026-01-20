@@ -1,0 +1,10 @@
+plugin.ociObjectVisibility.filter.conditionOperator.label.dynamic.NOT_EQUALS=NOT EQUALS
+plugin.ociObjectVisibility.filter.conditionOperator.label.dynamic.NOT_IN=NOT IN
+plugin.ociObjectVisibility.filter.joinType.label.dynamic.AND=AND
+plugin.ociObjectVisibility.filter.joinType.label.dynamic.OR=OR
+plugin.ociObjectVisibility.productFilter.filterField.label.dynamic.CLASSIFICATION_GROUP_ID=Classification Group ID
+plugin.ociObjectVisibility.productFilter.filterField.label.dynamic.CONTRACT_ID=Contract ID
+plugin.ociObjectVisibility.productFilter.filterField.label.dynamic.IS_MAIN_PROD_LINE=Is Main Product Line
+plugin.ociObjectVisibility.productFilter.filterField.label.dynamic.KEYWORDS=Keywords
+plugin.ociObjectVisibility.productFilter.filterField.label.dynamic.MANUFACTURER_NAME=Manufacturer Name
+plugin.ociObjectVisibility.productFilter.filterField.label.dynamic.MFG_PRODUCT_ID=Manufacturer Product ID

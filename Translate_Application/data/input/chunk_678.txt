@@ -1,0 +1,10 @@
+plugin.applicationMetrics.PROC.AvgSoPerFreetextApproval.description=The average total number of requisitions that have been processed by each approver
+plugin.applicationMetrics.PROC.AvgSoiPerFreetextApproval.description=The average total number of requisition items that have been processed by each approver
+plugin.applicationMetrics.PROC.MemoryUsage.description=Memory usage in the system
+plugin.applicationMetrics.PROC.PoLineVolumeCoverage.description=The total volume of Purchase Order items that have been created throughout the year
+plugin.applicationMetrics.PROC.PoLineVolumeCoverageNoApproval.description=The total volume of Purchase Order items that have been created throughout the year
+plugin.applicationMetrics.PROC.PoLineVolumeCoveragePerWF.description=The total volume of Purchase Order items that have been created and approved in the workflow process throughout the year
+plugin.applicationMetrics.PROC.PoSpendCoverage.description=The total spend value for all Purchase Orders that have been created throughout the year
+plugin.applicationMetrics.PROC.PoSpendCoverageNoApproval.description=The total spend value for all Purchase Orders that have been created throughout the year
+plugin.applicationMetrics.PROC.PoSpendCoveragePerWF.description=The total spend value for all Purchase Orders that have been created and approved in the workflow process throughout the year
+plugin.applicationMetrics.SSM.MemoryUsage.description=Memory usage in the system

@@ -1,0 +1,10 @@
+plugin.productReviewEditor.header.extClassificationId=Ext Classification ID
+plugin.productReviewEditor.header.extProductId=Ext Product ID
+plugin.productReviewEditor.header.field.name=Field name
+plugin.productReviewEditor.header.languageId=Language
+plugin.productReviewEditor.header.netPrice=Net Price
+plugin.productReviewEditor.header.priceUnit=Price Unit
+plugin.productReviewEditor.header.pricemaster=Price master
+plugin.productReviewEditor.header.product.uom=UoM
+plugin.productReviewEditor.header.productId=Product ID
+plugin.productReviewEditor.header.quantity=Quantity

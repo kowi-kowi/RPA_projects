@@ -1,0 +1,10 @@
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.externalUnitId.label=Ext. Business Unit
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.externalUnitType.label=Ext. Business Unit Type
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.footerText.label=Footer Text
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.headerText.label=Header Text
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.hierarchyCode.label=Hierarchy Code
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.information.label=Information
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.invToleranceAbs.label=Inv Tolerance Abs
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.invTolerancePercent.label=Inv Tolerance Percent
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.label=Customer
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.language.label=Language

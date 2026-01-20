@@ -1,0 +1,10 @@
+plugin.jcatalogLocalization.requiredImportFile.message=Import file required.
+plugin.jcatalogLocalization.title=Manage translations
+plugin.jcatalogLocalization.tools.header=Tools
+plugin.jcatalogLoginPage.command.login=Login
+plugin.jcatalogLoginPage.error.badLogin=Please check your login data.
+plugin.jcatalogLoginPage.label.language=Language
+plugin.jcatalogLoginPage.label.name=User name
+plugin.jcatalogLoginPage.label.password=User password
+plugin.jcatalogLoginPage.label.rememberMe=Remember Me
+plugin.jcatalogLoginPage.legend.login=Login

@@ -1,0 +1,10 @@
+typeMismatch.com.jcatalog.ordermanagement.PurchasingProject.opportunityEstimatedValue=This is not a valid number. Please, enter a number.
+typeMismatch.com.jcatalog.ordermanagement.PurchasingProject.probability=Not a valid number. Please, enter a number between 0 and 100 for Probability.
+typeMismatch.com.jcatalog.rfq.RFX.bindingPeriod=Binding period is not valid date.
+typeMismatch.com.jcatalog.rfq.RFX.expectedPrice=Expected Price is not valid number.
+typeMismatch.com.jcatalog.rfq.RFX.expirationDate=Date of Closing Date is not valid date.
+typeMismatch.com.jcatalog.rfq.RFXItem.contractedNetPrice=The value of the "Contracted net price" field must be a number.
+typeMismatch.com.jcatalog.rfq.RFXItem.deliveryDate=The value of the "Delivery date" field must be a valid date.
+typeMismatch.com.jcatalog.rfq.RFXItem.grossPrice=The value of the "Gross price" field must be a number.
+typeMismatch.com.jcatalog.rfq.RFXItem.leadTimeInDays=The value of the "Lead time in days" field must be a number.
+typeMismatch.com.jcatalog.rfq.RFXItem.netPrice=The value of the "Net price" field must be a number.

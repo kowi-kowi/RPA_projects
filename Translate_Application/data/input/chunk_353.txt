@@ -1,0 +1,10 @@
+com.jcatalog.rfq.RFX.closingReason.optionCustom.label=Other, please specify
+com.jcatalog.rfq.RFX.customerId.notValid.error=Customer with given customerId is not available for the current user
+com.jcatalog.rfq.RFX.error.alreadyAwarded=RFX with ID {0} has been already awarded.
+com.jcatalog.rfq.RFX.error.award.justificationIsRequired=Justification for {0} is required.
+com.jcatalog.rfq.RFX.error.award.opcCommunication=An error occurred at the time of awarding demand collection\: {0}.
+com.jcatalog.rfq.RFX.error.award.opcInternalURL=No OPC service URL is specified. Please specify URL to OPC in the 'jcatalog.rfq.opc.service.url' configuration attribute.
+com.jcatalog.rfq.RFX.error.award.opcNotAvailable=OPC is currently not available.
+com.jcatalog.rfq.RFX.error.bindingPeriod.after.demandExpirationDate=Binding Date must be after Demand Expiration Date.
+com.jcatalog.rfq.RFX.error.bindingPeriod.after.expirationDate=Binding Date must be after Expiration Date.
+com.jcatalog.rfq.RFX.error.bindingPeriod.isRequired=Offered Binding Date is required.

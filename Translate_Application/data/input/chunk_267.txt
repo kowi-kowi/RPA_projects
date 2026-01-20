@@ -1,0 +1,10 @@
+businessRuleEditor.error.illegalSymbols=The field "{0}" contains illegal symbols ({1}). Please, remove these symbols from the field.
+businessRuleEditor.export=Exporting data
+businessRuleEditor.export.allBusinessRuleLists=All Business Rule Lists
+businessRuleEditor.export.allBusinessRuleLists.hint=Export all available Business Rule Lists
+businessRuleEditor.export.businessRuleVariables=Business Rule Variables
+businessRuleEditor.export.businessRuleVariables.hint=Export all available Business Rule variables
+businessRuleEditor.export.contentBusinessRules=Content Business Rules
+businessRuleEditor.export.contentBusinessRules.hint=Export all available Content Business Rules
+businessRuleEditor.header=Business Rule Editor
+businessRuleEditor.migration=Migration

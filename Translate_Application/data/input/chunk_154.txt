@@ -1,0 +1,10 @@
+RFQ.rfxSummary.message.wasSentToSuppliers=Your RFX has been successfully sent to the suppliers.
+RFQ.rfxSummary.quantityPrice=Quantity/Price
+RFQ.rfxSummary.replyEmail=Reply email
+RFQ.rfxSummary.supplier=Supplier
+RFQ.rfxSummary.suppliers=Selected Suppliers
+RFQ.rfxSuppliers.action.cancel=Cancel
+RFQ.rfxSuppliers.action.delete=Delete
+RFQ.rfxSuppliers.action.deleteConfirmation=Do you really want to delete this supplier?
+RFQ.rfxSuppliers.action.excludeConfirmation=The message informing the supplier about the removal from the next round will be sent. Do you want to proceed?
+RFQ.rfxSuppliers.action.openSelection=Add Suppliers

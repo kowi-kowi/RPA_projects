@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.button.reverse=Reverse Goods Receipts
+plugin.procPurchaseorder.button.submit=Receipt
+plugin.procPurchaseorder.command.add=Add
+plugin.procPurchaseorder.command.addCostDistributions=Add Cost Distributions
+plugin.procPurchaseorder.command.addFromPO=Add from Purchase Order
+plugin.procPurchaseorder.command.addNewCNItem=Add New Credit Note Item
+plugin.procPurchaseorder.command.addNewIRItem=Add New Invoice Item
+plugin.procPurchaseorder.command.approve=Approve
+plugin.procPurchaseorder.command.back=Back
+plugin.procPurchaseorder.command.cancel=Cancel

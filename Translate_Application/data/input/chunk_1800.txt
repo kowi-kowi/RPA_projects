@@ -1,0 +1,10 @@
+prov.ImportModeField.Label.Ignore=Ignore
+prov.InfoAlert.close=Close
+prov.InfoAlert.existingItems=Existing Items\:
+prov.InfoAlert.newItems=New Items\:
+prov.PostingDimensionDependencyEditor.action.add=Add
+prov.PostingDimensionDependencyEditor.action.cancel=Cancel
+prov.PostingDimensionDependencyEditor.action.confirm=Confirm
+prov.PostingDimensionDependencyEditor.action.delete=Delete
+prov.PostingDimensionDependencyEditor.action.edit=Edit
+prov.PostingDimensionDependencyEditor.action.save=Save

@@ -1,0 +1,10 @@
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.city.label=City
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.corporateURL.label=Corporate URL
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.country.label=Country
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.ediId.label=Electronic data interchange ID
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.ediOperatorId.label=Electronic data interchange Operator ID
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.email.label=Email
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.faxNo.label=Fax No
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.isCompany.label=Is Company
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.label=Address
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.name1.label=Name 1

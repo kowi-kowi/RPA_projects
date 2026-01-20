@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.label.classification=Classification
+plugin.opcProductSuggestion.label.classificationGroup=ClassificationGroup
+plugin.opcProductSuggestion.label.classificationGroupId=Classification Group ID
+plugin.opcProductSuggestion.label.classificationGrp=Classification Group/Commodity/Category
+plugin.opcProductSuggestion.label.contract=Contract
+plugin.opcProductSuggestion.label.description=Description
+plugin.opcProductSuggestion.label.includeProduct=Include product in catalog
+plugin.opcProductSuggestion.label.manufacturer=Manufacturer
+plugin.opcProductSuggestion.label.manufacturerProductId=Manufacturer Product ID
+plugin.opcProductSuggestion.label.ownerEmail=Contract sourcing owner email

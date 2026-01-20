@@ -1,0 +1,10 @@
+PROC.OrderItemEditor.tabs.summaryInfo.labels.orderItemNo=Order Item Number
+PROC.OrderItemEditor.tabs.summaryInfo.labels.orderingStatus=Ordering
+PROC.OrderItemEditor.tabs.summaryInfo.labels.salesOrderCreatedBy=Requested By
+PROC.OrderItemEditor.tabs.summaryInfo.labels.salesOrderCreatedOn=Requested On
+PROC.OrderItemEditor.tabs.summaryInfo.labels.salesOrderId=Requisition
+PROC.OrderItemEditor.tabs.deliveryInfo.labels.deliveryDateInPast=The delivery date should be in the future.
+PROC.PoLineVolumeCoverage.appMetrics.chart.yaxis.label=Purchase Order Items
+PROC.PoLineVolumeCoverage.description=The total volume of Purchase Order items that have been created throughout the year
+PROC.PoLineVolumeCoverageNoApproval.appMetrics.chart.yaxis.label=Purchase Order Items
+PROC.PoLineVolumeCoverageNoApproval.description=The total volume of Purchase Order items that have been created throughout the year

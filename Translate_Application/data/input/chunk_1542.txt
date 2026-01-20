@@ -1,0 +1,10 @@
+plugin.productPreview.label.quantityInterval=Order Interval
+plugin.productPreview.label.relatedProducts=Related Products
+plugin.productPreview.label.required=Required field
+plugin.productPreview.label.salesUnitOfMeasure=Sales UoM
+plugin.productPreview.label.supplier=Supplier
+plugin.productPreview.label.uom=UoM
+plugin.productPreview.label.validFrom-validTo=Valid from - Valid to
+plugin.productPreview.label.validFromQuantity=Valid from quantity
+plugin.productPreview.message.error.catalogVersion.isNull=You can not start to use this catalog, because it does not have a processing version.
+plugin.productPreview.message.result.size={0} entries found.

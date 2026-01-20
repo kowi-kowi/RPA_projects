@@ -1,0 +1,10 @@
+menu.termsOfBusiness=Terms of Business
+menu.termsOfDelivery=Terms of Delivery
+menu.termsOfPayments=Terms of Payment
+menu.unitsOfMeasure=Units of Measure
+menu.updateLoggingSettings=Log Settings
+menu.userAndRoleAdministration=User and Role Administration
+menu.userAndRoleAdministration.desc=Defining users, assignment of roles and allocation of rights
+menu.userEditor=User
+menu.userGroup=User Groups
+menu.userProfile=User Profile

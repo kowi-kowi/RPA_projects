@@ -1,0 +1,10 @@
+PROC.ServiceEntrySheetEditor.labels.total=Total
+PROC.ServiceEntrySheetEditor.labels.totalNetPrice=Total Price
+PROC.SetAsDefaultModal.labels.customerId=Customer ID
+PROC.SetAsDefaultModal.labels.header=Setting Default Posting Dimension Value
+PROC.SetAsDefaultModal.labels.note=You have selected multiple Posting Dimension Values, but only one value can be stored as default. Please, select a Posting Dimension Value that should be set as default in the Requisition Defaults.
+PROC.SetAsDefaultModal.labels.noteSingleValue=Please, select a Posting Dimension Value that should be set as default in the Requisition Defaults.
+PROC.SetAsDefaultModal.labels.postingDimension=Posting Dimension
+PROC.SetAsDefaultModal.labels.postingDimensionValue=Posting Dimension Value
+PROC.SupplierCustomInput.dialogTitle=Search for Suppliers
+PROC.SupplierCustomInput.supplierGroupName=Supplier Group

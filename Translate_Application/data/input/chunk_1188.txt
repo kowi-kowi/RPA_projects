@@ -1,0 +1,10 @@
+plugin.opcPrices.priceAndAvailability.exceptions.http=An error occurred at the time of receiving the response from the external shop.
+plugin.opcPrices.priceAndAvailability.exceptions.invalidQuantity="{0}" is invalid quantity.
+plugin.opcPrices.priceAndAvailability.exceptions.parse=The response from the external shop cannot be processed.
+plugin.opcPrices.priceAndAvailability.exceptions.response=The response received from the external shop is invalid.
+plugin.opcPrices.priceAndAvailability.label.availableQuantity=Available Quantity
+plugin.opcPrices.priceAndAvailability.label.price=Price
+plugin.opcPrices.title.material.surchargeType=Surcharge Type
+plugin.opcPrices.title.priceAndAvailability=Price and Availability
+plugin.opcPrices.title.priceInfo=Price Info
+plugin.opcPrices.title.takeOverQuantity=Take over quantity

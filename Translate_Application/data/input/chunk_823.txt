@@ -1,0 +1,10 @@
+plugin.deliveryNote.deliveryNote.action.notConfirm=Reject
+plugin.deliveryNote.deliveryNote.action.print=Print
+plugin.deliveryNote.deliveryNote.action.reject=Reject
+plugin.deliveryNote.deliveryNote.action.release=Release
+plugin.deliveryNote.deliveryNote.action.showDetails=Show Details
+plugin.deliveryNote.deliveryNote.action.submit=Book
+plugin.deliveryNote.deliveryNote.action.submitAndPrint=Book & Print
+plugin.deliveryNote.deliveryNote.action.update=Save
+plugin.deliveryNote.deliveryNote.approvedBy=Approved by
+plugin.deliveryNote.deliveryNote.approvedOn=Approved on

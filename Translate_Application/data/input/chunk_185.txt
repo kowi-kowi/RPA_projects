@@ -1,0 +1,10 @@
+SSM.productEditor.common.activeFilters=Active Filters
+SSM.productEditor.common.add=Add
+SSM.productEditor.common.advancedSearch=Advanced Search
+SSM.productEditor.common.close=Close
+SSM.productEditor.common.copy=Copy
+SSM.productEditor.common.copy.message=You already have a new unpublished catalog. Do you really want to create a copy?
+SSM.productEditor.common.create=Create
+SSM.productEditor.common.delete=Delete
+SSM.productEditor.common.description.placeholder=Description
+SSM.productEditor.common.duplicate=Duplicate

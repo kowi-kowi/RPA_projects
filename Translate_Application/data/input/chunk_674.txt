@@ -1,0 +1,10 @@
+orderCancelation.label.supplier=Supplier
+orderCancelation.label.to=Created Until
+orderCancelation.message.confirmCancel=Do you really want to cancel the selected positions?
+orderCancelation.net.price=Net Price
+orderCancelation.net.price.total=Total Net Price
+orderCancelation.number=Pos.
+orderCancelation.order.id=Purchase Order ID
+orderCancelation.order.items=Order Items
+orderCancelation.order.title=Purchase Order Cancellation
+orderCancelation.product.descr=Product Description

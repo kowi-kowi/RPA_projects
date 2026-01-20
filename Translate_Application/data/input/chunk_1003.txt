@@ -1,0 +1,10 @@
+plugin.opcAddToCart.message.invalidNumericFormat="{0}" is not a valid number.
+plugin.opcAddToCart.message.priceUnit.notValid=Price unit is not valid.
+plugin.opcAddToCart.message.productAdded=Product ''{0}'' added to cart.
+plugin.opcAddToCart.message.productSubstituteMessage=This product has been substituted by the following product. The substitute product will be added instead. Do you want to continue?
+plugin.opcAddToCart.message.productUpdated=Cart item ''{0}'' updated.
+plugin.opcAddToCart.message.quantity.notValid=Quantity is not valid.
+plugin.opcAddToCart.message.quantityIsRequired=There is no quantity entered. Please enter a valid quantity.
+plugin.opcAddToCart.message.similarProductCheck=Similar more preferable products with your specification have been identified. Please either continue the process and submit original product selection justification, or select one of the more preferable products.
+plugin.opcAddToCart.message.tiredQuantity.allowedFrom=The minimum order quantity for the selected contract ''{0}'' is {1}.
+plugin.opcAddToCart.message.unableAddToCart=Error occurred during adding to shopping cart, please contact administrator.

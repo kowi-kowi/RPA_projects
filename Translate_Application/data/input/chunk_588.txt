@@ -1,0 +1,10 @@
+message.customer.activate.workflow.activation.date=Activation Date\: ${date}
+message.customer.activate.workflow.derivedCatalog.notFound=Derived catalogs were not found\n-------------------\nStarted at      ${now}
+message.customer.activate.workflow.execute.activate=Activate\n-------------------\nStarted at      ${now}
+message.customer.activate.workflow.execute.activationDateChange=Activation Date Change
+message.customer.activate.workflow.execute.cleanup=Cleanup Work Area\n-------------------\nStarted at      ${now}
+message.customer.activate.workflow.execute.copyToTarget=Copy to target\n-------------------\nStarted at      ${now}
+message.customer.activate.workflow.execute.export=Export\n-------------------\nStarted at      ${now}
+message.customer.activate.workflow.execute.getDerivedCatalogs=Get derived catalogs\n-------------------\nStarted at      ${now}
+message.customer.activate.workflow.execute.ok=Finished at     ${now}
+message.customer.activate.workflow.execute.pendingActivationInitialization=Pending Activation Initialization\n-------------------\nStarted at ${now}

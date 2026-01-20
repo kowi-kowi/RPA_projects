@@ -1,0 +1,10 @@
+plugin.opcCommons.message.validation.costDistribution.percentage.fail=On position level only a 1..100% distribution is allowed.
+plugin.opcCommons.message.validation.costDistributionOrder.percentage.fail=On position level only a 1..100% distribution is allowed.
+plugin.opcCommons.message.validation.maxPriceUnit.fail=Invalid price unit "{0}". Price unit must be not greater than {1}.
+plugin.opcCommons.message.validation.maxValue.fail=Invalid value "{0}". Value must be not greater than {1}.
+plugin.opcCommons.message.validation.minPriceUnit.fail=Invalid price unit "{0}". Price unit must be not less than {1}.
+plugin.opcCommons.message.validation.minValue.fail=Invalid value "{0}". Value must be not less than {1}.
+plugin.opcCommons.message.validation.productRelation.maxQuantity.fail=The actual quantity ''{0}'' exceeds the allowed maximum quantity ''{1}'' defined via the Product Relation.
+plugin.opcCommons.message.validation.productRelation.minQuantity.fail=The actual quantity''{0}'' is less than the allowed minimum quantity ''{1}' defined via the Product Relation.
+plugin.opcCommons.message.validation.tooLongString.fail=Cannot be longer than {0} characters
+plugin.opcCommons.message.validation.tooShortString.fail=Cannot be shorter than {0} characters

@@ -1,0 +1,10 @@
+eproc.dashboard.chart.AnalogueClock.label=Analogue Clock
+eproc.dashboard.chart.AnalogueClock.options.timeZone=Time Zone
+eproc.dashboard.chart.BarChart.label=Bar Chart
+eproc.dashboard.chart.BarChart.options.chartColors=Chart color
+eproc.dashboard.chart.BarChart.options.legendHorizontalAlign=Horizontal legend alignment
+eproc.dashboard.chart.BarChart.options.legendIconType=Legend icon
+eproc.dashboard.chart.BarChart.options.legendVerticalAlign=Vertical legend alignment
+eproc.dashboard.chart.BarChart.options.showGrid=Display grid
+eproc.dashboard.chart.BarChart.options.showLegend=Show legend
+eproc.dashboard.chart.BarChart.options.showTooltip=Show tooltip

@@ -1,0 +1,10 @@
+plugin.opcAnalysis.message.export.jobCreated=Job {0} was created
+plugin.opcAnalysis.message.fieldNotSelected=Field is empty\!
+plugin.opcAnalysis.message.nothingFound=Nothing found.
+plugin.opcAnalysis.message.operator.equal=\=
+plugin.opcAnalysis.message.operator.greater=>
+plugin.opcAnalysis.message.operator.greaterOrEqual=>\=
+plugin.opcAnalysis.message.operator.less=<
+plugin.opcAnalysis.message.operator.lessOrEqual=<\=
+plugin.opcAnalysis.message.searchHitNumberReport.foundItems=Found Items
+plugin.opcAnalysis.message.searchHitNumberReport.notFound=No data is found

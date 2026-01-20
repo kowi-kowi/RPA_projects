@@ -1,0 +1,10 @@
+plugin.opcShoppingList.label.emptyDescription=Please enter a name for the shopping list first\!
+plugin.opcShoppingList.label.emptyShoppingList=Please select Shopping List.
+plugin.opcShoppingList.label.invisibleProduct.remove=Delete
+plugin.opcShoppingList.label.invisibleProduct.remove.all=Delete All
+plugin.opcShoppingList.label.lastModified=Last Modified\:
+plugin.opcShoppingList.label.moveSelectedToShoppingCart=Move selected items to cart
+plugin.opcShoppingList.label.moveToList=Move to List
+plugin.opcShoppingList.label.moveToShoppingCart=Move to Cart
+plugin.opcShoppingList.label.noShoppingList=No shopping lists available to load.
+plugin.opcShoppingList.label.onRequest=On request

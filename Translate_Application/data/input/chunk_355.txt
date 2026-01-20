@@ -1,0 +1,10 @@
+com.jcatalog.rfq.RFX.error.expirationDate.tooLow=Please check the Expiration date. Expiration date must be at least {0} days in the future (based on the Start Date).
+com.jcatalog.rfq.RFX.error.hiddenRequiredField=The hidden required field {0} should be filled in. Please, contact your administrator.
+com.jcatalog.rfq.RFX.error.item.noSelection=Your quote does not contain any items. The supplier will not be able to provide an offer. Please switch to tab "Item details" and add product or services you want to quote.
+com.jcatalog.rfq.RFX.error.newExpirationDate.notValid=New Expiration Date cannot be less than current Expiration Date.
+com.jcatalog.rfq.RFX.error.rfQCannotBeAwarded=RFX {0} ({1}) did not pass awarding criteria.
+com.jcatalog.rfq.RFX.error.rfQItemCannotBeAwarded=Item {0} did not pass the awarding criteria.
+com.jcatalog.rfq.RFX.error.rfxIsPaused=RFX {0} ({1}) is paused.
+com.jcatalog.rfq.RFX.error.startNewRound=Error while starting a new round.
+com.jcatalog.rfq.RFX.error.submissionDate.after.demandExpirationDate=Submission Date must be after Demand Expiration Date.
+com.jcatalog.rfq.RFX.error.supplier.noSelection=Your request does not contain a supplier and cannot be processed. Please, switch to the "Suppliers" tab and add suppliers you want to invite to the RFX.

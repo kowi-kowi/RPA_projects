@@ -1,0 +1,10 @@
+plugin.masterDataImport.importResult.label.forCustomer=For Customer
+plugin.masterDataImport.importResult.label.importJobStarted=Import job has been started with following parameters\:
+plugin.masterDataImport.importResult.label.importedFile=Imported File
+plugin.masterDataImport.label.availableTemplates.desc=You may download the following templates\:
+plugin.masterDataImport.label.dateFormat=Date format
+plugin.masterDataImport.label.decimalSeparator=Decimal separator
+plugin.masterDataImport.label.executionTime=Execution Time
+plugin.masterDataImport.label.fileUpload.desc=Select the file which should be uploaded here.
+plugin.masterDataImport.label.format=Format of Input File
+plugin.masterDataImport.label.formatPatterns=Format Patterns

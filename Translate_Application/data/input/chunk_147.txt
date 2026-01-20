@@ -1,0 +1,10 @@
+RFQ.rfxItemEditor.tab.attributes=Attributes
+RFQ.rfxItemEditor.tab.details=Details
+RFQ.rfxItemEditor.tab.documents=Documents
+RFQ.rfxItemEditor.tab.supplierAttributes=Supplier Response Attributes
+RFQ.rfxItemEditor.unsavedChanges=You did not save your entries. Do you want to proceed without saving?
+RFQ.rfxItemInfo.contract=Contract
+RFQ.rfxItemInfo.fixedQuantity=Fixed Quantity
+RFQ.rfxItemInfo.infoOnly=Information Only
+RFQ.rfxItemInfo.listPrice=List Price
+RFQ.rfxItemInfo.responseRequired=Response Required

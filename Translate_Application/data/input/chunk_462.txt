@@ -1,0 +1,10 @@
+derivedCatalogFilter.priceCalculationRule.min.error=Surcharge Percentage value must be more than " -100" (in percentage points).
+derivedCatalogFilter.title.DCFExportJob=Derived Catalog Filter Export Job
+derivedCatalogFilter.title.DCFImportJob=Derived Catalog Filter Import Job
+duplicate.com.opuscapita.ociobjectvisibility.OciObjectVisibility=OCI Object Visibility with such parameters already exists
+edit.error.hierarchical.cannotSaveSelfParent=The relation cannot be created since it leads to cyclic dependencies.
+email.Escalation.message.subject=Reminder - Approve Shopping Cart. {0}
+email.PurchaseOrderApprove.message.subject=Please approve the purchase order {0}
+email.PurchaseOrderApproved.message.subject=Your changes for purchase order {0} have been approved.
+email.PurchaseOrderReject.message.subject=Your changes for purchase order {0} have been rejected.
+email.ServiceEntryApprove.message.subject=Please approve the service entry sheet {0}.

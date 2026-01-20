@@ -1,0 +1,10 @@
+common.ReferenceSearchDialog.searchLabel=Search
+common.ReferenceSearchDialog.selectLabel=Select
+common.ResultSizePanel.resultsPerPageAllLabel=All
+common.ResultSizePanel.resultsPerPageLabel=Results per page
+contract.objectClass.name=Contract
+contractCompliance.header.assignedClassificationGroup=Assigned Classification Group
+contractCompliance.header.averageDiscount=Average Discount
+contractCompliance.header.chart.violatedProductsRatio=Violated products ratio per classification group\:
+contractCompliance.header.classificationGroup=Classification Group
+contractCompliance.header.contractedClassificationGroup=Contracted Classification Group

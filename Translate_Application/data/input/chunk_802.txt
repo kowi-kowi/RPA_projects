@@ -1,0 +1,10 @@
+plugin.costObjectSearch.com.jcatalog.cost.CostObject.descShort.label=Description
+plugin.costObjectSearch.com.jcatalog.cost.CostObject.masterCostObject.costObjectId.label=Master Cost Object ID
+plugin.costObjectSearch.com.jcatalog.cost.CostObject.rootCostObject.costObjectId.label=Root Cost Object ID
+plugin.costObjectSearch.command.reloadTree=Reload tree
+plugin.costObjectSearch.command.reset=Reset
+plugin.costObjectSearch.command.search=Search
+plugin.costObjectSearch.label.treeRoot.costObjects=Cost Objects
+plugin.costObjectSearch.message.limitTreeSize=Tree could not be loaded because there are more than 500 Cost Objects of the selected type. Please use the search.
+plugin.costObjectSearch.message.note=Use wildcards like '*' and '?' for searching. The asterisk substitutes one or more characters, the question mark substitutes exactly one character. Example\: &quot;car*&quot; will find &quot;cartonnage&quot;, &quot;caretaker&quot;, &quot;carriage&quot; and more; &quot;car?&quot; will find &quot;cart&quot;, &quot;carp&quot;, &quot;card&quot; and more.
+plugin.costObjectSearch.tab.search=Search

@@ -1,0 +1,10 @@
+RFQ.rfxList.searchForm.action.create=Create
+RFQ.rfxList.searchForm.action.createTemplate=Create Template
+RFQ.rfxList.searchForm.action.reset=Reset
+RFQ.rfxList.searchForm.action.search=Search
+RFQ.rfxList.searchForm.template=Template
+RFQ.rfxList.status=Status
+RFQ.rfxList.submissionDate=Start Date
+RFQ.rfxList.supplier=Supplier
+RFQ.rfxList.title=Title
+RFQ.rfxNewRoundModal.bindingPeriod=New Binding Period

@@ -1,0 +1,10 @@
+com.jcatalog.product.ProductCatalog.description.label=Description
+com.jcatalog.product.ProductCatalog.header=Search for Product Catalogs
+com.jcatalog.product.ProductCatalog.label=Product Catalog {0}
+com.jcatalog.product.ProductCatalog.productCatalogId.label=Product Catalog ID
+com.jcatalog.product.ProductRelationType.description.label=Description
+com.jcatalog.product.ProductRelationType.header=Search for Product Relation Types
+com.jcatalog.product.ProductRelationType.key.label=Product Relation Type ID
+com.jcatalog.questionnaire.Questionnaire.description.label=Description
+com.jcatalog.questionnaire.Questionnaire.header=Questionnaire
+com.jcatalog.questionnaire.Questionnaire.id.label=Questionnaire ID

@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.deltaValues=Delta Values
+plugin.procPurchaseorder.label.denycomment=Comment
+plugin.procPurchaseorder.label.description=Description
+plugin.procPurchaseorder.label.diffTotalNetPrice=Difference
+plugin.procPurchaseorder.label.editCostDistribution=Edit Cost Distribution
+plugin.procPurchaseorder.label.editCreditNote=Edit Credit Note
+plugin.procPurchaseorder.label.editIR=Edit Invoice Receipt
+plugin.procPurchaseorder.label.editIRItem=Edit Invoice Receipt Item
+plugin.procPurchaseorder.label.editProfile=Edit Profile
+plugin.procPurchaseorder.label.email=Email

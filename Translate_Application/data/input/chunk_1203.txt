@@ -1,0 +1,10 @@
+plugin.opcProductDetails.opcProductDetails.documentsManager.header.size=Size (KB)
+plugin.opcProductDetails.opcProductDetails.documentsManager.label.doUpload=Upload Document
+plugin.opcProductDetails.opcProductDetails.documentsManager.label.fileToUpload=Document to upload\:
+plugin.opcProductDetails.opcProductDetails.documentsManager.title=Documents Manager
+plugin.opcProductDetails.opcProductDetails.error.attachment.alreadyExists=File {0} already exists on server\!
+plugin.opcProductDetails.opcProductDetails.error.attachment.imageMaxSizeExceed=Image size must not exceed {0} MB.
+plugin.opcProductDetails.opcProductDetails.error.attachment.invalidExtension=Unsupported document type. Please use documents of the following types\: {0}.
+plugin.opcProductDetails.opcProductDetails.error.attachment.uploadError=Error during saving uploaded file
+plugin.opcProductDetails.opcProductDetails.error.noDocumentAttachmentToken=This documents manager can be opened only from product details page.
+plugin.opcProductDetails.opcProductDetails.header.messages=Messages

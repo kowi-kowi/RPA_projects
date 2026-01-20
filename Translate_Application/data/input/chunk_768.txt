@@ -1,0 +1,10 @@
+plugin.classificationEditor.tab.responsibilities=Responsibilities
+plugin.classificationEditor.tab.values=Values
+plugin.classificationEditor.textTable.schemaId.label=Schema
+plugin.classificationEditor.tree.header=Classification tree
+plugin.classificationEditor.unique.com.jcatalog.classification.attribute.GormAttributeSection.attributeSectionId=Attribute Section with such Attribute Section ID already exists.
+plugin.classificationGroupMapping.auditInfo.label=Audit Info
+plugin.classificationGroupMapping.com.jcatalog.classification.mapping.GormClassGrpMapping.customer.label=Customer
+plugin.classificationGroupMapping.com.jcatalog.classification.mapping.GormClassGrpMapping.isSourceGroupMappingInheritance.label=Mapping Inheritance
+plugin.classificationGroupMapping.com.jcatalog.classification.mapping.GormClassGrpMapping.isSourceGroupMappingInheritance.tooltip=Mapping definitions are propagated down in the source classification hierarchy as long as there are no more specific mapping definitions. This option requires source classification group identifiers as used by eClass and UNSPSC systems, where each hierarchy level is represented by a two digit code (for example '16010100')
+plugin.classificationGroupMapping.com.jcatalog.classification.mapping.GormClassGrpMapping.label=Classification Group mapping

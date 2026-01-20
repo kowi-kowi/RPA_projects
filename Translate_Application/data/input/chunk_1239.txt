@@ -1,0 +1,10 @@
+plugin.opcQuickEntry.header.remarks=Remarks
+plugin.opcQuickEntry.label.add2Cart=Add to Cart
+plugin.opcQuickEntry.label.addToList=Add to List
+plugin.opcQuickEntry.label.enterProducts=Please, enter products information.
+plugin.opcQuickEntry.label.supplier=Please enter a supplier
+plugin.opcQuickEntry.message.allProductsAddedToCart=Products added to cart.
+plugin.opcQuickEntry.message.allProductsAddedToList=Products added to shopping list.
+plugin.opcQuickEntry.message.error.addToCart.failed=Error occurred during adding to shopping cart, please contact administrator.
+plugin.opcQuickEntry.message.productAdded=Product ''{0}'' added to cart.
+plugin.opcQuickEntry.message.productAddedToDraftRequisition=Product ''{0}'' was added to draft requisition.

@@ -1,0 +1,10 @@
+ssm.processVariables.label.customerEmail=Customer email
+ssm.processVariables.label.email=Email
+ssm.processVariables.label.exportClassification=Export Classification
+ssm.processVariables.label.exportEncoding=Export Encoding
+ssm.processVariables.label.exportFilename=Name of Export File
+ssm.processVariables.label.exportFormat=Export Format
+ssm.processVariables.label.exportUOM=Export UoM
+ssm.processVariables.label.filename=Filename
+ssm.processVariables.label.importClassification=Source Classification
+ssm.processVariables.label.importFormat=Import Format

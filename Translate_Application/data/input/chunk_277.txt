@@ -1,0 +1,10 @@
+businessRulePerformance.header.totalBuseinssRuleExecutionTime=Total time of execution for {0} products
+businessRulePerformance.header.totalExecutionTime=Total execution time\:
+businessRulePerformance.header.unknownTimeOfExecution=Unknown average speed and execution time
+businessRulePerformance.message.error.noResultStatistics=Statistics of the Job execution wasn't generated. Please, check log files for details.
+businessRulePerformance.message.error.startup=Unexpected error occurred during job start up.
+businessRulePerformance.message.result=Recent search result\:
+businessRulePerformance.result.explanation=Average time of Business Rule execution should not be more than 50-75 ms. Otherwise you will get performance issue for processing of a big Catalog.
+businessRulePerformance.title=Business Rule Performance Test
+businessRulePerformance.title.desc=Test Catalog with 10.000 Products is processed during the test. Business Rule Engine is invoked for a Business Rule List and processes all the Business Rules of the Business Rules List. It may take much time depending on how many Business Rules are contained in the Business Rule List and how much time each Business Rule takes. After execution the report will be shown on this page.
+businessRuleTester.button.back=Back

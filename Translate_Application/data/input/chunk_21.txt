@@ -1,0 +1,10 @@
+Excel.productRelation-seqNo=Sequence No.
+Excel.productRelation-typeId=Relation Type ID
+Ext.=Purchase Order
+ExtendedMultiSheet.FixAttribute_IsChemical=Chemical Flag
+ExtendedMultiSheet.FixAttribute_IsSafety=Safety Flag
+ExtendedMultiSheet.FixMultiLangAttribute_LongDescription_de=Item Description de
+ExtendedMultiSheet.FixMultiLangAttribute_LongDescription_en=Item Description en-US
+ExtendedMultiSheet.FixMultiLangAttribute_LongDescription_es=Item Description es
+ExtendedMultiSheet.FixMultiLangAttribute_LongDescription_fi=Item Description fi
+ExtendedMultiSheet.FixMultiLangAttribute_LongDescription_fr=Item Description fr

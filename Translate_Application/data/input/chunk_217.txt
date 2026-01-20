@@ -1,0 +1,10 @@
+StandardMultiSheet.productRelation-udxText3=Related Udx Text 3
+StandardMultiSheet.productRelation-validFrom=Related Valid from
+StandardMultiSheet.productRelation-validTo=Related Valid to
+User=${user}
+WeceemContentSearch.aliasUri.label=Alias URI
+WeceemContentSearch.command.clear=Reset
+WeceemContentSearch.command.search=Search
+WeceemContentSearch.command.select=Select
+WeceemContentSearch.header=Search for Weecem Content
+WeceemContentSearch.message.noSelectedItems=No items selected

@@ -1,0 +1,10 @@
+ExtendedMultiSheet.price-currencyId_4=Currency 4
+ExtendedMultiSheet.price-currencyId_5=Currency 5
+ExtendedMultiSheet.price-currencyId_6=Currency 6
+ExtendedMultiSheet.price-currencyId_7=Currency 7
+ExtendedMultiSheet.price-currencyId_8=Currency 8
+ExtendedMultiSheet.price-currencyId_9=Currency 9
+ExtendedMultiSheet.price-description=Price Description
+ExtendedMultiSheet.price-description_1=Price - Description
+ExtendedMultiSheet.price-fixNetPrice_1=Price - Fixed Net Price
+ExtendedMultiSheet.price-grossPrice_1=Price - Gross Price

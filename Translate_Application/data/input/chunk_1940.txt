@@ -1,0 +1,10 @@
+ui.schema.editor.label.type=Type
+ui.schema.editor.label.visibility=Scope
+ui.schema.editor.label.yes=Yes
+ui.schema.editor.scope.catalog=Catalogs
+ui.schema.editor.scope.catalogCategory=Catalog Categories
+ui.schema.editor.scope.classification=Classifications
+ui.schema.editor.scope.classificationGroup=Classification Groups
+ui.schema.editor.scope.customer=Customers
+ui.schema.editor.scope.global=Global
+ui.schema.editor.scope.user=Users

@@ -1,0 +1,10 @@
+com.jcatalog.classification.ClassificationGroup.descShort.label=Description
+com.jcatalog.classification.ClassificationGroup.header=Search for Classification Groups
+com.jcatalog.classification.ClassificationGroup.label=Classification Group {0}
+com.jcatalog.classification.GormClassification.classificationId.label=Classification ID
+com.jcatalog.classification.GormClassification.descShort.label=Description
+com.jcatalog.classification.GormClassification.header=Search for Classifications
+com.jcatalog.classification.GormClassificationGroup.classification.classificationId.label=Classification ID
+com.jcatalog.classification.GormClassificationGroup.classificationGroupId.label=Classification Group ID
+com.jcatalog.classification.GormClassificationGroup.classificationGroupId.nullable="Classification Group ID" is a required field.
+com.jcatalog.classification.GormClassificationGroup.descShort.label=Description

@@ -1,0 +1,10 @@
+plugin.opcSearch.label.manufacturer=Manufacturer
+plugin.opcSearch.label.manufacturerId=Manufacturer ID
+plugin.opcSearch.label.manufacturerName=Manufacturer
+plugin.opcSearch.label.manufacturerNames=Manufacturer
+plugin.opcSearch.label.messages.tab=Messages
+plugin.opcSearch.label.mfgProductId=Manufacturer Product ID
+plugin.opcSearch.label.more=View more
+plugin.opcSearch.label.moreNews=More&hellip;
+plugin.opcSearch.label.news=News
+plugin.opcSearch.label.notOrderable=Not orderable

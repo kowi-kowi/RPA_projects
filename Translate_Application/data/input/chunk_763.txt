@@ -1,0 +1,10 @@
+plugin.classificationEditor.expressionsPane.titleAttributes=Search for Attributes
+plugin.classificationEditor.expressionsPane.titleBoilerplates=Available Boilerplates
+plugin.classificationEditor.expressionsPane.titleOerations=Available Operations
+plugin.classificationEditor.expressionsPane.titleProduct=Available Product Fields
+plugin.classificationEditor.form.create.header=Create {0}
+plugin.classificationEditor.form.edit.header=Edit {0}
+plugin.classificationEditor.form.view.header=View {0}
+plugin.classificationEditor.inherited.label=Inherited Attribute
+plugin.classificationEditor.label.ean=GTIN/EAN
+plugin.classificationEditor.label.extProductId=ext. Product ID

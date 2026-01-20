@@ -1,0 +1,10 @@
+plugin.opcProductDetails.label.add2CartFromComparePrices=Add to shopping cart
+plugin.opcProductDetails.label.addToDraftRequisition=Add to Draft Requisition
+plugin.opcProductDetails.label.addToList=Add to List
+plugin.opcProductDetails.label.attribute.notAsssignedOnClassificationGroup=No attribute definition found
+plugin.opcProductDetails.label.checkProduct=Check Product
+plugin.opcProductDetails.label.classifications=Classifications
+plugin.opcProductDetails.label.competitiveInformation=Competitive Information
+plugin.opcProductDetails.label.competitiveInformation.originalPart=Original Part
+plugin.opcProductDetails.label.configurable=Select
+plugin.opcProductDetails.label.configurableProduct.radioButton.none=none

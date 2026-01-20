@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.isMultivalued=Is Multivalued
+plugin.opcAdministration.label.isPunchout=Is Punchout
+plugin.opcAdministration.label.isReadonly=Is Readonly
+plugin.opcAdministration.label.isRequired=Is Required
+plugin.opcAdministration.label.isServiceConfigurator=Is Service Configurator
+plugin.opcAdministration.label.isSystemDefined=Is System Defined
+plugin.opcAdministration.label.isVariable=Is Variable
+plugin.opcAdministration.label.keywords=Keywords
+plugin.opcAdministration.label.languages=Languages
+plugin.opcAdministration.label.layout=Layout

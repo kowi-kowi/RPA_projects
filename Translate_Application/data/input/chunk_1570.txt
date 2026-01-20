@@ -1,0 +1,10 @@
+plugin.productReviewEditor.title.edit=Edit
+plugin.productReviewEditor.title.price.create=Add price
+plugin.productReviewEditor.title.price.edit=Edit price
+plugin.productReviewEditor.title.product.create=Create Product
+plugin.productReviewEditor.title.product.edit=Edit product
+plugin.productReviewEditor.title.productRelation.create=Add product relation
+plugin.productReviewEditor.title.productRelation.edit=Edit product relation
+plugin.productReviewEditor.title.productRelation.productSearch=Search for products
+plugin.productReviewEditor.title.productRelation.typeSearch=Search for Product Relation types
+plugin.productReviewEditor.title.productReview=Product Review

@@ -1,0 +1,10 @@
+com.jcatalog.posting.internal.PostingDimension.postingDimensionId.label=Posting Dimension ID
+com.jcatalog.posting.internal.PostingDimensionValue.customerId.label=Customer ID
+com.jcatalog.posting.internal.PostingDimensionValue.descShort.label=Short Description
+com.jcatalog.posting.internal.PostingDimensionValue.header=Posting Dimension Value Search
+com.jcatalog.posting.internal.PostingDimensionValue.label=Posting Dimension Value
+com.jcatalog.posting.internal.PostingDimensionValue.parent.label=Master ID
+com.jcatalog.posting.internal.PostingDimensionValue.postingDimension.id.label=Posting Dimension ID
+com.jcatalog.posting.internal.PostingDimensionValue.postingDimension.label=Posting Dimension
+com.jcatalog.posting.internal.PostingDimensionValue.postingDimension.postingDimensionId.label=Posting Dimension ID
+com.jcatalog.posting.internal.PostingDimensionValue.postingDimensionId.label=Type

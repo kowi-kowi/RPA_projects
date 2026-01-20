@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.purchaseOrder.acceptedConfirmedChanges.message=The changes confirmed for Purchase Order ''{0}'' have been accepted by customer.
+plugin.procPurchaseorder.purchaseorder.approvementType.automatic.message=Your purchase order ''{0}'' was successfully changed.
+plugin.procPurchaseorder.purchaseorder.approvementType.manual.message=Your purchase order ''{0}'' has been sent to approval.
+plugin.procPurchaseorder.quantity=Quantity
+plugin.procPurchaseorder.question.delete.invoiceReceipt=Do you really want to delete this Invoice Receipt?
+plugin.procPurchaseorder.question.invoice.delete=Do you really want to delete Invoice/Invoice Position?
+plugin.procPurchaseorder.recipient=Recipient
+plugin.procPurchaseorder.recipient.building=Building
+plugin.procPurchaseorder.recipient.department=Department
+plugin.procPurchaseorder.recipient.email=Email

@@ -1,0 +1,10 @@
+textlocalization.tab.import=Import
+textlocalization.tab.scheduler=Scheduler
+textlocalization.tab.system=System
+textlocalization.tab.translations=Translations
+textlocalization.toolbar.button.resetColumns=Reset Columns
+textlocalization.toolbar.button.showDiff=Show Differences
+textlocalization.toolbar.label.reports=Reports
+textlocalization.translationField.label.addLanguage=Add Language
+title.BackupCatalogJob.progress=Backup Job Progress
+title.ExtendPriceJob.progress=Extend Price Job

@@ -1,0 +1,10 @@
+plugin.opcShoppingList.header.netPrice=Net Price
+plugin.opcShoppingList.header.position=Pos.
+plugin.opcShoppingList.header.price=Price per Unit
+plugin.opcShoppingList.header.priceUnit=Price Unit
+plugin.opcShoppingList.header.productId=Product ID
+plugin.opcShoppingList.header.quantity=Quantity
+plugin.opcShoppingList.header.shortDescription=Item Description
+plugin.opcShoppingList.header.supplier=Supplier
+plugin.opcShoppingList.header.uom=UoM
+plugin.opcShoppingList.label.actions=Actions

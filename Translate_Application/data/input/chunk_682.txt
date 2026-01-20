@@ -1,0 +1,10 @@
+plugin.bootstrapUiCustomization.validation.matchesInvalid.message=Only alphabetical (a-z,A-Z), numerical, ''_'' and ''-'' symbols are allowed
+plugin.bootstrapUiCustomization.validation.maxLength.message=Value length should be not more than 30 characters
+plugin.bootstrapUiCustomization.validation.requiredTheme.message=Property cannot be null
+plugin.bootstrapUiCustomization.yes.button=Yes
+plugin.budget.blank.objectId=Budget Object is required
+plugin.budget.bookedAmountRange.from=from
+plugin.budget.bookedAmountRange.to=to
+plugin.budget.button.addPeriod=Add Period
+plugin.budget.button.cancel=Cancel
+plugin.budget.button.move=Move

@@ -1,0 +1,10 @@
+plugin.grailsflow.label.finishedOn=Finished On
+plugin.grailsflow.label.finishedOnBy=Finished On/By
+plugin.grailsflow.label.finishedRange=Finished
+plugin.grailsflow.label.form.automatic=Use Automatic Form
+plugin.grailsflow.label.form.customForm=Use Custom Form
+plugin.grailsflow.label.form.customFormAndController=Use Custom Controller and Form
+plugin.grailsflow.label.form.external=Use External Editor
+plugin.grailsflow.label.forwarding=Forwarding
+plugin.grailsflow.label.foundNodes=Found nodes\:
+plugin.grailsflow.label.foundProcesses=Found processes\:

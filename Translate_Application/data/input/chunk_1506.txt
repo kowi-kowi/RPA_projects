@@ -1,0 +1,10 @@
+plugin.procRequisition.message.process.notFound=No process for selected Requisition.
+plugin.procRequisition.message.purchaseOrder.approvalHistory.notFound=There was no approval process for the current Purchase Order.
+plugin.procRequisition.order.description=Description
+plugin.procRequisition.order.text=Order Text
+plugin.procRequisition.order.text.position=Position order text
+plugin.procRequisition.order.text.product=Product order text
+plugin.procRequisition.order.text.sales=Requisition text
+plugin.procRequisition.orderApproval.dynamic.PurchaseOrderApprovalWorkflow.approvalStep.dynamic.CostObjectApproval.label=PO Cost Object Approval
+plugin.procRequisition.orderApproval.dynamic.RequisitionApprovalWorkflow.approvalStep.dynamic.AccountingApproval.label=Accounting Approval
+plugin.procRequisition.orderApproval.dynamic.RequisitionApprovalWorkflow.approvalStep.dynamic.AdditionalConfirmation.label=Additional Confirmation

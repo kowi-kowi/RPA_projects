@@ -1,0 +1,10 @@
+deltaReport.header.productId=Product ID
+deltaReport.header.productRelation.productRelation=Product Relation
+deltaReport.header.productRelation.relatedProductId=Related ProductId
+deltaReport.header.productRelation.relatedProductShortDesc=Related Product Short Description
+deltaReport.header.productRelation.relationProperties=Relation Properties
+deltaReport.header.productRelation.relationProperties.defaultSelected.new=Default Selected (new)
+deltaReport.header.productRelation.relationProperties.defaultSelected.old=Default Selected (old)
+deltaReport.header.productRelation.relationProperties.mandatory.new=Mandatory (new)
+deltaReport.header.productRelation.relationProperties.mandatory.old=Mandatory (old)
+deltaReport.header.productRelation.relationProperties.selectionGroup.new=Selection Group ID (new)

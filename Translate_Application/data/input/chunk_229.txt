@@ -1,0 +1,10 @@
+administration.label.supplierCheck=Checking Supplier
+administration.label.totalPrice=Total Price
+administration.label.uom=UoM
+administration.message.OrderConfirmation.notification=Your requistion {0} has been sent into approval workflow. You will be informed further when the requisition has been fully approved and the purchase order is created and transferred to the supplier.
+administration.message.reservation.failure=Requisition {0} reservation failed.
+administration.message.reservation.success=Requisition {0} successfully reserved.
+administration.message.waiting.for.any.approval.step=Please Wait until system will start the Approval Process
+administration.systemAdministration.administration=Administration
+administration.systemAdministration.allApprovals=Show all Approvals
+administration.systemAdministration.allApprovals.desc=Here you can view all approvals

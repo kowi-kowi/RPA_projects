@@ -1,0 +1,10 @@
+com.jcatalog.classification.attribute.Attribute.questionDescription.label=Question
+com.jcatalog.classification.attribute.Attribute.questionKey.label=Question ID
+com.jcatalog.classification.attribute.Attribute.type.label=Type
+com.jcatalog.classification.attribute.AttributeSection.attributeSectionId.label=Attribute Section ID
+com.jcatalog.classification.attribute.AttributeSection.header=Search for Attribute Sections
+com.jcatalog.classification.attribute.AttributeSection.name.label=Name
+com.jcatalog.classification.attribute.GormAttribute.attributeSectionId.label=Attribute Section ID
+com.jcatalog.classification.attribute.GormAttribute.classificationGroupId.label=Classification Group ID
+com.jcatalog.classification.attribute.GormAttribute.classificationId.label=Classification ID
+com.jcatalog.classification.attribute.GormAttribute.defaultValue.validator.error=Default Value should be {0} type and correspond to type restrictions.

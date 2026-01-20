@@ -1,0 +1,10 @@
+plugin.opcRfq.error.quantity.invalid=Quantity is not valid.
+plugin.opcRfq.error.rfq.creation=RfQ for product ''{0}'' was not created successfully. Please, contact your administrator.
+plugin.opcRfq.noRfqTemplate.label=No RfQ templates available for loading.
+plugin.opcRfq.progressBar.1.step=Configuration
+plugin.opcRfq.progressBar.2.step=Supplier Selection
+plugin.opcRfq.progressBar.3.step=Cart
+plugin.opcRfq.rfQItem.rfQType.catalogItems=Catalog Items
+plugin.opcRfq.rfQItem.rfQType.priceAndAvailability=Price & Availability
+plugin.opcRfq.rfQItem.rfQType.projects=Projects
+plugin.opcRfq.rfQItem.rfQType.services=Services

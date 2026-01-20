@@ -1,0 +1,10 @@
+menu.contractFilterEditor=Contract Filters
+menu.contracts=Contracts
+menu.contractsManagement=Contracts
+menu.country=Countries
+menu.currency=Currencies
+menu.customer=Customers
+menu.customerConnection=Customer Connection
+menu.customerGroup=Customer Groups
+menu.customerOrSupplierManagement=Customer/Supplier
+menu.customerOrSupplierManagement.desc=Administration of customer and supplier master data.

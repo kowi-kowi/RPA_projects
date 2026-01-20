@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.label.orderText.supplier=Supplier
+plugin.opcShoppingCart.label.orderText.udx=UDX
+plugin.opcShoppingCart.label.orderText.uom=UoM
+plugin.opcShoppingCart.label.posting.glAccount=GL Account
+plugin.opcShoppingCart.label.priceRecalculation=Apply Discount
+plugin.opcShoppingCart.label.priceRecalculation.discount.absolute.tooBig=Absolute discount value must not exceed the total price of an item.
+plugin.opcShoppingCart.label.priceRecalculation.discount.empty=Discount value cannot be empty.
+plugin.opcShoppingCart.label.priceRecalculation.discount.invalid=Discount value is not a valid number.
+plugin.opcShoppingCart.label.priceRecalculation.discount.negative=Discount value must not be a negative number.
+plugin.opcShoppingCart.label.priceRecalculation.discount.percentage.tooBig=Percentage discount value must not exceed 100%.

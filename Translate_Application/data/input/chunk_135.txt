@@ -1,0 +1,10 @@
+RFQ.rfxAward.contractModal.noContract=No contracts are found.
+RFQ.rfxAward.contractModal.table.containsChemicalItems=Contains Chemical Items
+RFQ.rfxAward.contractModal.table.containsHazardousItems=Contains Hazardous Items
+RFQ.rfxAward.contractModal.table.containsSafetyItems=Contains Safety Items
+RFQ.rfxAward.contractModal.table.contractCategory=Contract Category
+RFQ.rfxAward.contractModal.table.contractId=Contract ID
+RFQ.rfxAward.contractModal.table.currency=Currency
+RFQ.rfxAward.contractModal.table.description=Description
+RFQ.rfxAward.contractModal.table.extContractId=Ext Contract ID
+RFQ.rfxAward.contractModal.table.extContractLineId=Ext Contract Line ID

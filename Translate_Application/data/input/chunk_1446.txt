@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.posting=Posting
+plugin.procPurchaseorder.label.price=Price
+plugin.procPurchaseorder.label.price.total=Total Price
+plugin.procPurchaseorder.label.pricePerUnit=Price Per Unit
+plugin.procPurchaseorder.label.priceUnit=Price Unit
+plugin.procPurchaseorder.label.print=Print
+plugin.procPurchaseorder.label.printedOnBy=Printed On / Printed By
+plugin.procPurchaseorder.label.product=Product
+plugin.procPurchaseorder.label.productId=Product ID
+plugin.procPurchaseorder.label.productShortDesc=Product Short Desc.

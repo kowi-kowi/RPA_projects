@@ -1,0 +1,10 @@
+SSM.productEditor.exportToExcel=Export to Excel
+SSM.productEditor.generateProductId=Generate
+SSM.productEditor.grid.button.applyDefaultValue=Apply the Default Value
+SSM.productEditor.grid.columns.actions=Actions
+SSM.productEditor.grid.columns.all=All
+SSM.productEditor.grid.columns.altExtProductId=Ext. Short Description
+SSM.productEditor.grid.columns.amount=Amount
+SSM.productEditor.grid.columns.attributeId=Attribute ID
+SSM.productEditor.grid.columns.attributeType=Value Type
+SSM.productEditor.grid.columns.attributes=Attributes

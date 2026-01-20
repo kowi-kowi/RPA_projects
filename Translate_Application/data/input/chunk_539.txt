@@ -1,0 +1,10 @@
+jasperReports.error.parameter.empty=Value is required
+jasperReports.error.parameter.illegalDateFormat=Provided date value ''{0}'' has illegal date format
+jasperReports.error.parameter.productCatalog.reference=Catalog ''{0}'' does not exist
+jasperReports.error.parameter.supplier.reference=Supplier ''{0}'' does not exist
+jasperReports.hint.definition.email=To send the generated report by email, enter the address here. You can also enter several comma separated email addresses to send file to several recipients at the same time.
+jasperReports.hint.executionTime=Scheduler time to start exporting, if not specified export is executed immediately.
+jasperReports.hint.jobName.edit=Schedule unique Job Name
+jasperReports.hint.notification.email=To send an email notification of the process, enter the address here. You can also enter several comma separated email addresses to notify several recipients at the same time.
+jasperReports.hint.outputStyle=Your output style selection
+jasperReports.hint.templateName=Type of report to be generated

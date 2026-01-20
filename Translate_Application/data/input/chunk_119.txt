@@ -1,0 +1,10 @@
+RFQ.participantEditor.confirmation.deleteSelected=Do you really want to delete selected entries?
+RFQ.participantEditor.confirmation.unsavedChanges=Unsaved changes in the form.
+RFQ.participantEditor.notification.itemsNotSelected=Items are not selected\!
+RFQ.participantEditorForm.add=Add
+RFQ.participantEditorForm.cancel=Cancel
+RFQ.participantEditorForm.deleteAll.message=All participants have been deleted.
+RFQ.participantEditorForm.save=Save
+RFQ.participantEditorForm.useReferenceSearch=Use Reference Search
+RFQ.previewFileStep.dateFormat=Date format
+RFQ.previewFileStep.decSeparator=Decimal separator

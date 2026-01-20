@@ -1,0 +1,10 @@
+appMetrics.error.noMetricsDetected.desc=Possible solutions\:
+appMetrics.error.noMetricsDetected.header=No Application Metrics detected
+appMetrics.error.noMetricsDetected.reason.one=Application Metrics have been already enabled, but server hasn't been restarted yet. Please, restart your server to setup Application Metrics supplied with your application.
+appMetrics.error.noMetricsDetected.reason.two=Your application doesn't provide any Application Metrics.
+appMetrics.error.to.earlier.from='To' date is earlier than 'From' date.
+appMetrics.error.wrong.customer=Dimension Value ''{0}'' must be the id of current assigned Customer.
+appMetrics.label.addDimensionValue=Add
+appMetrics.label.appMetricsId=Application Metrics
+appMetrics.label.average=Average
+appMetrics.label.averageValue=Average

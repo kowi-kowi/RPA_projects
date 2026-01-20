@@ -1,0 +1,10 @@
+plugin.ssmReportGenerator.label.status=Status
+plugin.ssmReportGenerator.label.supplier=Supplier
+plugin.ssmReportGenerator.label.supplierId=Supplier ID
+plugin.ssmReportGenerator.label.version=Version
+plugin.ssmReportGenerator.message.asterisk=Fields marked with asterisk are required fields.
+plugin.ssmReportGenerator.message.error.generate.report=Unexpected error occurred during report generation. {0}
+plugin.ssmReportGenerator.message.error.reportName.isRequired=Report Name is a required field.
+plugin.ssmReportGenerator.message.error.reportType.isRequired=Report Type is a required field.
+plugin.ssmReportGenerator.message.invalidNumberOfSelectedVersions=You have selected wrong number of catalog versions.\\nExpected\:
+plugin.ssmReportGenerator.message.noCatalogVersions=There is no information about catalogs updates available. To generate compliance report product catalog should be published at least once.

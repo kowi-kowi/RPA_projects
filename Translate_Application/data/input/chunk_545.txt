@@ -1,0 +1,10 @@
+jobParameterSet.message.customer.notAssignedToContract=Customer "{3}" is not assigned to Contract "{4}".
+jobParameterSet.message.customer.notAssignedToSupplier=Supplier "{4}" is not assigned to Customer "{3}".
+jobParameterSet.message.customer.notExists=Customer "{3}" does not exist.
+jobParameterSet.message.supplier.notAssignedToCatalog=Supplier "{3}" is not assigned to Catalog "{4}".
+jobParameterSet.message.supplier.notAssignedToContract=Supplier "{3}" is not assigned to Contract "{4}".
+jobParameterSet.message.supplier.notExists=Supplier "{3}" does not exist.
+krzychu.opc=test1
+label.action.discardChanges=Discard Changes
+label.action.exportAllAppRoles=Export for All Roles
+label.action.exportSelectedAppRoles=Export for Selected Role

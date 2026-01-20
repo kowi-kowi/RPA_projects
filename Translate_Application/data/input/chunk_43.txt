@@ -1,0 +1,10 @@
+PROC.AttachmentEditor.attachments.modal.button.delete=Delete
+PROC.AttachmentEditor.attachments.modal.confirmation.body=Please confirm the deleting of the following file(s)\:
+PROC.AttachmentEditor.attachments.modal.confirmation.title=Delete File
+PROC.AttachmentEditor.attachments.notImported.duplicate=The file '{name}' already exists.
+PROC.AttachmentEditor.attachments.notImported.error=An error occurred during the file '{name}' attachment.
+PROC.AttachmentEditor.attachments.notImported.maxTotalSize=The total size of all attached files exceeds {maxTotalSize} MB. This may cause issues when sending the email. Please reduce the file size to avoid potential problems.
+PROC.AttachmentEditor.attachments.notImported.name=File type is not allowed for '{name}'. The following types are allowed\: [{allowedExtensions}].
+PROC.AttachmentEditor.attachments.relevant=Available for Suppliers
+PROC.Attachments.attachmentButton.close=Close
+PROC.AvgFreetextApproveHandlingTime.appMetrics.chart.yaxis.label=Average Time (minutes)

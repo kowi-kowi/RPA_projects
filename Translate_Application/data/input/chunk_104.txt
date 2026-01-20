@@ -1,0 +1,10 @@
+PROC.export.pdf.purchaseOrder.labels.summary.totalNetPrice=Total (net)\:
+PROC.export.pdf.purchaseOrder.labels.title=Purchase Order
+PROC.export.pdf.purchaseOrder.labels.title.canceled=Purchase Order Cancelled
+PROC.export.pdf.purchaseOrder.labels.title.change=Purchase Order Change
+PROC.label.appName=Order
+PROC.plugins.procCommon.purchaseOrder.messages.purchaseOrderScheduledToERP=The purchase order ''{0}'' is scheduled for sending to ERP.
+PROC.plugins.procCommon.purchaseOrder.messages.purchaseOrderScheduledToSupplier=The purchase order ''{0}'' is scheduled for sending to the supplier.
+Popover.action.cancel=Cancel
+Popover.action.confirm=Confirm
+PostingDependencies.action.add=Add

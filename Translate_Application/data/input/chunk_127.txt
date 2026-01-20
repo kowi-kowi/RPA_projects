@@ -1,0 +1,10 @@
+RFQ.rfx.projectId=Purchasing Project
+RFQ.rfx.qualificationType=Qualification
+RFQ.rfx.questionnaires=Questionnaire
+RFQ.rfx.reminders=Reminder Date
+RFQ.rfx.reminders.tooltip=The Reminder Date is a time point (date and time) for sending a reminder email to those suppliers who have not responded to the RFX yet.
+RFQ.rfx.requestCategory=Request Category
+RFQ.rfx.requestType=Request Type
+RFQ.rfx.requestType.DC.description=Demand Collection
+RFQ.rfx.requestType.DC.label=DC
+RFQ.rfx.requestType.RFA.description=Request for Availability

@@ -1,0 +1,10 @@
+column.size=Size
+column.size.bytes={0}
+column.size.gbytes={0} GB
+column.size.kbytes={0} KB
+column.size.mbytes={0} MB
+com.com.opuscapita.migration.job.MigrationJobParameterSet.email.validator.error=Please enter a valid email (or a comma-separated list of emails).
+com.com.opuscapita.migration.job.MigrationJobParameterSet.migrationEnabled.validator.error=Please, select a Migration parameter or any of the Data Migration scripts.
+com.jcatalog.backup.BulkBackupCatalogJobPerameterSet.selectedStatuses.error.brokenValues={3} status(es) is(are) not allowed. The following statuses can be used\: {4}.
+com.jcatalog.backup.BulkBackupCatalogJobPerameterSet.selectedStatuses.error.empty=Please, specify at least one status.
+com.jcatalog.boilerplate.Boilerplate.boilerplateId.label=Boilerplate ID

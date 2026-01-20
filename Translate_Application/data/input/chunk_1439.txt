@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.irItemDetails=Invoice Receipt Item Details
+plugin.procPurchaseorder.label.irProductAndPriceDetails=Product and Price Details
+plugin.procPurchaseorder.label.items=Items
+plugin.procPurchaseorder.label.itemsQnt=Previous / New Items Quantity
+plugin.procPurchaseorder.label.job.goodsreceiptsaptransfergroup=Goods Receipts Transfer
+plugin.procPurchaseorder.label.job.purchaseordercancellationsaptransfergroup=Canceled Purchase Orders Transfer
+plugin.procPurchaseorder.label.job.purchaseorderchangesaptransfergroup=Changed Purchase Orders Transfer
+plugin.procPurchaseorder.label.job.purchaseordersaptransfergroup=Purchase Orders Transfer
+plugin.procPurchaseorder.label.jobGroup=Job Group
+plugin.procPurchaseorder.label.jobId=Job ID

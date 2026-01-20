@@ -1,0 +1,10 @@
+plugin.priceTrend.chart.products.label=Products
+plugin.priceTrend.chart.xaxis.label=Catalog Versions
+plugin.priceTrend.chart.yaxis.label=Average prices of all products
+plugin.priceTrend.command.add=Add
+plugin.priceTrend.command.generate=Generate
+plugin.priceTrend.command.refresh=Refresh
+plugin.priceTrend.command.reset=Reset
+plugin.priceTrend.label.catalogVersions=Catalog Versions
+plugin.priceTrend.label.classification=Classification
+plugin.priceTrend.label.classificationGroup=ClassificationGroup

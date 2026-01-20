@@ -1,0 +1,10 @@
+plugin.budget.label.bookedOnBy=Booked On/By
+plugin.budget.label.bookingDate=Booking Date
+plugin.budget.label.bookingType=Booking Type
+plugin.budget.label.budget=Budget
+plugin.budget.label.budget.book=Book Budget
+plugin.budget.label.budget.create=Create Budget
+plugin.budget.label.budget.edit=Edit Budget
+plugin.budget.label.budget.history=Budget History
+plugin.budget.label.budget.list=Budget List
+plugin.budget.label.budget.search=Search Budget

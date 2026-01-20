@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.message.mailSent=Upon submission of this form you may receive email inquiries or availability notifications from the selected supplier. To speed availability of the requested item within the catalog, please ensure prompt reply to any inquires. Submission of this form does not guarantee that the item will be made available within the catalog solution. If you have not received a response within three days, please contact the supplier at the phone number provided in the email confirmation you receive after submission of this form.
+plugin.opcProductSuggestion.message.mailSent.successful=You have successfully submitted your product suggestion to the supplier.
+plugin.opcProductSuggestion.message.openingStatement=A catalog product suggestion has been submitted by {0} for the product(s) described below. Do not respond to this email as it has been sent by a service ID that is not monitored.
+plugin.opcProductSuggestion.question.delete=Do you want to delete this document?
+plugin.opcProductSuggestion.title.attachedFilesPopup=Attached files
+plugin.opcProductSuggestion.title.productSuggestion=Product Suggestion
+plugin.opcProductSuggestion.warning.invalidExtension=Unsupported document type. Please use documents of the following types\: {0}.
+plugin.opcPunchout.adminPreview.action.proceed=Proceed
+plugin.opcPunchout.adminPreview.cXMLNoRedirectUrl=The cXML response from the external shop does not contain a redirect URL.
+plugin.opcPunchout.adminPreview.helpText=Use ["~TARGET"] \= "punchout" to submit OCI form into the frame embedded on this page below.

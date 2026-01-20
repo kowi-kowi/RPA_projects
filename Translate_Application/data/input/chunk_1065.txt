@@ -1,0 +1,10 @@
+plugin.opcAuthorization.error.key=Invalid secure key ''{0}''
+plugin.opcAuthorization.error.login.failed=Login failed
+plugin.opcAuthorization.error.productIsNotAvailable=The required product ''{0}'' is not available
+plugin.opcAuthorization.error.requiredParameter=Parameter ''{0}'' is required
+plugin.opcAuthorization.error.timestamp=Timestamp ''{0}'' is after present ''{1}''
+plugin.opcAuthorization.error.unknownCountry=Unknown country code ''{0}''
+plugin.opcAuthorization.error.unknownCurrency=Unknown user currency ''{0}''
+plugin.opcAuthorization.error.unknownPurchaseType=Unknown purchase type ''{0}'' instead of ''Internal'', ''Resale'' or ''Project''
+plugin.opcAuthorization.error.unsupportedOciVersion=Unsupported OCI version ''{0}''
+plugin.opcAuthorization.label.language=Language

@@ -1,0 +1,10 @@
+jasperReports.WorkflowReport.totalTime.label=Total Time
+jasperReports.WorkflowReport.totalTimeInHrs.label=Total Time (hrs)
+jasperReports.WorkflowReport.uom.hrs.label=hrs
+jasperReports.WorkflowReport.waitingRfq.label=Waiting RFQ
+jasperReports.WorkflowReport.waitingRfqApprover.label=Waiting RFQ Approver
+jasperReports.WorkflowReport.waitingRfqDuration.label=Waiting RFQ Duration
+jasperReports.WorkflowReport.waitingRfqFinishedAt.label=Waiting RFQ finished on
+jasperReports.WorkflowReport.waitingRfqStartedAt.label=Waiting RFQ started on
+jasperReports.WorkflowReport.workflowFinishedAt.label=Workflow finished on
+jasperReports.WorkflowReport.workflowStartedAt.label=Workflow started on

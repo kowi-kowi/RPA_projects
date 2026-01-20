@@ -1,0 +1,10 @@
+plugin.opcCommons.switchToReverseRequisitionMode.supplierAssignmentError=You must be assigned to a supplier to switch to the Reverse Requisition mode.
+plugin.opcCommons.tab.productPriceAnalysis=Product and Price Analysis
+plugin.opcCommons.tab.productReviewReport=Product Reviews and Ratings Analysis
+plugin.opcCommons.tab.spendVolumeReport=Estimate Spend Volume
+plugin.opcCommons.tab.statisticReports=Report of Searches
+plugin.opcCommons.tabTitle.administration=Administration
+plugin.opcCommons.tabTitle.analysis=Analyze
+plugin.opcCommons.tabTitle.browseContracts=Suppliers & Contracts
+plugin.opcCommons.tabTitle.cart=Cart
+plugin.opcCommons.tabTitle.catalog=Shop

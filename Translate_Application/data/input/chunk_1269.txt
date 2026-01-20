@@ -1,0 +1,10 @@
+plugin.opcSearch.error.external.search.noExternalShop=Select at least one external shop to start search.
+plugin.opcSearch.error.external.search.validate.failed=Not all mandatory information was retrieved from the external catalog. Therefore search within this catalog has been terminated. Please contact your administrator.
+plugin.opcSearch.error.external.search.wildcard.failed=The external catalog does not support search by wildcards. Please enter a search term without wildcards.
+plugin.opcSearch.error.findAllDisabled=Find all query is disabled
+plugin.opcSearch.error.incorrectDateFormat=Incorrect date format "{0}" for attribute "{1}".
+plugin.opcSearch.error.invalidAdvancedSearchParam=Invalid advanced search parameter
+plugin.opcSearch.error.onlyStopwords=Search string contains only stopwords, which are ignored.
+plugin.opcSearch.error.priceFilter.notValidNumber=''{0}'' is not a valid number
+plugin.opcSearch.error.products.order=Some of the selected products were not added to cart because of the following errors\:
+plugin.opcSearch.error.products.processing=Error during loading product\:

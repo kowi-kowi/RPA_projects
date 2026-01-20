@@ -1,0 +1,10 @@
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.type.hint=Types can be UNSPSC, eClass etc.
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.type.label=Type
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.versionNo.hint=Use unique identifier to track your classifications
+plugin.classificationEditor.com.jcatalog.classification.GormClassification.versionNo.label=Version No
+plugin.classificationEditor.com.jcatalog.classification.GormClassificationGroup.attributeValues.label=Attribute Values
+plugin.classificationEditor.com.jcatalog.classification.GormClassificationGroup.changedBy.label=Changed By
+plugin.classificationEditor.com.jcatalog.classification.GormClassificationGroup.changedOn.label=Changed On
+plugin.classificationEditor.com.jcatalog.classification.GormClassificationGroup.classification.label=Classification
+plugin.classificationEditor.com.jcatalog.classification.GormClassificationGroup.classificationGroupId.label=Classification Group ID
+plugin.classificationEditor.com.jcatalog.classification.GormClassificationGroup.createdBy.label=Created By

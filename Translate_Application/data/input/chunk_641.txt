@@ -1,0 +1,10 @@
+opc.product.actions.main.cart.update=Update Cart
+opc.product.actions.main.cart.update.next=Update and Next
+opc.product.actions.main.comparison.add=Add to Comparison
+opc.product.actions.main.configuration.save=Save Configuration
+opc.product.actions.main.configuration.update=Update Configuration
+opc.product.actions.main.editProduct=Edit Product
+opc.product.actions.main.enrich=Enrich
+opc.product.actions.main.equipment.navigate=Navigate to Equipment
+opc.product.actions.main.hidePrice=Hide Price from Supplier
+opc.product.actions.main.issue.report=Issue Report

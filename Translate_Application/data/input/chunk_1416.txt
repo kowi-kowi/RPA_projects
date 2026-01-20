@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.command.delete=Delete
+plugin.procPurchaseorder.command.deny=Deny
+plugin.procPurchaseorder.command.denyPayment=Deny Payment
+plugin.procPurchaseorder.command.denySelected=Deny Selected
+plugin.procPurchaseorder.command.details=Details
+plugin.procPurchaseorder.command.diff=Diff
+plugin.procPurchaseorder.command.displayDocuments=Display/Add Documents
+plugin.procPurchaseorder.command.edit=Edit
+plugin.procPurchaseorder.command.editCostDistributions=Edit Cost Distributions
+plugin.procPurchaseorder.command.editHeader=Edit Header

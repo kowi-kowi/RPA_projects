@@ -1,0 +1,10 @@
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.label=User
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.language.label=Language
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.lastLogin.label=Last Login
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.locked.label=Locked
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.logins.label=Logins
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.mayChangeCustomer.hint=Activation of this function will overrule all settings defined in "Customers and Suppliers" tab\!
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.mayChangeCustomer.label=May Change to any Customer
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.mayChangeSupplier.hint=Activation of this function will overrule all settings defined in "Customers and Suppliers" tab\!
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.mayChangeSupplier.label=May Change to any Supplier
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.passwordAnswer.label=Password Answer

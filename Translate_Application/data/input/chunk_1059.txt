@@ -1,0 +1,10 @@
+plugin.opcAnalysis.menu.analysis.productPriceAnalysis.desc=This report allows to analyse products data loaded in OPC\: find products with bad data, create pivot tables.
+plugin.opcAnalysis.menu.analysis.productReviewReport=Product Reviews and Ratings Analysis
+plugin.opcAnalysis.menu.analysis.productReviewReport.desc=This report allows to see products with good or bad user ratings and to analyze user reviews in order to make sourcing decisions.
+plugin.opcAnalysis.menu.analysis.spendVolumeReport=Estimate Spend Volume
+plugin.opcAnalysis.menu.analysis.spendVolumeReport.desc=This report allows to estimate future spend volumes based on current spends.
+plugin.opcAnalysis.menu.analysis.statisticReports=Report of Searches
+plugin.opcAnalysis.menu.analysis.statisticReports.desc=This report allows to view search statistics\: used search terms and the quantity of items found.
+plugin.opcAnalysis.message.attributeIdNotSelected=Field Attribute is empty\!
+plugin.opcAnalysis.message.emptyOperation=Function is empty\!
+plugin.opcAnalysis.message.emptyValue=Value is missing\!

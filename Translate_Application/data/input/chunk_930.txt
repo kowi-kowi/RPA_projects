@@ -1,0 +1,10 @@
+plugin.grailsflow.label.startedFrom=Started From
+plugin.grailsflow.label.startedOn=Started On
+plugin.grailsflow.label.startedRange=Started
+plugin.grailsflow.label.stateful=<b>Stateful</b>
+plugin.grailsflow.label.status=Status
+plugin.grailsflow.label.status.ACTIVATED=ACTIVATED
+plugin.grailsflow.label.status.AWAIT_CALLBACK=AWAIT_CALLBACK
+plugin.grailsflow.label.status.COMPLETED=COMPLETED
+plugin.grailsflow.label.status.FORWARDED=FORWARDED
+plugin.grailsflow.label.status.KILLED=KILLED

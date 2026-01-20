@@ -1,0 +1,10 @@
+plugin.opcAnalysis.ociObjectVisibilityParameter.action.add=Add
+plugin.opcAnalysis.ociObjectVisibilityParameter.action.delete=Delete
+plugin.opcAnalysis.ociObjectVisibilityParameter.error.invalidName=Name of OCI Object Visibility Parameter(s) cannot be empty.
+plugin.opcAnalysis.ociObjectVisibilityParameter.label.name=Name
+plugin.opcAnalysis.ociObjectVisibilityParameter.label.value=Value
+plugin.opcAnalysis.ociObjectVisibilityParameters.label.section=OCI Object Visibility Parameters
+plugin.opcAnalysis.page.title=Product And Price Analysis
+plugin.opcAnalysis.productReviewReportCommand.exportEmail.blank=Email field cannot be blank
+plugin.opcAnalysis.productReviewReportCommand.exportEmail.email=Email field value is not a valid email address
+plugin.opcAnalysis.spendVolumeReport.action.recalculate=Recalculate

@@ -1,0 +1,10 @@
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.strategyName.nullable=You must choose an aggregation level for your report.
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.supplierId.blank=Supplier cannot be empty
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.supplierId.notExists=Supplier with ID ''{3}'' does not exist
+com.jcatalog.ssm.reports.futurespends.command.FutureSpendsCommand.supplierId.nullable=Supplier cannot be empty
+com.jcatalog.ssm.scheduling.job.ExportProcessesJob.exportFormat.blank=Export format cannot be empty.
+com.jcatalog.ssm.scheduling.job.ExportProcessesJob.exportFormat.notSupported=Export format ''{3}'' is not supported. Please, choose one of {4}.
+com.jcatalog.ssm.scheduling.job.ExportProcessesJob.exportFormat.nullable=Export format cannot be empty.
+com.jcatalog.ssm.scheduling.job.ImportEnrichmentDataJob.languageId.maxSize.exceeded=Language field must be a five-character code.
+com.jcatalog.ssm.scheduling.job.ImportEnrichmentDataJobParameterSet.importEnrichmentDataFilePath.blank="Import file" is a required field.
+com.jcatalog.ssm.scheduling.job.ImportEnrichmentDataJobParameterSet.importEnrichmentDataFilePath.nullable="Import file" is a required field.

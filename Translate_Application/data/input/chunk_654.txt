@@ -1,0 +1,10 @@
+opc.product.details.input.price.label.pu.onRequest=On request
+opc.product.details.label.not.orderable=Not Orderable
+opc.product.details.label.on.request=On Request
+opc.product.details.label.rating=Rating
+opc.product.details.preview=Preview
+opc.product.details.price.label.contracts.multiple=Multiple contracts
+opc.product.details.price.label.on.request=On request
+opc.product.details.price.label.price.converted=Converted Price
+opc.product.details.price.label.price.daily=Daily Price
+opc.product.details.price.label.price.discount=Including Discount

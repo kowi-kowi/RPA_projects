@@ -1,0 +1,10 @@
+PROC.ProfessionalBuyerTool.labels.invoiceAddressModalOfItem=Invoice Address of the requisition item
+PROC.ProfessionalBuyerTool.labels.invoiceAddressModalOfPurchaseOrder=Invoice Address of the Purchase Order
+PROC.ProfessionalBuyerTool.labels.items=Items
+PROC.ProfessionalBuyerTool.labels.itemsQty=Previous / New Items Quantity
+PROC.ProfessionalBuyerTool.labels.linesDivision=Parts division
+PROC.ProfessionalBuyerTool.labels.longDescription=Long Description
+PROC.ProfessionalBuyerTool.labels.name1=Name 1
+PROC.ProfessionalBuyerTool.labels.name2=Name 2
+PROC.ProfessionalBuyerTool.labels.newTotalNetPrice=New Total Net Price
+PROC.ProfessionalBuyerTool.labels.numberOfLines=Number of divided parts

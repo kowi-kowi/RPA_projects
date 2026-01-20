@@ -1,0 +1,10 @@
+plugin.crudEditor.view.header=View {0}
+plugin.currencyExchangeSupport.updateConversionRatesJob.email.hint=To send an email notification on the process, enter the address here. You can enter several comma-separated email addresses to notify several recipients at a time.
+plugin.currencyExchangeSupport.updateConversionRatesJob.email.label=Email
+plugin.currencyExchangeSupport.updateConversionRatesJob.email.standard.label=Use Standard Email Address
+plugin.currencyExchangeSupport.updateConversionRatesJob.failed.subject.title=Update Conversion Rates Job ({0}) failed.
+plugin.currencyExchangeSupport.updateConversionRatesJob.successful.subject.title=Update Conversion Rates Job ({0}) finished successfully.
+plugin.customDemodata.description=You can upload custom demo data, which will be applied immediately.
+plugin.customDemodata.error.emptyFile=A file is required. Please, select a file.
+plugin.customDemodata.error.incorrectImport=The import is not passed. Please, contact your administrator.
+plugin.customDemodata.error.wrongExtension=The extension of the file is not valid. Only XML files are allowed. Please, select the correct file.

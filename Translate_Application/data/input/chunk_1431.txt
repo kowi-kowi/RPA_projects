@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.confirmedQuantity=Confirmed Quantity
+plugin.procPurchaseorder.label.corporateURL=Corporate URL
+plugin.procPurchaseorder.label.costDistribution=Cost Distribution
+plugin.procPurchaseorder.label.costObject=Cost Object
+plugin.procPurchaseorder.label.costObject.type=Type
+plugin.procPurchaseorder.label.createFromPO=Create Invoice from Purchase Order
+plugin.procPurchaseorder.label.createIR=Create Invoice Receipt
+plugin.procPurchaseorder.label.createdBy=Created by
+plugin.procPurchaseorder.label.createdOn=Created on
+plugin.procPurchaseorder.label.createdOnBy=Created By / Created On

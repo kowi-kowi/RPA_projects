@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.entry.classificationGroup.definition=Classification Group Information
+plugin.masterDataImportExport.entry.classificationGroup2Attribute.definition=Can be used to assign Attributes to Classification Groups.
+plugin.masterDataImportExport.entry.classificationGroupAttrValue.definition=Can be used to assign Attribute Values to Classification Groups.
+plugin.masterDataImportExport.entry.classificationGroupMapping.definition=Classification Group mapping
+plugin.masterDataImportExport.entry.classificationGroupMappingItem.definition=Classification Group mapping items
+plugin.masterDataImportExport.entry.classificationUsage.definition=Can be used to define the visibility of Classifications to Customers.
+plugin.masterDataImportExport.entry.contact.definition=Contacts
+plugin.masterDataImportExport.entry.contactAssociations.definition=Contact Associations
+plugin.masterDataImportExport.entry.contract.definition=Basic Contract Information
+plugin.masterDataImportExport.entry.contract2Attribute.definition=Can be used to assign Contract to Attributes.

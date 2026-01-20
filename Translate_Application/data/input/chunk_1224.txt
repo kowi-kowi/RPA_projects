@@ -1,0 +1,10 @@
+plugin.opcProductReview.label.productReview.reviewIsHelpful={0} of {1} people found the following review helpful.
+plugin.opcProductReview.label.productReview.reviewTitle=Please enter a title for your review
+plugin.opcProductReview.label.productReview.search=Search
+plugin.opcProductReview.label.productReview.searchText=Search Customer Reviews
+plugin.opcProductReview.label.productReview.seeAllReviews=See all {0} customer reviews...
+plugin.opcProductReview.label.productReview.seeMore=See more
+plugin.opcProductReview.label.productReview.star=star
+plugin.opcProductReview.label.productReview.updateReview=Update Review
+plugin.opcProductReview.label.productReview.yes=Yes
+plugin.opcProductReview.message.loading=Loading...

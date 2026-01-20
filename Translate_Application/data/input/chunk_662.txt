@@ -1,0 +1,10 @@
+opc.product.priceInformation.header.quantity.min=Min Quantity
+opc.product.priceInformation.header.rate.conversion=Conversion Rate
+opc.product.priceInformation.header.suppliers=Suppliers
+opc.product.priceInformation.header.valid.from=Valid from
+opc.product.priceInformation.header.valid.to=Valid to
+opc.product.priceInformation.header.validFromQuantity=Valid from Quantity
+opc.product.priceInformation.product.fees.header.amount=Amount
+opc.product.priceInformation.product.fees.header.contract=Contract
+opc.product.priceInformation.product.fees.header.fee=Fee
+opc.product.priceInformation.product.fees.header.quantity=Valid from Quantity

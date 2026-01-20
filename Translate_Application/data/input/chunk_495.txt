@@ -1,0 +1,10 @@
+header.businessRuleListId=BusinessRuleListId
+header.catalog=catalog
+header.chart.errorsByProcessingStep=Errors by processing step
+header.chart.warningsByProcessingStep=Warnings by processing step
+header.errorId=ErrorId
+header.errors=Errors
+header.explanation=Explanation
+header.fieldName=FieldName
+header.fieldType=FieldType
+header.fieldValue=FieldValue

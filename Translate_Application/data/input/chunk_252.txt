@@ -1,0 +1,10 @@
+appMetrics.title=Application Metrics Data
+application.footer.message=Self Service Manager. Copyright \u00A9 2000-{0}. OpusCapita Software AG.
+application.footer.message.application.name=Self Service Manager
+application.label.appName=Procurement
+application.message.changeAssignment=Change Assignment
+application.message.changeCustomerAssignment=Change Assignment
+application.message.dashboardsAccessDenied=Access to the dashboards denied. Not enough permissions.
+application.message.footer=Copyright &copy; 2000-{0}, OpusCapita Software AG.
+application.message.noAssignment=To use the application you must be assigned to customer.
+application.message.noAssignment.supplier=To use the application you must be assigned to Supplier.

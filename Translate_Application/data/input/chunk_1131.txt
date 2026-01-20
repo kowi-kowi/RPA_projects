@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.actualization.label.actualizeList=Actualize Draft Requisition
+plugin.opcDraftRequisition.actualization.label.actualizeSelected=Actualize selected items
+plugin.opcDraftRequisition.actualization.message.actualization=Actualizing of the selected products...
+plugin.opcDraftRequisition.actualization.message.actualized=The products in the Draft Requisition have been updated. Click on the warning icon at the item level to view the changes.
+plugin.opcDraftRequisition.actualization.message.noPrice4Contract=There is no price for contract ''{0}''.
+plugin.opcDraftRequisition.actualization.message.notValidPrice.warningMsg=<b>Please note\:</b> Some products in the Draft Requisition can be not actual. To actualize the product information, click the Actualize Draft Requisition button.<br/>However, you can still add the products with not actual price to the Shopping Cart. In this case, the price actualization will be executed directly in the Shopping Cart upon clicking the Proceed to Checkout button.
+plugin.opcDraftRequisition.actualization.message.nothingToActualize=The products in the Draft Requisition have been updated. No changes have been made.
+plugin.opcDraftRequisition.actualization.message.warningInfo=The latest modification of the draft requisition was made on {0}. <br/> You can actualize the following draft requisition items\:
+plugin.opcDraftRequisition.addNonRfQItem.reject=The non-RfQ items cannot be added to the shopping cart that contains RfQ items.
+plugin.opcDraftRequisition.cart.error.serviceConfiguration.multiple=The multiple service configurations cannot be added to the shopping cart.

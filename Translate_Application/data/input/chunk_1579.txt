@@ -1,0 +1,10 @@
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerCity.label=City
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerContactEmail.label=Contact email
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerContactFullName.label=Contact Name
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerContactPhoneNo.label=Contact Phone Number
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerContactTitle.label=Contact Title
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerCountry.label=Country
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerId.label=Customer ID
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerIndustry.label=Customer Industry
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerLineOfBusiness.label=Line of Business
+plugin.purchasingProject.com.jcatalog.ordermanagement.PurchasingProject.customerName.label=Customer Name

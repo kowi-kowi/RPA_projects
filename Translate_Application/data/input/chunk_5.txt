@@ -1,0 +1,10 @@
+DerivedMultiSheet.contractedProduct-minQuantity=Minimum Order Quantity
+DerivedMultiSheet.contractedProduct-priceQuantity=Price Quantity
+DerivedMultiSheet.contractedProduct-quantityInterval=Quantity Interval
+DerivedMultiSheet.contractedProduct-salesUnitOfMeasureID=Cust Sales Unit of Measure ID
+DerivedMultiSheet.contractedProduct-statusDate=Status Date
+DerivedMultiSheet.contractedProduct-statusId=Cust Status ID
+DerivedMultiSheet.contractedProduct-timePeriod=Time Period
+DerivedMultiSheet.contractedProduct-unitOfMeasureId=Contracted Product Unit of Measure ID
+DerivedMultiSheet.contractedProduct-visibility=Visibility
+DerivedMultiSheet.product-catalogId=Catalog ID

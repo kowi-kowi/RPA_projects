@@ -1,0 +1,10 @@
+plugin.cmlDemodata.demoData.page.title=Demo Data
+plugin.cmlImportExportJobs.allFiles.label=All Files
+plugin.cmlImportExportJobs.command.back=Back
+plugin.cmlImportExportJobs.command.cancel=Cancel
+plugin.cmlImportExportJobs.command.execute=Execute
+plugin.cmlImportExportJobs.command.history=Job history
+plugin.cmlImportExportJobs.command.save=Save
+plugin.cmlImportExportJobs.deleteUploadedFile.hint=Uploaded file will be deleted after import
+plugin.cmlImportExportJobs.deleteUploadedFile.label=Delete the uploaded file
+plugin.cmlImportExportJobs.email.hint=To send an email notification of the process, enter the address here. You can also enter several comma-separated email addresses to notify several recipients at the same time.

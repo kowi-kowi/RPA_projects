@@ -1,0 +1,10 @@
+plugin.priceTrend.label.currencyId=Currency
+plugin.priceTrend.label.customerId=Customer
+plugin.priceTrend.label.noVersions=No versions
+plugin.priceTrend.label.productCatalogId=Catalog
+plugin.priceTrend.label.supplierId=Supplier
+plugin.priceTrend.loading=Loading...
+plugin.priceTrend.message.error.classificationGroupId.notExists=ClassificationGroup ({3}) does not exist for Classification ({4}).
+plugin.priceTrend.message.error.classificationGroups.validation.failed=Some of classification groups are invalid.
+plugin.priceTrend.message.error.classificationId.notExists=Classification ({3}) does not exist.
+plugin.priceTrend.message.error.customer.notAssignedToCatalog=Customer "{3}" is not assigned to Catalog "{4}".

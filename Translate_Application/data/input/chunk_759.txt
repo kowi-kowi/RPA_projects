@@ -1,0 +1,10 @@
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.section.label=Section
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.singleExpression.hint=Expression that will be used for automatic calculation of attribute values. It can contain properties of Product and references to other attribute values of Product. E.g. ''${attributes.width * attributes.height}'' or ''${attributes.color} car ${productId}''
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.singleExpression.label=Expression
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.type.hint=Attribute type can be defined only during creating attribute and can't be changed after saving because it can cause problems in operating with attribute values.
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.type.label=Type
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.unitOfMeasure.label=Unit Of Measure
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeSection.attributeSectionId.label=Attribute Section ID
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeSection.changedBy.label=Changed By
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeSection.changedOn.label=Changed On
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttributeSection.createdBy.label=Created By

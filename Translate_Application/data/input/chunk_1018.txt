@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.groups=Groups
+plugin.opcAdministration.label.hasMaster=Has master
+plugin.opcAdministration.label.hasVariants=Has variants
+plugin.opcAdministration.label.hierarchyCode=Hierarchy Code
+plugin.opcAdministration.label.hotFolders=Preferred Folders\:
+plugin.opcAdministration.label.imageUrl=Image Url
+plugin.opcAdministration.label.includeClassGrps=Include Classification Groups
+plugin.opcAdministration.label.includeContracts=Include Contracts
+plugin.opcAdministration.label.includeFilters=Include Filters
+plugin.opcAdministration.label.includeProducts=Include Products

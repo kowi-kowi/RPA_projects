@@ -1,0 +1,10 @@
+plugin.systemMaintenance.message.confirm.restore={0} {1} restore.\\nAre you sure?
+plugin.systemMaintenance.message.createNewRecord=Please press 'Add' button to get the input form for inserting a new record.
+plugin.systemMaintenance.message.memory={0} MB
+plugin.systemMaintenance.message.noItemsInHistory=There are no items yet.
+plugin.systemMaintenance.message.query.succeed=Query has been executed successfully.
+plugin.systemMaintenance.message.save.succeed=Property file has been saved successfully
+plugin.systemMaintenance.message.startupDate=Startup time
+plugin.systemMaintenance.question.confirm=Are you sure?
+plugin.systemMaintenance.question.confirmDelete=Delete current item?
+plugin.systemMaintenance.question.confirmMappingOverwrite=Mapping with this id already exists, do you want to overwrite it?

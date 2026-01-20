@@ -1,0 +1,10 @@
+plugin.opcProductDetails.label.stdclassificationgrp=Std Classification Group
+plugin.opcProductDetails.label.tieredPrices=Tiered Price
+plugin.opcProductDetails.label.uom=UoM
+plugin.opcProductDetails.label.updateDraftRequisition=Update Draft Requisition
+plugin.opcProductDetails.label.waiting=Waiting...
+plugin.opcProductDetails.manualDiscount.absoluteDiscountedPriceIsNegative=Discounted Price must be a positive value.
+plugin.opcProductDetails.manualDiscount.discountValueLabel=Discount Value\:
+plugin.opcProductDetails.manualDiscount.discountedPriceLabelPrefix=Discounted Price\:
+plugin.opcProductDetails.manualDiscount.negativeDiscountValue=Discount value must not be a negative number.
+plugin.opcProductDetails.manualDiscount.percentageDiscountValueIsInvalid=Percentage discount value must not exceed 100%.

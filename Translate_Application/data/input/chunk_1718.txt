@@ -1,0 +1,10 @@
+plugin.supplierDirectory.label.browseContracts.dateTo=to
+plugin.supplierDirectory.label.browseContracts.extContractId=Ext Contract ID
+plugin.supplierDirectory.label.browseContracts.extContractLineId=Ext Contract Line ID
+plugin.supplierDirectory.label.browseContracts.freeShippingBoundary=Free Shipping Boundary
+plugin.supplierDirectory.label.browseContracts.freightSurcharge=Freight Surcharge
+plugin.supplierDirectory.label.browseContracts.isFrameContract=Is Frame Contract
+plugin.supplierDirectory.label.browseContracts.isInternal=Is Internal
+plugin.supplierDirectory.label.browseContracts.isOffer=Is Offer
+plugin.supplierDirectory.label.browseContracts.isPreferred=Is Preferred
+plugin.supplierDirectory.label.browseContracts.isStandard=Is Standard

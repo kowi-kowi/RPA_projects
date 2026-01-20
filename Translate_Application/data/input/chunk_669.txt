@@ -1,0 +1,10 @@
+opc.service.configurator.button.reset=Reset
+opc.service.configurator.label=Service Configurator
+opc.service.configurator.label.price.total=Total Price
+opc.service.configurator.label.product.id=Product ID
+opc.service.configurator.label.quantity=Quantity
+opc.service.configurator.mappings.edit=Edit Service Mappings
+opc.service.configurator.modal.not.lowest.button.cancel=Cancel
+opc.service.configurator.modal.not.lowest.button.confirm=Confirm
+opc.service.configurator.modal.not.lowest.price.confirmation=The selected supplier has not provided the cheapest offer. Do you want to proceed?
+opc.service.configurator.modal.not.lowest.price.title=Warning

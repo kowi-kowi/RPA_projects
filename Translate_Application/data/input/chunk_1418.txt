@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.command.print=Print
+plugin.procPurchaseorder.command.register=Register
+plugin.procPurchaseorder.command.reject=Reject
+plugin.procPurchaseorder.command.reset=Reset
+plugin.procPurchaseorder.command.save=Save
+plugin.procPurchaseorder.command.saveAndClose=Save and Close
+plugin.procPurchaseorder.command.search=Search
+plugin.procPurchaseorder.command.send=Send
+plugin.procPurchaseorder.command.sendReminder=Remind
+plugin.procPurchaseorder.command.show=Show Order

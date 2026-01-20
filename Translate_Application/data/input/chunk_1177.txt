@@ -1,0 +1,10 @@
+plugin.opcOrder.label.name1=Name 1
+plugin.opcOrder.label.name2=Name 2
+plugin.opcOrder.label.name3=Name 3
+plugin.opcOrder.label.numOfEmployees=Number of employees
+plugin.opcOrder.label.orderText=Order text
+plugin.opcOrder.label.orderText.manufacturer=Manufacturer
+plugin.opcOrder.label.orderText.mfgProductId=Mfg. Product ID
+plugin.opcOrder.label.orderText.pos=Pos.
+plugin.opcOrder.label.orderText.pricePu=Price/pu
+plugin.opcOrder.label.orderText.productno=Product-No.

@@ -1,0 +1,10 @@
+deltaReport.label.generatedOnBy=Generated on/by\:
+deltaReport.label.modifiedPrices=Number of modified prices
+deltaReport.label.modifiedProducts=Number of modified products
+deltaReport.label.newPrices=Number of new/added prices
+deltaReport.label.newProducts=Number of new/added products
+deltaReport.label.supplier=Supplier\:
+deltaReport.label.totalChangedPrices=Changed prices (total)
+deltaReport.label.totalChangedProducts=Changed products (total)
+derivedCatalogFilter.DCFExportJob.failure.message=Derived Catalog Filter Export is failed with errors.<br/>Please refer to the log files for details.
+derivedCatalogFilter.DCFExportJob.failure.title=Export of Derived Catalog Filter has failed

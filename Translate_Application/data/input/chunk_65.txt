@@ -1,0 +1,10 @@
+PROC.PostingGlAccountInput.dialogTitle=Search for GL Account
+PROC.PostingGlAccountInput.postingGLAccountId=GL Account ID
+PROC.PostingGlAccountInput.shortDesc=Short Description
+PROC.PostingSummary.labels.distributionValue=Distribution Value
+PROC.PostingSummary.labels.glAccount=GL Account
+PROC.PostingSummary.labels.header=Posting Summary
+PROC.PostingSummary.labels.primaryDimension=Primary Dimension
+PROC.PostingSummary.labels.product=Product
+PROC.PostingSummary.labels.productID=Product ID
+PROC.PostingSummary.labels.quantity=Quantity

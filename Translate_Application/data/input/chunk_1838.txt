@@ -1,0 +1,10 @@
+scheduling.RecurrentRequisitionCreationJob.isAutomaticApproval.label=Automatic call-offs approval
+scheduling.RecurrentRequisitionCreationJob.jobName.label=Job Name
+scheduling.RecurrentRequisitionCreationJob.label.executionTime=Execution Time
+scheduling.RecurrentRequisitionCreationJob.modal.header.scheduling=Scheduling
+scheduling.RecurrentRequisitionCreationJob.notifications.scheduled=Recurrent Requisition Job was successfully scheduled
+scheduling.RecurrentRequisitionCreationJob.ownerId.label=Requisition Owner
+scheduling.RecurrentRequisitionCreationJob.purchaseOrderId.label=Master Purchase Order
+scheduling.RecurrentRequisitionCreationJob.salesOrderId.label=Requisition for Scheduling
+scheduling.RepublishCatalogJob.activationDate.hint=The day when catalog will be published in OPC. Without activation date specified, job execution date is taken as activation date.
+scheduling.RepublishCatalogJob.activationDate.label=Activation Date

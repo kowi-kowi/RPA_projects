@@ -1,0 +1,10 @@
+administration.systemAdministration.sysMaintenance.desc=Open System Diagnostics tools.
+administration.systemAdministration.systemInfo=System Information
+administration.systemAdministration.systemInfo.desc=The information about the system that runs the application, and database connection parameters.
+administration.systemAdministration.systemMaintenance=System Diagnostics
+administration.systemAdministration.systemMaintenance.desc=Open System Diagnostics tools
+administration.systemAdministration.viewLogs=Log Files
+administration.systemAdministration.viewLogs.desc=View log files
+administration.systemAdministration.workflowConfigurator=Approval Workflow Configurator
+administration.systemAdministration.workflowConfigurator.desc=Workflow Configurator allows to easily configure responsibilities per approval step and check the result.
+administration.systemAdministration.workflows=Workflows

@@ -1,0 +1,10 @@
+com.jcatalog.product.GormProductRelationType.header=Search for Product Relation Types
+com.jcatalog.product.GormProductRelationType.id.label=Product Relation Type ID
+com.jcatalog.product.Manufacturer.header=Search for Manufacturers
+com.jcatalog.product.Manufacturer.manufacturerId.label=Manufacturer ID
+com.jcatalog.product.Manufacturer.name.label=Manufacturer Name
+com.jcatalog.product.Product.catalog.productCatalogId.label=Product Catalog ID
+com.jcatalog.product.Product.classificationGroupId.label=Classification Group ID
+com.jcatalog.product.Product.description.label=Description
+com.jcatalog.product.Product.header=Search for Products
+com.jcatalog.product.Product.productId.label=Product ID

@@ -1,0 +1,10 @@
+plugin.opcSearch.message.help.for3=A word which should occur in the description and a word that should not occur in the description
+plugin.opcSearch.message.help.result1=Descriptions containing the word 'computer' or the exact phrase 'computer monitor'
+plugin.opcSearch.message.help.result2=Descriptions containing both the words 'computer' and 'monitor' anywhere within a term but not descriptions containing only the word 'computer' or only the word 'monitor'
+plugin.opcSearch.message.help.result3=Descriptions containing the word 'computer but not the word 'monitor'
+plugin.opcSearch.message.loading=Loading...
+plugin.opcSearch.message.manufacturer.alreadyAdded=Manufacturer '{0}' is already added.
+plugin.opcSearch.message.manufacturer.emptySearchTerm=Please enter manufacturer name.
+plugin.opcSearch.message.manufacturer.notAvailable=Manufacturer '{0}' is not available.
+plugin.opcSearch.message.mayBeAppendWildcard=May be append wildcard to some of terms\: "{0}"
+plugin.opcSearch.message.mayBeIncreaseMaxAllowedShould=Would you like to see hits containing {1} of your search terms?

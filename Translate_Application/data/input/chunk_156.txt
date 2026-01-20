@@ -1,0 +1,10 @@
+RFQ.rfxSuppliers.supplier.isRecommended=Recommended Supplier
+RFQ.rfxSuppliers.supplier.notExist=The supplier does not exist and will not participate in this request. Please, remove the corresponding entry from the suppliers list.
+RFQ.rfxSuppliers.supplier.supplierId=Supplier ID
+RFQ.rfxSuppliers.supplier.supplierName=Supplier Name
+RFQ.rfxSuppliers.supplierSelectionModal.cancel=Cancel
+RFQ.rfxSuppliers.supplierSelectionModal.title=Search for Suppliers
+RFQ.rfxSuppliers.supplierSelectionSearchForm.attribute=Attribute
+RFQ.rfxSuppliers.supplierSelectionSearchForm.certification=Certification
+RFQ.rfxSuppliers.supplierSelectionSearchForm.classificationGroup=Classification Group
+RFQ.rfxSuppliers.supplierSelectionSearchForm.errors.classificationGroupDuplication=Selected Classification Group is already added into search parameters. Please, select another one.

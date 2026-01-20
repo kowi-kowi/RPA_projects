@@ -1,0 +1,10 @@
+ssm.emailtemplates.workflows.activated.message.summary=The catalog ''{2}'' provided by the supplier ''{0}'' was processed by the customer ''{1}'' on {3}.
+ssm.emailtemplates.workflows.activated.title=Catalog processed
+ssm.emailtemplates.workflows.activation.cancellation.accept.document.title=Activation cancellation accepted
+ssm.emailtemplates.workflows.activation.cancellation.accept.notification=The customer has <b>accepted</b> the activation cancellation on {0}. <br/> <b>The workflow for the catalog version will be stopped, and the catalog version will not be published.</b>
+ssm.emailtemplates.workflows.activation.cancellation.accept.title=Activation cancellation for catalog {0} in version {1} accepted by the customer
+ssm.emailtemplates.workflows.activation.cancellation.customer.notification=Notification\: <br/> The supplier ''{0}'' canceled the future activation of the catalog ''{1}'' in version ''{2}'' planned for ''{3}''.
+ssm.emailtemplates.workflows.activation.cancellation.reject.document.title=Activation Cancellation Rejected
+ssm.emailtemplates.workflows.activation.cancellation.reject.notification=The customer has <b>rejected</b> the activation cancellation on {0}. <br/> <b>The workflow for the catalog version will proceed as planned, and the catalog version will be published when the activation date is reached.</b>
+ssm.emailtemplates.workflows.activation.cancellation.reject.title=Activation cancellation for catalog {0} in version {1} rejected by the customer
+ssm.emailtemplates.workflows.activation.cancellation.request.document.title=Activation cancellation requested by the supplier

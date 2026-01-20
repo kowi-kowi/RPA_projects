@@ -1,0 +1,10 @@
+com.jcatalog.core.GormCountry.countryName.label=Country Name
+com.jcatalog.core.GormCountry.header=Search for Countries
+com.jcatalog.core.GormCountry.id.label=Country ID
+com.jcatalog.core.GormCountry.internatAccessCode.label=International Access Code
+com.jcatalog.core.GormTag.comment.label=Comment
+com.jcatalog.core.GormTag.header=Search for Tag
+com.jcatalog.core.GormTag.id.label=Tag ID
+com.jcatalog.core.Tag.comment.label=Comment
+com.jcatalog.core.Tag.header=Search for Tag
+com.jcatalog.core.Tag.key.label=Tag ID

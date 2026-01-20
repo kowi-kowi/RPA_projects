@@ -1,0 +1,10 @@
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.opportunityStartsOn.label=Opportunity Starts on
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.probability.label=Probability
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.projectDescription.label=Project Description
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.reviewerEmail.label=Reviewer email
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.rfQs.label=RFXs
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.salesRepresentativeEmail.label=Sales Representative email
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.sendMessage.label=Send Message
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.solutionArchitectEmail.label=Solution Architect email
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.status.label=Status
+plugin.purchasingProjectEditor.com.jcatalog.ordermanagement.PurchasingProject.submittedOn.label=Submitted on

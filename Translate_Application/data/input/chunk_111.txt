@@ -1,0 +1,10 @@
+RFQ.demandCollection.purchasingProject=Purchasing Project
+RFQ.demandCollection.rfxList.id=RFX ID
+RFQ.demandCollection.searchForm.action.reset=Reset
+RFQ.demandCollection.searchForm.action.search=Search
+RFQ.demandCollection.searchResultList.customer=Customer
+RFQ.demandCollection.searchResultList.demandExpirationDate=Demand Collection End Date
+RFQ.demandCollection.searchResultList.issuedBy=Issued By
+RFQ.demandCollection.searchResultList.items=Items
+RFQ.demandCollection.searchResultList.opportunityName=Opportunity Name
+RFQ.demandCollection.searchResultList.purchasingProjectId=Purchasing Project ID

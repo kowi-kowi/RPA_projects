@@ -1,0 +1,10 @@
+plugin.procRequisition.message.event.result_1=Approval step doesn't exist.
+plugin.procRequisition.message.event.result_3=Incorrect event.
+plugin.procRequisition.message.event.result_4=Approval step has been already finished or hasn't been activated yet.
+plugin.procRequisition.message.event.result_5=Internal problem with process execution.
+plugin.procRequisition.message.event.result_6=Process or Approval step has been stopped.
+plugin.procRequisition.message.event.triggerred=Requisition was {0}.
+plugin.procRequisition.message.noMoreApprovalNeed=No more approval is required
+plugin.procRequisition.message.noNextApprovers=No more approval is required
+plugin.procRequisition.message.noOpenRequisitions=Nothing found
+plugin.procRequisition.message.nothingFound=Nothing found

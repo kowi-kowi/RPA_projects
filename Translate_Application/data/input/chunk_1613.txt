@@ -1,0 +1,10 @@
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.supplierId.label=Supplier
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.tagId.label=Tag
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibility.zipCodeFrom.label=Zip Code From
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibilityLevel.levelId.label=Level ID
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibilityLevel.responsibilityActions.label=Level Actions
+plugin.responsibilityEditor.com.jcatalog.organization.responsibility.GormResponsibilityLevel.responsibilityType.label=Type
+com.jcatalog.organization.responsibility.GormResponsibilityLevel.description.label=Description
+com.jcatalog.organization.responsibility.GormResponsibilityLevel.levelId.label=Responsibility Level ID
+com.jcatalog.organization.responsibility.GormResponsibilityLevel.header=Search for Responsibility Levels
+com.jcatalog.organization.responsibility.GormResponsibilityLevel.responsibilityType.id.label=Responsibility Type ID

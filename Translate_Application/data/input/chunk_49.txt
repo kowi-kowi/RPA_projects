@@ -1,0 +1,10 @@
+PROC.ConfirmationEditor.label.confirmedDate=Delivery Date
+PROC.ConfirmationEditor.label.days=days
+PROC.ConfirmationEditor.label.delivery=Delivery
+PROC.ConfirmationEditor.label.deliveryPlan=Delivery Plan
+PROC.ConfirmationEditor.label.goToOverview=Go to Overview
+PROC.ConfirmationEditor.label.isUrgent=Urgent
+PROC.ConfirmationEditor.label.reject=Reject
+PROC.ConfirmationEditor.label.rejectAll=Reject All
+PROC.ConfirmationEditor.label.removeDeliveries=Remove Deliveries
+PROC.ConfirmationEditor.label.showConfirmedEntries=Show confirmed entries

@@ -1,0 +1,10 @@
+SSM.TotalNoOfSuppliers.appMetrics.numbers.label=Number of Suppliers
+SSM.TotalNoOfSuppliers.description=The total number of suppliers
+SSM.productEditor.bulkEdit=Bulk Edit
+SSM.productEditor.bulkEdit.bool.false=False
+SSM.productEditor.bulkEdit.bool.ignore=Leave unchanged
+SSM.productEditor.bulkEdit.bool.true=True
+SSM.productEditor.catalogId=Catalog
+SSM.productEditor.catalogVersionId=Version
+SSM.productEditor.catalogs=Catalogs
+SSM.productEditor.common.ID.placeholder=ID

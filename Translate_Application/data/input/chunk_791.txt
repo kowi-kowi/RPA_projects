@@ -1,0 +1,10 @@
+plugin.contract.contractedAmount.label=Contracted Amount
+plugin.contract.tab.general=General
+plugin.contract.visibility.-1=exclude
+plugin.contract.visibility.0=no impact
+plugin.contract.visibility.1=include
+plugin.contractEditor.attachments.addButton=Manage Attachments
+plugin.contractEditor.auditInfo.label=Audit Info
+plugin.contractEditor.com.jcatalog.contract.GormContract.changedBy.label=Changed By
+plugin.contractEditor.com.jcatalog.contract.GormContract.changedOn.label=Changed On
+plugin.contractEditor.com.jcatalog.contract.GormContract.containsChemicalItems.label=Contains Chemical Items

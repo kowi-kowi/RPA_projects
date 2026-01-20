@@ -1,0 +1,10 @@
+subject.customer.activate.process.delayed=The catalog ${catalogId} in version ${catalogVersion} is ready for activation on ${activationDate}.
+subject.customer.activate.process.failed.byException=Workflow failed by exception.
+subject.customer.approve.notification=Approval Notification
+subject.customer.enrichment.rejected=Catalog rejected.
+subject.customer.errors.after.enrichment=Enrichment Errors Notification
+subject.customer.forwarding.notification=Forwarding Notification
+subject.customer.import.failed=Catalog import format conversion failed.
+subject.customer.process.ActivationDateChanged=Activation date was changed.
+subject.customer.process.changeData=Change Activation Date
+subject.customer.process.changeDate=Change Activation Date Request

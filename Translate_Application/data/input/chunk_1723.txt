@@ -1,0 +1,10 @@
+plugin.supplierDirectory.message.noCatalogs=No catalogs available.
+plugin.supplierDirectory.message.noCertificates=No certificates available.
+plugin.supplierDirectory.message.noClassificationGroups=No Classification Groups available.
+plugin.supplierDirectory.message.noContacts=No Contacts available.
+plugin.supplierDirectory.message.noContracts=No contracts available.
+plugin.supplierDirectory.message.noDocuments=No Documents available.
+plugin.supplierDirectory.message.supplier.isNotAllowed=You are not allowed to see detailed information for Supplier ''{0}''.
+plugin.supplierDirectory.message.supplier.wasNotFound=We cannot find the supplier ''{0}''. Please adjust your search keyword and use a wildcard * when you are unsure of the supplier's spelling.
+plugin.supplierDirectory.section.addresses=Addresses
+plugin.supplierDirectory.section.catalogsAndContracts=Catalogs and Contracts

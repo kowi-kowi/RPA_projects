@@ -1,0 +1,10 @@
+plugin.procCommon.error.userAccessDenied=Current user doesn''t have permission to access any information related to user ''{0}''.
+plugin.procCommon.hint.outputStyle=Your output style selection
+plugin.procCommon.label.actions=Actions
+plugin.procCommon.label.addDocumentInfo=Add the selected file to the list of attachments\:
+plugin.procCommon.label.advancedFilters=Advanced Filters\:
+plugin.procCommon.label.advancedSearch=Advanced Search
+plugin.procCommon.label.auditInfo=Audit Info
+plugin.procCommon.label.changedBy=Changed By
+plugin.procCommon.label.changedOn=Changed On
+plugin.procCommon.label.confirmationComment=Order Confirmation

@@ -1,0 +1,10 @@
+plugin.contractEditor.com.jcatalog.contract.GormContract.description.label=Description
+plugin.contractEditor.com.jcatalog.contract.GormContract.extContractId.label=Ext Contract ID
+plugin.contractEditor.com.jcatalog.contract.GormContract.extContractLineId.label=Ext Contract Line ID
+plugin.contractEditor.com.jcatalog.contract.GormContract.freeShippingBoundary.label=Free Shipping Boundary
+plugin.contractEditor.com.jcatalog.contract.GormContract.freightSurcharge.label=Freight Surcharge
+plugin.contractEditor.com.jcatalog.contract.GormContract.hierarchyCode.label=Hierarchy Code
+plugin.contractEditor.com.jcatalog.contract.GormContract.isConfidential.label=Is Confidential
+plugin.contractEditor.com.jcatalog.contract.GormContract.isFrameContract.label=Is Frame Contract
+plugin.contractEditor.com.jcatalog.contract.GormContract.isFreetextAllowed.label=Is Freetext Allowed
+plugin.contractEditor.com.jcatalog.contract.GormContract.isInternal.label=Is Internal

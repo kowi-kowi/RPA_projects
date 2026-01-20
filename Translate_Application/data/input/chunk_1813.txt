@@ -1,0 +1,10 @@
+republishCatalogJobParameterSet.republishedSupplierId.blank=Supplier is a required field.
+republishCatalogJobParameterSet.republishedSupplierId.nullable=Supplier is a required field.
+requisition.workflow.stockReservation.message=Your requisition ID is [{0}]. Your requisition will be transferred to Stock Reservations.
+rfq.RFA.emailIsEmpty.error=Email address for the user {0} cannot be empty.
+rfq.RFA.title.shortDesc=Request for Availability
+rfq.label.appName=Quote
+rfq.noAssignment.title=To use the application you must be assigned to Customer or Supplier. Please select your assignment.
+rfq.widgets.rfxSubmitted.axisLabel=Submitted RFXs
+rfq.widgets.showRealmLabel.label=Show realm
+rfq.widgets.title.rfxInfo=RFX Status Info

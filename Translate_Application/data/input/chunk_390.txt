@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormSalesOrderItem.limitAmount=Limit Amount
+com.jcatalog.salesorder.GormSalesOrderItem.manufacturerId=Manufacturer ID
+com.jcatalog.salesorder.GormSalesOrderItem.manufacturerName=Manufacturer Name
+com.jcatalog.salesorder.GormSalesOrderItem.mfgProductId=Mfg Product ID
+com.jcatalog.salesorder.GormSalesOrderItem.netPrice=Net Price
+com.jcatalog.salesorder.GormSalesOrderItem.orderText=Order Text
+com.jcatalog.salesorder.GormSalesOrderItem.percentageDiscount=Percentage Discount
+com.jcatalog.salesorder.GormSalesOrderItem.phoneNo=Phone No.
+com.jcatalog.salesorder.GormSalesOrderItem.priceUnit=Price Unit
+com.jcatalog.salesorder.GormSalesOrderItem.productDescLong=Product Desc Long

@@ -1,0 +1,10 @@
+RFQ.rfx.rfxItem.isInfoOnly=Information Only
+RFQ.rfx.rfxItem.isMandatory=Response Required
+RFQ.rfx.rfxItem.isTemplateEnforced=Template enforced
+RFQ.rfx.rfxItem.manufacturerName=Manufacturer name
+RFQ.rfx.rfxItem.mfgProductId=Manufacturer product ID
+RFQ.rfx.rfxItem.netPrice=Requested Price
+RFQ.rfx.rfxItem.options=Options
+RFQ.rfx.rfxItem.priceUnit=Price unit
+RFQ.rfx.rfxItem.productDescLong=Long Description
+RFQ.rfx.rfxItem.productDescShort=Short Description

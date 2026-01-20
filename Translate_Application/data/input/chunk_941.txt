@@ -1,0 +1,10 @@
+plugin.grailsflow.message.processNode.notExisted=Node with key {0} does not exist.
+plugin.grailsflow.message.processScript.deleteError=Unexpected exception occurred during script deleting.
+plugin.grailsflow.message.processScript.invalid=Script with type {0} cannot be compiled for starting.
+plugin.grailsflow.message.processScript.notExisted=The script with type {0} cannot be found.
+plugin.grailsflow.message.processScript.saveError=Unexpected exception occurred during script saving.
+plugin.grailsflow.message.processScript.saved=Process script with type {0} was saved.
+plugin.grailsflow.message.processScript.valid=The code of process script can be compiled.
+plugin.grailsflow.message.processType.deleted=Process definition {0} was deleted.
+plugin.grailsflow.message.processType.empty=Process script type is not specified or null.
+plugin.grailsflow.message.processType.invalid=Script with type {0} cannot be compiled for editing.

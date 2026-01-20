@@ -1,0 +1,10 @@
+label.supplierId=Supplier ID
+label.timeInterval=Time interval
+label.toDate=To
+label.upload=Upload
+label.uploadFrom=Upload from
+label.uploadTo=To Location
+label.url=URL
+label.userRole=User Role
+label.view=View
+label.view.all=all

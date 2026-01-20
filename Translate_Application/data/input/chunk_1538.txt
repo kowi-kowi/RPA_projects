@@ -1,0 +1,10 @@
+plugin.productPreview.header.documentThumbnail=Preview
+plugin.productPreview.header.group=Group
+plugin.productPreview.header.manufacturerName=Manufacturer
+plugin.productPreview.header.mfgProductId=Man. prod. no.
+plugin.productPreview.header.prices=Prices
+plugin.productPreview.header.prices.without.contracts=Prices without existing contract
+plugin.productPreview.header.productId=Product ID
+plugin.productPreview.header.shortDescription=Item Description
+plugin.productPreview.header.uom=UoM
+plugin.productPreview.header.variant=Variant

@@ -1,0 +1,10 @@
+plugin.opcProductDetails.header.pdfGeneration=Product Datasheet
+plugin.opcProductDetails.header.price=Price/PU
+plugin.opcProductDetails.header.priceUnit=Unit Price
+plugin.opcProductDetails.header.productAttachments=Product attachments
+plugin.opcProductDetails.header.productPreview=Product view
+plugin.opcProductDetails.header.quantity=Quantity
+plugin.opcProductDetails.header.serviceConfigurations=Service Configuration Products
+plugin.opcProductDetails.header.shortDescription=Item Description
+plugin.opcProductDetails.label.activeTemplate=Active template
+plugin.opcProductDetails.label.add2Cart=Add to Cart

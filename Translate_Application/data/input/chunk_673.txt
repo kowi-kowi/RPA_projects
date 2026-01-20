@@ -1,0 +1,10 @@
+orderCancelation.label.created=Created
+orderCancelation.label.createdBy=Created By
+orderCancelation.label.extPurchaseOrderId=Ext. PO ID
+orderCancelation.label.from=Created From
+orderCancelation.label.operations=Operations
+orderCancelation.label.order.creator=Order Creator
+orderCancelation.label.order.date=Order Date
+orderCancelation.label.print=Print
+orderCancelation.label.purchaseOrderId=Purchase Order ID
+orderCancelation.label.status=Status

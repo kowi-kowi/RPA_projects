@@ -1,0 +1,10 @@
+scheduling.details.label.processDetails=Process Details
+scheduling.details.label.processType=Process Type
+scheduling.details.label.processVariables=Process Variables
+scheduling.details.label.quartzVersion=Quartz version
+scheduling.details.label.repeating=Repeating
+scheduling.details.label.resume=Resume
+scheduling.details.label.running=Running
+scheduling.details.label.runningJobs=Running Jobs
+scheduling.details.label.runningTime=Running Time
+scheduling.details.label.scheduleProcess=Schedule Process

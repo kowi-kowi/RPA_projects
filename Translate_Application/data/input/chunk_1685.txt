@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.command.forward=Forward
+plugin.ssmWorkflow.command.forward.desc=Press this button if you want to forward this workflow step to another user. In this case a new assignee will be added for the workflow step. All current assignees will be removed. This step will be available after forwarding again.
+plugin.ssmWorkflow.command.forward.hint=Go to "forwarding" node. It allows you to forward this workflow step to another user.
+plugin.ssmWorkflow.command.next=Next
+plugin.ssmWorkflow.command.pendingActivation.cancelActivation=Cancel Activation
+plugin.ssmWorkflow.command.pendingActivation.changeActivationDate=Change Activation Date
+plugin.ssmWorkflow.command.publish=Publish
+plugin.ssmWorkflow.command.publish.desc=Press this button if you want catalog processing to continue from "customer workflow".
+plugin.ssmWorkflow.command.publish.hint=Go to "customer workflow".
+plugin.ssmWorkflow.command.reject=Reject

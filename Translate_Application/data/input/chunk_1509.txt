@@ -1,0 +1,10 @@
+plugin.procRequisition.purchaseOrder.error.nodeAccessDenied=It seems that you have tried to perform an operation that is not valid for the current state of this purchase order.<br/>The likely cause is that somebody already performed this operation (i.e. approved/rejected/forwarded) on this purchase order.
+plugin.procRequisition.purchaseOrder.message.event.triggerred=Purchase order was {0}.
+plugin.procRequisition.purchaseOrder.warning.customerIsDiffer=You are currently assigned to customer ''{0}''. To see purchase order ''{1}'' you must switch assignment to ''{2}''.
+plugin.procRequisition.purchaseOrder.warning.customerNotAvailable=Purchase order was created by customer ''{0}'' which you don't have access to and therefore cannot see the purchase order.
+plugin.procRequisition.recipient=Recipient
+plugin.procRequisition.recipient.building=Building
+plugin.procRequisition.recipient.department=Department
+plugin.procRequisition.recipient.email=Email
+plugin.procRequisition.recipient.floor=Floor
+plugin.procRequisition.recipient.name=Name

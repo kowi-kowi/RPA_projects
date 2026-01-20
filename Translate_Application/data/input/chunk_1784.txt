@@ -1,0 +1,10 @@
+proc.widgets.purchaseOrderDelivery.early=Early
+proc.widgets.purchaseOrderDelivery.late=Late
+proc.widgets.purchaseOrderDelivery.onTime=On Time
+proc.widgets.purchaseOrderDelivery.total=Total {0}
+proc.widgets.purchaseOrderDelivery.unit=Items
+proc.widgets.requisitionApprovements.approved.label=Approved
+proc.widgets.requisitionApprovements.created.label=Created
+proc.widgets.requisitionApprovements.rejected.label=Rejected
+proc.widgets.requisitionStatus.title=Total Requisitions per Status
+proc.widgets.requisitionStatus.unit=Requisition(s)

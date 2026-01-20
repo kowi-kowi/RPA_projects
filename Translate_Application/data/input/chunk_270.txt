@@ -1,0 +1,10 @@
+businessRuleList.message.export.failed=Export failed.
+businessRuleList.message.export.success=Export finished successfully. Click <a class\="alert-link" href\="{0}">here</a> to look for results. Also you could find result file in the Work Area by path <i>{1}</i>.
+businessRuleList.message.import.errors=Import finished with errors.
+businessRuleList.message.import.failed=Import failed.
+businessRuleList.message.import.statisticFooter=<br/> Check <a href\="{0}">log file</a> for details.
+businessRuleList.message.import.statisticHeader={0} items of {1} classes were processed\:
+businessRuleList.message.import.statisticItem=<br/>{0}\: {1} inserted, {2} updated, {3} replaced, {4} deleted, {5} with warnings, {6} failed, {7} processed
+businessRuleList.message.import.success=Import finished successfully.
+businessRuleList.newList.label.id=Target id
+businessRuleList.rules.button.new=Add Business Rule

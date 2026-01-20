@@ -1,0 +1,10 @@
+plugin.salesorder.updateHomeAddress.save=Save
+plugin.salesorder.updateHomeAddress.saveAndSetAsDefault=Set as default Delivery Address
+plugin.scriptScheduler.command.delete=Delete
+plugin.scriptScheduler.command.selectFile=Select
+plugin.scriptScheduler.command.start=Start
+plugin.scriptScheduler.command.stop=Stop
+plugin.scriptScheduler.error.file.notFound=Script not found at ''{0}''
+plugin.scriptScheduler.error.formValidationError=Please check your input form
+plugin.scriptScheduler.error.job.notStarted=Job not started
+plugin.scriptScheduler.hint.executionTime=Date and time to start script execution.

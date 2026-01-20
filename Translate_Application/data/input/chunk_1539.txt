@@ -1,0 +1,10 @@
+plugin.productPreview.hint.product=Pattern for product ID. * - any number of characters, ? - any character. \nIf field is empty, all products will be selected .
+plugin.productPreview.label.attribute.notAsssignedOnClassificationGroup=No attribute definition found
+plugin.productPreview.label.attributes=Attributes
+plugin.productPreview.label.contract=Contract
+plugin.productPreview.label.contractDetails=Contract Details
+plugin.productPreview.label.contractIds=Contract IDs
+plugin.productPreview.label.contractedProduct.altExtProductIds=Contracted product AltExtProductIDs
+plugin.productPreview.label.contractedProduct.extProductIds=Contracted product ExtProductIDs
+plugin.productPreview.label.ean=GTIN/EAN
+plugin.productPreview.label.furtherDocuments=Further documents

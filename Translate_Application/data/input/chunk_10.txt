@@ -1,0 +1,10 @@
+DerivedMultiSheet.productRelation-maxQuantity=Max Quantity
+DerivedMultiSheet.productRelation-minQuantity=Min Quantity
+DerivedMultiSheet.productRelation-multQuantityWithMaster=Multiplication of Quantity
+DerivedMultiSheet.productRelation-quantity=Related Quantity
+DerivedMultiSheet.productRelation-relatedCatalogId=Related Catalog ID
+DerivedMultiSheet.productRelation-relatedProductId=Related Product ID
+DerivedMultiSheet.productRelation-selectionGroupId=Related Selection Group ID
+DerivedMultiSheet.productRelation-seqNo=Related Seq No
+DerivedMultiSheet.productRelation-statusID=Related Status ID
+DerivedMultiSheet.productRelation-syncTypeId=Sync Type ID

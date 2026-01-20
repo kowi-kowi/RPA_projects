@@ -1,0 +1,10 @@
+RFQ.demandCollectionItemEditor.itemEditor.manufacturer=Manufacturer
+RFQ.demandCollectionItemEditor.itemEditor.manufacturerPartNo=Manufacturer Part No.
+RFQ.demandCollectionItemEditor.itemEditor.productId=Product ID
+RFQ.demandCollectionItemEditor.itemEditor.quantity=Quantity
+RFQ.demandCollectionItemEditor.itemEditor.save=Save
+RFQ.demandCollectionItemEditor.itemEditor.shortDesc=Short Description
+RFQ.demandCollectionItemEditor.itemEditor.title=Demand Collection Items
+RFQ.demandCollectionItemEditor.savedWithErrors=An error occurred during the Demand Collection saving.
+RFQ.demandCollectionItemEditor.savedWithSuccess=Demand Collection is successfully saved.
+RFQ.expirationLabel.expired=Expired

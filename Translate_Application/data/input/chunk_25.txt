@@ -1,0 +1,10 @@
+ExtendedMultiSheet.contractedPrice-validTo=Price Expiration Date
+ExtendedMultiSheet.contractedPrice-vatPercentage=Vat Percentage
+ExtendedMultiSheet.contractedProduct-altExtProductId=Cust Alt Ext Product ID
+ExtendedMultiSheet.contractedProduct-amount=Amount
+ExtendedMultiSheet.contractedProduct-contractId=Contract
+ExtendedMultiSheet.contractedProduct-cost=Cost
+ExtendedMultiSheet.contractedProduct-currencyId=Currency ID
+ExtendedMultiSheet.contractedProduct-descLong=Cust Prod Description
+ExtendedMultiSheet.contractedProduct-descShort=Cust Prod Name
+ExtendedMultiSheet.contractedProduct-discount=Discount

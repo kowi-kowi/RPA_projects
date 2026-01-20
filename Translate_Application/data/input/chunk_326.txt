@@ -1,0 +1,10 @@
+com.jcatalog.cmp.export.db.mapping.DBExportMapping.description.label=Description
+com.jcatalog.cmp.export.db.mapping.DBExportMapping.header=Search for DB export mappings
+com.jcatalog.cmp.export.db.mapping.DBExportMapping.mappingId.label=Mapping ID
+com.jcatalog.contract.Contract.amount.label=Quantity Contract
+com.jcatalog.contract.Contract.contractId.label=Contract ID
+com.jcatalog.contract.Contract.cost.label=Value Contract
+com.jcatalog.contract.Contract.description.label=Description
+com.jcatalog.contract.Contract.header=Search for Contract
+com.jcatalog.contract.Contract.label=Contract {0}
+com.jcatalog.contract.Contract.supplierName.label=Supplier Name

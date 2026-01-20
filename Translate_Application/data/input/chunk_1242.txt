@@ -1,0 +1,10 @@
+plugin.opcReplenishment.error.noCustomer=There is no customer assigned to the responsible user '{0}'.
+plugin.opcReplenishment.error.noResponsibleUser=The are {0} users who are responsible for product catalog {1}. Only one responsible user is allowed.
+plugin.opcReplenishment.error.quantity.interval=Invalid quantity ''{0}''. Quantity must be of quantity interval {1}.
+plugin.opcReplenishment.error.quantity.notInRange=The Reorder Quantity {0} and the Max. Reorder Quantity {1} are not in the quantity range [{2}, {3}].
+plugin.opcReplenishment.error.quantity.null=The Reorder Quantity and the Max. Reorder Quantity cannot be null.
+plugin.opcReplenishment.error.quantity.reorderQuantityGreaterThenMaxReorderQuantity=The Reorder Quantity is more than the Max. Reorder Quantity.
+plugin.opcReplenishment.error.realProduct.fewProductRelations=There are several product relations for the material product with key {0}. The process may be continued if there is one relation only.
+plugin.opcReplenishment.error.realProduct.noProductRelations=There are no product relations for the material product with key {0}. The process may be continued only if there is a relation.
+plugin.opcReplenishment.error.realProduct.notFound=The material product with key {0} does not exist.
+plugin.opcReplenishment.mail.subject.message=Replenishment proposal

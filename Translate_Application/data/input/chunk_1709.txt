@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.title.product.review=Product Review
+plugin.ssmWorkflow.title.supplier.review=Supplier Review
+plugin.ssmWorkflow.title.upload=Upload Catalog data
+plugin.ssmWorkflow.title.uploadEnrichment=Upload Enrichment
+plugin.ssmWorkflow.warning.catalog.contains.errors=Warning\: The Catalog contains errors. It can't be approved. Please, check Validation Report. If you want to approve this catalog, enrich it with correct data.
+plugin.ssmWorkflow.wizard.step1=Catalog Information
+plugin.ssmWorkflow.wizard.step2=Formats
+plugin.ssmWorkflow.wizard.step3=Upload Files
+plugin.ssmWorkflow.wizard.title=Workflow wizard.
+plugin.stateWorkflow.rFX.rFX.event.award=Award

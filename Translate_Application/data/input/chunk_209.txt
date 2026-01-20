@@ -1,0 +1,10 @@
+StandardMultiSheet.contractedPrice-vatPercentage=Vat Percentage
+StandardMultiSheet.contractedProduct-altExtProductId=Cust Alt Ext Product ID
+StandardMultiSheet.contractedProduct-amount=Amount
+StandardMultiSheet.contractedProduct-contractId=Contract
+StandardMultiSheet.contractedProduct-cost=Cost
+StandardMultiSheet.contractedProduct-currencyId=Currency ID
+StandardMultiSheet.contractedProduct-descLong=Cust Prod Description
+StandardMultiSheet.contractedProduct-descShort=Cust Prod Name
+StandardMultiSheet.contractedProduct-discount=Discount
+StandardMultiSheet.contractedProduct-extClassificationGroupId=Cust Classification Group ID

@@ -1,0 +1,10 @@
+plugin.classificationEditor.expressionsPane.boilerplateId=Boilerplate
+plugin.classificationEditor.expressionsPane.description=Description
+plugin.classificationEditor.expressionsPane.example=Example
+plugin.classificationEditor.expressionsPane.explanation=This list contains the standard product expressions that can be used in the product editor. You can select an expression by clicking on the fieldname.
+plugin.classificationEditor.expressionsPane.explanationBoilerplates=This list contains the standard boilerplate expressions that can be used in the product editor. You can select an expression by clicking on the boilerplate name.
+plugin.classificationEditor.expressionsPane.explanationOperators=This list contains list of possible operators for expression.
+plugin.classificationEditor.expressionsPane.expression=Expression
+plugin.classificationEditor.expressionsPane.field=Field
+plugin.classificationEditor.expressionsPane.headerProduct=Available product fields
+plugin.classificationEditor.expressionsPane.operation=Operation

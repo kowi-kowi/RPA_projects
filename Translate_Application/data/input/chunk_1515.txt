@@ -1,0 +1,10 @@
+plugin.procRequisition.warning.requisition.assetWithoutCostIntOrder=ASSET Cost Object was selected without COSTINTORDER Cost Object for Sales Order.
+plugin.procRequisition.warning.so.supplier.blocked=Please be aware that the requisition contains the following item(s) from the blocked supplier(s)\: {0}.
+plugin.procRequisition.warning.soi.budget.blocked=Budget is blocked for this item by {0}
+plugin.procRequisition.warning.soi.budget.exceeded=Budget is exceeded for this item by {0}
+plugin.procRequisition.warning.wrongId=Object to check assignment was not found.
+plugin.productCatalog.com.jcatalog.product.GormCatalogProvisioning.catalog.label=Catalog
+plugin.productCatalog.com.jcatalog.product.GormCatalogProvisioning.label=Catalog Provisioning
+plugin.productCatalog.com.jcatalog.product.GormCatalogProvisioning.status.label=Status
+plugin.productCatalog.com.jcatalog.product.GormCatalogProvisioning.supplier.label=Supplier
+plugin.productCatalogEditor.com.jcatalog.product.GormCatalogCategory.description.label=Description

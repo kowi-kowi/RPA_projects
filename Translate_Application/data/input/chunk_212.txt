@@ -1,0 +1,10 @@
+StandardMultiSheet.product-isPunchout=Is Punchout
+StandardMultiSheet.product-isSpecialOffer=Is Special Offer
+StandardMultiSheet.product-isStocked=Is Stocked
+StandardMultiSheet.product-keywords=Keywords
+StandardMultiSheet.product-manufacturerId=Manufacturer ID
+StandardMultiSheet.product-manufacturerName=Mfg Name
+StandardMultiSheet.product-mfgProductId=Mfg Part Num
+StandardMultiSheet.product-mfgProductName=Mfg Product Name
+StandardMultiSheet.product-productId=Sup Part Num
+StandardMultiSheet.product-productIdExtension=Product ID Extension

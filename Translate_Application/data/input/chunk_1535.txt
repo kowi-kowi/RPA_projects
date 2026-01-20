@@ -1,0 +1,10 @@
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFee.createdOn.label=Created On
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFee.description.label=Description
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFee.id.label=Product Fee ID
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFee.label=Product Fee
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFee.type.label=Type
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.absoluteAmount.label=Absolute Amount
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.calculationRule.label=Calculation Rule
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.catalogId.label=Catalog ID
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.changedBy.label=Changed By
+plugin.productFeeEditor.com.jcatalog.fee.GormProductFeeRule.changedOn.label=Changed On

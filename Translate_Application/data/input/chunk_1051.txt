@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.openScheduledJobList=View scheduled jobs list
+plugin.opcAnalysis.label.or=OR
+plugin.opcAnalysis.label.price=Price
+plugin.opcAnalysis.label.productField=Product Field
+plugin.opcAnalysis.label.productId=Product ID
+plugin.opcAnalysis.label.productRatings=Products
+plugin.opcAnalysis.label.rating=Rating
+plugin.opcAnalysis.label.restriction.field=Field
+plugin.opcAnalysis.label.restriction.operation=Operation
+plugin.opcAnalysis.label.restriction.value=Value

@@ -1,0 +1,10 @@
+PROC.ConfirmationEditor.header.total=Total
+PROC.ConfirmationEditor.item.header.billingStatus=Billing
+PROC.ConfirmationEditor.item.header.confirmedOn=Confirmed Delivery Date
+PROC.ConfirmationEditor.item.header.confirmedPrice=Confirmed Price
+PROC.ConfirmationEditor.item.header.confirmedQuantity=Confirmed Quantity
+PROC.ConfirmationEditor.item.header.fulfillmentStatus=Fulfillment
+PROC.ConfirmationEditor.item.header.isFinalDelivery=Final Confirmation
+PROC.ConfirmationEditor.item.header.mfgProductId=Manufacturer Product ID
+PROC.ConfirmationEditor.item.header.orderingStatus=Ordering
+PROC.ConfirmationEditor.item.header.product=Product

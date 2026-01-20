@@ -1,0 +1,10 @@
+message.automatic.workflow.mapping.empty.target.classification=Target classification is empty.
+message.automatic.workflow.mapping.errors=Errors occurred during the mapping.
+message.automatic.workflow.mapping.parameters=Source UoM \= ${sourceUom}, Target UoM \= ${targetUom}
+message.automatic.workflow.message=Message\: ${message}
+message.automatic.workflow.message.classificationMappingSkipped=Classification mapping skipped because source and/or target classification is not specified.
+message.automatic.workflow.script.names.empty=No business rule scripts were found for the '${contentType}' content business rule type. No actions were performed.
+message.automatic.workflow.start=*******************\nAutomatic Workflow Process start\n*******************\n\nIdentification\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nProcess ID               ${processId}\n\nStarted at               ${now}\nby                       ${startedBy}\n\nDetails\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nCustomer ID              ${customerId}\nSupplier ID              ${supplierId}\nCatalog ID               ${catalogId}\nContract ID              ${contractId}\nPath to files            ${downloadPath}\nFiles amount             ${filesAmount}\nActivation date          ${activationDate}\nImport format            ${importFormat}\nUpdate mode              ${updateType}\nSource Unit of Measure   ${sourceUOM}\n\nProcess Steps\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+message.automatic.workflow.validation.errors=Validation completed with errors.
+message.automatic.workflow.validationResults.errors=Errors occurred during the catalog processing.
+message.automatic.workflow.validationResults.warnings=Warnings occurred during the validation steps.

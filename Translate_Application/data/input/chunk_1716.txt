@@ -1,0 +1,10 @@
+plugin.supplierDirectory.header.validFrom=Valid from
+plugin.supplierDirectory.header.validTo=Valid to
+plugin.supplierDirectory.label.address.address=Address
+plugin.supplierDirectory.label.address.email=Email
+plugin.supplierDirectory.label.address.faxNo=FAX
+plugin.supplierDirectory.label.address.phoneNo=Phone
+plugin.supplierDirectory.label.address.url=Internet
+plugin.supplierDirectory.label.browseContracts.addButton=Add
+plugin.supplierDirectory.label.browseContracts.catalog=Catalog
+plugin.supplierDirectory.label.browseContracts.clearButton=Clear

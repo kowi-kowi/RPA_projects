@@ -1,0 +1,10 @@
+plugin.deliveryNote.deliveryNote.type.SERVICE_ENTRY=SERVICE ENTRY
+plugin.deliveryNote.deliveryNote.type.SHIPPING_NOTICE=SHIPPING NOTICE
+plugin.deliveryNote.deliveryNote.warehouse=Warehouse
+plugin.deliveryNote.deliveryNoteChangeReplenishmentFailed.message=Failed to change the replenishment quantity.
+plugin.deliveryNote.deliveryNoteItem.action.assignLocation=Add new location
+plugin.deliveryNote.deliveryNoteItem.action.cancelItem=Cancel receipt for item
+plugin.deliveryNote.deliveryNoteItem.action.comment=Comment
+plugin.deliveryNote.deliveryNoteItem.action.delete=Remove
+plugin.deliveryNote.deliveryNoteItem.action.edit=Edit
+plugin.deliveryNote.deliveryNoteItem.action.hide=Hide

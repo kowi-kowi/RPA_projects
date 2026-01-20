@@ -1,0 +1,10 @@
+plugin.procRequisition.label.processedOn=Processed on
+plugin.procRequisition.label.productId=Product
+plugin.procRequisition.label.productNo=Product ID
+plugin.procRequisition.label.quantity=Quantity
+plugin.procRequisition.label.receivedOn=Received on\: {0}
+plugin.procRequisition.label.recipient=Recipient
+plugin.procRequisition.label.rejectInApproval=This requisition was rejected during the approval process.
+plugin.procRequisition.label.remainApprovers=Next approvers
+plugin.procRequisition.label.requestedBy=Requested by
+plugin.procRequisition.label.requisitionRevisions.addedItems=Added Items

@@ -1,0 +1,10 @@
+plugin.opcProductSuggestion.label.supplierEmail=Supplier email address
+plugin.opcProductSuggestion.label.supplierInformation=Supplier information
+plugin.opcProductSuggestion.label.supplierProduct=Supplier Product
+plugin.opcProductSuggestion.label.uploadedFile.header.fileTitle=Document
+plugin.opcProductSuggestion.label.uploadedFile.header.size=Size (KB)<br/>Total limit 5 MB
+plugin.opcProductSuggestion.label.userEmail=User email
+plugin.opcProductSuggestion.label.userInformation=User/Requestor information
+plugin.opcProductSuggestion.label.userWebId=User Web ID
+plugin.opcProductSuggestion.message.alreadyExists=File {0} already exists on server\!
+plugin.opcProductSuggestion.message.mail.subject=Catalog Item Request from {0}

@@ -1,0 +1,10 @@
+PROC.PurchaseOrderEditor.grid.columns.catalogId=Catalog ID
+PROC.PurchaseOrderEditor.grid.columns.changedBy=Changed by
+PROC.PurchaseOrderEditor.grid.columns.changedOn=Changed on
+PROC.PurchaseOrderEditor.grid.columns.contractId=Contract ID
+PROC.PurchaseOrderEditor.grid.columns.contractedNetPrice=Contracted Price
+PROC.PurchaseOrderEditor.grid.columns.contractedNetPriceLabel=Contracted Price
+PROC.PurchaseOrderEditor.grid.columns.createdBy=Created by
+PROC.PurchaseOrderEditor.grid.columns.createdOn=Created on
+PROC.PurchaseOrderEditor.grid.columns.deliveryDate=Delivery Date
+PROC.PurchaseOrderEditor.grid.columns.extProductId=Ext. Product ID

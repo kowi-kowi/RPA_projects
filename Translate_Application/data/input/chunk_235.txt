@@ -1,0 +1,10 @@
+administration.systemAdministration.docTransfer.list=Document Transfers
+administration.systemAdministration.docTransfer.list.desc=Here you can view all transfers.
+administration.systemAdministration.document=Document Routing
+administration.systemAdministration.editLog4jProperties=Log Settings
+administration.systemAdministration.editLog4jProperties.desc=Adjust log4j configuration
+administration.systemAdministration.employeeEditor=Employees
+administration.systemAdministration.employeeEditor.desc=Employees editor.
+administration.systemAdministration.enableAdministrationMode.action=Enable Administration Mode
+administration.systemAdministration.enableAdministrationMode.action.desc=Enable mode for checking product visibility
+administration.systemAdministration.excludeCatalogsForSearch.desc=Provides the ability of excluding catalogs from the search.

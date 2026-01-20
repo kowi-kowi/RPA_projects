@@ -1,0 +1,10 @@
+plugin.opcBrowseContracts.header.browseContracts.supplierName=Supplier Name
+plugin.opcBrowseContracts.header.browseContracts.type=Type
+plugin.opcBrowseContracts.header.catalogDesc=Catalog Description
+plugin.opcBrowseContracts.header.catalogId=Catalog ID
+plugin.opcBrowseContracts.header.company=Company name
+plugin.opcBrowseContracts.header.contractDesc=Contract Description
+plugin.opcBrowseContracts.header.contractId=Contract ID
+plugin.opcBrowseContracts.header.customerSupplierId=Supplier ID
+plugin.opcBrowseContracts.header.location=Location
+plugin.opcBrowseContracts.header.logo=Logo

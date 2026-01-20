@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.searchHitNumberReport.searchParams=Search Parameters
+plugin.opcAnalysis.label.searchHitNumberReport.searchResult=Search Result
+plugin.opcAnalysis.label.searchHitNumberReport.toDate=To Date
+plugin.opcAnalysis.label.searchOptions=Search Options
+plugin.opcAnalysis.label.section.actionPerformedWithErrors=Action Performed With Errors
+plugin.opcAnalysis.label.selectQuery=-- Select Query --
+plugin.opcAnalysis.label.spendAnalysis.notAvailable=Spend Analysis not integrated into this version.
+plugin.opcAnalysis.label.supplier=Supplier
+plugin.opcAnalysis.label.supplierId=Supplier ID
+plugin.opcAnalysis.label.tab.createQuery=Create Query

@@ -1,0 +1,10 @@
+jasperReports.label.notification.notificationEmail=Email for reporting the status of the process
+jasperReports.label.notification.resultEmail=Email for sending the report
+jasperReports.label.outputStyle=Output Style
+jasperReports.label.reportStarted=Report generation was successfully started with following parameters\:
+jasperReports.label.section.additionalParameters=Additional Parameters
+jasperReports.label.section.notification=Notification
+jasperReports.label.section.optionalParameters=Optional Parameters
+jasperReports.label.section.reportParameters=Report Parameters
+jasperReports.label.section.requiredParameters=Required Parameters
+jasperReports.label.section.schedule=Execution

@@ -1,0 +1,10 @@
+plugin.opcProductDetails.opcProductDetails.label.pricePu=Price/PU
+plugin.opcProductDetails.opcProductDetails.label.product=Product
+plugin.opcProductDetails.opcProductDetails.label.supplier=Supplier
+plugin.opcProductDetails.placeholder.longDescription=Important information for supplier (visible in order)
+plugin.opcProductDetails.placeholder.shortDescription=Description, Product ID, Keyword
+plugin.opcProductDetails.productIssueReport.error.productNotFound.message=Product with key ''{0}'' is not found\!
+plugin.opcProductDetails.productIssueReport.error.sendingFailure.message=Error during sending issue report email\!
+plugin.opcProductDetails.productIssueReport.errorDialog.closeButton.label=Close
+plugin.opcProductDetails.productIssueReport.errorDialog.title=Error\! Issue Report for product\: {1}({0})
+plugin.opcProductDetails.productIssueReport.inquiryType.deliveryTime.label=Delivery Time

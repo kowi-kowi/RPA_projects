@@ -1,0 +1,10 @@
+plugin.opcAddToCart.message.validation.freeText.notvalid=Shopping Cart cannot contain both Freetext and non-Freetext products.
+plugin.opcAddToCart.message.validation.maxAmount.notvalid=Shopping Cart cannot contain more than {0} items.
+plugin.opcAddToCart.message.validation.maxQuantity.fail=The maximum quantity, defined by the supplier for the ''{0}'' item is {1}.
+plugin.opcAddToCart.message.validation.minQuantity.fail=The minimum quantity, defined by the supplier for the ''{0}'' item is {1}.
+plugin.opcAddToCart.message.validation.price.noValidForQuantity=There is no valid Price for Quantity {0}. Please check the Price conditions.
+plugin.opcAddToCart.message.validation.price.notvalid=Price is not valid.
+plugin.opcAddToCart.message.validation.product.asset=Asset product ''{0}'' cannot be added directly. Go to details page first.
+plugin.opcAddToCart.message.validation.product.attributesValidation=Validation of SmartForm product attributes failed.
+plugin.opcAddToCart.message.validation.product.configurable=Configurable product ''{0}'' cannot be added directly. Go to the details page first.
+plugin.opcAddToCart.message.validation.product.hasNotStdClassification=The product has no classification group assigned and can''t be ordered.

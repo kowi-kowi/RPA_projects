@@ -1,0 +1,10 @@
+plugin.procRequisition.label.orderId=Requisition
+plugin.procRequisition.label.orderText=Order Text
+plugin.procRequisition.label.orderType=Order Type
+plugin.procRequisition.label.organizationUnit=Organization Unit
+plugin.procRequisition.label.owner=Owner
+plugin.procRequisition.label.percent=%
+plugin.procRequisition.label.postingDetails=Posting Details
+plugin.procRequisition.label.price=Price
+plugin.procRequisition.label.pricepu=Price/PE
+plugin.procRequisition.label.processHistory=Process History

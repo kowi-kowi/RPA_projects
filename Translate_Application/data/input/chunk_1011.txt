@@ -1,0 +1,10 @@
+plugin.opcAdministration.amazonIntegrationCredentials.redirectUrl=Redirect URL
+plugin.opcAdministration.amazonIntegrationCredentials.redirectUrl.tooltip=Url to which user will be redirected by amazon during access and refresh tokens retrieving.
+plugin.opcAdministration.amazonIntegrationCredentials.refreshToken=Refresh Token
+plugin.opcAdministration.amazonIntegrationCredentials.refreshToken.tooltip=Refresh token for amazon access_token.
+plugin.opcAdministration.amazonIntegrationCredentials.save=Save
+plugin.opcAdministration.amazonIntegrationCredentials.secretKey=Secret Key
+plugin.opcAdministration.amazonIntegrationCredentials.secretKey.tooltip=Amazon secret key.
+plugin.opcAdministration.amazonIntegrationCredentials.updated=Updated
+plugin.opcAdministration.amazonIntegrationCredentials.xApiKey=X-API-Key
+plugin.opcAdministration.amazonIntegrationCredentials.xApiKey.tooltip=Amazon x-api-key (needed to pass it in request header for API calls to amazon.

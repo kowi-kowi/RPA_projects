@@ -1,0 +1,10 @@
+plugin.responsibilityEditor.command.back=Back
+plugin.responsibilityEditor.command.export=Export
+plugin.responsibilityEditor.command.reset=Reset
+plugin.responsibilityEditor.command.search=Search
+plugin.responsibilityEditor.error.responsibilityAlreadyExists=This responsibility already exists and cannot be created twice.
+plugin.responsibilityEditor.label.no=No
+plugin.responsibilityEditor.label.yes=Yes
+plugin.responsibilityEditor.levelId.tableHeader=Level ID
+plugin.responsibilityEditor.objectDeleteFailed.message=Failed to delete object.
+plugin.responsibilityEditor.objectDeleted.message=Object deleted.

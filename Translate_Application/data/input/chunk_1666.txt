@@ -1,0 +1,10 @@
+plugin.ssmGrailsflow.completionStatus.warn=Warnings
+plugin.ssmGrailsflow.exportProcesses.message.exception=Export processes failed
+plugin.ssmGrailsflow.label.NextProcess=Successors
+plugin.ssmGrailsflow.label.activeNodes=Active Actions
+plugin.ssmGrailsflow.label.catalogContract=Catalog and Contract
+plugin.ssmGrailsflow.label.catalogId=Catalog ID
+plugin.ssmGrailsflow.label.contactInfo=Contact Information
+plugin.ssmGrailsflow.label.contract=Contract
+plugin.ssmGrailsflow.label.contractId=Contract ID
+plugin.ssmGrailsflow.label.custom=Custom

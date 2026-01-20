@@ -1,0 +1,10 @@
+plugin.projectConfiguration.configurationareaBrowser.copyToExternalConfigurationCommand.dialog.message=Some files/folders already exist in destination directory. What would you like to do?
+plugin.projectConfiguration.configurationareaBrowser.copyToExternalConfigurationCommand.dialog.title=Confirmation
+plugin.projectConfiguration.configurationareaBrowser.errors.noSelectedFiles=No files were selected for copying
+plugin.projectConfiguration.configurationareaBrowser.external.copyTo.action=Copy selected files into external Configuration Area
+plugin.projectConfiguration.configurationareaBrowser.external.downloadAsZip=Download as zip
+plugin.projectConfiguration.configurationareaBrowser.external.header=Project source files
+plugin.projectConfiguration.configurationareaBrowser.external.uploadZip=Upload zip file
+plugin.projectConfiguration.configurationareaBrowser.standard.header=Standard application source files
+plugin.projectConfiguration.configurationareaBrowser.title=Configuration Area
+plugin.projectConfiguration.fileIsEmpty.message=Uploaded file is empty.

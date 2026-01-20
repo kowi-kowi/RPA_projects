@@ -1,0 +1,10 @@
+plugin.maintenance.label.executionTime=Execution Time
+plugin.maintenance.label.scheduling=Scheduling
+plugin.maintenance.maintenanceJobCreated=Maintenance Job was successfully created.
+plugin.maintenance.message=Message
+plugin.maintenance.messageRequired=Message is a required field.
+plugin.maintenance.noItemsSelected.alert=Please select the Maintenance Period(s).
+plugin.maintenance.periodMinValue=Maintenance Period must be at least 1 minute(s).
+plugin.maintenance.periodRequired=Maintenance Period is a required field.
+plugin.maintenance.realms=Realms
+plugin.maintenance.realmsRequired=Please select at least one realm.

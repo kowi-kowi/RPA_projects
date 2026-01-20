@@ -1,0 +1,10 @@
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.classificationId.label=Classification
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.company.label=Company
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.contractId.label=Contract
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.costCenter.label=Value
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.countryId.label=Country
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.createdBy.label=Created By
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.createdOn.label=Created On
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.customerId.label=Customer
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.entitledClassificationGroup.label=Entitled Classification ID / Group ID
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.entitledClassificationGroupId.label=Entitled Classification Group

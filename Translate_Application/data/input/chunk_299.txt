@@ -1,0 +1,10 @@
+cmlConsole.email.notification.import.result.table.header.inserted=inserted
+cmlConsole.email.notification.import.result.table.header.object=Object
+cmlConsole.email.notification.import.result.table.header.replaced=replaced
+cmlConsole.email.notification.import.result.table.header.updated=updated
+cmlConsole.email.notification.import.result.table.header.warnings=with warnings
+cmlConsole.email.notification.import.subject=Import of CML
+cmlConsole.email.notification.import.success.has.errors=<strong>Warning\:</strong> Database import finished with errors.
+cmlConsole.email.notification.import.success.has.errors.and.warnings=<strong>Warning\:</strong> Database import finished with errors and warnings.
+cmlConsole.email.notification.import.success.has.warnings=<strong>Warning\:</strong> Database import finished with warnings.
+cmlConsole.email.notification.import.success.title=Import successful

@@ -1,0 +1,10 @@
+plugin.opcSearch.searchByCode.barCodeType.ean_extended=EAN-extended
+plugin.opcSearch.searchByCode.barCodeType.i2of5=I2of5
+plugin.opcSearch.searchByCode.barCodeType.upc=UPC
+plugin.opcSearch.searchByCode.barCodeType.upc_e=UPC-E
+plugin.opcSearch.searchByCode.codeSearch=Scan Bar/QR Code
+plugin.opcSearch.searchByCode.noCamera=No cameras found
+plugin.opcSearch.searchByCode.start=Start
+plugin.opcSearch.searchByCode.stop=Stop
+plugin.opcSearch.searchByCode.supportedBrowsers=We support the ability to scan BarCode/QRCode in the Chrome, Firefox, Edge browsers.
+plugin.opcSearch.searchByCode.unsafeConnection=The camera can be used only in secure context (via HTTPS/TLS).

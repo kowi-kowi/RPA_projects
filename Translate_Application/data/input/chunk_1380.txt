@@ -1,0 +1,10 @@
+plugin.priceTrend.message.error.customer.notAssignedToSupplier=Customer "{3}" is not assigned to Supplier "{4}".
+plugin.priceTrend.message.error.customer.notExists=Customer "{3}" does not exist.
+plugin.priceTrend.message.error.productCatalog.notExists=Catalog "{3}" does not exist.
+plugin.priceTrend.message.error.supplier.notAssignedToCatalog=Supplier "{3}" is not assigned to Catalog "{4}".
+plugin.priceTrend.message.error.supplier.notExists=Supplier "{3}" does not exist.
+plugin.priceTrend.message.error.version.notExists=Catalog Version "{4}" of Catalog "{3}" does not exist.
+plugin.priceTrend.message.error.version.notSelected=The catalog version was not selected. Please select from 1 to 5 catalog versions.
+plugin.priceTrend.message.warning.notSingleContract=Only one contract should be assigned to the supplier "{0}", the customer "{1}" and the catalog "{2}" at a time. If more than one common contract is assigned, the graph will not be generated.
+plugin.priceTrend.title=Price Trend
+plugin.priceTrend.title.desc=The graph below displays the product prices trend within the selected classification groups for the selected catalog versions. The graph will be generated for the prices with the PriceUnit\="1" and in case the selected supplier, the customer and the catalog have only one common contract.

@@ -1,0 +1,10 @@
+StandardMultiSheet.contractedProduct-statusId=Cust Status ID
+StandardMultiSheet.contractedProduct-timePeriod=Time Period
+StandardMultiSheet.contractedProduct-unitOfMeasureId=Contracted Product Unit of Measure ID
+StandardMultiSheet.contractedProduct-visibility=Visibility
+StandardMultiSheet.product-catalogId=Catalog ID
+StandardMultiSheet.product-ean=EAN
+StandardMultiSheet.product-extProductId=Ext Product ID
+StandardMultiSheet.product-isConfigurable=Is Configurable
+StandardMultiSheet.product-isForSales=Is for Sales
+StandardMultiSheet.product-isMainProdLine=Is Main Prod Line

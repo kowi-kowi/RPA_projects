@@ -1,0 +1,10 @@
+RFQ.rfx.attributes=Attributes
+RFQ.rfx.bindingPeriod=Binding Period
+RFQ.rfx.bindingPeriod.tooltip=The Binding date is the date until which the offers provided by the suppliers must be valid. The binding date must be at least {date} day(s) in the future (based on the defined expiration date).
+RFQ.rfx.demandExpirationDate=Demand Expiration Date
+RFQ.rfx.demandExpirationDate.tooltip=The Demand Expiration Date is the date until which the participants should provide their responses.
+RFQ.rfx.expectedPrice=Expected Price
+RFQ.rfx.expectedPrice.unspecified=Price unspecified
+RFQ.rfx.expectedPriceCurrencyId=Expected Price Currency
+RFQ.rfx.expirationDate=Expiration Date
+RFQ.rfx.expirationDate.tooltip=Expiration date must be at least {date} days in the future.

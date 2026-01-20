@@ -1,0 +1,10 @@
+message.republish.enriched.products.workflow.finish.error=Workflow completed with errors at ${now}.
+message.republish.enriched.products.workflow.finish.exception=Workflow completed with the exception at ${now}.
+message.republish.enriched.products.workflow.finish.success=Workflow completed successfully at ${now}.
+message.republish.enriched.products.workflow.script.names.empty=No business rule scripts were found for the '${contentType}' content business rule type. No actions were performed.
+message.republish.enriched.products.workflow.start=*******************\nRepublish Enriched Products Process\n*******************\n\nIdentification\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nProcess ID               ${processId}\nCatalog ID               ${catalogId}\nStarted at               ${now}\nby                       ${startedBy}\n\nDetails\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nSupplierId               ${supplierId}\nCustomerId               ${customerId}\n\n\nProcess Steps\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+message.republish.enriched.products.workflow.validationResults.errors=Errors occurred during the catalog processing.
+message.republish.enriched.products.workflow.validationResults.warnings=Warnings occurred during the validation steps.
+message.republish.enriched.products.workflow.vars.exportFileName=Exported file name\: ${exportFileName}
+message.restore.catalog.workflow.execute.ok=Finished at     ${now}
+message.restore.catalog.workflow.execute.publishCatalog=Publish Catalog\n-------------------\nStarted at      ${now}

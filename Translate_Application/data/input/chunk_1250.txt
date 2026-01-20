@@ -1,0 +1,10 @@
+plugin.opcSalesorder.message.importResult.configurableProductCanNotBeImported=The product {0} is configurable and can not be added to the cart via import.
+plugin.opcSalesorder.message.importResult.invalidCostObject=The product {0} has invalid Cost Object value {1}.
+plugin.opcSalesorder.message.importResult.invalidGlAccount=The product {0} has invalid GL Account value {1}.
+plugin.opcSalesorder.message.importResult.productDetailsBeanLoadingError=An error occurred during the loading of product details. Key\: {0}.
+plugin.opcSalesorder.message.importResult.productIsNotOrderable=The product with key ''{0}'' is not orderable.
+plugin.opcSalesorder.message.importResult.productIsNotOrderableAbsentInIndex=Product with key ''{0}'' is not orderable (absent in index).
+plugin.opcSalesorder.message.importResult.soiValidationFailure=Shopping Cart Item cannot pass validation
+plugin.opcSalesorder.message.invalidNumericFormat="{0}" is not a valid number
+plugin.opcSalesorder.message.noEditableItemsInOrder=The cart cannot be submitted. It must contain at least one editable item. To proceed with Cart update, please add new items to your order, otherwise cancel the process.
+plugin.opcSalesorder.message.noLongerAvailable=Product is no longer available.

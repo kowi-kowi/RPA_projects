@@ -1,0 +1,10 @@
+com.jcatalog.fee.ProductFee.key.label=Product Fee ID
+com.jcatalog.fee.ProductFee.type.label=Type
+com.jcatalog.grails.scheduling.SchedulerCommand.scriptPath.nullable="Script path" is a required field.
+com.jcatalog.jasperreports.commands.BigDecimalParameterCommand.value.blank=The value cannot be empty.
+com.jcatalog.jasperreports.commands.BigDecimalParameterCommand.value.nullable=The value cannot be empty.
+com.jcatalog.jasperreports.commands.BooleanParameterCommand.value.blank=The value cannot be empty.
+com.jcatalog.jasperreports.commands.BooleanParameterCommand.value.nullable=The value cannot be empty.
+com.jcatalog.jasperreports.commands.ClassificationReferenceSearchParameterCommand.classificationGroupId.doesnotExists=Classification Group ({2}) does not exist for Classification ({3}).
+com.jcatalog.jasperreports.commands.ClassificationReferenceSearchParameterCommand.classificationGroupId.empty=Classification Group ID cannot be empty.
+com.jcatalog.jasperreports.commands.ClassificationReferenceSearchParameterCommand.classificationId.blank=Classification ID cannot be empty.

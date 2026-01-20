@@ -1,0 +1,10 @@
+plugin.opcProductDetails.comparePrices.multipleContract=Product ''{0}'' cannot be added directly to Draft Requisition as the product has multiple contracts. Go to the Product Details page and select the contract you need from the provided ones.
+plugin.opcProductDetails.comparePrices.notOrderable=Product ''{0}'' is not orderable.
+plugin.opcProductDetails.comparePrices.nothingFound=No suppliers were found according to your selected values.
+plugin.opcProductDetails.comparePrices.nothingFoundReason=No Supplier can be found for the current configuration according to the selection of the following parameters.
+plugin.opcProductDetails.comparePrices.priceNotFound=No valid Price is found for Product and/or Quantity.
+plugin.opcProductDetails.comparePrices.productNotLoaded=Product ''{0}'' cannot be found.
+plugin.opcProductDetails.comparePrices.supplierNotFound=Supplier ''{0}'' cannot be found.
+plugin.opcProductDetails.error.incorrectSurcharge=Option value ''{0}'' of attribute ''{1}'' has incorrect surcharge.
+plugin.opcProductDetails.error.ociEditProduct.differentCurrencies=Current user currency ''{0}'' differs from the previously saved price currency ''{1}''. Either restart editing process using the same currency, or the previous price ''{2}'' will be discarded.
+plugin.opcProductDetails.error.productIsNotAvailable=The selected product is not available.

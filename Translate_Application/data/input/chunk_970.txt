@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.entry.country.definition=Countries
+plugin.masterDataImportExport.entry.currency.definition=Currencies
+plugin.masterDataImportExport.entry.customer.definition=Customers
+plugin.masterDataImportExport.entry.customer2Address.definition=Can be used to assign Customers to Addresses.
+plugin.masterDataImportExport.entry.customer2Tax.definition=Can be used to assign Customers to Taxes.
+plugin.masterDataImportExport.entry.customerGroup.definition=Can be used to group Customers.
+plugin.masterDataImportExport.entry.customerProfile.definition=Customer content processing profile
+plugin.masterDataImportExport.entry.customerView.definition=Customer Views restrict visibility of products based on the Contracts/Catalogs assigned to the User's Company/Customer.
+plugin.masterDataImportExport.entry.data.label=Regular data field
+plugin.masterDataImportExport.entry.emailConnector.definition=Defines for a specified Customer the email address of the Supplier to which the email messages will be sent.

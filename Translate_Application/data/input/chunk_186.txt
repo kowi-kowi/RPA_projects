@@ -1,0 +1,10 @@
+SSM.productEditor.common.execute=Execute
+SSM.productEditor.common.from=From
+SSM.productEditor.common.move=Move
+SSM.productEditor.common.name.placeholder=Name
+SSM.productEditor.common.republishCatalogPopover.message=You already have a new unpublished catalog. Do you really want to republish the current catalog?
+SSM.productEditor.common.reset=Reset
+SSM.productEditor.common.restore=Restore
+SSM.productEditor.common.save=Save
+SSM.productEditor.common.saveAndNew=Save and New
+SSM.productEditor.common.search=Search

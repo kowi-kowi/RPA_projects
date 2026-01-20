@@ -1,0 +1,10 @@
+ExtendedMultiSheet.productAttributeValue-WebSite=Website
+ExtendedMultiSheet.productRelation-isDefaultSelected_1=Is Default Selected
+ExtendedMultiSheet.productRelation-isMandatory_1=Is Mandatory
+ExtendedMultiSheet.productRelation-quantity_1=Quantity
+ExtendedMultiSheet.productRelation-relatedCatalogId_1=Related Catalog ID
+ExtendedMultiSheet.productRelation-relatedProductId_1=Related Part Number
+ExtendedMultiSheet.productRelation-selectionGroupId_1=Selection Group
+ExtendedMultiSheet.productRelation-seqNo_1=Product Sequence Number
+ExtendedMultiSheet.productRelation-statusID_1=Product Relation - Status ID
+ExtendedMultiSheet.productRelation-syncTypeId_1=Sync Type

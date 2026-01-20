@@ -1,0 +1,10 @@
+reports.futurespends.label.catalogVersion=Catalog version
+reports.futurespends.label.customer=Customer
+reports.futurespends.label.email=Email for sending the report
+reports.futurespends.label.executedAt=Executed at
+reports.futurespends.label.executedBy=Executed by
+reports.futurespends.label.executedOn=Executed on
+reports.futurespends.label.referenceTimePeriod=Reference Time Period
+reports.futurespends.label.referenceTimePeriod.from=From
+reports.futurespends.label.referenceTimePeriod.to=To
+reports.futurespends.label.reportLevel=Report Level

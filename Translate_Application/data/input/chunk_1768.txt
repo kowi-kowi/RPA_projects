@@ -1,0 +1,10 @@
+plugin.userDelegation.message.confirmDelete=Do you really want to delete this item?
+plugin.userDelegation.message.createNewRecord=Please press 'Add' button to get the input form for inserting a new record.
+plugin.userDelegation.message.delegation.save=Delegation was successfully saved.
+plugin.userDelegation.message.delegationDeleted=The delegation within the scope of "{0}", for the customer "{1}", the unavailable user "{2}" and the stand-in "{3}" {4} was deleted.
+plugin.userDelegation.message.partial.periodDetails=for the period from {0} to {1}
+plugin.userDelegation.message.permanentDelegation.save=The permanent delegation within the scope of "{0}", for the customer "{1}", the unavailable user "{2}" and the stand-in "{3}" was successfully created.
+plugin.userDelegation.title.delegation=Delegation
+plugin.userDelegation.tooltip.locked=Locked
+plugin.userDelegation.warning.customerNotAvailableForDelegate=The stand-in "{0}" does not have access to the customer "{1}".
+plugin.userInfo.command.back=Back

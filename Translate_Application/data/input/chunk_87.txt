@@ -1,0 +1,10 @@
+PROC.PurchaseOrderEditor.grid.columns.stdProductClassificationName=Std. Product Classification Name
+PROC.PurchaseOrderEditor.grid.columns.surchargeAmount=Surcharge Amount
+PROC.PurchaseOrderEditor.grid.columns.tax=Tax
+PROC.PurchaseOrderEditor.grid.columns.taxAmount=Tax Amount
+PROC.PurchaseOrderEditor.grid.columns.totalGrossPrice=Total Gross Price
+PROC.PurchaseOrderEditor.grid.columns.totalGrossPriceLabel=Total Gross Price
+PROC.PurchaseOrderEditor.grid.columns.totalNetPrice=Total Price
+PROC.PurchaseOrderEditor.grid.columns.totalNetPriceLabel=Total Price
+PROC.PurchaseOrderEditor.grid.columns.totalSurchargeAmount=Total Surcharge Amount
+PROC.PurchaseOrderEditor.grid.delete=Delete

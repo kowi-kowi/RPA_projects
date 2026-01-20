@@ -1,0 +1,10 @@
+plugin.procEditors.pbt.errors.invalid.max.size.message=Value should be less than {3}.
+plugin.procEditors.pbt.errors.invalid.maxQuantity=Entered quantity is invalid. The maximum quantity defined for the item is {3}.
+plugin.procEditors.pbt.errors.invalid.minQuantity=Entered quantity is invalid. The minimum quantity defined for the item is {3}.
+plugin.procEditors.pbt.errors.invalid.quantityInterval=Entered quantity is invalid. Quantity must be multiple of {3}.
+plugin.procEditors.pbt.errors.merge.incompatibleItemStatus=Please check that the Requisition item(s) have appropriate statuses.
+plugin.procEditors.pbt.errors.not.positive.number.message=Value should be a positive number.
+plugin.procEditors.pbt.errors.splitValuesExceedOriginalValue=The sum of split values exceeds the original quantity of the requisition item.
+plugin.procEditors.pbt.message.merged=The selected item(s) were successfully added to the Purchase Order ''{0}''.
+plugin.procEditors.pbt.purchaseOrder.editor.title=Purchase Order Editor
+plugin.procEditors.pbt.salesOrderItem.editor.title=Requisition Item

@@ -1,0 +1,10 @@
+plugin.businessPartner.addresses.table.header.actions=Actions
+plugin.businessPartner.addresses.table.header.address=Address
+plugin.businessPartner.addresses.table.header.isDefault=Is Default
+plugin.businessPartner.addresses.table.header.type=Type
+plugin.businessPartner.addresses.table.header.type.default=Default
+plugin.businessPartner.addresses.table.header.type.delivery=Delivery
+plugin.businessPartner.addresses.table.header.type.invoice=Invoice
+plugin.businessPartner.cmlExport.button=Export CML
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.addressId.label=Address ID
+plugin.businessPartner.com.jcatalog.businesspartner.GormAddress.areaCode.label=Area Code

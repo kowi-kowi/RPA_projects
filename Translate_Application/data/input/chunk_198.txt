@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.relatedProductId=Related Product
+SSM.productEditor.grid.columns.relationTypeId=Relation Type
+SSM.productEditor.grid.columns.reset.columns.to.default=Reset to default
+SSM.productEditor.grid.columns.salesUnitOfMeasureId=Sales Unit Of Measure
+SSM.productEditor.grid.columns.searchTooltip=Search...
+SSM.productEditor.grid.columns.selectedColumns=Selected Columns
+SSM.productEditor.grid.columns.selectionGroupId=Selection Group ID
+SSM.productEditor.grid.columns.seqNo=Seq. No.
+SSM.productEditor.grid.columns.shortDescription=Short Description
+SSM.productEditor.grid.columns.statusDate=Status Date

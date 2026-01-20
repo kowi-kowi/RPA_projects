@@ -1,0 +1,10 @@
+plugin.grailsflow.message.document.notParsed=Document cannot be parsed from request.
+plugin.grailsflow.message.emptyFormat=No export format specified\!
+plugin.grailsflow.message.emptyProcessId=Process key for exporting is not specified\!
+plugin.grailsflow.message.errorProcessId=There is no process with key {0}.
+plugin.grailsflow.message.event.invalid=The Transition Event is not valid. Please check it.
+plugin.grailsflow.message.externalUrl=External Editor
+plugin.grailsflow.message.externalUrl.invalid=Impossible to show specified external URL\: {0}
+plugin.grailsflow.message.externalUrl.placeholder=Please use the '\#' placeholder to indicate expressions.
+plugin.grailsflow.message.forwarding=Assign the worklist item to another users/roles/groups here (values should be comma-separated)
+plugin.grailsflow.message.forwarding.error=Process Node was not forwarded to another users/roles/groups because of some errors.

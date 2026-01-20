@@ -1,0 +1,10 @@
+jasperReports.SavingSecuredReport.totalAwardedValue.label=Total Awarded Price
+jasperReports.SpendPerClassificationAndSupplierReport.CurrencyId_1=Currency
+jasperReports.SpendPerClassificationAndSupplierReport.CurrencyId_1.infoTip=If the customer is selected, but the currency is not defined, the report will be generated taking into account the costumer's default currency. If neither the currency nor the customer is selected, the report will be generated in 'EUR'.
+jasperReports.SpendPerClassificationAndSupplierReport.CustomerId_1=Customer
+jasperReports.SpendPerClassificationAndSupplierReport.SupplierId_1=Supplier
+jasperReports.SpendPerClassificationAndSupplierReport.classificationGroupId.label=Classification Group ID
+jasperReports.SpendPerClassificationAndSupplierReport.classificationGroupName.label=Classification Group Name
+jasperReports.SpendPerClassificationAndSupplierReport.classificationId.label=Classification ID
+jasperReports.SpendPerClassificationAndSupplierReport.customerId.label=Customer ID
+jasperReports.SpendPerClassificationAndSupplierReport.customerName.label=Customer Name

@@ -1,0 +1,10 @@
+proc.widgets.approvalSteps.label=Approval steps
+proc.widgets.averageApprovalTime.ClassificationApproval=Classification ({0})
+proc.widgets.averageApprovalTime.CostObjectApproval=Cost Object ({0})
+proc.widgets.averageApprovalTime.FreetextApproval=Freetext ({0})
+proc.widgets.averageApprovalTime.ProfessionalBuyerApproval=Professional Buyer ({0})
+proc.widgets.averageApprovalTime.avg.label=Avg
+proc.widgets.averageApprovalTime.duration.label=Duration, {0}
+proc.widgets.averageApprovalTime.max.label=Max
+proc.widgets.averageApprovalTime.min.label=Min
+proc.widgets.budget.label=Budget

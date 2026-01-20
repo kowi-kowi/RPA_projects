@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.property=Property
+plugin.procPurchaseorder.label.purchaseOrder=Purchase Order
+plugin.procPurchaseorder.label.purchaseOrder.transfer=Purchase Orders and Goods Receipts ERP transfer
+plugin.procPurchaseorder.label.purchaseOrderEditor=Purchase Orders
+plugin.procPurchaseorder.label.purchaseOrderId=Purchase Order ID
+plugin.procPurchaseorder.label.quantity=Quantity
+plugin.procPurchaseorder.label.quantityUom=Quantity/UoM
+plugin.procPurchaseorder.label.realInvoice=Real Invoice
+plugin.procPurchaseorder.label.receiptType=Receipt Type
+plugin.procPurchaseorder.label.receiptType.AUTOMATIC=Automatic

@@ -1,0 +1,10 @@
+opc.product.modal.multicontract.surcharge.total.header=Total
+opc.product.modal.multicontract.surcharge.type.title=Surcharge Type
+opc.product.modal.multicontract.title.contractSelection=Contract Selection
+opc.product.modal.multicontract.title.priceInfo=Price information for the product with ID\: {productId}.
+opc.product.noEquipmentModal.content.text=No products were found.
+opc.product.priceInformation.header.contractInfo=Contract
+opc.product.priceInformation.header.lead.time=Lead Time In Days
+opc.product.priceInformation.header.price=Price/PU
+opc.product.priceInformation.header.price.original=Original Price/PU
+opc.product.priceInformation.header.quantity.max=Max Quantity

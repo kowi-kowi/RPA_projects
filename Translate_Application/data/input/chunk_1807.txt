@@ -1,0 +1,10 @@
+purchaseOrder.changeReason.label=Reason for change
+purchaseOrder.changeReason.other=other
+purchaseOrder.changeReason.poConfirmation=PO confirmation
+question.confirm=Are you sure?
+question.confirmDelete=Are you sure you want to delete the file (directory) '{0}'?
+questionnaire.answer=Answer
+questionnaire.question=Question
+reports.futurespends.chart.quantity.title=Total Ordered Quantity
+reports.futurespends.chart.spends.axis.horizontal=Thousands
+reports.futurespends.chart.spends.legend.approximateSpend=Approximate Spend Volume based on new prices ({0})

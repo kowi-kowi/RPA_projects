@@ -1,0 +1,10 @@
+plugin.opcSalesorder.message.validation.missed.invoiceAddress=Some required fields are missing in invoice address.
+plugin.opcSalesorder.message.validation.missed.serviceConfiguration.children=Service Configuration ''{0}'' must have at least one child.
+plugin.opcSalesorder.message.validation.missed.validity.period=Limit order validity period is not specified.
+plugin.opcSalesorder.message.validation.notAvailable.costObject=Cost Object ''{0}'' with type ''{1}'' for product ''{2}'' is not available for current user.
+plugin.opcSalesorder.message.validation.positiveQuantity.fail=Invalid quantity ''{0}''. Quantity must be positive.
+plugin.opcSalesorder.message.validation.posting.cantBePosted.dimensionValue=Dimension Value ''{0}'' of the Dimension ''{1}'' cannot be posted.
+plugin.opcSalesorder.message.validation.posting.cantBePosted.glAccount=GL Account ''{0}'' cannot be posted. Please, specify a valid GL Account for each entry of the Posting Details for the product ''{1}'' and proceed to checkout.
+plugin.opcSalesorder.message.validation.posting.differentPrimaryDimension=Primary Dimension must be the same for all Posting Lines for the product ''{0}''.
+plugin.opcSalesorder.message.validation.posting.invalid.glAccount=GL Account ''{0}'' is invalid. Please specify a valid GL Account for each entry of the Posting Details for the product ''{1}'' and proceed to checkout.
+plugin.opcSalesorder.message.validation.posting.invalidRange.dimensionValue=Dimension Value ''{0}'' with Dimension ''{1}'' has an invalid date range.

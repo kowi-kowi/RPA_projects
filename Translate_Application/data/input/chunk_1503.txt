@@ -1,0 +1,10 @@
+plugin.procRequisition.label.type=Type
+plugin.procRequisition.label.uom=UoM
+plugin.procRequisition.label.user=Approved by
+plugin.procRequisition.label.validityPeriod=Validity Period
+plugin.procRequisition.lable.showRemainApprovers=Show next approvers
+plugin.procRequisition.link.duplicate=Duplicate
+plugin.procRequisition.link.edit=Edit
+plugin.procRequisition.link.import=Import
+plugin.procRequisition.link.open=Open Requisition
+plugin.procRequisition.link.print=Print

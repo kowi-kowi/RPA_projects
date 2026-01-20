@@ -1,0 +1,10 @@
+message.automatic.workflow.execute.classificationMapping=Classification Mapping ${index}\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.classificationPreprocessing=Classification Preprocessing \n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.cleanup=Cleanup Work Area\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.copyToTarget=Copy to target\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.importConversion=Import Files Processing\n--------------------\nStarted at      ${now}
+message.automatic.workflow.execute.importFormatConversionCatalog=Import Catalog Conversion\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.mapping=Mapping \n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.ok=Finished at              ${now}
+message.automatic.workflow.execute.publishToOPC=Publish to OPC\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.script=Using script\: ${script}

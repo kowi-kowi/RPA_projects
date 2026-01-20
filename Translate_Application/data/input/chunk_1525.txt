@@ -1,0 +1,10 @@
+plugin.productEnrichment.editor.common.validation.integer=Please enter an integer.
+plugin.productEnrichment.editor.common.validation.numeric=Please enter a number.
+plugin.productEnrichment.editor.validation.integer=Please enter an integer from {0} to {1}.
+plugin.productEnrichment.editor.validation.numeric=Please enter a number from {0} to {1}.
+plugin.productEnrichment.error.existing.product.relation=Such Product Relation already exists. Try to choose another Related Product or(and) Catalog.
+plugin.productEnrichment.itemCommand.hint.date=Enter a date in ''{0}'' format.
+plugin.productEnrichment.itemCommand.validator.date=Please enter a date in ''{3}'' format.
+plugin.productEnrichment.itemCommand.validator.integer=Please enter an integer from {3} to {4}.
+plugin.productEnrichment.itemCommand.validator.numeric=Please enter a number from {3} to {4}.
+plugin.productEnrichment.label.RecommendationLevel=Recommendation Level

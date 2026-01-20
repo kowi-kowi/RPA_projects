@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormPurchaseOrder.totalNetPrice=Total Net Price
+com.jcatalog.salesorder.GormPurchaseOrder.totalTaxAmount=Total Tax Amount
+com.jcatalog.salesorder.GormPurchaseOrder.transferStatuses.failed=failed
+com.jcatalog.salesorder.GormPurchaseOrder.transferStatuses.open=open
+com.jcatalog.salesorder.GormPurchaseOrder.transferStatuses.scheduled=scheduled
+com.jcatalog.salesorder.GormPurchaseOrder.transferStatuses.scheduledManually=scheduled manually
+com.jcatalog.salesorder.GormPurchaseOrder.transferStatuses.transferStarted=transfer started
+com.jcatalog.salesorder.GormPurchaseOrder.transferStatuses.transferred=transferred
+com.jcatalog.salesorder.GormPurchaseOrderItem.absoluteDiscount=Absolute Discount
+com.jcatalog.salesorder.GormPurchaseOrderItem.assetAccount=Asset Account

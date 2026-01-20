@@ -1,0 +1,10 @@
+com.jcatalog.posting.internal.PostingDimensionValue.postingDimensionValueId.label=Posting Dimension Value ID
+com.jcatalog.posting.internal.PostingGLAccount.descShort.label=Short Description
+com.jcatalog.posting.internal.PostingGLAccount.header=Search for GL Account
+com.jcatalog.posting.internal.PostingGLAccount.postingGLAccountId.label=GL Account ID
+com.jcatalog.posting.internal.posting.dimension.dependency.source.value.absent=Source dimension value must be specified
+com.jcatalog.posting.internal.posting.dimension.dependency.target.value.absent=Target value must be specified
+com.jcatalog.product.CatalogCategory.description.label=Description
+com.jcatalog.product.CatalogCategory.header=Search for Catalog Category
+com.jcatalog.product.CatalogCategory.key.label=ID
+com.jcatalog.product.GormCatalogCategory.description.label=Description

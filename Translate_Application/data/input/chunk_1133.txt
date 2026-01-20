@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.expand.label.less=View less
+plugin.opcDraftRequisition.expand.label.more=View more
+plugin.opcDraftRequisition.header.contractedCurrency=Contracted Currency
+plugin.opcDraftRequisition.header.contractedNetPrice=Contracted Net Price
+plugin.opcDraftRequisition.header.description=Description
+plugin.opcDraftRequisition.header.netPrice=Net Price
+plugin.opcDraftRequisition.header.priceUnit=Price Unit
+plugin.opcDraftRequisition.header.shortDescription=Item Description
+plugin.opcDraftRequisition.label.addItems2existing=Add items to the existing Draft Requisition
+plugin.opcDraftRequisition.label.addItems2new=Add items to a new Draft Requisition

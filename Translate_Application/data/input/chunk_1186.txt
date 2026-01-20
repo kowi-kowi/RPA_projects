@@ -1,0 +1,10 @@
+plugin.opcPrices.label.material.weigth=Basis Weight
+plugin.opcPrices.label.onRequest=On request
+plugin.opcPrices.label.orderAmount=Order amount\:
+plugin.opcPrices.label.orderQuantity=Order quantity\:
+plugin.opcPrices.label.originalPrice=Original Price/PU
+plugin.opcPrices.label.price=Price/PU
+plugin.opcPrices.label.price.base=Base
+plugin.opcPrices.label.price.total=Total
+plugin.opcPrices.label.productPrices=Price Info for product\:
+plugin.opcPrices.label.supplierIds=Suppliers

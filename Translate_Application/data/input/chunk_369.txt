@@ -1,0 +1,10 @@
+com.jcatalog.rfq.SupplierQuoteItem.netPrice.min.error=The value of the "Net price" field must be positive.
+com.jcatalog.rfq.SupplierQuoteItem.priceAdjustmentPercentage.label=Price Adjustment Percentage
+com.jcatalog.rfq.SupplierQuoteItem.priceUnit.label=Price Unit
+com.jcatalog.rfq.SupplierQuoteItem.priceUnit.min.error=The value of the "Price unit" field must be positive.
+com.jcatalog.rfq.SupplierQuoteItem.productDescLong.label=Long Description
+com.jcatalog.rfq.SupplierQuoteItem.productDescShort.blank.error=Short Description cannot be blank.
+com.jcatalog.rfq.SupplierQuoteItem.productDescShort.label=Short Description
+com.jcatalog.rfq.SupplierQuoteItem.productId.label=Product ID
+com.jcatalog.rfq.SupplierQuoteItem.quantity.label=Quantity
+com.jcatalog.rfq.SupplierQuoteItem.quantity.min.error=The value of the "Quantity" field must be positive.

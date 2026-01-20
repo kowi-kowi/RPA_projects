@@ -1,0 +1,10 @@
+plugin.opcCommonUi.title.unreadUserNotificationMessagesDialog=Unread System Messages
+plugin.opcCommons.action.add=Add
+plugin.opcCommons.action.addToCompare=Compare
+plugin.opcCommons.action.addToComparison=Add to Comparison
+plugin.opcCommons.action.back=Back
+plugin.opcCommons.action.cancel=Cancel
+plugin.opcCommons.action.change=Change
+plugin.opcCommons.action.check=Check
+plugin.opcCommons.action.clear=Clear
+plugin.opcCommons.action.close=Close

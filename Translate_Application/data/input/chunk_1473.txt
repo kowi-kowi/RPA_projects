@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.scheduling.stopped=Job has been stopped.
+plugin.procPurchaseorder.scheduling.title=Schedule Goods Receipt Booking
+plugin.procPurchaseorder.state.UOM=UoM
+plugin.procPurchaseorder.state.city=City
+plugin.procPurchaseorder.state.completelyDelivered=Completely Delivered
+plugin.procPurchaseorder.state.currency=Currency
+plugin.procPurchaseorder.state.descShort=Desc short
+plugin.procPurchaseorder.state.extPOId=External Order ID
+plugin.procPurchaseorder.state.invoice=Invoice Address
+plugin.procPurchaseorder.state.name1=Delivery Address

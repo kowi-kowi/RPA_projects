@@ -1,0 +1,10 @@
+RFQ.previewFileStep.grouping=Thousands separator
+RFQ.previewFileStep.headerAvailable=First line includes header
+RFQ.previewFileStep.import=Import
+RFQ.previewFileStep.numberFormat=Number format
+RFQ.previewFileStep.synchronize=Synchronize data
+RFQ.priceFactorLabel.factor=Factor
+RFQ.priceLabel.convertedPrice=Converted Price
+RFQ.purchasingProjectInput.customerName=Customer Name
+RFQ.purchasingProjectInput.dialogTitle=Search for Purchasing Project
+RFQ.purchasingProjectInput.opportunityName=Opportunity Name

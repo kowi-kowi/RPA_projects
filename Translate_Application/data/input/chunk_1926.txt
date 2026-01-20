@@ -1,0 +1,10 @@
+title.RestoreCatalogJob.progress=Restore Job Progress
+title.createFile=Create File
+title.createFolder=Create Folder
+title.deselect=Deselect All
+title.invert=Invert Selection
+title.nothingFound=Nothing found
+title.permission.description=Description
+title.permission.resourceId=ID
+title.select=Select All
+title.soapUI=SOAP client

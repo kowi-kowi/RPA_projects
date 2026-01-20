@@ -1,0 +1,10 @@
+plugin.supplierDirectory.label.browseContracts.searchButton=Search
+plugin.supplierDirectory.label.browseContracts.searchOptions=Search Options
+plugin.supplierDirectory.label.browseContracts.showProductsButton=Show Products
+plugin.supplierDirectory.label.browseContracts.smallVolumeSurcharge=Small Volume Surcharge
+plugin.supplierDirectory.label.browseContracts.supplier=Supplier
+plugin.supplierDirectory.label.browseContracts.supplierGroup=Supplier Group
+plugin.supplierDirectory.label.browseContracts.totalContractedAmount=Total Contracted Amount
+plugin.supplierDirectory.label.browseContracts.type=Type
+plugin.supplierDirectory.label.browseContracts.validRange=Valid Range
+plugin.supplierDirectory.label.certificates.view=View

@@ -1,0 +1,10 @@
+plugin.opcShoppingList.error.selectedContract.invalidPrice=Selected contract doesn''t have valid price.
+plugin.opcShoppingList.expand.label.less=View less
+plugin.opcShoppingList.expand.label.more=View more
+plugin.opcShoppingList.header.filters=Filters
+plugin.opcShoppingList.header.filters.info=Filtering results doesn''t include related items
+plugin.opcShoppingList.header.contractedCurrency=Contracted Currency
+plugin.opcShoppingList.header.contractedNetPrice=Contracted Net Price
+plugin.opcShoppingList.header.description=Description
+plugin.opcShoppingList.header.manufacturer=Manufacturer
+plugin.opcShoppingList.header.mfgProductId=Manufacturer Part No.

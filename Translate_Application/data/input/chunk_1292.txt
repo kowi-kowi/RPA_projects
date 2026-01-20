@@ -1,0 +1,10 @@
+plugin.opcSearch.message.termIsTooUnspecific=The term(s) "{0}" are too unspecific. Please enter a few more characters for these terms.
+plugin.opcSearch.message.updating=Updating cart item...
+plugin.opcSearch.message.updatingProduct=Updating selected product...
+plugin.opcSearch.newsMessage.continueReadingAction.label=Continue Reading
+plugin.opcSearch.newsOverviewPage.header.yearNews=News {0}
+plugin.opcSearch.newsOverviewPage.title=News Overview
+plugin.opcSearch.noProductsFound.message=Your search has not found any products. You can take the following steps to enhance your search results\:
+plugin.opcSearch.noProductsFound.step1.message=Perhaps a spelling error prevents us from finding <i>"search query"</i>.
+plugin.opcSearch.noProductsFound.step1.title=Spellchecking
+plugin.opcSearch.noProductsFound.step2.message=You are currently only searching for <i>"search query"</i> in <i>Catalog/Classgrp</i>.

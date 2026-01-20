@@ -1,0 +1,10 @@
+com.jcatalog.valuemapping.ValueMapping.key.label=ID
+com.opuscapita.bookmark.Bookmark.description.blank.error=Bookmark description may not be blank.
+com.opuscapita.bookmark.Bookmark.description.maxSize.error=Bookmark description may not be longer than {3} characters.
+com.opuscapita.bookmark.Bookmark.uri.blank.error=Bookmark URL may not be blank.
+com.opuscapita.bookmark.Bookmark.uri.maxSize.error=Bookmark URL may not be longer than {3} characters.
+com.opuscapita.cml.job.CommandMLExportCommand.email.validator.error=Email (or comma separated emails) is expected
+com.opuscapita.cml.job.CommandMLImportCommand.email.validator.error=Email (or comma separated emails) is expected
+com.opuscapita.cms.CmsElement.cmsElementId.label=CMS Element ID
+com.opuscapita.cms.CmsElement.customerId.label=Managed by Customer
+com.opuscapita.cms.CmsElement.header=Search for CMS Elements

@@ -1,0 +1,10 @@
+businessRule.search.hint.explanation=Use next wildcards when you specify searching parameters\: * - any number of characters, ? - any character. If the field is empty, all rules will be selected by this empty condition.
+businessRule.search.hint.globalRule=Specify 'True', if you want to find global rules, 'False' if you want to find none global rules and 'Any' for all rules.
+businessRule.search.hint.positiveAction=Specify 'True', if you want to find positive action rules, 'False' if you want to find none positive action rules and 'Any' for all rules.
+businessRule.search.hint.preconditionExpression=Groovy expression or pattern for searching business rules by its precondition.
+businessRule.search.hint.ruleExpression=Groovy expression or pattern for searching business rules by its rule.
+businessRule.search.hint.ruleId=Pattern for searching business rules by ID.
+businessRuleEditor.description=This editor provides functionality for creating, editing, removing and copying business rules and business rule lists. All business rule lists and business rules existing in the system are available here.
+businessRuleEditor.error.errorRestriction=Only {0} errors are shown...
+businessRuleEditor.error.exceedLength=The field "{0}" exceeds acceptable length ({1}). Please, decrease the length of this field.
+businessRuleEditor.error.field.required=The field "{0}" is required. Please, specify this field.

@@ -1,0 +1,10 @@
+breJobExecutionVisualization.message.progress.step=Step
+breJobExecutionVisualization.message.recentResult=Recent result
+breJobExecutionVisualization.operation.stop=Stop
+breJobExecutionVisualization.title.jobProgress=Job execution progress
+budgetDepletion.label.budget.exceeded=Budget Warning
+budgetDepletion.label.budget.exceeded.desc={0}% of the budget allocated for {1} {2} for the period from {3} till {4} has been spent\!
+bulkCatalogExportJobParameterSet.exportFormat.blank=Export Format is a required field.
+bulkCatalogExportJobParameterSet.exportFormat.nullable=Export Format is a required field.
+bulkCatalogExportJobParameterSet.targetDir.blank=Target Directory is a required field.
+bulkCatalogExportJobParameterSet.targetDir.matches.invalid=Name of target directory can't contain any of the following characters\: \\ / \: * ? " < > |

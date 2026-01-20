@@ -1,0 +1,10 @@
+RFQ.importResultStep.finishedWithSuccess=Import has been successfully finished.
+RFQ.importResultStep.finishedWithWarnings=One or more items have the 'Fixed Quantity' attribute. Items were loaded without the quantity changing.
+RFQ.importResultStep.logFile=log file
+RFQ.importResultStep.openLogFile=Open import log file to see the errors\:
+RFQ.importResultStep.processedItems={count} Item(s) were processed.
+RFQ.importStepsNavigation.importResultStep=Step 3\: Import result
+RFQ.importStepsNavigation.previewFileStep=Step 2\: File Preview
+RFQ.importStepsNavigation.uploadFileStep=Step 1\: File Upload
+RFQ.label.notApplicable=n/a
+RFQ.listTableBodyRow.delete=Delete

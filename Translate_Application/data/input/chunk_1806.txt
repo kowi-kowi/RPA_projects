@@ -1,0 +1,10 @@
+prov.menu.workarea=Work Area
+prov.tab.setup=Master Data
+prov.tab.system=System Administration
+prov.ExportFormatOptions.Header.Criteria=Criteria
+prov.ExportFormatOptions.Header.Value=Value
+purchaseOrder.changeReason.agreement=Agreement with supplier
+purchaseOrder.changeReason.error.required=Please add a reason for change.
+purchaseOrder.changeReason.error.text.required=Please enter a reason for change in the Commentary field.
+purchaseOrder.changeReason.grVariation=Variation from goods receipt
+purchaseOrder.changeReason.invoiceVariation=Variation from Invoice

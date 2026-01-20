@@ -1,0 +1,10 @@
+SDP.export.pdf.purchaseOrder.labels.paymentTerms=Payment Terms\:
+SDP.export.pdf.purchaseOrder.labels.phoneNo=Phone No\:
+SDP.export.pdf.purchaseOrder.labels.purchaseOrderId=Purchase Order ID\:
+SDP.export.pdf.purchaseOrder.labels.recipient=Recipient\:
+SDP.export.pdf.purchaseOrder.labels.room=Room\:
+SDP.export.pdf.purchaseOrder.labels.summary.totalNetPrice=Total (net)\:
+SDP.export.pdf.purchaseOrder.labels.title=Purchase Order
+SDP.export.pdf.purchaseOrder.labels.title.change=Purchase Order Change
+SDP.label.appName=Supplier Document Portal
+SSM.MemoryUsage.appMetrics.chart.yaxis.label=Memory Usage (MB)

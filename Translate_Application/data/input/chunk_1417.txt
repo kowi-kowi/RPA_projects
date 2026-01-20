@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.command.editItems=Edit Items
+plugin.procPurchaseorder.command.export=Export
+plugin.procPurchaseorder.command.exportCSV=Export CSV
+plugin.procPurchaseorder.command.goodsReceipt=Goods Receipt
+plugin.procPurchaseorder.command.hideBulkOperation=Hide checkboxes
+plugin.procPurchaseorder.command.history=History
+plugin.procPurchaseorder.command.login=Login
+plugin.procPurchaseorder.command.manageItems=Manage Items
+plugin.procPurchaseorder.command.pay=Pay
+plugin.procPurchaseorder.command.paySelected=Pay Selected

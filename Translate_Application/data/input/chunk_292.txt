@@ -1,0 +1,10 @@
+catalogStatistics.label.products=Products
+catalogStatistics.label.productsWithErrors=Number of products with errors
+catalogStatistics.label.productsWithWarnings=Number of products with warnings
+catalogStatistics.label.supplier=Supplier
+catalogStatistics.label.totalChangedPrices=Changed prices (total)
+catalogStatistics.label.totalChangedProducts=Changed products (total)
+catalogStatistics.label.totalNumberOfProducts=Total number of products
+catalogStatistics.label.validationReportFor=Validation Report for
+catalogStatistics.label.validationSteps=Validation Steps
+catalogStatistics.label.withErrors=with errors

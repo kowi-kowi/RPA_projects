@@ -1,0 +1,10 @@
+plugin.grailsflow.command.addTransition=Add Transition
+plugin.grailsflow.command.apply=Apply
+plugin.grailsflow.command.assign=Assign
+plugin.grailsflow.command.back=Back
+plugin.grailsflow.command.cancel=Cancel
+plugin.grailsflow.command.check=Check
+plugin.grailsflow.command.clear=Clear
+plugin.grailsflow.command.close=Close
+plugin.grailsflow.command.create=Create
+plugin.grailsflow.command.delete=Delete

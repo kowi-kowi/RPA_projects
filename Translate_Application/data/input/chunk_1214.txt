@@ -1,0 +1,10 @@
+plugin.opcProductFees.header.fee.productFees=Product Fees
+plugin.opcProductFees.label.cartItem=Fees for product
+plugin.opcProductFees.label.contract=Contract
+plugin.opcProductFees.label.detailedContractAndFeeInfo=Click here for detailed contract and fees information.
+plugin.opcProductFees.label.fee=Fees
+plugin.opcProductFees.label.fee.total=Total Fees
+plugin.opcProductFees.label.productId=Product ID
+plugin.opcProductFees.label.total=Total
+plugin.opcProductFees.label.totalFees=Total Fees
+plugin.opcProductFees.label.vfQuantity=Valid from quantity

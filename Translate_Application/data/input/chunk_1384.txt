@@ -1,0 +1,10 @@
+plugin.procCommon.command.cancel=Cancel
+plugin.procCommon.command.change=Change
+plugin.procCommon.command.chooseFile=Choose File...
+plugin.procCommon.command.close=Close
+plugin.procCommon.command.create=Create
+plugin.procCommon.command.deassign=Deassign
+plugin.procCommon.command.delete=Delete
+plugin.procCommon.command.edit=Edit
+plugin.procCommon.command.execute=Execute
+plugin.procCommon.command.export=Export

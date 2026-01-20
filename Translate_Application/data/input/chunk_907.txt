@@ -1,0 +1,10 @@
+plugin.grailsflow.command.generate=Generate
+plugin.grailsflow.command.generateProcess=Generate Process File
+plugin.grailsflow.command.kill=Kill
+plugin.grailsflow.command.manageProcessTranslations=Manage Translations
+plugin.grailsflow.command.manageTranslations=Manage Translations
+plugin.grailsflow.command.pasteAction=Paste action to code
+plugin.grailsflow.command.pasteVariable=Paste variable to code
+plugin.grailsflow.command.previewForm=Preview Generated Form
+plugin.grailsflow.command.refresh=Refresh
+plugin.grailsflow.command.reload=Reload Process

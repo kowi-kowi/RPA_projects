@@ -1,0 +1,10 @@
+plugin.cmlImportExportJobs.email.label=Email
+plugin.cmlImportExportJobs.email.standard.label=Use standard email address
+plugin.cmlImportExportJobs.executionResult.title=Execution Result
+plugin.cmlImportExportJobs.executionTime.hint=Scheduler time to start job execution
+plugin.cmlImportExportJobs.executionTime.label=Execution Time
+plugin.cmlImportExportJobs.export.legend=Export job has been saved with following parameters\:
+plugin.cmlImportExportJobs.export.title=CML 2 Export
+plugin.cmlImportExportJobs.exportFile.label=Export File
+plugin.cmlImportExportJobs.failed.subject.title=Master Data Import/Export Job ({0}) execution failed
+plugin.cmlImportExportJobs.filePath.hint=This is the import file or directory in your Work Area. Download template (<a href\="{0}">example.xml</a>)

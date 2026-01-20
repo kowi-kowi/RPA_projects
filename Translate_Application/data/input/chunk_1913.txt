@@ -1,0 +1,10 @@
+textlocalization.dispute.editor.model.field.applicationRealm.label=Realm
+textlocalization.dispute.editor.model.field.comment.label=Comment
+textlocalization.dispute.editor.model.field.disputeStatus.label=Dispute Status
+textlocalization.dispute.editor.model.field.key.label=Translation Key
+textlocalization.dispute.editor.model.field.modifiedStandardMessage.label=Standard Message
+textlocalization.dispute.editor.model.field.sourceMessages.label=Source Message
+textlocalization.dispute.editor.model.field.standardMessage.label=Standard Message
+textlocalization.dispute.editor.model.field.status.label=Status
+textlocalization.dispute.editor.model.field.translations.label=Translations
+textlocalization.dispute.editor.model.name=Localization Dispute

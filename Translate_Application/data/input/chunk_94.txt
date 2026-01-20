@@ -1,0 +1,10 @@
+PROC.SalesOrderItemEditor.labels.header.requisitionItem=Requisition Item
+PROC.SalesOrderItemEditor.salesOrderItem.errors.saveImpossible=The requisition item cannot be saved. Please make the required changes in the tabs with the exclamation marks.
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.attachments=Attachments
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.attributes=Attributes
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.deliveryAddress=Delivery Address
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.deliveryInfo=Delivery
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.details=Item Details
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.messages=Messages
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.posting=Posting Details
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.priceInfo=Price

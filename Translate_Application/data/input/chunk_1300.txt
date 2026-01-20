@@ -1,0 +1,10 @@
+plugin.opcSearch.title.priceInfo=Price Info
+plugin.opcSearch.title.punchout=Punchout
+plugin.opcSearch.title.recommendationLevel.cancel=All
+plugin.opcSearch.title.recommendationLevelFilter=Recommendation Level
+plugin.opcSearch.title.search=Search
+plugin.opcSearch.title.selectAll.mouseOver=Select all
+plugin.opcSearch.title.unselectAll=Unselect All
+plugin.opcSearch.tooltip.backToSearchResult=Go to search results
+plugin.opcSearch.tooltip.fastEntryLink=Quick search for suppliers and products
+plugin.opcSearch.tooltip.freeTextOrderLink=Create Free Text

@@ -1,0 +1,10 @@
+PROC.ProfessionalBuyerTool.labels.confirmationRequired=Confirmation Required
+PROC.ProfessionalBuyerTool.labels.confirmedDeliveryDate=Confirmed Delivery Date
+PROC.ProfessionalBuyerTool.labels.confirmedPrice=Confirmed Price
+PROC.ProfessionalBuyerTool.labels.confirmedQuantity=Confirmed Quantity
+PROC.ProfessionalBuyerTool.labels.country=Country
+PROC.ProfessionalBuyerTool.labels.createdOn=Created on
+PROC.ProfessionalBuyerTool.labels.customer=Customer
+PROC.ProfessionalBuyerTool.labels.daysPassed=Days since requested
+PROC.ProfessionalBuyerTool.labels.deletePoTitle=Remove purchase order and activate requisition item(s) again.
+PROC.ProfessionalBuyerTool.labels.deletePoiTitle=Remove purchase order item and activate requisition item again.

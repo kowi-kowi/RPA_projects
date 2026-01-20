@@ -1,0 +1,10 @@
+plugin.opcSalesorder.accessCheck.error.SalesOrderNotFount=The Requisition with key {0} is not found.
+plugin.opcSalesorder.accessCheck.error.noAccessToSalesOrder=You have no access to duplicate the Requisition with key {0}.
+plugin.opcSalesorder.action.delete=Delete
+plugin.opcSalesorder.action.search=Search
+plugin.opcSalesorder.backToSoList=<< Back to List
+plugin.opcSalesorder.command.export.xls=Cart Export
+plugin.opcSalesorder.error.action.notAllowed=Action is not allowed
+plugin.opcSalesorder.error.anotherMode.alreadyEnabled=You have an active {0}. First of all, please finish the Cart editing process and then proceed with other operations.
+plugin.opcSalesorder.error.companyIssuedEquipmentMode.salesOrderCurrency.notvalid=Requisition cannot be processed accurately, because you are currently not in appropriate mode (Company Issued Equipment or regular mode) or you don't have a valid workwear budget.
+plugin.opcSalesorder.error.configurableProduct=Product {0} is no longer valid and must be updated.

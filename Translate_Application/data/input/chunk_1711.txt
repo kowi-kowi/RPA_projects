@@ -1,0 +1,10 @@
+plugin.stateWorkflow.rFX.rFX.state.available=available
+plugin.stateWorkflow.rFX.rFX.state.awarded=awarded
+plugin.stateWorkflow.rFX.rFX.state.closed=closed
+plugin.stateWorkflow.rFX.rFX.state.draft=draft
+plugin.stateWorkflow.rFX.rFX.state.open=open
+plugin.stateWorkflow.rFX.rFX.state.partiallyAwarded=partially awarded
+plugin.stateWorkflow.rFX.rFX.state.paused=paused
+plugin.stateWorkflow.rFX.rFX.state.pendingAward=pending award
+plugin.stateWorkflow.rFX.rFX.state.pendingChanges=pending changes
+plugin.stateWorkflow.rFX.rFX.state.pendingNewRound=pending new round

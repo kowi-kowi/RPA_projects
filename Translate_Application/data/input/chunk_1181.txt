@@ -1,0 +1,10 @@
+plugin.opcOrder.message.originalCartSplitting=The original cart was split into several carts.
+plugin.opcOrder.message.proceed=Do you want to proceed?
+plugin.opcOrder.message.sendConfirmationEmail=Your order confirmation was send to "{0}".
+plugin.opcOrder.message.successfulSubmitSplitCart=The Cart ''{0}'' was submitted successfully.
+plugin.opcOrder.message.thankYouBody=Your Requisition has been created with the Requisition number
+plugin.opcOrder.message.thankYouBody4SplitCarts=Your Requisitions has been created.
+plugin.opcOrder.message.thankYouBodyOnPOmode=Your Requisition has been updated with the Requisition number
+plugin.opcOrder.message.thankYouHeader=Thank you for your requisition\!
+plugin.opcOrder.orderFor.badge.label=Order For\: {0}
+plugin.opcOrder.orderFor.modal.button.cancel=Cancel

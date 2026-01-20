@@ -1,0 +1,10 @@
+plugin.budget.label.object=Budget Object
+plugin.budget.label.objectId=Budget Object ID
+plugin.budget.label.objectType=Budget Object Type
+plugin.budget.label.pageResult=Result per page
+plugin.budget.label.parentBudget=Parent Budget
+plugin.budget.label.period=Period
+plugin.budget.label.period.validFrom=Valid From
+plugin.budget.label.period.validTo=Valid To
+plugin.budget.label.plannedAmount=Amount Planned
+plugin.budget.label.poId=PO ID

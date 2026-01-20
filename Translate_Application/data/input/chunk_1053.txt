@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.restrictionOperation.startsWith=starts with
+plugin.opcAnalysis.label.restrictions.title=Restrictions
+plugin.opcAnalysis.label.schedule=Schedule
+plugin.opcAnalysis.label.scheduling=Scheduling
+plugin.opcAnalysis.label.search.advancedOptions=Advanced Search Options
+plugin.opcAnalysis.label.search.commonOptions=Common Options
+plugin.opcAnalysis.label.search.customOptions=Custom Search Options
+plugin.opcAnalysis.label.search.searchOptions=Search Options
+plugin.opcAnalysis.label.search.visibility=Visibility
+plugin.opcAnalysis.label.searchHitNumberReport.Export=Export

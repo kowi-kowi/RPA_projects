@@ -1,0 +1,10 @@
+jasperReports.RollendeWareReport.notifications.header=Notifications
+jasperReports.RollendeWareReport.purchaseOrderId.label=Related Order
+jasperReports.RollendeWareReport.purchaseOrderItemOrderItemNo.label=Items
+jasperReports.RollendeWareReport.quickOverview.header=Quick Overview
+jasperReports.RollendeWareReport.report.name=Stock on the road
+jasperReports.RollendeWareReport.reportDescription.header=Report Description
+jasperReports.RollendeWareReport.resultEmail=Email for sending the report
+jasperReports.RollendeWareReport.supplierId.label=Supplier ID
+jasperReports.RollendeWareReport.supplierName.label=Supplier
+jasperReports.RollendeWareReport.total.label=Total

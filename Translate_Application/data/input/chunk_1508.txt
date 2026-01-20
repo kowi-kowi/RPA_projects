@@ -1,0 +1,10 @@
+plugin.procRequisition.product.description=Description
+plugin.procRequisition.product.furtherAttributes=Further Product Information
+plugin.procRequisition.product.header=Product details
+plugin.procRequisition.product.manufacturerId=Manufacturer No.
+plugin.procRequisition.product.manufacturerName=Manufacturer
+plugin.procRequisition.product.price=Price/PU
+plugin.procRequisition.product.price.total=Total Price
+plugin.procRequisition.product.quantity=Quantity
+plugin.procRequisition.product.shortDescription=Short Description
+plugin.procRequisition.product.stdClsGroup=Std. Classification Group

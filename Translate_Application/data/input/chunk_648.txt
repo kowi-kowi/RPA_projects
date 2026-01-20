@@ -1,0 +1,10 @@
+opc.product.details.configuration.settings.editor.label.mappingAttribute=Attribute
+opc.product.details.configuration.settings.editor.label.mappingParameterName=Script Output Parameter
+opc.product.details.configuration.settings.editor.label.options.show=Show options
+opc.product.details.configuration.settings.editor.label.rule.not.completed=Rule is not completed yet.
+opc.product.details.configuration.settings.editor.label.select.attribute.type.hidden=Make the selected attributes hidden
+opc.product.details.configuration.settings.editor.label.select.attribute.type.mandatory=Make the selected attributes mandatory
+opc.product.details.configuration.settings.editor.label.selectCallType=Groovy Script call type
+opc.product.details.configuration.settings.editor.label.selectExternalDataLookupScript=Select Groovy Script
+opc.product.details.configuration.settings.editor.label.selected=Selected
+opc.product.details.configuration.settings.editor.label.show.image.with.description=Then show the image with the description

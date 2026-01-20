@@ -1,0 +1,10 @@
+plugin.filemanager.button.override=Overwrite
+plugin.filemanager.button.save=Save
+plugin.filemanager.button.select=Select
+plugin.filemanager.button.unzip=Unzip
+plugin.filemanager.button.upload=Upload
+plugin.filemanager.button.zip=Zip
+plugin.filemanager.error.accessDenied=Access denied. Not enough permissions.
+plugin.filemanager.label.copy.items=Copy File(s) to Location
+plugin.filemanager.label.create.file=Create File
+plugin.filemanager.label.create.folder=Create Folder

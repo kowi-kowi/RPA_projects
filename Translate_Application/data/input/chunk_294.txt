@@ -1,0 +1,10 @@
+catalogUser.loginName.unique=User with the Login Name {0} already exists
+catalogUser.password.duplication=New password cannot be the same as previous one
+catalogUser.password.notmatch=Passwords do not match
+catalogUser.profilePicture.wrongFileFormat.error=Only JPEG format is supported
+catalogUser.validationFailed=Validation failed
+classification.browser.action.open=Open in Tree
+classification.browser.action.reset=Reset
+classification.browser.action.search=Search
+classification.browser.action.select=Select
+classification.browser.header.attributeName=Attribute

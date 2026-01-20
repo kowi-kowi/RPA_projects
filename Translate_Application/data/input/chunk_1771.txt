@@ -1,0 +1,10 @@
+plugin.userToAddressEditor.com.jcatalog.addressvisibility.CatalogUser2Address.label=User to Address Assignments
+plugin.userToAddressEditor.com.jcatalog.addressvisibility.CatalogUser2Address.type.label=Type
+plugin.userToAddressEditor.com.jcatalog.addressvisibility.CatalogUser2Address.userId.label=User
+plugin.userToAddressEditor.editForm.isDefault.message=Only one address with the current type may be default
+plugin.userToAddressEditor.editForm.type.default=default
+plugin.userToAddressEditor.editForm.type.delivery=delivery
+plugin.userToAddressEditor.editForm.type.invoice=invoice
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMapping.description.label=Description
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMapping.id.label=Key
+plugin.valueMapping.com.jcatalog.valuemapping.GormValueMapping.label=Value Mapping

@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.message.assignTo.newOwnerIsNotSet=Please select a user who will be considered as a new owner of this Draft Requisition.
+plugin.opcDraftRequisition.message.assignTo.noDraftRequisition=The Draft Requisition with key <b>{0}</b> has not been found. Please contact your administrator.
+plugin.opcDraftRequisition.message.clearCart=The existing items in the Shopping Cart will be deleted. Do you want to continue?
+plugin.opcDraftRequisition.message.confirmDeleteSelectedItems=Do you really want to delete the selected items?
+plugin.opcDraftRequisition.message.edit.success=The Draft Requisition changes were successfully saved.
+plugin.opcDraftRequisition.message.moveToCartSelectedDraftRequisitionItem=Moving selected product to cart...
+plugin.opcDraftRequisition.message.noProductsFound=No products were found in this Draft Requisition.
+plugin.opcDraftRequisition.message.notFound=Nothing found.
+plugin.opcDraftRequisition.message.pricesUpdated=Some product prices have been updated. Check the price changes on the item level.
+plugin.opcDraftRequisition.message.product.removed=''{0}'' does not exist anymore.

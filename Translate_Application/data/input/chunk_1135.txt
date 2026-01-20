@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.label.deleteDraftRequisitionItem=Delete
+plugin.opcDraftRequisition.label.deleteSelectedDraftRequisitionItems=Delete Selected
+plugin.opcDraftRequisition.label.draftRequisition=Draft Requisition
+plugin.opcDraftRequisition.label.draftRequisitionDescription=Description
+plugin.opcDraftRequisition.label.draftRequisitionId=Draft Requisition ID
+plugin.opcDraftRequisition.label.draftRequisitionName=Draft Requisition Name
+plugin.opcDraftRequisition.label.draftRequisitionType=Draft Requisition Type
+plugin.opcDraftRequisition.label.emptyDescription=Please enter a name for the Draft Requisition.
+plugin.opcDraftRequisition.label.emptyDraftRequisition=Please select Draft Requisition.
+plugin.opcDraftRequisition.label.firstProductDescription=Description of the 1st Position

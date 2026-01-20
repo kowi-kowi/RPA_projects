@@ -1,0 +1,10 @@
+scheduling.MasterDataExportJob.languageTag.label=Language
+scheduling.OCICatalogDownloadJob.UOM.label=Source Unit of Measure
+scheduling.OCICatalogDownloadJob.contractId.label=Contract ID
+scheduling.OCICatalogDownloadJob.customerId.label=Customer ID
+scheduling.OCICatalogDownloadJob.failure.message=Download catalog via OCI from {0} was finished with error.
+scheduling.OCICatalogDownloadJob.failure.title=Download catalog via OCI failed
+scheduling.OCICatalogDownloadJob.success.message=Download catalog via OCI from '{0}' was finished successfully.
+scheduling.OCICatalogDownloadJob.success.title=Download catalog via OCI completed successfully
+scheduling.OCICatalogDownloadJob.supplierId.label=Supplier ID
+scheduling.OCICatalogDownloadJob.url.hint=URL to download catalog from

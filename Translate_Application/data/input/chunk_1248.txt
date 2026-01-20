@@ -1,0 +1,10 @@
+plugin.opcSalesorder.label.createdOn=Created on
+plugin.opcSalesorder.label.customerSOId=Customers Order ID
+plugin.opcSalesorder.label.dateFrom=Date from
+plugin.opcSalesorder.label.dateUntil=Date to
+plugin.opcSalesorder.label.orderName.template=Cart({0})
+plugin.opcSalesorder.label.orderText.totalGrossPrice=Total Gross Price
+plugin.opcSalesorder.label.orderText.totalGrossPricePerSupplier=Total Gross Price (per Supplier)
+plugin.opcSalesorder.label.orderText.totalPrice=Total Price
+plugin.opcSalesorder.label.orderText.totalPricePerSupplier=Total Price (per Supplier)
+plugin.opcSalesorder.label.product=Product ID

@@ -1,0 +1,10 @@
+prov.ExpressCatalogContractEditor.placeholders.contractId=ID
+prov.ExpressCatalogContractEditor.placeholders.customerId=ID
+prov.ExpressCatalogContractEditor.placeholders.description=Description
+prov.ExpressCatalogContractEditor.placeholders.name=Name
+prov.ExpressCatalogContractEditor.placeholders.productCatalogId=ID
+prov.ExpressCatalogContractEditor.placeholders.supplierId=ID
+prov.ExpressCatalogContractEditor.title=Express Catalog/Contract Creation
+prov.ImportFormatOptions.Header.ExcelSheet=Excel Sheet
+prov.ImportFormatOptions.Header.ImportMode=Mode
+prov.ImportFormatOptions.Label.Ignore=Ignore

@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.message.activationCancellationRequest.reject=Reject Cancellation
+plugin.ssmWorkflow.message.activationCancellationRequest.submit.desc=The decision will be applied, and the supplier will be informed.
+plugin.ssmWorkflow.message.approve.commercial.desc=Please approve the catalog {0} ({1}) and contract {2} ({3}) of supplier {4} ({5}). You can check the current state by following links\:
+plugin.ssmWorkflow.message.approve.technical.desc=Please approve the catalog {0} ({1}) and contract {2} ({3}) of supplier {4} ({5}). You can check the current state by following links\:
+plugin.ssmWorkflow.message.approveWithoutContract.commercial.desc=Please approve the catalog {0} ({1}) of supplier {2} ({3}). You can check the current state by following links\:
+plugin.ssmWorkflow.message.approveWithoutContract.technical.desc=Please approve the catalog {0} ({1}) of supplier {2} ({3}). You can check the current state by following links\:
+plugin.ssmWorkflow.message.asterisk=Fields marked with asterisk are required fields.
+plugin.ssmWorkflow.message.change.activationDate.desc=Please change Activation date for the current state of the catalog {0} and contract {1}. You can check the current state by following links\:
+plugin.ssmWorkflow.message.contentApprove.desc=Please approve the current state of the catalog {0} ({1}) and contract {2} ({3}) of supplier {4} ({5}). You can check the current state by following links\:
+plugin.ssmWorkflow.message.contentApproveWithoutContract.desc=Please approve the current state of the catalog {0} ({1}) of supplier {2} ({3}). You can check the current state by following links\:

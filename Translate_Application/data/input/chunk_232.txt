@@ -1,0 +1,10 @@
+administration.systemAdministration.cmsElementEditor.desc=Allows to edit CMS Elements (welcome carousel, news, support messages, etc.), their contents and visibility.
+administration.systemAdministration.cmsElementEditor.title=CMS Element Manager
+administration.systemAdministration.cmsElementTypeEditor.desc=Allows to edit Custom CMS Element Types.
+administration.systemAdministration.cmsElementTypeEditor.title=CMS Element Type Manager
+administration.systemAdministration.configuration=Configuration
+administration.systemAdministration.configuration.attributes=Configuration Attributes
+administration.systemAdministration.configuration.attributes.desc=Define configuration attributes' values here.
+administration.systemAdministration.configuration.clearCache=Clear Cache
+administration.systemAdministration.configuration.clearCache.desc=Resets the caches for views, templates, configuration, services and hibernate
+administration.systemAdministration.configuration.editLog4jProperties=Log Settings

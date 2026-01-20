@@ -1,0 +1,10 @@
+plugin.opcProductProcessing.header.quantity=Quantity
+plugin.opcProductProcessing.header.shortDescription=Item Description
+plugin.opcProductProcessing.label.addItem2Cart=Add one more item
+plugin.opcProductProcessing.label.addItem2Exists=Add the quantity to the existing item
+plugin.opcProductProcessing.label.addProduct=Add Product
+plugin.opcProductProcessing.label.addToCart.duplicatedItem.message=This product is already present in your cart. How would you like to proceed\:
+plugin.opcProductProcessing.label.addToList.duplicatedItem.message=This product is already present in the shopping list. How would you like to proceed\:
+plugin.opcProductProcessing.label.contract=Contract
+plugin.opcProductProcessing.label.contractDescription=Description
+plugin.opcProductProcessing.label.notLowestPriceJustification=Justification for original product request

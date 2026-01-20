@@ -1,0 +1,10 @@
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncMapping.label=Product Sync Mapping
+plugin.productSynchronizationSupport.com.jcatalog.sync.ProductSyncMapping.path.label=Path
+plugin.productSynchronizationSupport.syncProperty.ean=EAN
+plugin.productSynchronizationSupport.syncProperty.extProductId=External Product ID
+plugin.productSynchronizationSupport.syncProperty.mfgProductId=Manufacturer Product ID
+plugin.productSynchronizationSupport.syncProperty.mfgProductName_mfgProductId=Manufacturer Product ID and Manufacturer Product Name
+plugin.productSynchronizationSupport.syncProperty.productId=Product ID
+plugin.projectConfiguration.configurationareaBrowser.copyToExternalConfigurationCommand.buttons.cancel=Cancel
+plugin.projectConfiguration.configurationareaBrowser.copyToExternalConfigurationCommand.buttons.overrideAll=Override all files
+plugin.projectConfiguration.configurationareaBrowser.copyToExternalConfigurationCommand.buttons.skipExisting=Skip existing files

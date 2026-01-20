@@ -1,0 +1,10 @@
+modelCommand.everyMinutes.validator.invalid=''Every minutes'' field must be greater than 0.
+modelCommand.everyMonths.validator.invalid=''Every months'' field must be greater than 0.
+modelCommand.hour.max.error=Start hour must be in 0..23 range.
+modelCommand.min.max.error=Start minute must be in 0..59 range.
+modelCommand.monthsDays.empty=You must select at least one day.
+modelCommand.monthsDays.lastDay=You can not select ''Last Day'' and other day(s) in similar time. You should use different triggers.
+modelCommand.monthsDays.lastDayNeverUsed=The selected ''Last Day'' will never be used.
+modelCommand.monthsDays.neverUsed=The selected date(s) will never be used.
+modelCommand.repeatCount.validator.invalid=Repeat count must be defined and must be greater than 1.
+modelCommand.repeatInterval.validator.invalid=Repeat interval must be defined and must be greater than 0.

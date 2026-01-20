@@ -1,0 +1,10 @@
+ssm.emailtemplates.workflows.rejected.message.salutation=Hello, {0}.
+ssm.emailtemplates.workflows.rejected.message.summary=The catalog ''{0}'' provided by the supplier ''{1}'' was rejected by the customer ''{2}'' on date {3}.
+ssm.emailtemplates.workflows.rejected.title=Catalog Rejected
+ssm.emailtemplates.workflows.supplierReviewNotification.message.summary=The catalog ''{0}'' is ready for Supplier Review.
+ssm.emailtemplates.workflows.supplierReviewNotification.title=Supplier Review Notification
+ssm.label.appName=Self Service Manager
+ssm.noAssignment.title=Customer or Supplier assignment is required to display dashboard widgets.
+ssm.pendingActivations.label.activationDate=Activation Date
+ssm.pendingActivations.label.assignee=Assignee
+ssm.pendingActivations.label.catalogDescription=Catalog Description

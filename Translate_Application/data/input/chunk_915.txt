@@ -1,0 +1,10 @@
+plugin.grailsflow.label.editScheduledJob=Edit Scheduled Job
+plugin.grailsflow.label.editTypes=Edit Process Types
+plugin.grailsflow.label.emptyFilterVariable=select variable
+plugin.grailsflow.label.emptyFilterVariableValue=no values available
+plugin.grailsflow.label.enabled=Enabled
+plugin.grailsflow.label.event=Event
+plugin.grailsflow.label.eventTranslations=Event Translations
+plugin.grailsflow.label.events=Events
+plugin.grailsflow.label.executionTime=Execution Time (ms)
+plugin.grailsflow.label.expectedDuration=Expected Duration

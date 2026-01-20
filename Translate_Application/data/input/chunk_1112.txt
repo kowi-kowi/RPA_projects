@@ -1,0 +1,10 @@
+plugin.opcCommons.message.productNotAvailable=The requested product is not available any more
+plugin.opcCommons.message.productNotFoundById=Cannot find product by Product ID "{0}".
+plugin.opcCommons.message.productNotFoundByIdAndSupplier=Cannot find product by Product ID "{0}" and Supplier ID "{1}".
+plugin.opcCommons.message.productUpdated=Cart item ''{0}'' updated.
+plugin.opcCommons.message.productsInCart=There are still products in your cart, that have not been transferred to you procurement system. If you want to proceed click OK (products will not be transferred and cart will be empty) or 'Abort' to proceed to checkout.
+plugin.opcCommons.message.quantity.notValid=Quantity is not valid.
+plugin.opcCommons.message.replaceCartWithList=Replacing shopping cart products with shopping list products...
+plugin.opcCommons.message.shortDescriptionIsRequired=Short description is required.
+plugin.opcCommons.message.similarProductAdded=Product ''{0}'' added to cart.
+plugin.opcCommons.message.substitutionProductNoAdded=Substituting product ''{0}'' cannot be added to cart.

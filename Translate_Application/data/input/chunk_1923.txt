@@ -1,0 +1,10 @@
+textlocalization.system.PersistentConfig.hint.languages.line2=Please note that in the standard implementation 'fi', 'no', 'ru', 'sv' locales are supported in the OPC, PROC and RFQ applications only.
+textlocalization.system.PersistentConfig.label.languages=Languages
+textlocalization.system.PersistentConfig.save=Save
+textlocalization.system.PersistentConfig.save.successful.message=Configuration updated.
+textlocalization.system.PersistentConfig.title=Configuration
+textlocalization.system.RefreshCache.buttonHint=Click the Refresh Cache button to apply changes made in the Text Localization Tool to the corresponding applications and to display them on the UI. In this case, the updates from Source Messages will also be reflected in the Text Localization Tool.
+textlocalization.system.RefreshCache.cacheAutoUpdateHint=The cache is automatically updated once a day.
+textlocalization.system.RefreshCache.failed.message=Refreshing cache failed with errors.
+textlocalization.system.RefreshCache.label=Refresh Cache
+textlocalization.system.RefreshCache.successful.message=Cache refreshed.

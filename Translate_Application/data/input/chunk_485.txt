@@ -1,0 +1,10 @@
+errorHandling.title=Internal error
+errorReportCommand.behaviour.blank=''Expected Behaviour'' is a required field
+errorReportCommand.behaviour.nullable=''Expected Behaviour'' is a required field
+errorReportCommand.description.blank=''Error Description'' is a required field
+errorReportCommand.description.nullable=''Error Description'' is a required field
+errorReportCommand.reproduce.blank=''Reproduce (Step-by-Step)'' is a required field
+errorReportCommand.reproduce.nullable=''Reproduce (Step-by-Step)'' is a required field
+errorReportCommand.tailLines.min.notmet=''Tail Lines'' value ''{2}'' is less than minimum value ''{3}''
+exception.businessRule.compilation=Exception happened during compilation of the {0} of a BusinessRule.\nBusinessRuleList\: {1}\nBusinessRuleId\: {2}\nOriginal message\: {3}\n------------------------------------------------------------------------------------------------------------------------\nThe BusinessRule \:\nPrecondition\: {4}\nRule\: {5}\nAction\: {6}\nPath to custom script\: {7}\nIs global\: {8}\nIs positive\: {9}\nIs custom\: {10}
+exception.businessRule.noCustomScript=Custom script of the Business Rule cannot be found.\nPath to custom script\: {0}\nBusinessRuleList\: {1}\nBusinessRuleId\: {2}

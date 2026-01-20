@@ -1,0 +1,10 @@
+plugin.employeeBudget.com.jcatalog.budget.BudgetPosting.createdOn.label=Created On
+plugin.employeeBudget.com.jcatalog.budget.BudgetPosting.postingReason.label=Posting Reason
+plugin.employeeBudget.com.jcatalog.employee.Employee.changedBy.label=Changed By
+plugin.employeeBudget.com.jcatalog.employee.Employee.changedOn.label=Changed On
+plugin.employeeBudget.com.jcatalog.employee.Employee.createdBy.label=Created By
+plugin.employeeBudget.com.jcatalog.employee.Employee.createdOn.label=Created On
+plugin.employeeBudget.deleteBudget.message=Do you really want to delete this entry?
+plugin.employeeBudget.employee.id.unique.message=Employee {0} already exists.
+plugin.employeeBudget.impossibleCreateBudget.message=It's impossible to create budget.
+plugin.employeeBudget.io.createBudget.label=Create Budget for Employee

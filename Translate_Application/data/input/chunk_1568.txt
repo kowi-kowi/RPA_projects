@@ -1,0 +1,10 @@
+plugin.productReviewEditor.tab.prices=Prices
+plugin.productReviewEditor.tab.product.classificationAssignment=Classification assignment
+plugin.productReviewEditor.tab.product.masterData=Master data
+plugin.productReviewEditor.tab.product.productAttributes=Product attributes
+plugin.productReviewEditor.tab.product.search=Product Search
+plugin.productReviewEditor.tab.productDetails=Product details
+plugin.productReviewEditor.tab.productRelations=Product Relations
+plugin.productReviewEditor.tab.validation.result=Validation Result
+plugin.productReviewEditor.title.attribute.create=Add attribute value
+plugin.productReviewEditor.title.attribute.edit=Edit attribute value

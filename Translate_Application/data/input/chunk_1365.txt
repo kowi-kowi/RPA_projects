@@ -1,0 +1,10 @@
+plugin.organizationEditors.revisionsReport.revisionType.header=Type
+plugin.organizationEditors.revisionsReport.title=Catalog User Revisions Report
+plugin.organizationEditors.tab.buyingOrgs=Buying Organizations
+plugin.organizationEditors.tab.customerSupplierAssignments=Customers and Suppliers
+plugin.organizationEditors.tab.executableRoles=Roles
+plugin.organizationEditors.tab.general=General
+plugin.organizationEditors.tab.grantableRoles=Grantable Roles
+plugin.organizationEditors.tab.groups=Groups
+plugin.organizationEditors.tab.personalInfo=Personal Info
+plugin.organizationEditors.tab.profilePicture=Picture

@@ -1,0 +1,10 @@
+ExtendedMultiSheet.price-netPrice_6=Tier 6 Price
+ExtendedMultiSheet.price-netPrice_7=Tier 7 Price
+ExtendedMultiSheet.price-netPrice_8=Tier 8 Price
+ExtendedMultiSheet.price-netPrice_9=Tier 9 Price
+ExtendedMultiSheet.price-priceType_1=Price Type
+ExtendedMultiSheet.price-priceUnit=Price Unit
+ExtendedMultiSheet.price-priceUnit_1=Price - Price Unit
+ExtendedMultiSheet.price-productIdExtensionForUoM_1=Product ID Extension for UoM
+ExtendedMultiSheet.price-statusId_1=Price Status
+ExtendedMultiSheet.price-unitOfMeasureId_1=Price Unit of Measure ID

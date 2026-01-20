@@ -1,0 +1,10 @@
+plugin.systemMaintenance.label.searchResult=SearchResult
+plugin.systemMaintenance.label.servlet.version=Servlet Version
+plugin.systemMaintenance.label.sessionId=Session ID
+plugin.systemMaintenance.label.sqlQuery=SQL
+plugin.systemMaintenance.label.sqlfile=SQL File
+plugin.systemMaintenance.label.sqlfile.help=Here you can select a file with SQL statements separated by semicolon (;). If there are several SELECT statements in the file, only the last one will be inserted in the Query textarea and executed.
+plugin.systemMaintenance.label.sqltextarea.help=Here you can type any SQL statements separated by semicolon (;). Total number of characters must not exceed 100,000.
+plugin.systemMaintenance.label.system.date=System Date
+plugin.systemMaintenance.label.system.time=System Time
+plugin.systemMaintenance.label.tailLines=Tail Lines

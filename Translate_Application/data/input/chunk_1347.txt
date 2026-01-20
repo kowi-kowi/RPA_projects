@@ -1,0 +1,10 @@
+plugin.opcShoppingList.message.validation.product.configurable=Configurable product ''{0}'' cannot be added directly. Go to the details page first.
+plugin.opcShoppingList.message.validation.product.hasSeveralContracts=Product ''{0}'' cannot be added directly as it has multiple contracts. Use standard process for adding instead.
+plugin.opcShoppingList.message.validation.product.hasSimilarProducts=Product ''{0}'' cannot be added directly as there are similar products in catalog. Use standard process for adding instead.
+plugin.opcShoppingList.message.validation.product.hasSubItemErrors=Configurable product is not correct.
+plugin.opcShoppingList.message.validation.product.hasSubstitute=Product ''{0}'' cannot be added as it was substituted by product ''{1}''. Use standard process for adding instead.
+plugin.opcShoppingList.message.validation.product.nonSmartForm.hasAttributeValues=Product ''{0}'' is not a SmartForm and cannot have attribute values.
+plugin.opcShoppingList.message.validation.product.notAvailable={0} - Product is not available
+plugin.opcShoppingList.message.validation.product.punchout=Punchout product ''{0}'' cannot be added directly. Go to external catalog first.
+plugin.opcShoppingList.message.validation.product.smartForm=SmartForm product ''{0}'' cannot be added directly. Go to the details page first.
+plugin.opcShoppingList.message.validation.product.smartForm.notAllowedAttribute=Attribute(s) ''{0}'' is (are) not in the list of allowed attributes for Quick Entry page. Please contact administrator.

@@ -1,0 +1,10 @@
+menu.header.tab.approve.professionalBuyerTool=Professional Buyer Tool
+menu.header.tab.approve.purchaseOrderApproval=Purchase Order
+menu.header.tab.approve.requisitionApproval=Requisition
+menu.header.tab.approve.serviceEntryApproval=Service Entry Sheet
+menu.header.tab.budget=Budget
+menu.header.tab.budget.budgetOverview=Budget Overview
+menu.header.tab.budget.listBudgets=List Budgets
+menu.header.tab.documents=Documents
+menu.header.tab.documents.purchaseOrderConfirmation=Purchase Order Confirmation
+menu.header.tab.documents.purchaseOrderHistory=Purchase Order History

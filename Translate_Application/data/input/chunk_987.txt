@@ -1,0 +1,10 @@
+plugin.masterDataImportExportJobs.no.label=No
+plugin.masterDataImportExportJobs.CustomResponsibilityExcelDataExportJobParameterSet.failed.subject.title=Custom Responsibility Excel Data Export Job ({0}) execution failed
+plugin.masterDataImportExport.customResponsibility.type=Responsibility
+plugin.masterDataImportExportJobs.exportModes.label=Export Modes
+plugin.masterDataImportExportJobs.exportCustomResponsibility.title=Custom Responsibility Excel Data Export
+plugin.masterDataImportExportJobs.CustomResponsibilityExcelDataExportJobParameterSet.successful.subject.title=Custom Responsibility Excel Data Export Job ({0}) finished successfully
+plugin.masterDataImportExportJobs.customerId.label=Customer ID
+plugin.masterDataImportExportJobs.exportCustomResponsibility.legend=Export job has been saved with following parameters:
+plugin.masterDataImportExportJobs.responsibilityLevelId.label=Responsibility Level ID
+plugin.masterDataImportExportJobs.responsibilityTypeId.label=Responsibility Type ID

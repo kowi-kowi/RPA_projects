@@ -1,0 +1,10 @@
+com.jcatalog.jasperreports.commands.ClassificationReferenceSearchParameterCommand.classificationId.doesnotExists=Classification ({2}) does not exist.
+com.jcatalog.jasperreports.commands.ClassificationReferenceSearchParameterCommand.classificationId.nullable=Classification ID cannot be empty.
+com.jcatalog.jasperreports.commands.DateParameterCommand.value.blank=The value cannot be empty.
+com.jcatalog.jasperreports.commands.DateParameterCommand.value.nullable=The value cannot be empty.
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.after.value.blank=The From Date value cannot be empty.
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.before.value.blank=The To Date value cannot be empty.
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.dateRangeTip=(Recommended for immediate report generation)
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.from=from
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.period.value.blank=The period cannot be empty.
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.period.value.missed=Period must have both value and type specified.

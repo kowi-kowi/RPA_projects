@@ -1,0 +1,10 @@
+plugin.procModeNavigation.menu.administration.activeUsers.desc=Show active user sessions
+plugin.procModeNavigation.menu.system.database.queryTool=Query Tool
+plugin.procModeNavigation.menu.system.database.queryTool.desc=SQL-Statements, e.g. to display or update data, can be run using the Query Tool.
+plugin.procModeNavigation.menu.system.title=System Administration
+plugin.procModeNavigation.message.cacheIsCleared=Cache is cleared
+plugin.procModeNavigation.tab.analysis.header.report=Report
+plugin.procModeNavigation.tab.browseContracts=Suppliers & Contracts
+plugin.procModeNavigation.tab.catalog=Shop
+plugin.procModeNavigation.tab.externalShops=External Shops
+plugin.procModeNavigation.tab.requestForQuote=Quote

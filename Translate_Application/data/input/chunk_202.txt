@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.createdOn=Created On
+SSM.productEditor.search.product.manufacturerName=Manufacturer Name
+SSM.productEditor.grid.columns.createdBy=Created By
+SSM.productEditor.grid.columns.changedByOn=Changed By / On
+SSM.productEditor.grid.filter.reset.title=Reset filter
+SSM.productEditor.grid.productRelations.editQuantity.allow=Allowed
+SSM.productEditor.grid.productRelations.editQuantity.default=Default
+SSM.productEditor.grid.productRelations.editQuantity.disallow=Not allowed
+SSM.productEditor.grid.referenceAutocomplete.placeholder=Start typing a value...
+SSM.productEditor.header.all=All

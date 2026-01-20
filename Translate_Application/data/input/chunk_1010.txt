@@ -1,0 +1,10 @@
+plugin.opcAdministration.amazonIntegration=Amazon Integration
+plugin.opcAdministration.amazonIntegrationCredentials=Amazon Integration Credentials
+plugin.opcAdministration.amazonIntegrationCredentials.accessKey=Access Key
+plugin.opcAdministration.amazonIntegrationCredentials.accessKey.tooltip=Amazon access key.
+plugin.opcAdministration.amazonIntegrationCredentials.accessToken=Access Token
+plugin.opcAdministration.amazonIntegrationCredentials.accessToken.tooltip=Access token to access amazon api.
+plugin.opcAdministration.amazonIntegrationCredentials.clientId=Client ID
+plugin.opcAdministration.amazonIntegrationCredentials.clientId.tooltip=Amazon client id.
+plugin.opcAdministration.amazonIntegrationCredentials.clientSecret=Client Secret
+plugin.opcAdministration.amazonIntegrationCredentials.clientSecret.tooltip=Amazon client secret.

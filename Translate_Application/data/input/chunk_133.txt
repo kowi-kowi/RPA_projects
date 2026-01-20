@@ -1,0 +1,10 @@
+RFQ.rfxAward.action.addToItemOverview=Add to Item Overview
+RFQ.rfxAward.action.awardDC=Award
+RFQ.rfxAward.action.awardRFSItems=Award
+RFQ.rfxAward.action.backToItemOverview=Back to Item Overview
+RFQ.rfxAward.action.backToQuoteOverview=Back to Quote Overview
+RFQ.rfxAward.action.createCart=Create Cart
+RFQ.rfxAward.action.createRFQ=Create RFQ
+RFQ.rfxAward.action.rfc.exportToExcel=Export to Excel
+RFQ.rfxAward.action.rfc.exportToPdf=Export to PDF
+RFQ.rfxAward.action.rfc.exportToWord=Export to Word

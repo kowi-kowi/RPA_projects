@@ -1,0 +1,10 @@
+plugin.opcAnalysis.export.jobName.label=Job Name
+plugin.opcAnalysis.export.message.jobCreated=Job {0} was created
+plugin.opcAnalysis.export.queryName.label=Query Name
+plugin.opcAnalysis.export.scheduling.description.label=Description\:
+plugin.opcAnalysis.export.scheduling.label=Scheduling
+plugin.opcAnalysis.exportedDocumentMaxQuantityExcessDialog.exportAll=Export all documents
+plugin.opcAnalysis.exportedDocumentMaxQuantityExcessDialog.exportRestrictedQuantity=Export {0} documents
+plugin.opcAnalysis.exportedDocumentMaxQuantityExcessDialog.prompt=Found documents quantity exceeds restriction of {0}. Export of larger amount of documents can break down server.
+plugin.opcAnalysis.exportedDocumentMaxQuantityExcessDialog.title=Exported document quantity warning
+plugin.opcAnalysis.header.createQuery=Create Query

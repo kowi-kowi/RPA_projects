@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.entry.userRole.definition=User Roles allow creating roles with a specific set of rights and permissions.
+plugin.masterDataImportExport.entry.valueMapping.definition=Mapping of different interpretations of Items to each other
+plugin.masterDataImportExport.entry.valueMappingItem.definition=Items with different representations that are mapped to each other depending on the context they are used.
+plugin.masterDataImportExport.entry.view2BuyingOrg.definition=Can be used to assign Customer Views to Buying Organizations.
+plugin.masterDataImportExport.entry.viewClassGroups.definition=Can be used to assign Customer Views to Classification Groups.
+plugin.masterDataImportExport.entry.viewContracts.definition=Can be used to assign Customer Views to Contracts.
+plugin.masterDataImportExport.entry.viewFilters.definition=Can be used to assign Customer Views to Filters.
+plugin.masterDataImportExport.entry.viewProducts.definition=Can be used to assign Customer Views to Products
+plugin.masterDataImportExport.ociObjectVisibility.type=OCI Object Visibility
+plugin.masterDataImportExport.orderType.type=Order

@@ -1,0 +1,10 @@
+opc.requisition.draft.modal.search.title=Search for Draft Requisitions
+opc.requisition.draft.modal.select.title=Select Draft Requisition
+opc.requisition.draft.modal.title=Draft Requisition ({salesOrderId})
+opc.requisition.draft.name.label=Draft Requisition Name
+opc.requisition.draft.type.personal.label=Personal
+opc.requisition.draft.type.shared.label=Shared
+opc.search.result.title.cart.items=Cart Items
+opc.search.result.title.results=Search Results
+opc.service.configurator.attributes.configure=Configure Attributes
+opc.service.configurator.button.prices.compare=Compare Prices

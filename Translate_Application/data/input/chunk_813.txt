@@ -1,0 +1,10 @@
+plugin.customerEditor.commercial.label=Commercial Data
+plugin.customerEditor.editProvisionings.button=Edit Provisionings
+plugin.customerEditor.external.label=External Data
+plugin.customerEditor.externalLinks.createChild.label=Create Child
+plugin.customerEditor.tab.addresses=Addresses
+plugin.customerEditor.tab.catalogs=Catalogs
+plugin.customerEditor.tab.classifications=Classifications
+plugin.customerEditor.tab.contracts=Contracts
+plugin.customerEditor.tab.general=General
+plugin.customerEditor.tab.taxes=Taxes

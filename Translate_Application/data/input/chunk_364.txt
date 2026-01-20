@@ -1,0 +1,10 @@
+com.jcatalog.rfq.RFXItem.productId.label=Product ID
+com.jcatalog.rfq.RFXItem.productId.nullable=The value of the "Product ID" field is required.
+com.jcatalog.rfq.RFXItem.quantity.label=Quantity
+com.jcatalog.rfq.RFXItem.quantity.min.error=The value of the "Quantity" field must be positive.
+com.jcatalog.rfq.RFXItem.quantity.nullable=The value of the "Quantity" field is required.
+com.jcatalog.rfq.RFXItem.quantity.nullable.error=Property "Quantity" cannot be empty.
+com.jcatalog.rfq.RFXItem.selectionGroupId.label=Selection group ID
+com.jcatalog.rfq.RFXItem.supplierId.label=Supplier ID
+com.jcatalog.rfq.RFXItem.supplierName.label=Supplier name
+com.jcatalog.rfq.RFXItem.taxAmount.min.error=The value of the "Tax amount" field must be positive.

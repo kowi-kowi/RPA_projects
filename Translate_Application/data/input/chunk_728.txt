@@ -1,0 +1,10 @@
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormBusinessRuleVariable.description.label=Description
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormBusinessRuleVariable.groovyExpression.label=Groovy Expression
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormBusinessRuleVariable.label=Business Rule Variable
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormBusinessRuleVariable.name.label=Name
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormBusinessRuleVariable.type.label=Type
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormContentBusinessRule.businessRuleList.duplicated.error=Content Business Rule with the selected Business Rule List (validationBusinessRuleList), Type (validation) and <abbr title\="Supplier, Customer, Product Catalog, Contract, Classification Group, Catalog Category and Contract Category">other specified properties</abbr> already exists.
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormContentBusinessRule.businessRuleList.label=Business Rule List
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormContentBusinessRule.catalogCategoryId.label=Catalog Category
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormContentBusinessRule.classificationGroupId.label=Classification Group
+plugin.businessRuleSupport.com.jcatalog.businessrule.GormContentBusinessRule.contractCategoryId.label=Contract Category

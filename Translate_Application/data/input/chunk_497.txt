@@ -1,0 +1,10 @@
+header.top3Errors=Top 3 validation errors
+header.total=Total
+header.version=version
+header.warnings=Warnings
+hint.changePassword=Here you can change your password by entering an old password and a new password.
+hint.errors=(errors)
+hint.newPassword.header=The password must match the following rule(s)\:
+hint.newPassword.minLength=min length \= {0} characters;
+hint.realms=Select realms
+hint.select=Select

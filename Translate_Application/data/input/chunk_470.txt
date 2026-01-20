@@ -1,0 +1,10 @@
+emailMessage.soApprove.label.goToAppAction=Go to application
+emailMessage.soApprove.label.internalNotes=Internal Notes
+emailMessage.soApprove.label.orderOwner=Owner
+emailMessage.soApprove.label.orderText=Order Text
+emailMessage.soApprove.label.price=Price
+emailMessage.soApprove.label.quantity=Quantity
+emailMessage.soApprove.label.rejectCustomReason=Reject with a custom reason
+emailMessage.soApprove.label.rejectNoSuitableDataReason=No suitable data
+emailMessage.soApprove.label.rejectWithReason=Reject with Reason
+emailMessage.soApprove.label.rejectWithReasonMessage=Reject with the "{0}" reason

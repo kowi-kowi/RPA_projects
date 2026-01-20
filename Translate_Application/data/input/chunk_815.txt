@@ -1,0 +1,10 @@
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.isIncludeClassGrps.label=Include
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.isIncludeContracts.label=Include
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.isIncludeFilter.label=Include
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.isIncludeProducts.label=Include
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.label=Customer Views
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.viewClassGrps.label=Classification Groups
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.viewContracts.label=Contracts
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.viewFilters.label=Conditions
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.viewId.label=Customer View ID
+plugin.customerViewEditor.com.jcatalog.businesspartner.view.GormCustomerView.viewProducts.label=Products

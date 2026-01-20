@@ -1,0 +1,10 @@
+scheduling.params.error.required=<li>{0} is required.</li>
+scheduling.params.error.weekDaysRequired=<li>At the least one week day should be checked.</li>
+scheduling.params.label.1=Sunday
+scheduling.params.label.2=Monday
+scheduling.params.label.24hourClock=(24 hour clock)
+scheduling.params.label.3=Tuesday
+scheduling.params.label.4=Wednesday
+scheduling.params.label.5=Thursday
+scheduling.params.label.6=Friday
+scheduling.params.label.7=Saturday

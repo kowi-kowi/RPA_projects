@@ -1,0 +1,10 @@
+SSM.productEditor.tab.productRelations=Product Relations
+SSM.productEditor.unsavedChanges.warning=The unsaved changes will be lost. Do you want to proceed?
+SSM.productEditor.validation.IsRequired=The field cannot be empty.
+SSM.productEditor.validationResults=Validation Result
+StandardMultiSheet.action=Action Code
+StandardMultiSheet.contractedPrice-currencyId=Currency
+StandardMultiSheet.contractedPrice-description=Price Description
+StandardMultiSheet.contractedPrice-fixNetPrice=Fixed Net Price
+StandardMultiSheet.contractedPrice-grossPrice=Gross Price
+StandardMultiSheet.contractedPrice-isPreferred=Is Preferred Price

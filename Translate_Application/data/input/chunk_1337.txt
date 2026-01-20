@@ -1,0 +1,10 @@
+plugin.opcShoppingList.addNonRfQItem.reject=It's not possible to add non-RfQ items to shopping cart that contains RfQ items.
+plugin.opcShoppingList.addRfQItem.reject=It's not possible to add RfQ items to shopping cart that contains non-RfQ items.
+plugin.opcShoppingList.button.checkProduct=Check Product
+plugin.opcShoppingList.button.continueAddingShoppingList=Continue
+plugin.opcShoppingList.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.nullable.error=Editable price must not be empty.
+plugin.opcShoppingList.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.validator.positive.error=Editable price must be a positive number.
+plugin.opcShoppingList.com.jcatalog.opc.details.ProductDetailsCommand.editedPrice.validator.too.big.error=The length of the Price exceeds the maximum value.
+plugin.opcShoppingList.command.export.xls=Export to XLS
+plugin.opcShoppingList.copying.totalPrice.exceed.error=The selected product(s) cannot be added to the cart. The total cart price will exceed the maximum allowed value.
+plugin.opcShoppingList.error.failedToAddSomeItemsToList=Some of the selected products cannot be added to the Shopping List. Please check warning message(s) on the item level.

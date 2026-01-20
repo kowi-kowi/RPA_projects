@@ -1,0 +1,10 @@
+message.republish.catalog.workflow.execute.ok=Finished at     ${now}
+message.republish.catalog.workflow.execute.publishCatalog=Publish Catalog\n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.execute.republishCleansing=Republish Cleansing\n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.execute.setupCatalog=Setup Catalog\n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.execute.validationResults=Validation Results \n-------------------\nStarted at      ${now}
+message.republish.catalog.workflow.executedBusinessRuleContext=External variables\: ${businessRulesContext}
+message.republish.catalog.workflow.executedBusinessRuleLists=Executed Business Rule Lists\: ${executedBusinessRuleLists}
+message.republish.catalog.workflow.export.script=Export using script\: ${script}
+message.republish.catalog.workflow.finish.actionErrorMessage=ErrorMessage\: ${errorMessage}
+message.republish.catalog.workflow.finish.error=Workflow completed with errors at ${now}.

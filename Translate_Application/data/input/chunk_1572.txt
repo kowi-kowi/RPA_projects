@@ -1,0 +1,10 @@
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.changedOn.label=Changed On
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.createdBy.label=Created By
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.createdOn.label=Created On
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.label=Manufacturer
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.logo.label=Logo
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.manufacturerId.label=Manufacturer ID
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.manufacturerInformation.label=Manufacturer Information
+plugin.productSupportEditors.com.jcatalog.product.GormManufacturer.name.label=Name
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.changedBy.label=Changed By
+plugin.productSupportEditors.com.jcatalog.product.GormProductRelationType.changedOn.label=Changed On

@@ -1,0 +1,10 @@
+plugin.ssmCore.message.catalog.notExists=Catalog "{0}" does not exist.
+plugin.ssmCore.message.catalog.required=Catalog is a required field.
+plugin.ssmCore.message.contract.equal.catalog.notExist=System is configured to proceed with a Contract with the same ID as entered for the Catalog. But a Contract with ID "{0}" does not exist.
+plugin.ssmCore.message.contract.invalidCharacterCase=Contract ID is case sensitive. Use "{1}" instead of "{0}".
+plugin.ssmCore.message.contract.notExist=Contract "{0}" does not exist.
+plugin.ssmCore.message.contract.required=Contract is a required field.
+plugin.ssmCore.message.contract.restrictedByCatalog=Contract "{1}" is not assigned to Catalog "{0}".
+plugin.ssmCore.message.currentAssignment.doesntEqual.customerId=Current assigned user is Customer "{0}", but you tried to get access to Customer "{1}".
+plugin.ssmCore.message.currentAssignment.doesntEqual.supplierId=Current assigned user is Supplier "{0}", but you tried to get access to Supplier "{1}".
+plugin.ssmCore.message.customer.invalidCharacterCase=Customer ID is case sensitive. Use "{1}" instead of "{0}".

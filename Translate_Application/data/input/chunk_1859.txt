@@ -1,0 +1,10 @@
+scheduling.link.result=Result
+scheduling.message.inQueue=In queue
+scheduling.message.noProgress=No progress
+scheduling.message.notscheduled=The Job was not scheduled due to\:
+scheduling.message.progress.left=, left\:
+scheduling.message.progress.seconds=seconds
+scheduling.message.progress.step=Step
+scheduling.operation.delete=Delete
+scheduling.operation.duplicate=Duplicate
+scheduling.operation.edit=Edit

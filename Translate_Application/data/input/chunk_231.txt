@@ -1,0 +1,10 @@
+administration.systemAdministration.budget.periods=Periods
+administration.systemAdministration.budget.periods.desc=Periods
+administration.systemAdministration.checkProduct.desc=Provides possibility to get product data from index with info from database.
+administration.systemAdministration.checkProduct.title=Check Product
+administration.systemAdministration.clearCache=Clear Cache
+administration.systemAdministration.clearCache.desc=Resets the caches for views, templates, configuration, services and hibernate
+administration.systemAdministration.clearStaticResourcesCache=Static Resources Cache
+administration.systemAdministration.clearStaticResourcesCache.desc=Clear cache for static resources (pictures, .css, .js files) to reload the resources after an update.
+administration.systemAdministration.cmsContentIndexingPage.desc=CMS Content Indexing tool reindexes all CMS Elements that are supposed to be stored in the Solr index. Reindexing is required only after importing the master data. When you manually create and edit CMS Elements, the indexing is performed automatically.
+administration.systemAdministration.cmsContentIndexingPage.title=CMS Content Indexing

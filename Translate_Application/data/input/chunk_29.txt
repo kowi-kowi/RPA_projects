@@ -1,0 +1,10 @@
+ExtendedMultiSheet.price-isPreferred_1=Price - Is Preferred
+ExtendedMultiSheet.price-listPrice=List Price
+ExtendedMultiSheet.price-listPrice_1=Price - List Price
+ExtendedMultiSheet.price-netPrice=Price
+ExtendedMultiSheet.price-netPrice_1=Tier 1 Price
+ExtendedMultiSheet.price-netPrice_10=Tier 10 Price
+ExtendedMultiSheet.price-netPrice_2=Tier 2 Price
+ExtendedMultiSheet.price-netPrice_3=Tier 3 Price
+ExtendedMultiSheet.price-netPrice_4=Tier 4 Price
+ExtendedMultiSheet.price-netPrice_5=Tier 5 Price

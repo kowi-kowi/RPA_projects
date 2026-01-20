@@ -1,0 +1,10 @@
+plugin.procCommon.shipmentDetails.label.orderedOn=Ordered
+plugin.procCommon.shipmentDetails.label.product=Product
+plugin.procCommon.shipmentDetails.label.requestedQuantity=Requested Quantity
+plugin.procCommon.shipmentDetails.label.shipmentDate=Date of Shipment
+plugin.procCommon.shipmentDetails.label.shippedQuantity=Shipped Quantity
+plugin.procCommon.shipmentDetails.label.supplier=Supplier
+plugin.procCommon.shipmentDetails.label.trackingNumber=Tracking Number
+plugin.procCommon.tab.bookingHistory=Booking History
+plugin.procCommon.tab.budget=Credits
+plugin.procCommon.tab.general=General

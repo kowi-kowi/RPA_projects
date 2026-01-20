@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.action.rfq.addToSupplierQuote=Add to Supplier Response
+plugin.opcShoppingCart.action.rfq.substituteSupplierQuoteItem=Substitute Supplier Response Item
+plugin.opcShoppingCart.action.save=Save
+plugin.opcShoppingCart.action.selectAll=All
+plugin.opcShoppingCart.action.show=Show
+plugin.opcShoppingCart.action.showPrice=Show Price for Supplier
+plugin.opcShoppingCart.action.stdClassificationGroup=Std. Classification Group
+plugin.opcShoppingCart.action.update=Update
+plugin.opcShoppingCart.addNonRfQItem.reject=It's not possible to add non-RfQ items to shopping cart that contains RfQ items.
+plugin.opcShoppingCart.addRfQItem.reject=It's not possible to add RfQ items to shopping cart that contains non-RfQ items.

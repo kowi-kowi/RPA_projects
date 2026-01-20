@@ -1,0 +1,10 @@
+deliveryRating.label.comment=Comment\:
+deliveryRating.question.ratingCommunication=How well have the subject-specific requirements been met?
+deliveryRating.question.ratingDeliveryOnTime=How do you rate the communication with the supplier/service provider?
+deliveryRating.question.ratingReliability=How do you judge the reliability of the supplier/service provider regarding completeness of delivery?
+deliveryRating.question.ratingRequirementsSatisfaction=How well have the desired delivery-dates been met?
+deliveryRating.question.ratingTransportation=How was the condition of the goods when delivered?
+deliveryRating.ranking.1=Very poor
+deliveryRating.ranking.2=Not that bad
+deliveryRating.ranking.3=Average
+deliveryRating.ranking.4=Good

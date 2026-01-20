@@ -1,0 +1,10 @@
+plugin.opcBrowseContracts.label.browseContracts.showProductsButton=Show Products
+plugin.opcBrowseContracts.label.browseContracts.smallVolumeSurcharge=Small Volume Surcharge
+plugin.opcBrowseContracts.label.browseContracts.supplier=Supplier
+plugin.opcBrowseContracts.label.browseContracts.supplierGroup=Supplier Group
+plugin.opcBrowseContracts.label.browseContracts.totalContractedAmount=Total Contracted Amount
+plugin.opcBrowseContracts.label.browseContracts.type=Type
+plugin.opcBrowseContracts.label.browseContracts.validRange=Valid Range
+plugin.opcBrowseContracts.label.contact.mobile=Mobile
+plugin.opcBrowseContracts.label.contact.notes=Notes
+plugin.opcBrowseContracts.label.currency=Currency

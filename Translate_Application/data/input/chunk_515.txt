@@ -1,0 +1,10 @@
+jasperReports.OrderedProductsReport.from.label=from
+jasperReports.OrderedProductsReport.fromDate=From Date
+jasperReports.OrderedProductsReport.header=Report Settings
+jasperReports.OrderedProductsReport.header1=Initial Data
+jasperReports.OrderedProductsReport.header2=Parameters
+jasperReports.OrderedProductsReport.header3=Result
+jasperReports.OrderedProductsReport.header3.desc=Items purchased by the selected customer\:
+jasperReports.OrderedProductsReport.last5products.title=Last 5 Ordered Products by Spend
+jasperReports.OrderedProductsReport.last5suppliers.title=Last 5 Suppliers by Spend
+jasperReports.OrderedProductsReport.notificationEmail=Email for reporting the status of the process

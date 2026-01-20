@@ -1,0 +1,10 @@
+eproc.dashboard.chart.ComposedChart.options.strokeDasharray=Grid size
+eproc.dashboard.chart.LineChart.label=Vertical Line Chart
+eproc.dashboard.chart.LineChart.options.chartColors=Chart color
+eproc.dashboard.chart.LineChart.options.legendHorizontalAlign=Horizontal legend alignment
+eproc.dashboard.chart.LineChart.options.legendIconType=Legend icon
+eproc.dashboard.chart.LineChart.options.legendVerticalAlign=Vertical legend alignment
+eproc.dashboard.chart.LineChart.options.showGrid=Display grid
+eproc.dashboard.chart.LineChart.options.showLabel=Show label
+eproc.dashboard.chart.LineChart.options.showLegend=Show legend
+eproc.dashboard.chart.LineChart.options.showTooltip=Show tooltip

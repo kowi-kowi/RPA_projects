@@ -1,0 +1,10 @@
+plugin.costDistribution.error.costObj1.theSame=You cannot add cost object with the same ID. This field must be unique.
+plugin.costDistribution.error.costObjAndGLAcc.theSame=You cannot add the same combination of GL Account and Cost Object. These combinations should be unique.
+plugin.costDistribution.error.percentageSum=The sum of percentages for all Cost Objects is not equal to 100%.
+plugin.costDistribution.message.checkSum=Sum of percentages is not equal to 100%.
+plugin.costDistribution.message.costObjectNotAvailable=The predefined Cost Object (''{0}'') with Cost Object Type (''{1}'') is not available for the current user. Please, select an appropriate Cost Object.
+plugin.costDistribution.message.emptyCostObject=Please specify a Cost Object in each row.
+plugin.costDistribution.message.glAccountNotSpecifiedForPosition=Please, specify a GL Account in each row.
+plugin.costDistribution.message.nonPositive=Percentage for one of the positions is less than or equal to zero.
+plugin.costDistribution.message.section.multipleCostDistributionNotAllowed=Multiple Cost Distributions are not allowed for the {0} Cost Object type.
+plugin.costDistribution.message.section.multipleGLAccountNotAllowed=Multiple GL Accounts are not allowed.

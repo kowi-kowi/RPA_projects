@@ -1,0 +1,10 @@
+plugin.supplierDirectory.label.browseContracts.commonOptions=Common Options
+plugin.supplierDirectory.label.browseContracts.containsChemicalItems=Contains Chemical Items
+plugin.supplierDirectory.label.browseContracts.containsHazardousItems=Contains Hazardous Items
+plugin.supplierDirectory.label.browseContracts.containsSafetyItems=Contains Safety Items
+plugin.supplierDirectory.label.browseContracts.contract=Contract
+plugin.supplierDirectory.label.browseContracts.contractCategory=Contract Category
+plugin.supplierDirectory.label.browseContracts.contractDetails=Contract Details
+plugin.supplierDirectory.label.browseContracts.contractId=Contract ID
+plugin.supplierDirectory.label.browseContracts.currency=Currency
+plugin.supplierDirectory.label.browseContracts.dateFrom=Expiration date

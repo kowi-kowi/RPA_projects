@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.supplierName=Supplier Name
+plugin.procPurchaseorder.label.supplierTransferStatus=Supplier Transfer Status
+plugin.procPurchaseorder.label.surname=Surname
+plugin.procPurchaseorder.label.tax=Tax
+plugin.procPurchaseorder.label.taxAmount=Tax Amount
+plugin.procPurchaseorder.label.taxRate=Tax Rate
+plugin.procPurchaseorder.label.taxValue=Tax Value
+plugin.procPurchaseorder.label.termsOfDelivery=Terms of Delivery
+plugin.procPurchaseorder.label.termsOfPayment=Terms of Payment
+plugin.procPurchaseorder.label.total=Total Net Value

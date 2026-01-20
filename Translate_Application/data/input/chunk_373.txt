@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormPurchaseOrder.header=Search for Purchase Order
+com.jcatalog.salesorder.GormPurchaseOrder.internalNotes=Internal Notes
+com.jcatalog.salesorder.GormPurchaseOrder.internalRevisionNo=Revision No
+com.jcatalog.salesorder.GormPurchaseOrder.invoiceAddress=Invoice Address
+com.jcatalog.salesorder.GormPurchaseOrder.isAggregative=Is Aggregative
+com.jcatalog.salesorder.GormPurchaseOrder.isIssuedWithoutSend=Prevent sending to the supplier
+com.jcatalog.salesorder.GormPurchaseOrder.isUrgent=Urgent
+com.jcatalog.salesorder.GormPurchaseOrder.limitOrderValidityPeriod=Validity Period
+com.jcatalog.salesorder.GormPurchaseOrder.methodOfPayment=Method Of Payment
+com.jcatalog.salesorder.GormPurchaseOrder.noOfItems.label=No. of Items

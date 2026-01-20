@@ -1,0 +1,10 @@
+plugin.systemMaintenance.error.query.exception=Error occurred during query execution\: {0}
+plugin.systemMaintenance.error.query.required=SQL is required
+plugin.systemMaintenance.error.save=Unexpected error occured\: {0}
+plugin.systemMaintenance.error.valueRequired=Value is required
+plugin.systemMaintenance.errorType.DEFECT=UI defect
+plugin.systemMaintenance.errorType.FUNCTIONAL=Functional problem
+plugin.systemMaintenance.errorType.LOCALIZATION=Localization problem
+plugin.systemMaintenance.errorType.PERFORMANCE=Performance problem
+plugin.systemMaintenance.find.entriesNumber={0} item(s) found.
+plugin.systemMaintenance.header.activeRequests.requests.title=Requests

@@ -1,0 +1,10 @@
+plugin.opcProductReview.message.productReview.deleteProductReview=Do you really want to delete current item?
+plugin.opcProductReview.message.productReview.deletionSuccess=Review was deleted successfully.
+plugin.opcProductReview.message.productReview.savedSuccessful=Review was saved successfully.
+plugin.opcProductReview.opcProductReview.label.orderQuantity=Order Quantity
+plugin.opcProductReview.title.productReview=Review List
+plugin.opcProductReview.title.productReview.deleteProductReviewPopup=Delete Product Review Item
+plugin.opcProductReview.title.productReview.editReview=Edit Review
+plugin.opcProductReview.title.productReview.productReviewPopup=Reviews
+plugin.opcProductReview.title.productReview.userHasReviewPopup=Warning
+plugin.opcProductReview.warning.productReview.userHasReview=You have already reviewed this item. You are not allowed to add another review, but you may edit your review.

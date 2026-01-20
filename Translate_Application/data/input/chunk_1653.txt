@@ -1,0 +1,10 @@
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.RatableQuestion.id.label=Question ID
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.RatableQuestion.label=Question
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.RatableQuestion.questionnaire.label=Questionnaire
+plugin.simpleQuestionnaire.com.jcatalog.questionnaire.RatableQuestion.respondentType.label=Respondent Type
+plugin.simpleQuestionnaire.d2qNotDefined.message=Please assign the incoming questionnaire to the given domain object.
+plugin.simpleQuestionnaire.hasQuestionnaireResponses.message=This questionnaire contains responses, which will be deleted. Do you really want to proceed?
+plugin.simpleQuestionnaire.message.saveChanges=Please save your question before editing
+plugin.simpleQuestionnaire.na.message=N/A
+plugin.simpleQuestionnaire.noQuestionnaireResponse.message=There is no questionnaire response.
+plugin.simpleQuestionnaire.notValid.value=Value is invalid

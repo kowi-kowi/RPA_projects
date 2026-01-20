@@ -1,0 +1,10 @@
+ssm.pendingActivations.label.catalogId=Catalog ID
+ssm.pendingActivations.label.task=Task
+ssm.pendingActivations.title=Pending Activations
+ssm.pendingActivations.title.desc=For catalogs in a pending activation state, the processing is on hold until the defined activation date is reached. The catalog will be published then automatically. This list allows you to interfere manually in the process to change the activation date or cancel further processing.
+ssm.processVariables.label.activationDate=Activation Date
+ssm.processVariables.label.catalog=Catalog ID
+ssm.processVariables.label.catalogVersion=Catalog Version
+ssm.processVariables.label.contract=Contract ID
+ssm.processVariables.label.contractVersion=Contract Version
+ssm.processVariables.label.customer=Customer ID

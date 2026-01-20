@@ -1,0 +1,10 @@
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.customerId.label=Customer
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.dataType.label=Data Type
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.dataType.text=Text
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.description.label=Description
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.editorType.autocomplete=Autocomplete
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.editorType.label=Editor Type
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.editorType.select=Drop-Down List
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.editorType.text=Text
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.label=Posting Dimension
+plugin.postingEditors.com.jcatalog.posting.internal.PostingDimension.postingDimensionId.label=Posting Dimension ID

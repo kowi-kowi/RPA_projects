@@ -1,0 +1,10 @@
+jasperReports.SpendPerClassificationReport.CustomerId_1=Customer
+jasperReports.SpendPerClassificationReport.SupplierId_1=Supplier
+jasperReports.SpendPerClassificationReport.classificationGroupId.label=Classification Group ID
+jasperReports.SpendPerClassificationReport.classificationGroupName.label=Classification Group Name
+jasperReports.SpendPerClassificationReport.classificationId.label=Classification ID
+jasperReports.SpendPerClassificationReport.customerId.label=Customer ID
+jasperReports.SpendPerClassificationReport.customerName.label=Customer Name
+jasperReports.SpendPerClassificationReport.dateRange=Date Range
+jasperReports.SpendPerClassificationReport.emptyReportMessage=There is no data for the report. Please, revise the parameters.
+jasperReports.SpendPerClassificationReport.fromDate=From Date

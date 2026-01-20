@@ -1,0 +1,10 @@
+toolbar.section.userInfo.endBuyingOnBehalf=Back to own profile
+toolbar.section.userInfo.onBehalfOfUser=On behalf of\: <b>{0}</b>
+toolbar.section.userInfo.switchBackCustomerAssignment=Return to {0}
+toolbar.section.userInfo.user=User
+toolbar.title.currentUser=Current User
+translate=Translate this\: {0}
+typeMismatch.QuickEntryCommand.products.quantity=Quantity is not valid.
+typeMismatch.avgRatingValue=''Average Rating'' value is not a valid number
+typeMismatch.com.jcatalog.businesspartner.GormAddress.numOfEmployees=Value must be a valid number
+typeMismatch.com.jcatalog.grails.scheduling.ModelCommand.endHour=End hours is not a valid number.

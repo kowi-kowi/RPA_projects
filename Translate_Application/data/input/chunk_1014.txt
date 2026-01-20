@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.attributes=Attributes
+plugin.opcAdministration.label.attributesOfProductBelongToProductGroups=Product Attributes assigned to Classification Groups
+plugin.opcAdministration.label.attributesOfProductClassificationGroupsWhereProductHasNoValue=Product Classification Groups having attributes with no value set
+plugin.opcAdministration.label.attributesOfProductNotBelongToProductGroups=Product Attributes not assigned to Classification Groups
+plugin.opcAdministration.label.baseFields=Base fields
+plugin.opcAdministration.label.belongToClassificationGroups=Belongs to Classification Groups
+plugin.opcAdministration.label.catalogId=Catalog ID
+plugin.opcAdministration.label.catalogs=Catalogs
+plugin.opcAdministration.label.checkProduct=Check Product
+plugin.opcAdministration.label.classification=Classification

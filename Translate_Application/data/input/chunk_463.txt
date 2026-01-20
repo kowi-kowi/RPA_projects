@@ -1,0 +1,10 @@
+email.ServiceEntryApproved.message.subject=Service entry sheet {0} has been approved.
+email.ServiceEntryConfirm.message.subject=Please confirm the service entry sheet {0}.
+email.ServiceEntryReject.message.subject=Service entry sheet {0} has not been confirmed.
+email.SoApprove.message.subject=Please approve the requisition {0}
+email.SoApproved.message.subject=Your cart\: {0} has been approved.
+email.SoConfirm.message.subject=Please confirm the requisition {0}.
+email.SoInspect.message.subject=Please, inspect the requisition {0}
+email.SoReject.message.subject=Rejection of cart {0}
+email.SoStockReservation.message.subject=Stock Reservation notification for {0}
+email.WebServiceExecutionFailure.message.subject=An error occurred during the web service execution.

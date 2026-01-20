@@ -1,0 +1,10 @@
+default.null.message=Property cannot be null
+default.number.format=0
+default.optimistic.locking.failure=Another user has updated this {0} while you were editing
+default.paginate.next=Next
+default.paginate.prev=Previous
+default.show.label=Show {0}
+default.updated.message={0} {1} updated
+deliveryRating.action.save=Confirm
+deliveryRating.action.skip=Skip
+deliveryRating.header=Supplier rating {0}

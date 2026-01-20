@@ -1,0 +1,10 @@
+plugin.contractEditor.com.jcatalog.contract.GormContract.containsHazardousItems.label=Contains Hazardous Items
+plugin.contractEditor.com.jcatalog.contract.GormContract.containsSafetyItems.label=Contains Safety Items
+plugin.contractEditor.com.jcatalog.contract.GormContract.contractBoilerplates.label=Contract Boilerplate
+plugin.contractEditor.com.jcatalog.contract.GormContract.contractCategory.label=Contract Category
+plugin.contractEditor.com.jcatalog.contract.GormContract.contractId.label=Contract ID
+plugin.contractEditor.com.jcatalog.contract.GormContract.contractedCatalogs.label=Contracted Catalogs
+plugin.contractEditor.com.jcatalog.contract.GormContract.createdBy.label=Created By
+plugin.contractEditor.com.jcatalog.contract.GormContract.createdOn.label=Created On
+plugin.contractEditor.com.jcatalog.contract.GormContract.currency.label=Currency
+plugin.contractEditor.com.jcatalog.contract.GormContract.descLong.label=Desc Long

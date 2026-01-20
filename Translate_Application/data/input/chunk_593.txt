@@ -1,0 +1,10 @@
+message.customer.workflow.execute.forwarding=Forwarding\n-------------------\nStarted at      ${now}\nForward from    ${forwardFrom}\nForward to      ${forwardTo}\nWorkflow Step   ${forwardStepLabel}\nForwarded by    ${user}\nCommentary      ${commentary}
+message.customer.workflow.execute.globalAutomaticEnrichment=Global Automatic Enrichment\n-------------------\nStarted at      ${now}
+message.customer.workflow.execute.globalAutomaticEnrichment.skip=The global enrichment step was skipped because the enriched file doesn't exist.
+message.customer.workflow.execute.globalAutomaticProductEnrichment=Global Automatic Product Enrichment\n-------------------\nStarted at      ${now}
+message.customer.workflow.execute.importFormatConversion=Import Catalog Conversion\n-------------------\nStarted at      ${now}
+message.customer.workflow.execute.ok=Finished at     ${now}
+message.customer.workflow.execute.rejecting=Rejecting \n-------------------\nStarted at      ${now}\nRejected by     ${user}\nCommentary      ${commentary}
+message.customer.workflow.execute.sendNotification=r\nSend Mail Notification\\n-------------------\\nStarted at      ${now}\\nSend mail to    ${mailTo}
+message.customer.workflow.execute.synchronization=Synchronization Catalog\n-------------------\nStarted at      ${now}
+message.customer.workflow.execute.synchronization.fails=The catalog synchronization has not been completed.

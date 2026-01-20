@@ -1,0 +1,10 @@
+plugin.procRequisition.link.showOrderProcessOverview=Order Process Overview
+plugin.procRequisition.link.startRfq=Start RfQ
+plugin.procRequisition.link.workflow.history=Approval history
+plugin.procRequisition.mail.offer=Offer
+plugin.procRequisition.mail.subject.requisitionChanges=Changes in the approval workflow
+plugin.procRequisition.menu.requisitioning.analysis=Requisition Status
+plugin.procRequisition.menu.requisitioning.approvedRequisition=Overview of approved requisitions
+plugin.procRequisition.menu.requisitioning.requisitionApproval=Requisition Approval
+plugin.procRequisition.menu.requisitioning.requisitionStatus=Requisitions
+plugin.procRequisition.message.event.result_0=Event was triggerred.

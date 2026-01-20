@@ -1,0 +1,10 @@
+plugin.budget.command.back=Back
+plugin.budget.command.book=Book
+plugin.budget.command.bookingHistory=Booking History
+plugin.budget.command.cancel=Cancel
+plugin.budget.command.create=Create
+plugin.budget.command.delete=Delete
+plugin.budget.command.edit=Edit
+plugin.budget.command.moveBookingRecord=Move
+plugin.budget.command.reset=Reset
+plugin.budget.command.save=Save

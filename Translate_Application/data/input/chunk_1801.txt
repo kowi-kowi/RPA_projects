@@ -1,0 +1,10 @@
+prov.PostingDimensionDependencyEditor.header=Posting Dimension Dependency Editor
+prov.PostingDimensionDependencyEditor.label.GLAccount=GL Account
+prov.PostingDimensionDependencyEditor.label.allowAllValues=Allow all values
+prov.PostingDimensionDependencyEditor.label.default=(default)
+prov.PostingDimensionDependencyEditor.label.defaultValue=Default value
+prov.PostingDimensionDependencyEditor.label.deleteDependency=Are you sure you want to delete source "{source}" and all dependencies associated with it?
+prov.PostingDimensionDependencyEditor.label.deleteDependencyAndAllValues=Are you sure you want to delete dimension pair "{source}" - "{target}" and all values associated with it?
+prov.PostingDimensionDependencyEditor.label.deleteSourceValue=Are you sure you want to delete source value "{description}" and all dependent values associated with it?
+prov.PostingDimensionDependencyEditor.label.deleteTargetValue=Are you sure you want to delete target value "{description}"?
+prov.PostingDimensionDependencyEditor.label.search=Search...

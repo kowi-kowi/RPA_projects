@@ -1,0 +1,10 @@
+plugin.opcPrices.label.conversionRate=Conversion Rate
+plugin.opcPrices.label.currency=Currency
+plugin.opcPrices.label.discountAmount=Discount Amount
+plugin.opcPrices.label.discountAmount.percentual=Discount Amount (%)
+plugin.opcPrices.label.emptyResult=No prices were found
+plugin.opcPrices.label.leadTimeInDays=Lead time in days
+plugin.opcPrices.label.material.basis=Basis
+plugin.opcPrices.label.material.metal=Metal
+plugin.opcPrices.label.material.price=Price
+plugin.opcPrices.label.material.stockQuotationFrom=Stock Quotation from

@@ -1,0 +1,10 @@
+plugin.procRequisition.label.item.deliveryDate=Delivery Date
+plugin.procRequisition.label.item.deliveryDue=Delivery Due
+plugin.procRequisition.label.item.descShort=DescShort
+plugin.procRequisition.label.item.expDeliveryDate=Exp. Delivery Date
+plugin.procRequisition.label.item.goodReceiptDate=Date of Receipt
+plugin.procRequisition.label.item.invoiceAddress.city=City
+plugin.procRequisition.label.item.invoiceAddress.name1=Name1
+plugin.procRequisition.label.item.invoiceAddress.name2=Name2
+plugin.procRequisition.label.item.invoiceAddress.street=Street
+plugin.procRequisition.label.item.invoiceAddress.zipCode=Zip Code

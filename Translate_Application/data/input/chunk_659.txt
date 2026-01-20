@@ -1,0 +1,10 @@
+opc.product.modal.multicontract.header.quantity.min=Min Quantity
+opc.product.modal.multicontract.header.rate.conversion=Conversion Rate
+opc.product.modal.multicontract.header.suppliers=Suppliers
+opc.product.modal.multicontract.header.valid.from=Valid from
+opc.product.modal.multicontract.header.valid.to=Valid to
+opc.product.modal.multicontract.header.validFromQuantity=Valid from quantity
+opc.product.modal.multicontract.label.amount.order=Order amount
+opc.product.modal.multicontract.label.quantity.order=Order quantity
+opc.product.modal.multicontract.product.fees.header.amount=Amount
+opc.product.modal.multicontract.product.fees.header.contract=Contract

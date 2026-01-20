@@ -1,0 +1,10 @@
+com.jcatalog.product.GormCatalogCategory.header=Search for Catalog Category
+com.jcatalog.product.GormCatalogCategory.id.label=ID
+com.jcatalog.product.GormManufacturer.header=Search for Manufacturers
+com.jcatalog.product.GormManufacturer.manufacturerId.label=Manufacturer ID
+com.jcatalog.product.GormManufacturer.name.label=Manufacturer Name
+com.jcatalog.product.GormProductCatalog.description.label=Description
+com.jcatalog.product.GormProductCatalog.header=Search for Product Catalogs
+com.jcatalog.product.GormProductCatalog.productCatalogId.label=Product Catalog ID
+com.jcatalog.product.GormProductCatalog.productCatalogId.matches.invalid=In "Product Catalog ID" only alphabetical, numerical, ''_'' and ''-'' symbols are allowed.
+com.jcatalog.product.GormProductRelationType.description.label=Description

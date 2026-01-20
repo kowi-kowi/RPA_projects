@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormSalesOrderItem.isDiscounted=Is Discounted
+com.jcatalog.salesorder.GormSalesOrderItem.isDiscountedAutomatically=Is Discounted Automatically
+com.jcatalog.salesorder.GormSalesOrderItem.isExternalPriceAvailable=Is External Price Available
+com.jcatalog.salesorder.GormSalesOrderItem.isFreeShipping=Is Free Shipping
+com.jcatalog.salesorder.GormSalesOrderItem.isGlAccountSetManually=Is GL Account Set Manually
+com.jcatalog.salesorder.GormSalesOrderItem.isLimitItem=Is Limit Item
+com.jcatalog.salesorder.GormSalesOrderItem.isServiceConfigurator=Is Service Configurator
+com.jcatalog.salesorder.GormSalesOrderItem.isStockedItem=Is Stocked
+com.jcatalog.salesorder.GormSalesOrderItem.isSurcharge=Is Surcharge
+com.jcatalog.salesorder.GormSalesOrderItem.leadTimeInDays=Lead Time In Days

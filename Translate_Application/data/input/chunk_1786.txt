@@ -1,0 +1,10 @@
+proc.widgets.showPreviousYear.label=Show previous year
+proc.widgets.showRealmLabel.label=Show realm
+proc.widgets.spendPerCatalogs.delivered.label=Delivered
+proc.widgets.spendPerCatalogs.notDelivered.label=Not delivered
+proc.widgets.spendPerCatalogs.total.label=Total
+proc.widgets.spendPerCatalogs.yAxis.label=Total price, {0}
+proc.widgets.spendPerCategory.delivered.label=Delivered
+proc.widgets.spendPerCategory.notDelivered.label=Not delivered
+proc.widgets.spendPerCategory.total.label=Total
+proc.widgets.spendPerCategory.yAxis.label=Total price, {0}

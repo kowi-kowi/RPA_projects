@@ -1,0 +1,10 @@
+message.frame.agreement.workflow.execute.publish=Publishing\n-------------------\nStarted at      ${now}\nApproved by     ${user}
+message.frame.agreement.workflow.execute.rejectChanges=Rejecting Changes\n-------------------\nStarted at      ${now}\nRejected by     ${user}
+message.frame.agreement.workflow.execute.script=Using script\: ${script}
+message.frame.agreement.workflow.execute.sendNotification=Send Mail Notification\n-------------------\nStarted at      ${now}\nSend mail to    ${mailTo}
+message.frame.agreement.workflow.execute.validation=Validation\n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.execute.validationFrameAgreement=Frame Agreement Validation \nStarted at      ${now}
+message.frame.agreement.workflow.execute.validationResults=Validation Results \n-------------------\nStarted at      ${now}
+message.frame.agreement.workflow.executedBusinessRuleContext=External variables\: ${businessRulesContext}.
+message.frame.agreement.workflow.executedBusinessRuleLists=Executed Business Rule Lists\: ${executedBusinessRuleLists}
+message.frame.agreement.workflow.finish.actionErrorMessage=ErrorMessage\: ${errorMessage}

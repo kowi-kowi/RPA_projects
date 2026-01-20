@@ -1,0 +1,10 @@
+plugin.salesorder.message.logger.insertedItems=Inserted Sales Order Items\: {0}
+plugin.salesorder.message.logger.insertedOrders=Inserted Sales Orders\: {0}
+plugin.salesorder.message.logger.notVisibleProducts=The following products were not imported, because they are not available for the current user\: {0}
+plugin.salesorder.message.logger.rowMessage=Row {0}\: {1}
+plugin.salesorder.message.profile.update=Requisition Defaults have been updated.
+plugin.salesorder.message.result.log=Import result log is available here\:
+plugin.salesorder.message.validation.approver.invalid=Approver for each step should be different from the current user.
+plugin.salesorder.message.validation.approver.notFound=Approver {0} not found.
+plugin.salesorder.message.validation.approver.unique=Approver for each step should be unique.
+plugin.salesorder.message.validation.approver1.missed=Technical Approver (optional) is missing.

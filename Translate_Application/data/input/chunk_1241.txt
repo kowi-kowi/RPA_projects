@@ -1,0 +1,10 @@
+plugin.opcReplenishment.error.contract.emptyOrInvalidPrice=The related product with key {0} does not have a contract or the price is invalid.
+plugin.opcReplenishment.error.contract.notOne=The related product with key {0} has more than one contract.
+plugin.opcReplenishment.error.generateDraftRequisition=The replenishment process is interrupted on the step of generating Draft Requisition.
+plugin.opcReplenishment.error.interrupted.assignment=User {0} does not have a customer assignment. The replenishment process cannot be started. Please, assign to a customer or contact your administrator.
+plugin.opcReplenishment.error.interrupted.exception=An error occurred when starting the replenishment process.
+plugin.opcReplenishment.error.interrupted.findRealProducts=The replenishment process is interrupted on the step of finding real products for material.
+plugin.opcReplenishment.error.interrupted.findResponsibleUser=The replenishment process is interrupted on the step of finding the responsible users.
+plugin.opcReplenishment.error.interrupted.noMaterialProducts=There are no material products for the replenishment process.
+plugin.opcReplenishment.error.interrupted.validateRealProducts=The replenishment process is interrupted on the step of validating real products for material.
+plugin.opcReplenishment.error.invalidAddress=The address with Address ID {0} does not exist in the central DB.

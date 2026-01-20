@@ -1,0 +1,10 @@
+RFQ.supplierQuoteEditor.rejectQuoteModal.title=Reject Supplier Response
+RFQ.supplierQuoteEditor.sqItemEditor.cancel=Cancel
+RFQ.supplierQuoteEditor.sqItemEditor.confirmApplyingMasterFactorToSubItemsText=Supplier Response Item {description} Price Factor has been changed. Do you want to apply ({factor} %) factor to all ({number}) sub-items?
+RFQ.supplierQuoteEditor.sqItemEditor.no=No
+RFQ.supplierQuoteEditor.sqItemEditor.save=Save
+RFQ.supplierQuoteEditor.sqItemEditor.saveAndNext=Save & Next
+RFQ.supplierQuoteEditor.sqItemEditor.supplierResponseAttributeEditor=Supplier Response Attributes
+RFQ.supplierQuoteEditor.sqItemEditor.yes=Yes
+RFQ.supplierQuoteEditor.title.editorattachmentRequired=attachment is required
+RFQ.supplierQuoteEditor.title.editortitle=Supplier Response

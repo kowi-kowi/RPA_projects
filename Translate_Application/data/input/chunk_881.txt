@@ -1,0 +1,10 @@
+plugin.eprocPosting.pdvSearch.message.limitTreeSize=Tree could not be loaded because there are more than 500 results of the selected type. Please use the search.
+plugin.eprocPosting.pdvSearch.message.note=Use wildcards like '*' and '?' for searching. The asterisk substitutes one or more characters, the question mark substitutes exactly one character. Example\: &quot;car*&quot; will find &quot;cartonnage&quot;, &quot;caretaker&quot;, &quot;carriage&quot; and more; &quot;car?&quot; will find &quot;cart&quot;, &quot;carp&quot;, &quot;card&quot; and more.
+plugin.eprocPosting.pdvSearch.tab.search=Search
+plugin.eprocPosting.pdvSearch.tab.tree=Tree
+plugin.eprocPosting.pdvSearch.tab.treeByRoot=Tree by Root
+plugin.eprocPosting.pdvSearch.title.postingDimensionValueSearch=Posting Dimension Value Search
+plugin.eprocPosting.title.massOperation=Bulk Operation for Selected Items
+plugin.eprocPosting.title.postingEditor=Posting Editor
+plugin.eprocPosting.title.postingSummary=Posting Summary
+plugin.eprocPosting.title.singleOperation.grossPrice=Posting for Product {0} with Quantity {3} {4} and Total Gross Price\: {1} {2}

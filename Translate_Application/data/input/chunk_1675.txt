@@ -1,0 +1,10 @@
+plugin.ssmGrailsflow.title.processList.desc=This page displays the list of different SSM processes. If required, select 'Process Type' and 'Status' from the options available in the drop down menu. Use the magnifying glass to search for appropriate selections such as Catalog ID. Note \: The selection of Supplier (defaulted for Suppliers) or Catalog ID is required. When search is completed, you may click on a Process ID link in the search result table to view the relevant Process details.
+plugin.ssmGrailsflow.title.worklist=Worklist
+plugin.ssmProductEditor.catalog.objectClass.name=Product Catalog
+plugin.ssmProductEditor.catalogProvisioning.objectClass.name=Catalog Provisioning
+plugin.ssmProductEditor.catalogProvisioning.objectClass.relation=catalog-supplier
+plugin.ssmProductEditor.catalogUsage.objectClass.name=Catalog Usage
+plugin.ssmProductEditor.catalogUsage.objectClass.relation=catalog-customer
+plugin.ssmProductEditor.contract.objectClass.name=Contract
+plugin.ssmProductEditor.contractProvisioning.objectClass.name=Contract Provisioning
+plugin.ssmProductEditor.contractProvisioning.objectClass.relation=contact-supplier

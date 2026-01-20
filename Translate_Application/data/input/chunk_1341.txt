@@ -1,0 +1,10 @@
+plugin.opcShoppingList.label.chooseAction=Choose action
+plugin.opcShoppingList.label.chooseYourButton=- Choose your action -
+plugin.opcShoppingList.label.company=Company
+plugin.opcShoppingList.label.configurable=Select
+plugin.opcShoppingList.label.country=Country
+plugin.opcShoppingList.label.customer=Customer
+plugin.opcShoppingList.label.deleteAllLists=Delete All Lists
+plugin.opcShoppingList.label.deleteList=Delete the Selected List
+plugin.opcShoppingList.label.deleteListItem=Delete
+plugin.opcShoppingList.label.deleteSelectedListItems=Delete Selected

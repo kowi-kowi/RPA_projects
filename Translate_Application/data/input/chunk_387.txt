@@ -1,0 +1,10 @@
+com.jcatalog.salesorder.GormSalesOrderItem.comment=Comment
+com.jcatalog.salesorder.GormSalesOrderItem.contractId=Contract ID
+com.jcatalog.salesorder.GormSalesOrderItem.contractedAbsoluteDiscount=Absolute Discount
+com.jcatalog.salesorder.GormSalesOrderItem.contractedCurrency=Contracted Currency
+com.jcatalog.salesorder.GormSalesOrderItem.contractedNetPrice=Contracted Net Price
+com.jcatalog.salesorder.GormSalesOrderItem.contractedNetPriceWithoutDiscount=Contracted Net Price without Discount
+com.jcatalog.salesorder.GormSalesOrderItem.contractedPercentageDiscount=Percentage Discount
+com.jcatalog.salesorder.GormSalesOrderItem.costDistribution=Cost Object
+com.jcatalog.salesorder.GormSalesOrderItem.currency=Currency
+com.jcatalog.salesorder.GormSalesOrderItem.deliveryAddress=Delivery Address

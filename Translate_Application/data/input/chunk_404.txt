@@ -1,0 +1,10 @@
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.maxRows.min.notmet="Result Size" should be greater than 0
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.maxRows.nullable="Result Size" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.productCatalogId.blank="Product Catalog" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.productCatalogId.nullable="Product Catalog" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.productCatalogId.validator.error=ProductCatalog with such ID is not found
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.query.blank="Query" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.query.nullable="Query" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.supplierId.blank="Supplier" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.supplierId.nullable="Supplier" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryExecuteCommand.supplierId.validator.error=Supplier with such ID is not found

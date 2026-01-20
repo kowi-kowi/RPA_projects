@@ -1,0 +1,10 @@
+RFQ.supplierQuoteList.rfxStatusClosed=Include Closed RFXs
+RFQ.supplierQuoteList.rfxTitle=RFX Title
+RFQ.supplierQuoteList.status=Status
+RFQ.supplierQuoteList.submissionDate=Start Date
+RFQ.supplierQuoteList.supplierQuoteId=Supplier Response ID
+RFQ.supplierQuoteTableHeader.DC.description=Demand Collection
+RFQ.supplierQuoteTableHeader.RFA.description=Request for Availability
+RFQ.supplierQuoteTableHeader.RFC.description=Request for Contract
+RFQ.supplierQuoteTableHeader.RFI.description=Request for Information
+RFQ.supplierQuoteTableHeader.RFQ.description=Request for Quote

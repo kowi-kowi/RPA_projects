@@ -1,0 +1,10 @@
+plugin.futureSpendsReport.message.export.failed=Export is failed
+plugin.futureSpendsReport.message.export.failed.email.isEmpty=Export has not been executed. Please, provide at least one email.
+plugin.futureSpendsReport.message.export.failed.sendMail.error=An error occurred during the email sending.
+plugin.futureSpendsReport.message.export.success=Export completed, export file has been sent to the selected email.
+plugin.futureSpendsReport.message.noDataFound=No data found
+plugin.futureSpendsReport.tab.data=Data
+plugin.futureSpendsReport.tab.diagrams=Diagrams
+plugin.futureSpendsReport.text.topFive.classificationGroups=Top Five Classification Groups with the strongest relative growth in approximate spend volume
+plugin.futureSpendsReport.text.topFive.products=Top Five products with the strongest relative growth in approximate spend volume
+plugin.futureSpendsReport.title.futureSpendsReport=Future Spends Report

@@ -1,0 +1,10 @@
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.logo.label=Logo
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.parentCustomer.label=Parent Customer
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomer.tax.label=Tax
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomerGroup.customerGroupId.label=Customer Group ID
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomerGroup.label=Customer Group
+plugin.customerEditor.com.jcatalog.businesspartner.GormCustomerGroup.name.label=Name
+plugin.customerEditor.com.jcatalog.tax.GormCustomer2Tax.customer.label=Customer
+plugin.customerEditor.com.jcatalog.tax.GormCustomer2Tax.customerTaxId.label=Customer Tax ID
+plugin.customerEditor.com.jcatalog.tax.GormCustomer2Tax.label=Customer to Tax Assignment
+plugin.customerEditor.com.jcatalog.tax.GormCustomer2Tax.tax.label=Tax

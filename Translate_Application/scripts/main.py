@@ -12,45 +12,54 @@ import tools
 import os
 
 def main():
-    repo_url = "https://github.com/kowi-kowi/test.git"   
-    clone_path = "./Translate_Application/data/test"
-    input_file_path = "Translate_Application/data/test/trnslate.txt"
+
+    input_file_path = "./Translate_Application/data/messages.properties"
+    translated_output_dir = "./Translate_Application/data/translated_output"
     source_language = "eng_Latn"  # Przykładowy język źródłowy
-    target_language = "dan_Latn"  # Przykładowy język docelowy
+    target_language = "nld_Latn"  # Przykładowy język docelowy
 
 
     # 1. Get the input text from github repository
-    tools.clone_repository(repo_url, clone_path)
+    #tools.clone_repository(repo_url, clone_path)
 
     # 2. Detect the source language of the text
     #source_language = tools.detect_language(input_file_path)
 
     # 3. Divide the text into manageable chunks
-    tools.split_file_into_chunks(input_file_path)
+    #tools.split_file_into_chunks(input_file_path)
 
     # 4. Translate the chunks to the target language
 
-    tokenizer, model = tools.start_model("./Translate_Application/model/nllb-200-distilled-600M")
+    tokenizer, model = tools.start_model("facebook/nllb-200-distilled-600M")
 
     list_of_files = os.listdir("./Translate_Application/data/input")
     for file_name in list_of_files:
+        filename = file_name
+        translated_lines = []
         file_path = os.path.join("./Translate_Application/data/input", file_name)
         text = tools.read_file(file_path)
-        translated_text = ""
         if text:
             lines = tools.text_to_lines(text)
             for line in lines:
+                line = line.strip()
+                if '=' in line:
+                    prefix, text_to_translate = line.split('=', 1)
+                    translated_line = tools.translate_text(text_to_translate, tokenizer, model, source_language, target_language)
+                    reconstructed_line = f"{prefix}={translated_line}"
+                    translated_lines.append(reconstructed_line)
+                else:
+                    pass
                 translated_text = translated_text + "\n" + tools.translate_text(line, tokenizer, model, source_language, target_language)
 
-        print(f"Przetłumaczony tekst z pliku '{file_name}':\n{translated_text}\n")
+        output_filepath = os.path.join(translated_output_dir, filename)
+        with open(output_filepath, "w") as f_out:
+            for translated_line in translated_lines:
+                f_out.write(translated_line + '\n') # Add newline back for each line
         
-        lang = tools.detect_language(translated_text)
-        print(f"Wykryty język przetłumaczonego tekstu: {lang}\n")
-        
-        #translated_text = tools.to_unicode_escape(translated_text)
-        
-        tools.save_file(f"./Translate_Application/data/output/translated_{file_name}", translated_text)        
         tools.remove_file(file_path)
+
+                
+
 
     # 5. Check for output language correctness
     # (Implement your own logic here)

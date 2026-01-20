@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.receiptType.MANUAL=Manual
+plugin.procPurchaseorder.label.receivedOn=Received on\: {0}
+plugin.procPurchaseorder.label.reminder.cc=Copy to
+plugin.procPurchaseorder.label.reminder.option.confirmation=Confirmation
+plugin.procPurchaseorder.label.reminder.option.overdueDelivery=Overdue Delivery
+plugin.procPurchaseorder.label.reminder.recipient=Recipient
+plugin.procPurchaseorder.label.repeatPassword=Repeat Password
+plugin.procPurchaseorder.label.requestedAmount=Requested Amount
+plugin.procPurchaseorder.label.requestedBy=Requested By
+plugin.procPurchaseorder.label.requestedDeliveryDate=Requested Delivery Date

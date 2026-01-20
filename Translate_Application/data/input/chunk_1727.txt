@@ -1,0 +1,10 @@
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.extShortName.label=Ext Short Name
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.extSupplierID.label=Ext Supplier ID
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.extSupplierID.tooltip=Reference to external System where same supplier might have a different identifier
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.globalLocationNo.label=Global Location No
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.label=Supplier
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.language.label=Language
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.logo.label=Logo
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.status.hint=Supplier must have status 400 (confirmed) to be visible in OPC
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.status.label=Status
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplier.supplier2ClassificationGroups.label=Classification Groups

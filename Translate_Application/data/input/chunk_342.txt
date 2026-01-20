@@ -1,0 +1,10 @@
+com.jcatalog.organization.GormCatalogUser.header=Search for User
+com.jcatalog.organization.GormCatalogUser.id.label=Login
+com.jcatalog.organization.GormCatalogUser.surname.label=Second Name
+com.jcatalog.organization.GormUserGroup.description.label=Description
+com.jcatalog.organization.GormUserGroup.header=Search for User Groups
+com.jcatalog.organization.GormUserGroup.name.label=Name
+com.jcatalog.organization.GormUserRole.description.label=Description
+com.jcatalog.organization.GormUserRole.header=Search for User Roles
+com.jcatalog.organization.GormUserRole.name.label=Name
+com.jcatalog.organization.OrganizationUnit.header=Search for Organization Unit

@@ -1,0 +1,10 @@
+plugin.opcSearch.label.clearAll=Clear all
+plugin.opcSearch.label.competitor.OEM.productsOnly=OEM Product IDs only
+plugin.opcSearch.label.competitor.productId=Competitor Product ID
+plugin.opcSearch.label.configurable=Select
+plugin.opcSearch.label.configurableHint=Select to pick options
+plugin.opcSearch.label.configureHint=Fill in form to obtain service
+plugin.opcSearch.label.customRangeFacetFilter.from=from
+plugin.opcSearch.label.customRangeFacetFilter.to=to
+plugin.opcSearch.label.dailyPrice=Daily Price
+plugin.opcSearch.label.deliveryDue=Delivery due

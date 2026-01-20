@@ -1,0 +1,10 @@
+plugin.orderAttachment.fileTypeNotAllowed.error=File type not allowed. Allowed types are\: {0}.
+plugin.orderAttachment.message.acceptFileTypes=Allowed file types are\: {0}.
+plugin.orderAttachment.message.uploadMaxSize=Max file size for upload\: {0}.
+plugin.orderAttachment.notFound.label=file not found
+plugin.orderAttachment.objectDeleteFailed.message=Failed to delete object
+plugin.orderAttachment.relevant.confirmation.label=Order Confirmation
+plugin.orderAttachment.relevant.supplier.label=Available for Suppliers
+plugin.orderAttachment.serverMaxFileSizeExceed.error=The maximum file size allowed for uploading by the server has been exceeded. Please, contact your administrator.
+plugin.orderAttachment.titleHeader=Attachments
+plugin.orderAttachment.titleHeaderForSOI=Attachments for {0}

@@ -1,0 +1,10 @@
+plugin.frameAgreement.label.description=Description
+plugin.frameAgreement.label.productCatalogId=Catalog
+plugin.frameAgreement.label.quantity=Quantity
+plugin.frameAgreement.label.supplierId=Supplier
+plugin.frameAgreement.label.type=Type
+plugin.frameAgreement.label.uom=Unit of Measure
+plugin.frameAgreement.label.validRange=Valid Range
+plugin.frameAgreement.quantity.type=Quantity
+plugin.frameAgreement.title=Frame Agreement
+plugin.frameAgreement.tooltip.startWorkflow=Click to start workflow

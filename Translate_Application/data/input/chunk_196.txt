@@ -1,0 +1,10 @@
+SSM.productEditor.grid.columns.leadtimeInDays=Lead Time in Days
+SSM.productEditor.grid.columns.listPrice=List Price
+SSM.productEditor.grid.columns.longDescription=Long Description
+SSM.productEditor.grid.columns.manufacturerId=Manufacturer ID
+SSM.productEditor.grid.columns.manufacturerName=Manufacturer Name
+SSM.productEditor.grid.columns.maxQuantity=Max Quantity
+SSM.productEditor.grid.columns.mfgProductId=Manufacturer Product ID
+SSM.productEditor.grid.columns.minQuantity=Min Quantity
+SSM.productEditor.grid.columns.multiplicationQuantityWithMaster=Multiplication of Quantity
+SSM.productEditor.grid.columns.netPrice=Net Price

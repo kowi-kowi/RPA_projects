@@ -1,0 +1,10 @@
+RFQ.rfx.action.hide=Hide
+RFQ.rfx.action.openResponses=Responses
+RFQ.rfx.action.pause=Pause
+RFQ.rfx.action.prepareNewRound=Start New Round
+RFQ.rfx.action.resume=Resume
+RFQ.rfx.action.save=Save
+RFQ.rfx.action.terminate=Terminate
+RFQ.rfx.action.view=View
+RFQ.rfx.action.viewAll=View all
+RFQ.rfx.attachments=Documents

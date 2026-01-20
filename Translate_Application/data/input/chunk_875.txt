@@ -1,0 +1,10 @@
+plugin.enversUi.header.createdOn=Created On
+plugin.enversUi.header.operations=Operations
+plugin.enversUi.header.revision=Revision
+plugin.enversUi.label.createdBy=Created By
+plugin.enversUi.label.createdOn=Created On
+plugin.enversUi.label.currentValue=Current Value
+plugin.enversUi.label.diff={0} differences
+plugin.enversUi.label.fieldId=Field ID
+plugin.enversUi.label.fieldTranslation=Field Name
+plugin.enversUi.label.oldValue=Old Value

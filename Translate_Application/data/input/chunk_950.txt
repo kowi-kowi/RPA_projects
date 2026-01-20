@@ -1,0 +1,10 @@
+plugin.grailsflow.title.processList=Process List
+plugin.grailsflow.title.processNode=Process Node
+plugin.grailsflow.title.processNodes=Process Nodes
+plugin.grailsflow.title.processScript=Process Script
+plugin.grailsflow.title.processTransitions=Process Transitions
+plugin.grailsflow.title.processTranslations=Process Translations
+plugin.grailsflow.title.processVars=Process Variables
+plugin.grailsflow.title.roles=Roles
+plugin.grailsflow.title.scheduleProcess=Schedule Process
+plugin.grailsflow.title.schedulerDetails=Workflow Scheduler

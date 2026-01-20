@@ -1,0 +1,10 @@
+plugin.procCommon.button.yes=Yes
+plugin.procCommon.com.jcatalog.budget.BudgetPeriod.budgetPeriodId.label=Period ID
+plugin.procCommon.com.jcatalog.budget.BudgetPeriod.customerId.label=Customer ID
+plugin.procCommon.com.jcatalog.budget.BudgetPeriod.description.label=Description
+plugin.procCommon.com.jcatalog.budget.BudgetPeriod.label=Budget Period
+plugin.procCommon.com.jcatalog.budget.BudgetPeriod.validRange.label=Valid Range
+plugin.procCommon.com.jcatalog.employee.Employee.employeeId.label=Employee ID
+plugin.procCommon.com.jcatalog.employee.Employee.firstName.label=First Name
+plugin.procCommon.com.jcatalog.employee.Employee.jobCategoryId.label=Job Category ID
+plugin.procCommon.com.jcatalog.employee.Employee.label=Employee

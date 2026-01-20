@@ -1,0 +1,10 @@
+plugin.opcSearch.header.facet.classification=Groups
+plugin.opcSearch.header.facet.facet_manufacturerName=Manufacturer
+plugin.opcSearch.header.facet.facet_specialMarks=Special Marks
+plugin.opcSearch.header.facet.facet_supplierName=Supplier
+plugin.opcSearch.header.facet.search.classificationGroup=Search for classification group
+plugin.opcSearch.header.facet.search.placeholder=Search for {0}
+plugin.opcSearch.header.indicators=Indicators
+plugin.opcSearch.header.manufacturerName=Manufacturer
+plugin.opcSearch.header.mfgProductId=Man. Prod. ID
+plugin.opcSearch.header.placeholder.facet_manufacturerName=manufacturer

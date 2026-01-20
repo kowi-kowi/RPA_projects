@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.noCmlFiles=There are no CML files
+plugin.opcAdministration.label.noContracts=No Contracts
+plugin.opcAdministration.label.noContractsForUser=No Contracts
+plugin.opcAdministration.label.noCustomerViews=No Customer Views
+plugin.opcAdministration.label.noSessionParams=No Session parameters
+plugin.opcAdministration.label.operator=Operator
+plugin.opcAdministration.label.orderNo=Order No
+plugin.opcAdministration.label.orderNumber=Order Sequence Number
+plugin.opcAdministration.label.parent=Parent
+plugin.opcAdministration.label.permissions=Permissions

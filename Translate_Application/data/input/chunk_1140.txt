@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.message.product.unavailable=''{0}'' is not available for the current user.
+plugin.opcDraftRequisition.message.productAdded=Product ''{0}'' was added to cart.
+plugin.opcDraftRequisition.message.productAddedToDraftRequisition=Product ''{0}'' was added to Draft Requisition ''{1}''.
+plugin.opcDraftRequisition.message.productUpdatdInDraftRequisition=Product ''{0}'' is updated in Draft Requisition ''{1}''.
+plugin.opcDraftRequisition.message.savedDraftRequisition=Your Draft Requisition ''{0}'' is saved with Draft Requisition ID ''{1}''.
+plugin.opcDraftRequisition.message.updated=Draft Requisition was updated.
+plugin.opcDraftRequisition.message.validation.contract.notvalid=Contract is not valid.
+plugin.opcDraftRequisition.message.validation.product.hasSubItemErrors=Configurable product is not correct.
+plugin.opcDraftRequisition.message.validation.product.subItemNotRelation=The child product is not related to the master product.
+plugin.opcDraftRequisition.message.validation.product.subItemsNotExists=Product has sub items which do not exist.

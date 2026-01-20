@@ -1,0 +1,10 @@
+plugin.opcOrder.label.recipient.department=Department
+plugin.opcOrder.label.recipient.email=Email
+plugin.opcOrder.label.recipient.floor=Floor
+plugin.opcOrder.label.recipient.name=Name
+plugin.opcOrder.label.recipient.phoneNo=Phone No.
+plugin.opcOrder.label.recipient.room=Room
+plugin.opcOrder.label.salutation=Salutation
+plugin.opcOrder.label.serviceOrder=Service Order
+plugin.opcOrder.label.shippingInstructions=Shipping Instructions
+plugin.opcOrder.label.state=State

@@ -1,0 +1,10 @@
+cmlConsole.email.notification.import.title=Import results
+cmlConsole.error.emptyFile=File is required. Please, specify this field.
+cmlConsole.error.emptyXml=CML is not specified. Please, provide CML data.
+cmlConsole.error.importError=Importing failed with errors. See <a target\="_blank" href\="{0}">log file</a> for more information.
+cmlConsole.error.importWarning=Importing with warning.
+cmlConsole.error.importingIntoDB=Importing CML data finished with exception\: {0}
+cmlConsole.error.notSentEmail=Email wasn't sent.
+cmlConsole.error.sendingEmail=Sending email failed with exception.
+cmlConsole.error.workareaFileNotFound=Work Area file not found.
+cmlConsole.error.workareaFilePathEmpty=Work Area file name is empty. Please, specify this field.

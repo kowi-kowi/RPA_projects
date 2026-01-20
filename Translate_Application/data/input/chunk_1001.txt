@@ -1,0 +1,10 @@
+plugin.opcAddToCart.com.jcatalog.opc.details.ProductDetailsCommand.expectedAmount.validator.positive.error=Expected Amount must be a positive number.
+plugin.opcAddToCart.error.defaultConfigurationUnavailable=The product cannot be added to the shopping cart with the default configuration. Please, configure it manually.
+plugin.opcAddToCart.error.emptyProduct=Product is missing.
+plugin.opcAddToCart.error.emptyProducts=Please enter at least one product.
+plugin.opcAddToCart.error.emptyQuantity=Quantity is missing.
+plugin.opcAddToCart.error.selectedContract.invalidPrice=Selected contract doesn't have valid price.
+plugin.opcAddToCart.error.supplierNotAllowed=Supplier ''{0}'' is not allowed.
+plugin.opcAddToCart.label.addItem2Cart=Add one more item
+plugin.opcAddToCart.label.addItem2Exists=Add the quantity to the existing item
+plugin.opcAddToCart.label.addProduct=Add Product

@@ -1,0 +1,10 @@
+plugin.procCommon.value=Value
+plugin.procCommon.value.no=N
+plugin.procCommon.value.notExist=does not exist
+plugin.procCommon.value.null=Empty (no value)
+plugin.procCommon.value.reset=---Reset---
+plugin.procCommon.value.unknown=unknown
+plugin.procCommon.value.yes=Y
+plugin.procCommon.warning.badPath=Input correct path, please.
+plugin.procDoctransfer.action.search=Search
+plugin.procDoctransfer.channel.bn=BN

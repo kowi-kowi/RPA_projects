@@ -1,0 +1,10 @@
+plugin.purchasingProjectEditor.form.edit.header=Edit {0}
+plugin.purchasingProjectEditor.general.section.customerInfo=Customer Information
+plugin.purchasingProjectEditor.general.section.header=Header Details
+plugin.purchasingProjectEditor.general.section.opportunityDetails=Opportunity Details
+plugin.purchasingProjectEditor.noRfqTemplate.label=No RFQ templates available for loading.
+plugin.purchasingProjectEditor.openPurchasingProjectAttachmentManager.button=Edit Attachments
+plugin.purchasingProjectEditor.rfQItem.rfQType.catalogItems=Catalog Items
+plugin.purchasingProjectEditor.rfQItem.rfQType.priceAndAvailability=Price and Availability
+plugin.purchasingProjectEditor.rfQItem.rfQType.projects=Projects
+plugin.purchasingProjectEditor.rfQItem.rfQType.services=Services

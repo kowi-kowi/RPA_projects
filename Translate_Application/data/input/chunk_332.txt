@@ -1,0 +1,10 @@
+com.jcatalog.fee.GormProductFee.description.label=Description
+com.jcatalog.fee.GormProductFee.header=Search for Product Fees
+com.jcatalog.fee.GormProductFee.id.label=Product Fee ID
+com.jcatalog.fee.GormProductFee.type.label=Type
+com.jcatalog.fee.ProductFee.changedBy.label=Changed By
+com.jcatalog.fee.ProductFee.changedOn.label=Changed On
+com.jcatalog.fee.ProductFee.createdBy.label=Created By
+com.jcatalog.fee.ProductFee.createdOn.label=Created On
+com.jcatalog.fee.ProductFee.description.label=Description
+com.jcatalog.fee.ProductFee.header=Search for Product Fees

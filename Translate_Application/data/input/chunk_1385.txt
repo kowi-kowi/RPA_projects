@@ -1,0 +1,10 @@
+plugin.procCommon.command.forceChanges=Force Changes
+plugin.procCommon.command.import=Import
+plugin.procCommon.command.init=Init
+plugin.procCommon.command.reset=Reset
+plugin.procCommon.command.save=Save
+plugin.procCommon.command.saveAndNew=Save and New
+plugin.procCommon.command.schedule=Schedule
+plugin.procCommon.command.search=Search
+plugin.procCommon.command.sendToERP=Send to ERP
+plugin.procCommon.command.sendToSupplier=Send to Supplier

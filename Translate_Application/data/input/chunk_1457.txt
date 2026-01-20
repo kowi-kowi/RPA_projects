@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.header.customer=The Requisition and Purchase Order must have the same customer.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.header.invoiceAddress=The Requisition and the Purchase Order must have the same invoice address.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.header.service=The Requisition and Purchase Order only of the same type (regular or Service) are allowed.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.item.blockedSupplier=Supplier ''{0}'' is blocked.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.item.contractedCurrency=All Purchase Order items and Requisition items must have the same original currency.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.item.deliveryAddress=All Purchase Order items and Requisition items must have the same delivery address.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.nonconformity.item.supplier=All Purchase Order items and Requisition items must have the same supplier.
+plugin.procPurchaseorder.merge2PurchaseOrder.error.salesOrder.impossible2merge=All Requisition items must have the same supplier, contracted price currency and delivery address parameters.
+plugin.procPurchaseorder.merge2PurchaseOrder.reason.text=Merged with approved Requisition
+plugin.procPurchaseorder.message.amount.invalid=Amount {0} is not valid double value.

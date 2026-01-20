@@ -1,0 +1,10 @@
+plugin.classificationGroupMapping.com.jcatalog.classification.mapping.GormClassGrpMappingItem.targetClassificationGroup.classificationGroupId.label=Target Classification Group ID
+plugin.classificationGroupMapping.com.jcatalog.classification.mapping.GormClassGrpMappingItem.targetClassificationGroup.label=Target Classification Group ID
+plugin.classificationGroupMapping.editItems.button=Edit Items
+plugin.cml2solrmlExport.action.addToIndex=Add to index
+plugin.cml2solrmlExport.action.processAll=Add all to index
+plugin.cml2solrmlExport.action.upload=Upload
+plugin.cml2solrmlExport.choose.format=Choose format
+plugin.cml2solrmlExport.clear=Clear index
+plugin.cml2solrmlExport.files.index.description=Make sure that the name of the CML file corresponds to the Catalog ID.
+plugin.cml2solrmlExport.files.index.title=Convert CML into SML

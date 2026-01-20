@@ -1,0 +1,10 @@
+plugin.entitlement.com.jcatalog.entitlement.GormEntitlementType.usePredefinedOptions.label=Use Predefined Options
+plugin.entitlement.hints.addOption=Enter new option
+plugin.entitlement.tab.general=General
+plugin.entitlement.tab.options=Options
+plugin.entitlementEditor.auditInfo.label=Audit Info
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.businessUnit.label=Value
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.catalogId.label=Catalog
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.changedBy.label=Changed By
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.changedOn.label=Changed On
+plugin.entitlementEditor.com.jcatalog.entitlement.GormEntitlement.classificationGroupId.label=Classification Group

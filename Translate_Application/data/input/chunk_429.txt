@@ -1,0 +1,10 @@
+customization.edit.ui.grid.modal.configuration.name=Configuration Name
+customization.edit.ui.grid.modal.customer=Customer
+customization.edit.ui.grid.modal.duplicate.warning=The schema with the same scope already exists. Would you like to overwrite the existing schema?
+customization.edit.ui.grid.modal.global=Global
+customization.edit.ui.grid.modal.header=Save Schema
+customization.edit.ui.grid.modal.type=Type
+customization.edit.ui.grid.modal.user=User
+customization.edit.ui.grid.modal.visibility=Scope
+customization.edit.ui.grid.readonly.label=Read Only
+customization.edit.ui.grid.required.label=Required

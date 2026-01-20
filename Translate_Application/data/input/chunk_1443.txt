@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.orderRevisions.addedItems=Added Items
+plugin.procPurchaseorder.label.orderRevisions.deletedItems=Deleted Items
+plugin.procPurchaseorder.label.orderRevisions.rejectedItems=Rejected Items
+plugin.procPurchaseorder.label.orderText=Order Text
+plugin.procPurchaseorder.label.orderType=Order Type
+plugin.procPurchaseorder.label.orderedBy=Ordered by
+plugin.procPurchaseorder.label.orderedOn=Ordered on
+plugin.procPurchaseorder.label.originalAmount=Original Amount
+plugin.procPurchaseorder.label.originalPrice=Original Price
+plugin.procPurchaseorder.label.outputFileFormat=Output File Format

@@ -1,0 +1,10 @@
+RFQ.demandCollection.searchResultList.rfxId=RFX ID
+RFQ.demandCollection.searchResultList.rfxTitle=RFX Title
+RFQ.demandCollection.searchResultList.status=Status
+RFQ.demandCollection.status=Status
+RFQ.demandCollectionItemEditor.completedDC=This Demand Collection has been already completed. Therefore, you cannot perform any actions on the positions.
+RFQ.demandCollectionItemEditor.customerIsEmpty.error=Customer is a required field.
+RFQ.demandCollectionItemEditor.fieldError.message=The value of the "Quantity" field should be a positive number.
+RFQ.demandCollectionItemEditor.invalidData.message=The data is invalid and cannot be saved.
+RFQ.demandCollectionItemEditor.issuedBy=Issued By
+RFQ.demandCollectionItemEditor.itemEditor.cancel=Cancel

@@ -1,0 +1,10 @@
+plugin.opcAnalysis.error.creatingJob=Error during creating Job
+plugin.opcAnalysis.error.emptyEmails=Email is not provided\!
+plugin.opcAnalysis.error.excelExport.atLeastOneSheetRequired=At least one sheet must be selected
+plugin.opcAnalysis.error.export.fileNameIsInvalid=Output File Name is invalid
+plugin.opcAnalysis.error.export.jobNameIsNull=Job Name is not provided\!
+plugin.opcAnalysis.error.export.queryIsNotSelected=Query must be selected for Job execution
+plugin.opcAnalysis.error.export.queryNameIsInvalid=Query name is invalid
+plugin.opcAnalysis.error.failedExport=Export format is not provided\!
+plugin.opcAnalysis.error.incorrectDateFormat=Incorrect date format\: "{0}" for field "{1}".
+plugin.opcAnalysis.error.incorrectEmail=Email is invalid\: {0}\!

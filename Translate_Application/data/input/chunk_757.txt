@@ -1,0 +1,10 @@
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.id.label=Attribute ID
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isDefaultOverwritable.label=Is Default Overwritable
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isForCdRom.label=Is For CD-Rom
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isForComparison.label=Is For Comparison
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isForDetails.label=Show In Detail Page
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isForPrint.label=Is For Print
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isForSearch.label=Is For Parametric Search
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isMultiLanguage.hint=Property 'Is Multilanguage' can be defined only during creating attribute and can't be changed after saving because it can cause problems in operating with attribute values.
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isMultiLanguage.label=Is Multilanguage
+plugin.classificationEditor.com.jcatalog.classification.attribute.GormAttribute.isMultivalued.label=Is Multivalued

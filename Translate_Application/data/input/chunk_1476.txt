@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.title.invoiceReceiptItems=Invoice Receipt Items
+plugin.procPurchaseorder.title.position=Position overview
+plugin.procPurchaseorder.title.purchaseOrder.transfer=Purchase Orders and Goods Receipts ERP transfer
+plugin.procPurchaseorder.title.results=Search Results
+plugin.procPurchaseorder.title.revision=Purchase Order Revision
+plugin.procPurchaseorder.tooltip.isDueDateExceeded=Delivery time exceeded
+plugin.procPurchaseorder.tooltip.reminder.info=Reminder email sent at {0}
+plugin.procPurchaseorder.tooltip.reminder.mailInfo=Reminder email sent to {0} at {1}
+plugin.procPurchaseorder.tooltip.selectAll=Select all positions
+plugin.procPurchaseorder.transfers.label.documentRevisionNo=Revision No.

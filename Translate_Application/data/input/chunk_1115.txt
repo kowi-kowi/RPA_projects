@@ -1,0 +1,10 @@
+plugin.opcCommons.message.valueIsRequired=Required field is empty.
+plugin.opcCommons.paging.first=First
+plugin.opcCommons.paging.info=Displaying hits <b>{0}</b> - <b>{1}</b> of <b>{2}</b>
+plugin.opcCommons.paging.info.truncated=Displaying hits <b>{0}</b> - <b>{1}</b> of <b>{2}</b> <br/>(The result list has been restricted to {3} products).
+plugin.opcCommons.paging.last=Last
+plugin.opcCommons.paging.message=Your data changed, do you want to go to the next page?
+plugin.opcCommons.paging.next=Next
+plugin.opcCommons.paging.prev=Previous
+plugin.opcCommons.rfqCreation.button=Create RfQ
+plugin.opcCommons.switchToReverseRequisitionMode.customerIdRequiredError=The Customer ID parameter must be provided.

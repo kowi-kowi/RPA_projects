@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.requestedPrice=Requested Price
+plugin.procPurchaseorder.label.requestedQuantity=Requested Quantity
+plugin.procPurchaseorder.label.revisedBy=Revised by
+plugin.procPurchaseorder.label.revisedOn=Revised on
+plugin.procPurchaseorder.label.revision=Purchase Order Revision
+plugin.procPurchaseorder.label.salesOrderName=Requisition Name
+plugin.procPurchaseorder.label.salutation=Salutation
+plugin.procPurchaseorder.label.sapPurchaseOrder=Purchase Order ID
+plugin.procPurchaseorder.label.search=Search For purchase orders
+plugin.procPurchaseorder.label.searchResults=Search Results

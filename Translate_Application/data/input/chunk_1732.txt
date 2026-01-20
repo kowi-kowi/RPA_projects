@@ -1,0 +1,10 @@
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.supplier.label=Supplier
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.supplierCustomerId.label=Supplier Customer ID
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.supplierLanguage.label=Supplier Language
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.swiftCode.label=SWIFT Code
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.taxId.label=Tax ID
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.termsOfDelivery.label=Terms of Delivery
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.termsOfDelivery.tooltip=Terms of Delivery that are offered by the supplier. e.g. 'Delivered At Frontier', 'Delivered Duty Unpaid'.
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.termsOfPayment.label=Terms of Payment
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.termsOfPayment.tooltip=Terms of Payment that are accepted by the supplier. Suppliers may offer different discounts depending on how fast the payment will be done.
+plugin.supplierEditor.com.jcatalog.businesspartner.GormSupplierProvisioning.type.label=Type

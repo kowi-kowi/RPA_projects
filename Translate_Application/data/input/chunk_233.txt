@@ -1,0 +1,10 @@
+administration.systemAdministration.configuration.editLog4jProperties.desc=Adjust log4j configuration
+administration.systemAdministration.configuration.manage.manageCustomizationTranslations=Manage Translations in Customization Area
+administration.systemAdministration.configuration.manage.manageCustomizationTranslations.desc=Manage translatable files in Customization Area
+administration.systemAdministration.configuration.manage.translations=Manage Translations
+administration.systemAdministration.configuration.manageJobs=Manage Jobs
+administration.systemAdministration.configuration.manageJobs.desc=Job Manager is designed to create, execute, edit, copy, delete, and schedule various jobs.
+administration.systemAdministration.configuration.staticResourceAdmin=Static Resources Cache
+administration.systemAdministration.configuration.staticResourceAdmin.desc=Clear cache for static resources (pictures, .css, .js files) to reload the resources after an update.
+administration.systemAdministration.configureRegistryAttributes=Configuration Attributes
+administration.systemAdministration.configureRegistryAttributes.desc=Allows to manage configuration attributes.

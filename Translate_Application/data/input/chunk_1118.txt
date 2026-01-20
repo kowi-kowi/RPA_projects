@@ -1,0 +1,10 @@
+plugin.opcCommons.tabTitle.procurement.analysis=Analyze
+plugin.opcCommons.tabTitle.procurement.inventory=Inventory
+plugin.opcCommons.tabTitle.procurement.invoice=Invoice
+plugin.opcCommons.tabTitle.procurement.passwordManager=Password manager
+plugin.opcCommons.tabTitle.procurement.setup=Setup
+plugin.opcCommons.tabTitle.quickEntry=Quick Entry
+plugin.opcCommons.tabTitle.requestForQuote=Quote
+plugin.opcCommons.tabTitle.requestForQuote.dashboard=Quotation KPI's
+plugin.opcCommons.tabTitle.requestForQuote.overview=Quotation Overview
+plugin.opcCommons.tabTitle.salesOrderAnalysis=Sales Order Analysis

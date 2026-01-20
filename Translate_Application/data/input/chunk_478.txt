@@ -1,0 +1,10 @@
+eproc.dashboard.chart.PieChart.options.showTooltip=Show tooltip
+eproc.dashboard.chart.SlideDigitalClock.label=Digital Clock
+eproc.dashboard.chart.SlideDigitalClock.options.timeZone=Time Zone
+eproc.dashboard.chart.SlideDigitalClock.options.use24HourClock=Use 24-hours clock
+eproc.dashboard.chart.TextChart.label=Text Chart
+eproc.dashboard.chart.TextChart.options.text=Text
+eproc.dashboard.chart.TextChart.options.urlAddress=URL
+eproc.dashboard.chart.TextChart.options.useUrl=Use URL
+eproc.dashboard.chart.options=Chart Options
+eproc.dashboard.current=Current Dashboard

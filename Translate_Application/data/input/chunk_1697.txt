@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.label.mailData=Email
+plugin.ssmWorkflow.label.newActivationDate=New Activation Date
+plugin.ssmWorkflow.label.openEditor=Open review editor
+plugin.ssmWorkflow.label.openProductEditor=Open Product Editor
+plugin.ssmWorkflow.label.originalUploadedCatalog=Originally uploaded catalog
+plugin.ssmWorkflow.label.phoneNo=PhoneNo
+plugin.ssmWorkflow.label.plannedActivationDate=Planned Activation Date
+plugin.ssmWorkflow.label.process.type=Process Type
+plugin.ssmWorkflow.label.processId=Process ID
+plugin.ssmWorkflow.label.processVars=Process Variables

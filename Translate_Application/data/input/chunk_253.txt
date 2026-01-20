@@ -1,0 +1,10 @@
+applicationMenu.tab.analysis=Analyze
+applicationMenu.tab.browseContracts=Suppliers & Contracts
+applicationMenu.tab.catalog=Shop
+applicationMenu.tab.externalShops=External Shops
+applicationMenu.tab.jasperReports=Generate Reports
+applicationMenu.tab.quote=Quote
+applicationMenu.tab.quote.dashboard=Dashboards
+applicationMenu.tab.quote.demandCollection=Demand Collection
+applicationMenu.tab.quote.overview=Quote Overview
+applicationMenu.tab.quote.report=Report

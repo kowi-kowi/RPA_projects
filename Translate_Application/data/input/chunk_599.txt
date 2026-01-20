@@ -1,0 +1,10 @@
+message.export.catalog.workflow.execute.ok=Finished at     ${now}
+message.export.catalog.workflow.execute.script=Export using script\: ${script}
+message.export.catalog.workflow.execute.validationResults=Validation Results \n-------------------\nStarted at      ${now}
+message.export.catalog.workflow.executedBusinessRuleContext=External variables\: ${businessRulesContext}.
+message.export.catalog.workflow.executedBusinessRuleLists=Executed Business Rule Lists\: ${executedBusinessRuleLists}
+message.export.catalog.workflow.finish.actionErrorMessage=ErrorMessage\: ${errorMessage}
+message.export.catalog.workflow.finish.error=Workflow completed with errors at ${now}.
+message.export.catalog.workflow.finish.exception=Workflow completed with the exception at ${now}.
+message.export.catalog.workflow.finish.success=Workflow completed successfully at ${now}.
+message.export.catalog.workflow.mapping.classification.are.equal=Source classification and target classification are equal. Classification mapping skipped.

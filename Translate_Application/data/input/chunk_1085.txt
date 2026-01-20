@@ -1,0 +1,10 @@
+plugin.opcCms.com.opuscapita.cms.CmsElement.validRange.label=Valid Range
+plugin.opcCms.com.opuscapita.cms.CmsElement.visibleForCustomers.label=Visible to Customers
+plugin.opcCms.com.opuscapita.cms.CmsElement2Customer.cmsElement.label=CMS Element
+plugin.opcCms.com.opuscapita.cms.CmsElement2Customer.customerId.label=Customer
+plugin.opcCms.com.opuscapita.cms.CmsElement2Customer.label=CMS Element to Customer Assignment
+plugin.opcCms.com.opuscapita.cms.CmsElementType.label=CMS Element Type
+plugin.opcCms.com.opuscapita.cms.CmsElementType.typeId.label=Type ID
+plugin.opcCms.common.expandableCalloutMessage.action.viewLess=View less
+plugin.opcCms.common.expandableCalloutMessage.action.viewMore=View more
+plugin.opcCommonUi.action.close=Close

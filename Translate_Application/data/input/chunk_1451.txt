@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.label.status.changed=changed
+plugin.procPurchaseorder.label.status.checked=checked
+plugin.procPurchaseorder.label.status.confirmed=confirmed
+plugin.procPurchaseorder.label.status.denyPayment=denied
+plugin.procPurchaseorder.label.status.exported=exported
+plugin.procPurchaseorder.label.status.fulfillment=Fulfillment
+plugin.procPurchaseorder.label.status.invoiced=invoiced
+plugin.procPurchaseorder.label.status.notaccepted=not accepted
+plugin.procPurchaseorder.label.status.open=open
+plugin.procPurchaseorder.label.status.ordering=Ordering

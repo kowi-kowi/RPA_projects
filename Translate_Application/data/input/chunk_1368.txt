@@ -1,0 +1,10 @@
+plugin.organizationEditors.userProfile.tab.picture=Picture
+plugin.organizationEditors.userProfile.title=User Profile Editor
+plugin.permanentDeactivation.button.deactivate=Deactivate Catalog
+plugin.permanentDeactivation.button.next=Next
+plugin.permanentDeactivation.button.reset=Reset
+plugin.permanentDeactivation.cancelWorkflow.email.message=The catalog version processing has been canceled due to the catalog deactivation for supplier {0} ({1}), customer {2} ({3}) and catalog {4}.
+plugin.permanentDeactivation.cancelWorkflow.email.subject=Permanent Catalog Deactivation
+plugin.permanentDeactivation.cancelWorkflow.email.title=Permanent Catalog Deactivation
+plugin.permanentDeactivation.description=The catalog will be deactivated permanently. It means the process is not intended to disable it for some period of time (temporary). Catalog products will be removed from OPC. Pending catalog activations will be canceled. The ongoing catalog processing in SSM will be stopped. The catalog will not be offered in catalog upload any more.
+plugin.permanentDeactivation.error.catalogId.required=Catalog is a required field.

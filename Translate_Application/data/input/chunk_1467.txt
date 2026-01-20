@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.message.search.error=Exception during search occurs\: {0}
+plugin.procPurchaseorder.message.sendReminder=Send Reminder
+plugin.procPurchaseorder.message.statusTransfered=Status was set to 'transferred'.
+plugin.procPurchaseorder.message.supplierID.required='Supplier ID' is required field. Please fill it.
+plugin.procPurchaseorder.message.termsOfPayment.notDefined=Terms of Payment for supplier {0} is not defined.
+plugin.procPurchaseorder.message.termsOfPayment.required='Terms of Payment' is required field. Please fill it.
+plugin.procPurchaseorder.message.totalGrossPrice.invalid=Total Gross Price is invalid. Can't convert '{0}' into number.
+plugin.procPurchaseorder.message.totalNetPrice.invalid=Total Net Price is invalid. Can't convert '{0}' into number.
+plugin.procPurchaseorder.message.user.update=User {0} was updated. The changes will take effect after re-login.
+plugin.procPurchaseorder.net.price=Net Price

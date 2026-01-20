@@ -1,0 +1,10 @@
+plugin.deliveryNote.deliveryNote.error.alreadyBooked=The Purchase Order Document with these items has been already booked.
+plugin.deliveryNote.deliveryNote.error.noItems=Goods Receipt should contain at least one item.
+plugin.deliveryNote.deliveryNote.headline=Purchase Order Documents
+plugin.deliveryNote.deliveryNote.receipt=Receipt
+plugin.deliveryNote.deliveryNote.requestedBy=Requested By
+plugin.deliveryNote.deliveryNote.rmaReason=RMA Reason
+plugin.deliveryNote.deliveryNote.rmaType=RMA Type
+plugin.deliveryNote.deliveryNote.rmaType.refund=Refund
+plugin.deliveryNote.deliveryNote.rmaType.replacement=Replacement
+plugin.deliveryNote.deliveryNote.shippingDate=Shipping Date

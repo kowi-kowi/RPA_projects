@@ -1,0 +1,10 @@
+attributeValueEditor.validation.error.required=Value is required
+averagePriceChanges.label.averagePrice=Average Price
+averagePriceChanges.label.averagePriceChangesReportFor=Average Price Changes Report for
+averagePriceChanges.label.catalogActivation=Catalog Activation\:
+averagePriceChanges.label.classification=Classification
+averagePriceChanges.label.classificationGroup=Classification Group
+averagePriceChanges.label.classificationGroupDesc=Classification Group Description
+averagePriceChanges.label.contract=Contract\:
+averagePriceChanges.label.currency=Currency\:
+averagePriceChanges.label.customer=Customer\:

@@ -1,0 +1,10 @@
+derivedCatalogFilter.derivedCatalogId.matches.invalid=Parameter can contain only alphanumeric characters, hyphens (-) and underscores (_).
+derivedCatalogFilter.derivedContractId.blank=Field Derived Contract cannot be empty.
+derivedCatalogFilter.derivedCustomerId.blank=Field Derived Customer cannot not be empty.
+derivedCatalogFilter.derivedCustomerId.matches.invalid=Parameter can contain only alphanumeric characters, hyphens (-) and underscores (_).
+derivedCatalogFilter.filterId.blank=Field Filter ID cannot not be empty.
+derivedCatalogFilter.filterId.matches.invalid=Parameter can contain only alphanumeric characters, hyphens (-) and underscores (_).
+derivedCatalogFilter.masterCatalogId.blank=Field Master Catalog cannot not be empty.
+derivedCatalogFilter.masterCatalogId.matches.invalid=Parameter can contain only alphanumeric characters, hyphens (-) and underscores (_).
+derivedCatalogFilter.masterContractId.blank=Field Master Contract cannot be empty.
+derivedCatalogFilter.masterCustomerId.blank=Field Master Customer cannot not be empty.

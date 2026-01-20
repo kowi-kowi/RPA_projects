@@ -1,0 +1,10 @@
+plugin.opcSearch.label.oldNews=Read old news
+plugin.opcSearch.label.other=Other
+plugin.opcSearch.label.parametersInfo.atLeastOneWord=with at least one of the words <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.classificationGroup=for classification group <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.exactPhrase=with the exact phrase <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.facet.manufacturerName=filtered by manufacturer <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.facet.supplier=filtered by supplier <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.products=<b>{0}</b> products found
+plugin.opcSearch.label.parametersInfo.supplier=for supplier <b>{0}</b>
+plugin.opcSearch.label.parametersInfo.suppliers=for suppliers <b>{0}</b>

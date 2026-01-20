@@ -1,0 +1,10 @@
+DerivedMultiSheet.product-manufacturerName=Mfg Name
+DerivedMultiSheet.product-mfgProductId=Mfg Part Num
+DerivedMultiSheet.product-mfgProductName=Mfg Product Name
+DerivedMultiSheet.product-productId=Sup Part Num
+DerivedMultiSheet.product-productIdExtension=Product ID Extension
+DerivedMultiSheet.product-salesUnitOfMeasureId=Sales UoM
+DerivedMultiSheet.product-statusId=Status
+DerivedMultiSheet.product-supplierId=Supplier
+DerivedMultiSheet.product-unitOfMeasureId=UoM
+DerivedMultiSheet.product-validFrom=Valid from

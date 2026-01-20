@@ -1,0 +1,10 @@
+error.limitOutOfEditSize=You can''t edit file with size more than {1} Mbyte.
+error.locked=You can't change password for this user.
+error.move=Can not move the file {0} to {1}, because the {1} already exists in the destination folder {2}.
+error.moveToSubFolder=You can not move a directory {0} to its own subdirectory {1}.
+error.multiplecopy=Can not copy file(s)\:{0}. Files already exist.
+error.multiplecopyRename=Can not copy two or more files to the same name.
+error.multipledelete=Can not delete file(s)\: {0} (may be file(s) is(are) used by another application).
+error.multiplemove=Can not move the file {0} to {1}, because the {1} already exists in the destination folder {2}.
+error.multiplerename=Can not rename two or more files to the same name.
+error.noneZipFile.tooBig=The file imported is too large (> {0} MB).

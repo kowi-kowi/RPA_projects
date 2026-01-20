@@ -1,0 +1,10 @@
+notApprovedBarChart.xaxis.tick.15-21=15-21 Days
+notApprovedBarChart.xaxis.tick.22-more=>21 Days
+notApprovedBarChart.xaxis.tick.8-14=8-14 Days
+notApprovedBarChart.yaxis.label=Number of catalogs
+notApprovedGroupedByActivationDateBarChart.header=Not approved catalogs grouped by activation date
+notApprovedGroupedByActivationDateBarChart.noDataDesc.customerStatistics=No catalogs waiting for approval were found for any supplier, or activation date is missing for such catalogs. 'Not approved catalogs grouped by activation date' chart can't be displayed.
+notApprovedGroupedByActivationDateBarChart.noDataDesc.supplierStatistics=No catalogs waiting for approval were found for any customer, or activation date is missing for such catalogs. 'Not approved catalogs grouped by activation date' chart can't be displayed.
+notApprovedGroupedByActivationDateBarChart.perCustomer.title.chart=Not approved catalogs grouped by activation date per customer\:
+notApprovedGroupedByActivationDateBarChart.perSupplier.title.chart=Not approved catalogs grouped by activation date per supplier\:
+notApprovedGroupedByActivationDateBarChart.xaxis.tick.1-14=1-14 Days<br/>AFTER<br/>Activation Date

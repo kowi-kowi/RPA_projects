@@ -1,0 +1,10 @@
+message.supplier.workflow.execute.analyzeCatalog=Catalog Analyzing\n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.attributeValueMapping=Attribute Value Mapping \n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.catalogCreation=Catalog Creation\n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.classificationMapping=Classification Mapping ${index}\n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.cleansing=Cleansing\n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.cleanup=Cleanup Work Area\n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.clearProcessingLog=Clear Processing Log \n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.deltaReport=Delta Report\n-------------------\nStarted at      ${now}
+message.supplier.workflow.execute.deltaReport.skip.disabledViaCA=The generation of Delta Report is currently disabled based on the value set for the "opuscapita.ssm.disableDeltaReport" configuration attribute.
+message.supplier.workflow.execute.deltaReport.skip.isSupplierReview=The Delta Report is skipped because no supplier review was requested.

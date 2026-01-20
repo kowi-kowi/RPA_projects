@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.typeMismatch.quantity=Quantity is not valid.
+plugin.opcDraftRequisition.update.error.empty=Please select Draft Requisition.
+plugin.opcDraftRequisition.update.error.invisibleItems=You cannot edit this Draft Requisition as it contains item(s) that is/are not available for you.
+plugin.opcDraftRequisition.warning.draftRequisitionStateChanged=The Draft Requisition has been changed. Currently, the following products are not available\: {0}.
+plugin.opcDraftRequisition.warning.draftRequisitionStateChanged.moveToCart=Not available items will be removed after moving items to the Shopping Cart.
+plugin.opcEasysearch.command.clear=Reset
+plugin.opcEasysearch.command.close=Close
+plugin.opcEasysearch.command.revoke=Revoke Assignment
+plugin.opcEasysearch.command.search=Search
+plugin.opcEasysearch.header.addressId=Address ID

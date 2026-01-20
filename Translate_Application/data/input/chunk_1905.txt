@@ -1,0 +1,10 @@
+subject.customer.process.failed=Workflow failed.
+subject.customer.process.failed.byException=Workflow failed by exception.
+subject.derived.catalog.process.activated=Catalog processing completed.
+subject.derived.catalog.process.failed.byException=Workflow failed by exception.
+subject.frame.agreement.approve.notification=Approval Notification
+subject.frame.agreement.approve.rejected=Catalog Rejected
+subject.frame.agreement.errors=Validation Errors Notification
+subject.frame.agreement.process.failed=Workflow failed.
+subject.frame.agreement.process.failed.byException=Workflow failed by exception.
+subject.permanent.deactivation.process.failed=Workflow failed.

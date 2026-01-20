@@ -1,0 +1,10 @@
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.productInfo=Product Info
+PROC.SalesOrderItemEditor.salesOrderItem.tabs.labels.recipient=Recipient
+PROC.ServiceEntrySheetEditor.commands.back=Back
+PROC.ServiceEntrySheetEditor.commands.cancel=Cancel
+PROC.ServiceEntrySheetEditor.commands.confirm=Confirm
+PROC.ServiceEntrySheetEditor.commands.reject=Reject
+PROC.ServiceEntrySheetEditor.commands.release=Release
+PROC.ServiceEntrySheetEditor.commands.save=Save
+PROC.ServiceEntrySheetEditor.commands.showReportedEntries=Show reported entries
+PROC.ServiceEntrySheetEditor.labels.approvedInfo=Approved in {deliveryNoteId}

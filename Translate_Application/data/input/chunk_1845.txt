@@ -1,0 +1,10 @@
+scheduling.button.back=Back
+scheduling.button.cancel=Cancel
+scheduling.button.clear=Reset
+scheduling.button.create=Create
+scheduling.button.delete.history=Delete older
+scheduling.button.deleteSelected=Delete selected
+scheduling.button.execute=Execute
+scheduling.button.execute.now=Execute now
+scheduling.button.save=Save
+scheduling.button.saveForScheduling=Save for Scheduling

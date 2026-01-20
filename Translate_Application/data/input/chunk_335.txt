@@ -1,0 +1,10 @@
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.periodTip=(Recommended for report scheduling)
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.to=to
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.useDateRange=Use Date Range
+com.jcatalog.jasperreports.commands.DateRangeParameterCommand.usePeriod=Use Period
+com.jcatalog.jasperreports.commands.LongParameterCommand.value.blank=The value cannot be empty.
+com.jcatalog.jasperreports.commands.LongParameterCommand.value.matches.invalid=The value is not a Long number.
+com.jcatalog.jasperreports.commands.LongParameterCommand.value.nullable=The value cannot be empty.
+com.jcatalog.jasperreports.commands.ParametersCommand.jobName.notUnique=Job with "{3}" name already exists. A new one cannot be created. Please, choose other name for your Job.
+com.jcatalog.jasperreports.commands.ReferenceSearchParameterCommand.value.blank=The value cannot be empty.
+com.jcatalog.jasperreports.commands.ReferenceSearchParameterCommand.value.notExists={3} ({4}) does not exist.

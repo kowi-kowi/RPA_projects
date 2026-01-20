@@ -1,0 +1,10 @@
+StandardMultiSheet.contractedProduct-extClassificationId=Cust Class ID
+StandardMultiSheet.contractedProduct-extGlAccountId=GL Account ID
+StandardMultiSheet.contractedProduct-extProductId=Cust Prod ID
+StandardMultiSheet.contractedProduct-leadtimeInDays=Lead Time (in Days)
+StandardMultiSheet.contractedProduct-maxQuantity=Maximum Order Quantity
+StandardMultiSheet.contractedProduct-minQuantity=Minimum Order Quantity
+StandardMultiSheet.contractedProduct-priceQuantity=Price Quantity
+StandardMultiSheet.contractedProduct-quantityInterval=Quantity Interval
+StandardMultiSheet.contractedProduct-salesUnitOfMeasureID=Cust Sales Unit of Measure ID
+StandardMultiSheet.contractedProduct-statusDate=Status Date

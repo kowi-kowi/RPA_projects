@@ -1,0 +1,10 @@
+eproc.dashboard.widget.error.unexpected=No data available\: an unexpected error occurred
+eproc.dashboard.widget.maxCount=You cannot add more than 8 widgets to one dashboard.
+eproc.dashboard.widget.name=Widget Name
+eproc.dashboard.widget.options=Widget Options
+eproc.dashboard.widget.refreshInterval=Refresh Interval (sec.)
+eproc.dashboards=Dashboards
+error.accessForbidden=You are not allowed to move upper than root directory.
+error.copy=Can not copy file {0}. File already exists.
+error.copyFolderToFile=You can not copy directory {0} to a file.
+error.copyToSubFolder=You can not copy a directory {0} to its own subdirectory {1}.

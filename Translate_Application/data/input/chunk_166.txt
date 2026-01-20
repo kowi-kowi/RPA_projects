@@ -1,0 +1,10 @@
+RFQ.supplierQuoteItemEditor.sqItemDetails.productId=Product ID
+RFQ.supplierQuoteItemEditor.sqItemDetails.quantity=Quantity
+RFQ.supplierQuoteItemEditor.sqItemDetails.tax=Tax
+RFQ.supplierQuoteItemEditor.sqItemDetails.totalContractedNetPrice=Total Offered Price
+RFQ.supplierQuoteItemEditor.sqItemDetails.unitOfMeasure=UoM
+RFQ.supplierQuoteItemEditor.sqItemDetails.validRangeFrom=Valid From
+RFQ.supplierQuoteItemEditor.sqItemDetails.validRangeTo=Valid To
+RFQ.supplierQuoteItemEditor.tab.attributes=Attributes
+RFQ.supplierQuoteItemEditor.tab.details=Details
+RFQ.supplierQuoteItemEditor.tab.documents=Documents

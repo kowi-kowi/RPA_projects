@@ -1,0 +1,10 @@
+ExtendedMultiSheet.productRelation-typeId_1=Relationship Type
+ExtendedMultiSheet.productRelation-udxNum1_1=Product Relation - Udx Num 1
+ExtendedMultiSheet.productRelation-udxNum2_1=Product Relation - Udx Num 2
+ExtendedMultiSheet.productRelation-udxNum3_1=Product Relation - Udx Num 3
+ExtendedMultiSheet.productRelation-udxSortKey1_1=Product Relation - Udx Sort Key 1
+ExtendedMultiSheet.productRelation-udxSortKey2_1=Product Relation - Udx Sort Key 2
+ExtendedMultiSheet.productRelation-udxSortKey3_1=Product Relation - Udx Sort Key 3
+ExtendedMultiSheet.productRelation-udxText1_1=Product Relation - Udx Text 1
+ExtendedMultiSheet.productRelation-udxText2_1=Product Relation - Udx Text 2
+ExtendedMultiSheet.productRelation-udxText3_1=Product Relation - Udx Text 3

@@ -1,0 +1,10 @@
+PROC.CommentaryInput.add=Add Comment
+PROC.CommentaryInput.delete=Delete Comment
+PROC.CommentaryInput.save=Save
+PROC.ConfirmationEditor.errors.blank=The field cannot be blank.
+PROC.ConfirmationEditor.errors.failedRejection=The Purchase Order rejection is failed.
+PROC.ConfirmationEditor.errors.invalidDecimalNumber=Invalid decimal number
+PROC.ConfirmationEditor.errors.itemsErrors=Please, revise your entries.
+PROC.ConfirmationEditor.errors.minQuantity=The value cannot be less than or equal to {minQuantity}.
+PROC.ConfirmationEditor.errors.needToFix=Please, fix errors in the selected items before confirming.
+PROC.ConfirmationEditor.errors.netPrice=The value cannot be less than {netPrice}.

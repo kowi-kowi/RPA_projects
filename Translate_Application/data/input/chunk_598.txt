@@ -1,0 +1,10 @@
+message.documentsCount=Documents count\:  {0}
+message.emptyURL=URL should not be empty.
+message.error.addToCart.failed=Error occurred during adding to shopping cart, please contact administrator.
+message.error.addToList.failed=Error occurred during adding to shopping list, please contact administrator.
+message.export.catalog.workflow.classificationMapping.parameters=Source classification \= ${sourceClassification}, Target classification \= ${targetClassification}.
+message.export.catalog.workflow.execute.classificationMapping=Classification Mapping ${index}\n-------------------\nStarted at      ${now}
+message.export.catalog.workflow.execute.cleanup=Cleanup Work Area\n-------------------\nStarted at      ${now}
+message.export.catalog.workflow.execute.export=Export\n-------------------\nStarted at      ${now}
+message.export.catalog.workflow.execute.implicitClassificationMapping=Implicit Classification Mapping\n-------------------\nStarted at      ${now}
+message.export.catalog.workflow.execute.mapping=Mapping \n-------------------\nStarted at      ${now}

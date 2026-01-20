@@ -1,0 +1,10 @@
+plugin.procRequisition.label.deliveryAddressId=Delivery Address
+plugin.procRequisition.label.deliveryDate=Delivery Date
+plugin.procRequisition.label.details=Show Details
+plugin.procRequisition.label.errorInApproval=An error occurred during the requisition approval. This requisition was not approved.
+plugin.procRequisition.label.event.accept=Accepted
+plugin.procRequisition.label.event.accepted=Accepted
+plugin.procRequisition.label.event.cancel=Canceled
+plugin.procRequisition.label.event.reject=Rejected
+plugin.procRequisition.label.event.rejected=Rejected
+plugin.procRequisition.label.extSalesOrderId=Ext. Requisition ID

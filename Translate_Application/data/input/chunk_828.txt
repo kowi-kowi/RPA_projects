@@ -1,0 +1,10 @@
+plugin.deliveryNote.deliveryNoteItem.action.history=History
+plugin.deliveryNote.deliveryNoteItem.action.replenish=Open Inventory
+plugin.deliveryNote.deliveryNoteItem.action.restore=Restore
+plugin.deliveryNote.deliveryNoteItem.comment=Comment
+plugin.deliveryNote.deliveryNoteItem.confirmCancelItem=Are you sure you want to cancel the receipt for that item?
+plugin.deliveryNote.deliveryNoteItem.currency=Currency
+plugin.deliveryNote.deliveryNoteItem.delivery.quantity=Quantity Received
+plugin.deliveryNote.deliveryNoteItem.descShort=Short Description
+plugin.deliveryNote.deliveryNoteItem.history=Deliveries for Purchase Order Item
+plugin.deliveryNote.deliveryNoteItem.info.remove=Please remove items which have not been delivered.

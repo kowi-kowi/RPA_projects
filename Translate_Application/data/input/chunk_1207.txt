@@ -1,0 +1,10 @@
+plugin.opcProductDetails.productIssueReport.messageDialog.closeButton.label=Close
+plugin.opcProductDetails.productIssueReport.messageDialog.title=Issue Report for product\: {1}({0})
+plugin.opcProductDetails.productIssueReport.reportDialog.closeButton.label=Close
+plugin.opcProductDetails.productIssueReport.reportDialog.comments.label=Comments
+plugin.opcProductDetails.productIssueReport.reportDialog.customerId.label=Customer ID
+plugin.opcProductDetails.productIssueReport.reportDialog.emailFrom.label=Email from
+plugin.opcProductDetails.productIssueReport.reportDialog.firstName.label=First Name
+plugin.opcProductDetails.productIssueReport.reportDialog.issueTypeSelect.label=Issue type
+plugin.opcProductDetails.productIssueReport.reportDialog.lastName.label=Last Name
+plugin.opcProductDetails.productIssueReport.reportDialog.quantity.label=Quantity

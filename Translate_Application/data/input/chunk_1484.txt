@@ -1,0 +1,10 @@
+plugin.procRequisition.delivery.name2=Name2
+plugin.procRequisition.delivery.street=Address Line 1
+plugin.procRequisition.delivery.street2=Address Line 2
+plugin.procRequisition.delivery.street3=Address Line 3
+plugin.procRequisition.error.event.notAllowed=Event ''{0}'' was not triggered for Approval step ''{1}'' of Process ''{2}''. Approval step has been already finished or hasn't been activated yet.
+plugin.procRequisition.error.event.notTriggerred=Event ''{0}'' was not triggered for Approval step ''{1}'' of Process ''{2}''.
+plugin.procRequisition.error.invalidDateFormat=The date interval has an incorrect format.
+plugin.procRequisition.error.invalidDateRange=Please check the date interval. The Start date shouldn't be greater than the end date
+plugin.procRequisition.error.node.alreadyProcessed=The approval step ''{0}'' of the process ''{1}'' has been already processed.
+plugin.procRequisition.error.node.notFound=Approval step ''{0}'' of process ''{1}'' was not found.

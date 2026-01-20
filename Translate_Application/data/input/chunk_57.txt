@@ -1,0 +1,10 @@
+PROC.OrderItemEditor.tabs.priceInfo.labels.taxAmount=Tax Amount
+PROC.OrderItemEditor.tabs.priceInfo.labels.totalGrossPrice=Total Gross Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.totalGrossPriceLabel=Total Gross Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.totalNetPrice=Total Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.totalNetPriceLabel=Total Price
+PROC.OrderItemEditor.tabs.priceInfo.labels.totalSurchargeAmount=Total Surcharge Amount
+PROC.OrderItemEditor.tabs.productInfo.labels.catalogId=Catalog ID
+PROC.OrderItemEditor.tabs.productInfo.labels.extProductId=Ext. Product ID
+PROC.OrderItemEditor.tabs.productInfo.labels.isConfigurationItem=Is Configuration Item
+PROC.OrderItemEditor.tabs.productInfo.labels.manufacturerId=Manufacturer ID

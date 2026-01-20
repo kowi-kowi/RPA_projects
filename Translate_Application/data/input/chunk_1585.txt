@@ -1,0 +1,10 @@
+plugin.purchasingProject.tab.attributes=Attributes
+plugin.purchasingProject.tab.communications=Communications
+plugin.purchasingProject.tab.general=General
+plugin.purchasingProject.tab.history=History
+plugin.purchasingProject.tab.participants=Participants
+plugin.purchasingProject.tab.rfQs=RFXs
+plugin.purchasingProject.tab.rpa=RPA
+plugin.purchasingProject.tab.suppliers=Suppliers
+plugin.purchasingProjectEditor.action.collaborate=Messages
+plugin.purchasingProjectEditor.auditInfo.label=Audit Info

@@ -1,0 +1,10 @@
+plugin.deliveryNote.deliveryNote.canceledBy=Canceled By
+plugin.deliveryNote.deliveryNote.carrierName=Carrier Name
+plugin.deliveryNote.deliveryNote.comment=Comment
+plugin.deliveryNote.deliveryNote.createdBy=Created by
+plugin.deliveryNote.deliveryNote.createdOn=Created on
+plugin.deliveryNote.deliveryNote.deliveredDate=Period of Service
+plugin.deliveryNote.deliveryNote.deliveredOn=Delivered on
+plugin.deliveryNote.deliveryNote.deliveryNo=Delivery Note No.
+plugin.deliveryNote.deliveryNote.deliveryNoteId=Delivery Note ID
+plugin.deliveryNote.deliveryNote.description=SAP-GR_year

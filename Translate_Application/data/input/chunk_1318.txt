@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.internalNotes.maxSize.exceeded=The message cannot exceed {0} characters.
+plugin.opcShoppingCart.item.button.submit=Apply
+plugin.opcShoppingCart.label.addToDraft=Add/Move to Draft Requisition
+plugin.opcShoppingCart.label.addToList=Add/Move to Shopping List
+plugin.opcShoppingCart.label.assetAccount=Asset Account
+plugin.opcShoppingCart.label.attributes=Attributes
+plugin.opcShoppingCart.label.attributesShowAll=Show all attributes
+plugin.opcShoppingCart.label.attributesShowCommon=Show common attributes for all products
+plugin.opcShoppingCart.label.cartInfo=Cart ({0} items, {1} {2})
+plugin.opcShoppingCart.label.cartItem=Fees for product

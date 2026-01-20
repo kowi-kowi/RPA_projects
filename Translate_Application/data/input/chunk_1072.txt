@@ -1,0 +1,10 @@
+plugin.opcBrowseContracts.label.browseContracts.contract=Contract
+plugin.opcBrowseContracts.label.browseContracts.contractCategory=Contract Category
+plugin.opcBrowseContracts.label.browseContracts.contractDetails=Contract Details
+plugin.opcBrowseContracts.label.browseContracts.contractId=Contract ID
+plugin.opcBrowseContracts.label.browseContracts.createFreetextButton=Create Freetext
+plugin.opcBrowseContracts.label.browseContracts.currency=Currency
+plugin.opcBrowseContracts.label.browseContracts.dateFrom=Expiration date
+plugin.opcBrowseContracts.label.browseContracts.dateTo=to
+plugin.opcBrowseContracts.label.browseContracts.extContractId=Ext Contract ID
+plugin.opcBrowseContracts.label.browseContracts.extContractLineId=Ext Contract Line ID

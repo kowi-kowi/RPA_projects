@@ -1,0 +1,10 @@
+RFQ.rfxNewRoundModal.buttonLabel.cancel=Cancel
+RFQ.rfxNewRoundModal.buttonLabel.close=Close
+RFQ.rfxNewRoundModal.buttonLabel.delete=Delete
+RFQ.rfxNewRoundModal.buttonLabel.save=Save
+RFQ.rfxNewRoundModal.description=Initiation of a new round {roundNo}
+RFQ.rfxNewRoundModal.expirationDate=New Expiration Date
+RFQ.rfxNewRoundModal.reminderDate=Reminder Date
+RFQ.rfxNewRoundModal.title=Start New Round
+RFQ.rfxSectionInfo.position={count} Position
+RFQ.rfxSectionInfo.positions={count} Positions

@@ -1,0 +1,10 @@
+supplierErpTransfer.label.interval=Interval
+supplierErpTransfer.label.jobId=Job ID
+supplierErpTransfer.label.operations=Operations
+supplierErpTransfer.label.scheduling.export.title=Scheduling Export Job
+supplierErpTransfer.label.scheduling.import.title=Scheduling Import Job
+supplierErpTransfer.label.supplierCreated=Supplier created/changed
+supplierErpTransfer.label.to=to day
+supplierErpTransfer.label.transfer=Supplier ERP transfer
+supplierErpTransfer.label.transferOptions=Transfer options
+supplierErpTransfer.message.job.started=Job started

@@ -1,0 +1,10 @@
+plugin.catalogScorecard.header.chart.alterationOfQualities=Alteration of Metrics of the last ten versions of ''{0}'' catalog
+plugin.catalogScorecard.header.metric=Metric
+plugin.catalogScorecard.header.selectionSummary=Supplier ''{0}'', catalog ''{1}'', version {2}
+plugin.catalogScorecard.hint.numberOfCatalogs=Note\: maximum 10 catalogs is allowed.
+plugin.catalogScorecard.label.catalog=Catalog
+plugin.catalogScorecard.label.catalogQualityStatistics.description=The programme displays KPI alterations of the last ten versions of ''{0}'' Catalog
+plugin.catalogScorecard.label.catalogVersion=Catalog Version
+plugin.catalogScorecard.label.classificationGroupAssignment=Classification Group Assignment
+plugin.catalogScorecard.label.downloadReport=Download Report
+plugin.catalogScorecard.label.itemsWithAccessoriesRelations=No. of products with relations type\: accessories

@@ -1,0 +1,10 @@
+proc.widgets.title.requisitionApprovements=My Requisition Approvals
+proc.widgets.title.requisitionBreakdown=Requisition Breakdown
+proc.widgets.title.requisitionStatus=Requisition Status
+proc.widgets.title.requisitions=Requisitions
+proc.widgets.title.spendPerCatalogs=Spend per Catalog
+proc.widgets.title.spendPerCategory=Spend per Category
+proc.widgets.title.spendPerSupplier=Spend per Supplier
+proc.widgets.title.spendVsVolume=Spend vs Volume
+proc.widgets.title.totalCartsInApproval=Total Carts in Approval
+proc.widgets.title.totalSpend=Total Spend

@@ -1,0 +1,10 @@
+DerivedMultiSheet.contractedProduct-currencyId=Currency ID
+DerivedMultiSheet.contractedProduct-descLong=Cust Prod Description
+DerivedMultiSheet.contractedProduct-descShort=Cust Prod Name
+DerivedMultiSheet.contractedProduct-discount=Discount
+DerivedMultiSheet.contractedProduct-extClassificationGroupId=Cust Classification Group ID
+DerivedMultiSheet.contractedProduct-extClassificationId=Cust Class ID
+DerivedMultiSheet.contractedProduct-extGlAccountId=GL Account ID
+DerivedMultiSheet.contractedProduct-extProductId=Cust Prod ID
+DerivedMultiSheet.contractedProduct-leadtimeInDays=Lead Time (in Days)
+DerivedMultiSheet.contractedProduct-maxQuantity=Maximum Order Quantity

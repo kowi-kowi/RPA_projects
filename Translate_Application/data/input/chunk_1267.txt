@@ -1,0 +1,10 @@
+plugin.opcSearch.action.shortView=Short
+plugin.opcSearch.action.showAll=Show All
+plugin.opcSearch.action.simpleSearch=Simple Search
+plugin.opcSearch.action.tilesView=Tiles
+plugin.opcSearch.boolean.false=False
+plugin.opcSearch.boolean.true=True
+plugin.opcSearch.button.apply=Apply
+plugin.opcSearch.button.cancel=Cancel
+plugin.opcSearch.button.save=Save
+plugin.opcSearch.category.spinnerMessage=Loading Browse Categories

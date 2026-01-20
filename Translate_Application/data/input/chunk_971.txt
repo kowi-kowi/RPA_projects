@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.entry.fieldLevelSecurity.definition=Field-level security provides the ability to grant different access levels to object fields/properties. For example, some fields may be hidden from the user, shown as read-only, or made editable.
+plugin.masterDataImportExport.entry.foreignKey.label=Foreign key reference field
+plugin.masterDataImportExport.entry.holidayCalendar.definition=Holiday Calendar
+plugin.masterDataImportExport.entry.language.definition=Languages
+plugin.masterDataImportExport.entry.managementHierarchy.definition=User Management Hierarchy
+plugin.masterDataImportExport.entry.manufacturer.definition=Manufacturers
+plugin.masterDataImportExport.entry.methodOfPayment.definition=Method of Payment Information
+plugin.masterDataImportExport.entry.ociObjectVisibility.definition=OCI Object Visibility description
+plugin.masterDataImportExport.entry.orderType.definition=Purchase Order Type Information
+plugin.masterDataImportExport.entry.orderType2Customer.definition=Can be used to exclude Customers that do not have access to Order Types.

@@ -1,0 +1,10 @@
+com.jcatalog.rfq.RFX.requestCategory.projects.label=Projects
+com.jcatalog.rfq.RFX.requestCategory.services.label=Services
+com.jcatalog.rfq.RFX.requestType.DC.label=DC
+com.jcatalog.rfq.RFX.requestType.RFA.label=RFA
+com.jcatalog.rfq.RFX.requestType.RFC.info=Cannot be awarded
+com.jcatalog.rfq.RFX.requestType.RFC.label=RFC
+com.jcatalog.rfq.RFX.requestType.RFI.label=RFI
+com.jcatalog.rfq.RFX.requestType.RFQ.label=RFQ
+com.jcatalog.rfq.RFX.requestType.RFS.label=RFS
+com.jcatalog.rfq.RFX.selectiveAwardType.anySupAnyItem.label=Any Supplier, Any Item

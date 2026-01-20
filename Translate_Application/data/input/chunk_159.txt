@@ -1,0 +1,10 @@
+RFQ.rfxTerminateModal.label.placeholder=Enter the reason
+RFQ.rfxTerminateModal.pendingDemand.description=You have selected to stop {id} prior to collect demand.
+RFQ.rfxTerminateModal.reasonDesc=Please, select or enter the reason for termination.
+RFQ.rfxTerminateModal.title=Terminate
+RFQ.rfxTypeLabel.catalogItems=Catalog Items
+RFQ.rfxTypeLabel.priceAndAvailability=Price & Availability
+RFQ.rfxTypeLabel.projects=Projects
+RFQ.rfxTypeLabel.services=Services
+RFQ.sqItemInfo.contractedPrice=Contr. Price
+RFQ.sqItemInfo.requestedPrice=Req. Price

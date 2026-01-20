@@ -1,0 +1,10 @@
+plugin.opcAdministration.label.userContractsOciVisibility=Contracts Filtered by the OCI Object Visibility
+plugin.opcAdministration.label.userId=User ID
+plugin.opcAdministration.label.userInfo=Technical User Details
+plugin.opcAdministration.label.value=Value
+plugin.opcAdministration.label.valueOption=Value option
+plugin.opcAdministration.label.valueOptions=Value options
+plugin.opcAdministration.label.versionNo=Version No
+plugin.opcAdministration.label.views=Views
+plugin.opcAdministration.label.waiting=Waiting...
+plugin.opcAdministration.menu.administration.activeUsers=Active Users

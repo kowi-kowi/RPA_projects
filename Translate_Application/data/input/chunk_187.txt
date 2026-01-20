@@ -1,0 +1,10 @@
+SSM.productEditor.common.select=Select
+SSM.productEditor.common.select.placeholder=Select...
+SSM.productEditor.common.to=To
+SSM.productEditor.common.update=Update
+SSM.productEditor.compare=Compare
+SSM.productEditor.compare.classification.and.attributes.section.title=Classifications & Attributes
+SSM.productEditor.compare.clear.product.selection=Clear Selection
+SSM.productEditor.compare.compare.price.row.valid.from=valid from {quantity}
+SSM.productEditor.compare.compare.product=Compare
+SSM.productEditor.compare.compare.product.relations.is=is

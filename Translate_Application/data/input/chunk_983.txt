@@ -1,0 +1,10 @@
+plugin.masterDataImportExportJobs.format.label.ociObjectVisibility=OCI Object Visibility Data
+plugin.masterDataImportExportJobs.format.label.orderType=Order Data
+plugin.masterDataImportExportJobs.format.label.organization=Organization Data
+plugin.masterDataImportExportJobs.format.label.posting=Posting Data
+plugin.masterDataImportExportJobs.format.label.productFee=Product Fee Data
+plugin.masterDataImportExportJobs.format.label.productFeeRule=Product Fee Rule Data
+plugin.masterDataImportExportJobs.format.label.responsibility=Responsibility Data
+plugin.masterDataImportExportJobs.format.label.system=System Data
+plugin.masterDataImportExportJobs.format.label.user=User Data
+plugin.masterDataImportExportJobs.ignore.label=Ignore

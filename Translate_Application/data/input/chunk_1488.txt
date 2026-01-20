@@ -1,0 +1,10 @@
+plugin.procRequisition.header.noOfItems=No. of Items
+plugin.procRequisition.header.processedBy=Processed by
+plugin.procRequisition.header.recurrentRequisition=Recurrent Requisition
+plugin.procRequisition.header.salesOrder=Requisition
+plugin.procRequisition.header.salesOrderName=Requisition Name
+plugin.procRequisition.header.startDate=Start Date
+plugin.procRequisition.header.step=Step
+plugin.procRequisition.header.stepDesc=Step Description
+plugin.procRequisition.header.user=User
+plugin.procRequisition.header.wl.step=Approval Step

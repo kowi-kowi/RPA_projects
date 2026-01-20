@@ -1,0 +1,10 @@
+plugin.salesorder.label.updateHomeAddress=Update Home Address
+plugin.salesorder.label.updateHomeAddress.addressId=Address ID
+plugin.salesorder.label.updateHomeAddress.areaCode=Area Code
+plugin.salesorder.label.updateHomeAddress.city=City
+plugin.salesorder.label.updateHomeAddress.corporateURL=Corporate URL
+plugin.salesorder.label.updateHomeAddress.country=Country
+plugin.salesorder.label.updateHomeAddress.ediId=Electronic data interchange ID
+plugin.salesorder.label.updateHomeAddress.ediOperatorId=Electronic data interchange Operator ID
+plugin.salesorder.label.updateHomeAddress.email=Email
+plugin.salesorder.label.updateHomeAddress.faxNo=Fax No

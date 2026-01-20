@@ -1,0 +1,10 @@
+plugin.deliveryNote.goodsReceipt.exceededDeliveryDate.label=The delivery date is exceeded.
+plugin.deliveryNote.goodsReceipt.extPurchaseOrder.label=Ext. Purchase Order
+plugin.deliveryNote.goodsReceipt.extPurchaseOrderId.label=Ext. Purchase Order ID
+plugin.deliveryNote.goodsReceipt.items.label=Items
+plugin.deliveryNote.goodsReceipt.label=Open Purchase Orders
+plugin.deliveryNote.goodsReceipt.onBehalfOf.label=On Behalf Of
+plugin.deliveryNote.goodsReceipt.purchaseOrder.label=Purchase Order
+plugin.deliveryNote.goodsReceipt.purchaseOrderId.label=Purchase Order ID
+plugin.deliveryNote.goodsReceipt.requestRMA.button=Return
+plugin.deliveryNote.goodsReceipt.salesOrder.label=Requisition

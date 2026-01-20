@@ -1,0 +1,10 @@
+com.jcatalog.contract.ContractCategory.description.label=Description
+com.jcatalog.contract.ContractCategory.header=Search for Contract Category
+com.jcatalog.contract.ContractCategory.key.label=ID
+com.jcatalog.contract.ContractedProduct.contract.contractId.label=Contract ID
+com.jcatalog.contract.ContractedProduct.description.label=Description
+com.jcatalog.contract.ContractedProduct.header=Search for Contracted products
+com.jcatalog.contract.ContractedProduct.product.catalog.productCatalogId.label=Product Catalog ID
+com.jcatalog.contract.ContractedProduct.product.productId.label=Product ID
+com.jcatalog.contract.GormContract.contractId.label=Contract ID
+com.jcatalog.contract.GormContract.description.label=Description

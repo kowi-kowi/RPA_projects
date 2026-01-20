@@ -1,0 +1,10 @@
+common.Attribute.error.blank.message=The field cannot be blank
+common.Attribute.error.doesnt.match.message=The value does not match the required pattern ''{pattern}''
+common.Attribute.error.invalid.date.message=The value must be a valid Date
+common.Attribute.error.invalid.decimal.message=The value must be a valid number
+common.Attribute.error.invalid.email.message=Not a valid e-mail address format
+common.Attribute.error.invalid.integer.message=The value must be a valid number
+common.Attribute.error.invalid.max.message=The value exceeds the maximum value ''{max}''
+common.Attribute.error.invalid.max.size.message=The value exceeds the maximum size of ''{max}''
+common.Attribute.error.invalid.min.message=The value is less than the minimum value ''{min}''
+common.Attribute.error.invalid.min.size.message=The value is less than the minimum size of ''{min}''

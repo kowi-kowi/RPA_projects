@@ -1,0 +1,10 @@
+plugin.catalogScorecard.label.itemsWithMfrName=Ratio of items with manufacturer name
+plugin.catalogScorecard.label.itemsWithProductRelations=Ratio of items with product relations
+plugin.catalogScorecard.label.itemsWithSpecialTreatmentClass=Ratio of hazardous items
+plugin.catalogScorecard.label.itemsWithUNSPSCAssignment=Ratio of items with ''UNSPSC'' classification assignment
+plugin.catalogScorecard.label.itemsWithUnambiguousProductId=Unambiguous item number
+plugin.catalogScorecard.label.itemsWithUoM=Ratio of items with sales unit of measure
+plugin.catalogScorecard.label.noVersions=No versions
+plugin.catalogScorecard.label.numberOfCatalogs=Number of catalogs to compare
+plugin.catalogScorecard.label.numberOfProducts=Number of products
+plugin.catalogScorecard.label.productDescriptions=Product Descriptions

@@ -1,0 +1,10 @@
+scheduling.ImportEnrichmentDataJob.upload-select.label=Import files via\:
+scheduling.ImportEnrichmentDataJob.upload-select.or=or
+scheduling.ImportEnrichmentDataJob.upload-select.uploading=uploading
+scheduling.IndexGlAccountStatisticsJob.period.label=Period
+scheduling.JasperReportJob.languageId.hint=Language ID of report to be generated. If not language is specified, English will be used.
+scheduling.JasperReportJob.languageId.label=Language
+scheduling.JasperReportJob.notificationEmail.hint=To send an email notification of the process generation (successfully or not), enter the address here. You can also enter several comma separated email addresses to notify several recipients at the same time.
+scheduling.JasperReportJob.notificationEmail.label=Status Email
+scheduling.JasperReportJob.outputFormat.hint=Type (extension) of report to be generated.
+scheduling.JasperReportJob.outputFormat.label=Output Style

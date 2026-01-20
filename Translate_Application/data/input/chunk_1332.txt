@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.title.massOperation.deliveryDate=Delivery Due
+plugin.opcShoppingCart.title.massOperation.internalNotes=Internal Notes
+plugin.opcShoppingCart.title.massOperation.orderText=Order Text
+plugin.opcShoppingCart.title.massOperation.recipient=Recipient
+plugin.opcShoppingCart.title.orderText=Order text
+plugin.opcShoppingCart.title.popupWarningTitle=Warning
+plugin.opcShoppingCart.title.priceInfo=Price Info
+plugin.opcShoppingCart.title.punchout=Punchout
+plugin.opcShoppingCart.title.rejected=Rejected
+plugin.opcShoppingCart.title.rfQ=RfQ Item

@@ -1,0 +1,10 @@
+plugin.salesorder.contractValidation.notification.message=Dear Mr/Mrs/Ms {0}, <br>please, note that {1}% of the available amount for contract {2} and catalog {3} has been spent.
+plugin.salesorder.contractValidation.notification.subject=Contract amount excess warning
+plugin.salesorder.export.button=Export
+plugin.salesorder.import.button=Import
+plugin.salesorder.label.availableTemplates.desc=You may download the following templates\:
+plugin.salesorder.label.cart.import=Cart Import
+plugin.salesorder.label.charSet=Char set
+plugin.salesorder.label.characterFormat=Encoding
+plugin.salesorder.label.column=Column
+plugin.salesorder.label.costObject.userProfile=Default Cost Object

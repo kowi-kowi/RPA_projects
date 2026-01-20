@@ -1,0 +1,10 @@
+deltaReport.header.catalogStatistics.new=New
+deltaReport.header.catalogStatistics.newProducts=New Products
+deltaReport.header.catalogStatistics.numberOfDescreasedPrices=Number of decreased Prices (EPC)
+deltaReport.header.catalogStatistics.numberOfIncreasedPrices=Number of Increased Prices (EPC)
+deltaReport.header.catalogStatistics.old=Old
+deltaReport.header.catalogStatistics.products=Products
+deltaReport.header.catalogStatistics.productsInContracts=Products in Contracts (having at least one price in the contract)
+deltaReport.header.catalogStatistics.productsWithPrice=Products with price Changes by Contract
+deltaReport.header.catalogStatistics.provisioningDate=Provisioning Date
+deltaReport.header.catalogStatistics.sheetName=Catalog Statistics

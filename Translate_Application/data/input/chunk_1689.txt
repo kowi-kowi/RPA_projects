@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.detailedTable.column.header.processType=Process type
+plugin.ssmWorkflow.detailedTable.column.header.version=Version
+plugin.ssmWorkflow.detailedTable.link.title.processId=Show Process Details
+plugin.ssmWorkflow.error.empty.forwardTo='Forward workflow step to' field is empty. Please, specify what user you want to forward this step to.
+plugin.ssmWorkflow.error.empty.productCatalogFile='Enriched File' field is empty. Please, specify what catalog you want to upload.
+plugin.ssmWorkflow.error.file.selected.tooLarge=The import file selected ({0}) is too large (> {1} MB). Please verify that the file is correct. Consider using multiple catalog loads.
+plugin.ssmWorkflow.error.file.uploaded.tooLarge=The import file uploaded ({0}) is too large (> {1} MB). Please verify that the file is correct. Consider using multiple catalog loads.
+plugin.ssmWorkflow.error.standartworkflow.noActivationData=Activation date is required.
+plugin.ssmWorkflow.fileNameLength.info=The import file name ''{0}'' is too long. The max length is {1}.
+plugin.ssmWorkflow.frameAgreement.command.approve.desc=Click this button to approve the processed catalog. The workflow node "runProcess" will be executed. It means that you agree that the catalog will be published.

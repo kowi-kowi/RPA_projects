@@ -1,0 +1,10 @@
+plugin.grailsflow.messages.trigger.notExists=The Job with name {0} from group {1} is not existed\: probably it is finished already.
+plugin.grailsflow.question.confirm=Are you sure?
+plugin.grailsflow.running.day=d 'Day(s)', HH\:mm\:ss
+plugin.grailsflow.running.month=M 'Month' d 'Day(s)', HH\:mm\:ss
+plugin.grailsflow.running.year=y 'Year(s)' M 'Month' d 'Day(s)', HH\:mm\:ss
+plugin.grailsflow.startUser=Started by User
+plugin.grailsflow.startedFrom=Started From
+plugin.grailsflow.status=Status
+plugin.grailsflow.status.statusID=Status
+plugin.grailsflow.text.info=Quartz version <b>{8}</b>.<br>Quartz Scheduler named <b>{0}</b> with instance ID {1}</b>.<br>The scheduler has been running since <b>{2}</b> and has executed <b>{3}</b> jobs.<br>The job store is class <b>{4}</b> which does {5} support persistence.<br>The thread pool is class class <b>{6}</b> which has <b>{7}</b> threads.

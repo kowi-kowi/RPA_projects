@@ -1,0 +1,10 @@
+RFQ.tabItems.table.header.manufacturerPartNo=Manufacturer Part No.
+RFQ.tabItems.table.header.pos=Pos.
+RFQ.tabItems.table.header.productId=Product ID
+RFQ.tabItems.table.header.quantity=Quantity
+RFQ.tabItems.table.header.rfxItemPos=RFX Item pos.
+RFQ.tabItems.table.header.shortDesc=Short Description
+RFQ.tabItems.table.section.button.cancel=Cancel
+RFQ.tabItems.table.section.button.save=Save
+RFQ.tabItems.table.section.position=Position
+RFQ.tabItems.table.section.positions=Positions

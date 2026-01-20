@@ -1,0 +1,10 @@
+catalogStatistics.label.withWarnings=with warnings
+catalogUsage.objectClass.name=Catalog Usage
+catalogUsage.objectClass.relation=catalog-customer
+catalogUser.activeEmploymentPeriod.toBeforeFrom='From' date should be less or equal to 'To' date.
+catalogUser.activeEmploymentPeriod.validator.error=Invalid date range in Active Employment Period
+catalogUser.assignment.missing=User must have at least one Supplier or Customer assignment
+catalogUser.contractedEmploymentPeriod.doesnotinclude=Contracted Employment Period does not include Active Employment Period
+catalogUser.contractedEmploymentPeriod.toBeforeFrom='From' date should be less or equal to 'To' date.
+catalogUser.contractedEmploymentPeriod.validator.error=Invalid date range in Contracted Employment Period
+catalogUser.id.unique=User with the Login Name {0} already exists

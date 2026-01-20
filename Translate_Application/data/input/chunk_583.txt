@@ -1,0 +1,10 @@
+message.RestoreCatalogJob.info=Restore job publishes an old version of a Catalog.
+message.SearchCatalogsForMigrationJob.info=Search job checks all available Catalog DB files and collects only ones that need migration.
+message.TestMigrationJob.info=This functionality provides a way for calculation approximate time of Migration of all Catalog DBs. In addition it finds those Catalog DBs which will have problems during Migration. No catalog DBs in Work Area will be changed. Each Catalog DB will be copied to job's working directory and will be migrated to the latest version of Catalog DB schema. After the migration of a copy has finished (no matter successfully or not) the file will be removed from the directory. Time of migration of each Catalog DB is logged. See 'migration-&lt;number&gt;.log' file to find approximate time of all Catalog DBs migration.
+message.addedProductAmount={0} product(s) was(were) added to cart.
+message.automatic.processingLog.error.body=ProductId\:'${PRODUCTID}', Message\: '${EXPLANATION}'
+message.automatic.processingLog.error.header=Errors occurred during the import.
+message.automatic.workflow.catalogCreation=New Catalog Version is created from an empty Catalog DB template.
+message.automatic.workflow.classificationMapping.parameters=Source classification \= ${sourceClassification}, Target classification \= ${targetClassification}.
+message.automatic.workflow.execute.activate=Activate\n-------------------\nStarted at      ${now}
+message.automatic.workflow.execute.catalogCreation=Catalog Creation\n-------------------\nStarted at               ${now}

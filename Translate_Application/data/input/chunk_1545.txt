@@ -1,0 +1,10 @@
+plugin.productReviewEditor.command.inventory=Open as Inventory
+plugin.productReviewEditor.command.next=Next
+plugin.productReviewEditor.command.republish.catalog=Republish Catalog
+plugin.productReviewEditor.command.save=Save
+plugin.productReviewEditor.command.saveAndNew=Save and New
+plugin.productReviewEditor.command.search=Search
+plugin.productReviewEditor.command.update=Update
+plugin.productReviewEditor.command.worklist.back=Back to worklist
+plugin.productReviewEditor.confirmation.text.delete.attribute=Are you sure you want to delete the Attribute?
+plugin.productReviewEditor.confirmation.text.delete.classification=Are you sure you want to delete the Classification?

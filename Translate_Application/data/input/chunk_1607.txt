@@ -1,0 +1,10 @@
+plugin.requisitionProcessingRulesEditors.save.failed.unique.message=Customer and Product must be unique.
+plugin.requisitionProcessingRulesEditors.save.success.message=The Requisition Processing Rule has been successfully saved.
+plugin.requisitionProcessingRulesEditors.title.approvalRule.revision=Requisition Processing Rules Revision
+plugin.requisitionProcessingRulesEditors.title.approvalRuleHistory=Requisition Processing Rules History
+plugin.responsibilityEditor.GormResponsibilityType.Attribute=Attribute
+plugin.responsibilityEditor.GormResponsibilityType.Classification=Classification
+plugin.responsibilityEditor.GormResponsibilityType.Contract=Contract
+plugin.responsibilityEditor.GormResponsibilityType.Language=Language
+plugin.responsibilityEditor.GormResponsibilityType.Price=Price
+plugin.responsibilityEditor.GormResponsibilityType.Product=Product

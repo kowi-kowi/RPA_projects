@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.command.return.hint=Go to previous approval level.
+plugin.ssmWorkflow.command.search=Search
+plugin.ssmWorkflow.command.submit=Submit
+plugin.ssmWorkflow.command.upload=Upload
+plugin.ssmWorkflow.command.upload.desc=Press this button to upload enrichment import file and start enrichment import. In case of success updated catalog will be validated again and then workflow execution will be redirected to approval nodes.
+plugin.ssmWorkflow.command.upload.hint=Upload enrichment import file and start enrichment import.
+plugin.ssmWorkflow.command.uploadCatalog=Upload Catalog
+plugin.ssmWorkflow.command.validateCatalog=Validate catalog
+plugin.ssmWorkflow.command.validateCatalog.desc=Press this button if you want workflow execution to be redirected to "clearProcessingLog" node and then to "cleansing" node. It means that catalog needs to be validated again.
+plugin.ssmWorkflow.command.validateCatalog.hint=Go to "clearProcessingLog" node and then to "cleansing" node. Current processed Catalog needs to be validated again.

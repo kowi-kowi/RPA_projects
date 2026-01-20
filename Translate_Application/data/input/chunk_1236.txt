@@ -1,0 +1,10 @@
+plugin.opcPunchout.message.error.validatePunchoutOutbound.empty=The external shop is not configured.
+plugin.opcPunchout.message.error.validatePunchoutOutbound.noResponse=The external shop does not respond.
+plugin.opcPunchout.message.info.transferringPunchout=<h4>Transferring punchout product data.</h4> You are being redirected to the shopping cart page...
+plugin.opcPunchout.message.info.validatePunchoutOutbound=The punchout product was successfully updated. The cart will be reloaded immediately.
+plugin.opcPunchout.message.warning.cheaperItemVerificationSkipped=Cheaper Item Verification is enabled for the "{0}" catalog, but this verification is not possible when ordering multiple products. If you need to apply the functionality of finding cheaper items in internal catalogs, please order products separately.
+plugin.opcPunchout.message.warning.expiredPunchoutSession=<h4>Could not transfer punchout product data.</h4> Perhaps this may be the result of an expired punchout session. Please make a new punchout order.
+plugin.opcPunchout.message.warning.validatePunchoutOutbound.invalidResponse=The punchout product was not updated. The necessary information is missing. Please contact your administrator.
+plugin.opcPunchout.punchoutCheaperItemVerification.title=Cheaper Item Verification
+plugin.opcPunchout.punchoutInbound.title=Punchout Product\: {0}
+plugin.opcPunchout.punchoutOutbound.title=Punchout Product\: {0}

@@ -1,0 +1,10 @@
+plugin.procPurchaseorder.action.createGR=Receive
+plugin.procPurchaseorder.action.requestRMA=Return
+plugin.procPurchaseorder.address.delivery=Delivery Address
+plugin.procPurchaseorder.authority.label.groupName=Group
+plugin.procPurchaseorder.authority.label.loginName=User
+plugin.procPurchaseorder.authority.label.roleName=Role
+plugin.procPurchaseorder.button.book=Go to booking page
+plugin.procPurchaseorder.button.cancel.end.delivery=Reset Final Receipt
+plugin.procPurchaseorder.button.cancelation=Cancel
+plugin.procPurchaseorder.button.end.delivery=Final Receipt

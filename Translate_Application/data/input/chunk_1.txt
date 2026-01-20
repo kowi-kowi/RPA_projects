@@ -1,0 +1,10 @@
+AttributeValueLayout.no=No
+AttributeValueLayout.yes=Yes
+BudgetInput._objectLabel=Budget Object
+BudgetInput.dialog.title=Budget
+BudgetInput.objectId=Budget Object ID
+BudgetInput.objectType=Budget Object Type
+BudgetInput.period=Period
+Commentary=${commentary}
+Common.Search=Search...
+DerivedMultiSheet.action=Action Code

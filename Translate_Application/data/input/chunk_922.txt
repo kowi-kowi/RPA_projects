@@ -1,0 +1,10 @@
+plugin.grailsflow.label.name=Name
+plugin.grailsflow.label.nextFired=Next Fired
+plugin.grailsflow.label.noEntries=No entries found
+plugin.grailsflow.label.noProtocolGroups=There are no protocoling information for specified process type.
+plugin.grailsflow.label.nodeID=Node ID
+plugin.grailsflow.label.nodeTranslations=Process Translations
+plugin.grailsflow.label.onEvent=On Event
+plugin.grailsflow.label.operations=Operations
+plugin.grailsflow.label.pageName=Page Name
+plugin.grailsflow.label.pause=Pause

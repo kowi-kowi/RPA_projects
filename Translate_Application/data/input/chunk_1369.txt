@@ -1,0 +1,10 @@
+plugin.permanentDeactivation.error.customer.notAssignedToCatalog=Customer "{0}" is not assigned to Catalog "{1}".
+plugin.permanentDeactivation.error.customer.notAssignedToSupplier=Supplier "{0}" is not assigned to Customer "{1}".
+plugin.permanentDeactivation.error.customerId.required=Customer is a required field.
+plugin.permanentDeactivation.error.startedWorkflow=The Permanent Catalog Deactivation process cannot be started as this catalog has been already locked by another job or workflow.
+plugin.permanentDeactivation.error.supplier.notAssignedToCatalog=Supplier "{0}" is not assigned to Catalog "{1}".
+plugin.permanentDeactivation.error.supplierId.required=Supplier is a required field.
+plugin.permanentDeactivation.label.customerId=Customer
+plugin.permanentDeactivation.label.notificationEmail=Email
+plugin.permanentDeactivation.label.productCatalogId=Catalog
+plugin.permanentDeactivation.label.supplierId=Supplier

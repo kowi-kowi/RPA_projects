@@ -1,0 +1,10 @@
+plugin.productReviewEditor.title.br.externalParameters=External Parameters
+plugin.productReviewEditor.title.br.lists=Business Rule Lists
+plugin.productReviewEditor.title.bulkEdit=Bulk Edit
+plugin.productReviewEditor.title.classificationAssignment.create=Add classification assignment
+plugin.productReviewEditor.title.classificationAssignment.edit=Edit classification assignment
+plugin.productReviewEditor.title.clear.selection=Clear Selection
+plugin.productReviewEditor.title.compareAgainst=Compare
+plugin.productReviewEditor.title.compareProducts=Compare
+plugin.productReviewEditor.title.contract.create=Add contract
+plugin.productReviewEditor.title.contract.edit=Edit contract

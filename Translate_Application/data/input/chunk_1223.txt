@@ -1,0 +1,10 @@
+plugin.opcProductReview.label.productReview.rateItem=How do you rate this product?
+plugin.opcProductReview.label.productReview.rating=Rating
+plugin.opcProductReview.label.productReview.rating.1=Very poor
+plugin.opcProductReview.label.productReview.rating.2=Not that bad
+plugin.opcProductReview.label.productReview.rating.3=Average
+plugin.opcProductReview.label.productReview.rating.4=Good
+plugin.opcProductReview.label.productReview.rating.5=Perfect
+plugin.opcProductReview.label.productReview.requiredFiled=* Required field
+plugin.opcProductReview.label.productReview.reviewDisplayName=Please enter a displayed name for your review
+plugin.opcProductReview.label.productReview.reviewHelpfulToYou=Was this review helpful to you?

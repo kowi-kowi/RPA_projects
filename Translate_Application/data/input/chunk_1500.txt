@@ -1,0 +1,10 @@
+plugin.procRequisition.label.requisitionRevisions.deletedItems=Deleted Items
+plugin.procRequisition.label.requisitionRevisions.header=Requisition header changes
+plugin.procRequisition.label.requisitionRevisions.items=Requisition items changes
+plugin.procRequisition.label.requisitionRevisions.rejectedItems=Rejected Items
+plugin.procRequisition.label.requisitionStatus=Status
+plugin.procRequisition.label.revision=Requisition Revisions
+plugin.procRequisition.label.salesOrder=Requisition
+plugin.procRequisition.label.salesOrder.orderText=Order Text\:
+plugin.procRequisition.label.salesOrder.price=Total\:
+plugin.procRequisition.label.salesOrderHistory=History

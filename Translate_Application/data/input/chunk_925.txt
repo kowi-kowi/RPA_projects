@@ -1,0 +1,10 @@
+plugin.grailsflow.label.processTranslations=Process Translations
+plugin.grailsflow.label.processType=Process Type
+plugin.grailsflow.label.processVariables=Process Variables
+plugin.grailsflow.label.processVars=Process Variables
+plugin.grailsflow.label.processes.removing=Processes removal is running...
+plugin.grailsflow.label.property=Property
+plugin.grailsflow.label.protocolGroup=Protocol Group
+plugin.grailsflow.label.protocolGroups=Protocol Groups
+plugin.grailsflow.label.protocolingNodes=Protocoling Nodes Execution
+plugin.grailsflow.label.quantity=Quantity

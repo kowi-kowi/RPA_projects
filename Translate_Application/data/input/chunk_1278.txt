@@ -1,0 +1,10 @@
+plugin.opcSearch.label.facetItem.isStockedItem.checked=Yes
+plugin.opcSearch.label.federatedSearchResultInfo.multipleProducts=products
+plugin.opcSearch.label.federatedSearchResultInfo.singleProduct=product
+plugin.opcSearch.label.filterResults=Filter Results
+plugin.opcSearch.label.filtered=Filters\:
+plugin.opcSearch.label.findResults=Find results
+plugin.opcSearch.label.foundProductCount=Number of products
+plugin.opcSearch.label.fuzzy=Search for word parts (fuzzy search)
+plugin.opcSearch.label.gallery=Switch to Tile View
+plugin.opcSearch.label.goToNews=Go to News

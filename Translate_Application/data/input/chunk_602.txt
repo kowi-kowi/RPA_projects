@@ -1,0 +1,10 @@
+message.extend.price.workflow.finish.success=Workflow completed successfully at ${now}.
+message.extend.price.workflow.start=*******************\nExtend Price Process\n*******************\n\nIdentification\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nProcess ID               ${processId}\nCatalog ID               ${catalogId}\nStarted at               ${now}\nby                       ${startedBy}\n\nDetails\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\nSupplierId               ${supplierId}\nCustomerId               ${customerId}\nOldValidTo               ${oldValidTo}\nNewValidTo               ${newValidTo}\n\n\nProcess Steps\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+message.extend.price.workflow.vars.exportFileName=Exported file name\: ${exportFileName}
+message.filename=Filename\:         {0}
+message.filesList=Included files\:\n{0}
+message.frame.agreement.workflow.analyzing.warnings=Warnings occurred during the analyzing.
+message.frame.agreement.workflow.approved=${nodeId}\n-------------------\nApproved by     ${user}
+message.frame.agreement.workflow.catalogCreation.updateMode=Workflow started in UPDATE mode. New Catalog Version is created from CURRENT Catalog Version.
+message.frame.agreement.workflow.classificationMapping.parameters=Source classification \= ${sourceClassification}, Target classification \= ${targetClassification}.
+message.frame.agreement.workflow.cleansing.errors=Errors occurred during the cleansing.

@@ -1,0 +1,10 @@
+plugin.budget.error.budget.object.notFound=No suitable Budget Object.
+plugin.budget.error.period.overlap=Budget for the selected dates and Budget Object already exists
+plugin.budget.error.plannedAmount.positive=Amount Planned should be a positive number
+plugin.budget.error.transfer.sourceBudget.blocked=Source budget is blocked.
+plugin.budget.error.transfer.sourceBudget.period.expired=Source budget period has expired.
+plugin.budget.error.transfer.targetBudget.blocked=Target budget is blocked.
+plugin.budget.error.transfer.targetBudget.incorrect=Wrong target budget ID.
+plugin.budget.error.transfer.targetBudget.period.expired=Target budget period has expired.
+plugin.budget.error.transfer.transferAmount.exceeds=Transfer amount must be less or equal to the available amount.
+plugin.budget.error.validRange.required=From date and To date are necessary values for Valid Range.

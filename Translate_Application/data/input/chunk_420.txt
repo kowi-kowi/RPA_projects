@@ -1,0 +1,10 @@
+contractCompliance.label.customer=Customer\:
+contractCompliance.label.generatedOnBy=Generated on/by\:
+contractCompliance.label.reportName=Contract Compliance Report for
+contractCompliance.label.supplier=Supplier\:
+contractProvisioning.objectClass.name=Contract Provisioning
+contractProvisioning.objectClass.relation=contact-supplier
+contractUsage.objectClass.name=Contract Usage
+contractUsage.objectClass.relation=contract-customer
+contractedCatalog.objectClass.name=Contracted Catalog
+contractedCatalog.objectClass.relation=catalog-contact

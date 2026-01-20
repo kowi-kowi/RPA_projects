@@ -1,0 +1,10 @@
+jasperReports.CatalogMetrics.version.label=Catalog Version
+jasperReports.CatalogQualities.catalogId=Catalog ID
+jasperReports.CatalogQualities.catalogVersion.label=Version
+jasperReports.CatalogQualities.details.label=Details
+jasperReports.CatalogQualities.executedBy=Executed by\:
+jasperReports.CatalogQualities.execution=Execution\:
+jasperReports.CatalogQualities.fromDate=From Date
+jasperReports.CatalogQualities.header1=Parameters\:
+jasperReports.CatalogQualities.header2=Description\: Displays number of products per each Catalog Version
+jasperReports.CatalogQualities.numberOfProducts.label=Number of Products

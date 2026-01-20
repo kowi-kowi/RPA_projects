@@ -1,0 +1,10 @@
+menu.customerView=Customer Views
+menu.customizationareaFileManager=Customization Area
+menu.database=Database
+menu.delegation=Delegation
+menu.demoData=Demo Data
+menu.documentHub=Document Routing
+menu.documentViewType=Document View Types
+menu.documents.supplierRequisition=Create Requisition
+menu.documents.supplierRequisition.command.createRequisition=Create
+menu.documents.supplierRequisition.error.blank.message=The Customer ID field cannot be blank.

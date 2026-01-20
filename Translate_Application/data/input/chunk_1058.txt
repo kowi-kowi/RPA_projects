@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.visibility.purchaseType=Purchase type
+plugin.opcAnalysis.label.visibility.user=User
+plugin.opcAnalysis.label.visibility.userId=User ID
+plugin.opcAnalysis.label.visibility.workLocation=Work location
+plugin.opcAnalysis.label.withoutWords=<b>without</b> the words
+plugin.opcAnalysis.link.viewExportResult=View export results list
+plugin.opcAnalysis.menu.analysis.header=Analysis
+plugin.opcAnalysis.menu.analysis.header.report=Reports
+plugin.opcAnalysis.menu.analysis.header.spendAnalysis=Spend Analysis
+plugin.opcAnalysis.menu.analysis.productPriceAnalysis=Product and Price Analysis

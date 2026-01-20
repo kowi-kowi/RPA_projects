@@ -1,0 +1,10 @@
+plugin.opcShoppingList.label.actualizeList=Actualize Shopping List
+plugin.opcShoppingList.label.actualizeSelected=Actualize selected items
+plugin.opcShoppingList.label.add2Cart=Add to Cart
+plugin.opcShoppingList.label.addItems2existing=Add items to an existing Shopping List
+plugin.opcShoppingList.label.addItems2new=Add items to a new Shopping List
+plugin.opcShoppingList.label.addListItem2cart=Add Product to the Cart
+plugin.opcShoppingList.label.addSelectedListItems2cart=Add selected items to cart
+plugin.opcShoppingList.label.addToList=Add to List
+plugin.opcShoppingList.label.businessUnit=Business Unit
+plugin.opcShoppingList.label.cartButtonsGroup=Item Actions

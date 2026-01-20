@@ -1,0 +1,10 @@
+RFQ.rfxItemInfoHeader.contractedPrice=Contracted Price
+RFQ.rfxItemInfoHeader.deliveryDate=Delivery Date
+RFQ.rfxItemInfoHeader.productId=Product ID
+RFQ.rfxItemInfoHeader.quantity=Quantity, Unit Price
+RFQ.rfxItemInfoHeader.requestedPrice=Requested Price
+RFQ.rfxItemInfoHeader.shortDescription=Short Description
+RFQ.rfxList.bidExpiresOn=Expiration Date
+RFQ.rfxList.createBy=Created By
+RFQ.rfxList.customer=Customer
+RFQ.rfxList.formTitle=Quote Overview

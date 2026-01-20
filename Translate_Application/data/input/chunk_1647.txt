@@ -1,0 +1,10 @@
+plugin.sdpSsmNavigation.menu.supplier.passthroughParams.desc=This is the fourth step of the catalog publishing process. In this step you specify important parameters like the format of that file, if you want to perform transformations on that file concerning units of measurement or classification systems. Finally you determine the file format which your finished catalog or contract should have and if you want to export it with a special encoding which is important for the correct display of the data on the Internet.
+plugin.sdpSsmNavigation.menu.supplier.productPreview=Product Preview
+plugin.sdpSsmNavigation.menu.supplier.productPreview.toolTip=Product Preview
+plugin.sdpSsmNavigation.menu.supplier.profile=Profile
+plugin.sdpSsmNavigation.menu.supplier.profile.toolTip=If you logged in to the SSM for the first time, please check your personal profile. It contains the information on your company address (street, city) and your email. SSM needs these data to work correctly, otherwise you may experience problems with your files and also your access to the available functions and services. Make sure all required fields are filled with the correct data.
+plugin.sdpSsmNavigation.menu.supplier.setup=Setup
+plugin.sdpSsmNavigation.menu.supplier.showWorklist=Show Worklist
+plugin.sdpSsmNavigation.menu.supplier.showWorklist.toolTip=Displays the Worklist with all processes that require input from the supplier. The available actions will be provided as links.
+plugin.sdpSsmNavigation.menu.supplier.standardWorkflow=Process Catalog
+plugin.sdpSsmNavigation.menu.supplier.standardWorkflow.toolTip=Publishing your catalog means to upload it to the Self Service Manager and perform mappings for currency, file format, units of measurement and classification if required for a customer catalog and then export the file again to make it available to the customer. This can be announced to the customer by email in the same process.

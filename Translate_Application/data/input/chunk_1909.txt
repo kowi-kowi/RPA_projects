@@ -1,0 +1,10 @@
+supplierErpTransfer.supplier.jobs=Supplier ERP Transfer Import/Export Jobs
+supplierErpTransfer.title.supplier.transfer=Supplier ERP transfer
+supplierProvisioning.objectClass.name=Supplier Provisioning
+supplierProvisioning.objectClass.relation=customer-supplier
+supplierQuote=Supplier Response
+supplierQuote.item.contractedCurrency=Original Currency
+supplierQuote.item.contractedPrice=Original Price
+supplierQuote.item.currency=Currency
+supplierQuote.item.deliveryDate=Delivery Date
+supplierQuote.item.offeredPrice=Offered Total Price

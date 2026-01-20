@@ -1,0 +1,10 @@
+plugin.domainObjectAttachment.fileName.tableHeader=File Name
+plugin.domainObjectAttachment.fileSize.tableHeader=Size
+plugin.domainObjectAttachment.fileSystem.error=IO exception\: {0}
+plugin.domainObjectAttachment.fileTypeNotAllowed.error=File type not allowed. Allowed file formats\: {0}.
+plugin.domainObjectAttachment.filesTotalSizeIsTooBig.warning=The total size of all attached files exceeds {0} MB. This may cause issues when sending the email. Please reduce the file size to avoid potential problems.
+plugin.domainObjectAttachment.message.acceptFileTypes=Allowed file formats\: {0}.
+plugin.domainObjectAttachment.message.uploadMaxSize=Max file size for upload\: {0}.
+plugin.domainObjectAttachment.notFound.label=file not found
+plugin.domainObjectAttachment.objectDeleteFailed.message=Failed to delete object
+plugin.domainObjectAttachment.titleHeader=Attachments for {0}

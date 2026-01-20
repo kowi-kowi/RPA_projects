@@ -1,0 +1,10 @@
+plugin.applicationMetrics.SSM.NoOfCatalogsPendingApproval.description=The number of catalogs waiting for approval at the moment, executed hourly
+plugin.applicationMetrics.SSM.NoOfFailedCatalogs.description=The total number of workflows, which have finished with errors/exceptions (for any reason) during the day; executed daily
+plugin.applicationMetrics.SSM.NoOfLoadedCatalogs.description=Number of Catalog Versions successfully published to OPC for a time period
+plugin.applicationMetrics.SSM.NoOfProcessedProducts.description=The total number of products from the catalogs, which have been activated during the day; executed daily
+plugin.applicationMetrics.SSM.NoOfWarningsInPublishedCatalogs.description=The total number of warnings from the catalogs, which have been activated during the day; executed daily
+plugin.applicationMetrics.SSM.TimeOfCatalogApproval.description=The total time of execution (in minutes) of the Customer Workflows, which have been finished during the day; executed daily
+plugin.applicationMetrics.SSM.TimeOfCatalogProcessing.description=The total time of execution (in minutes) of the Supplier Workflows, which have been finished during the day; executed daily
+plugin.applicationMetrics.SSM.TotalNoOfCatalogs.description=The total number of catalogs
+plugin.applicationMetrics.SSM.TotalNoOfContracts.description=The total number of contracts
+plugin.applicationMetrics.SSM.TotalNoOfSuppliers.description=The total number of suppliers

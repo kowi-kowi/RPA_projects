@@ -1,0 +1,10 @@
+plugin.ssmWorkflow.frameAgreement.continueProcessing.desc=Click this button to proceed with the workflow execution.
+plugin.ssmWorkflow.frameAgreement.message.contentApprove.desc=Please, approve the current state of the catalog {0} ({1}) and the contract {2} ({3}) of the supplier {4} ({5}) and the customer {6} ({7}).
+plugin.ssmWorkflow.frameAgreement.title.approve.catalog=Frame Agreement Catalog Approval
+plugin.ssmWorkflow.hint.activationDate=Date when updated catalog will be published in OPC.
+plugin.ssmWorkflow.hint.catalog=Catalog for conversion.
+plugin.ssmWorkflow.hint.catalogFile=Select the file that you want to upload.
+plugin.ssmWorkflow.hint.contract=Contract for conversion.
+plugin.ssmWorkflow.hint.customer=Customer for whom catalog export is made.
+plugin.ssmWorkflow.hint.formatName.desc=Format of import file, in which catalog update data is stored.
+plugin.ssmWorkflow.hint.supplier=Supplier for whom catalog conversion is made.

@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.label.recipient.department=Department
+plugin.opcShoppingCart.label.recipient.floor=Floor
+plugin.opcShoppingCart.label.recipient.name=Name
+plugin.opcShoppingCart.label.recipient.room=Room
+plugin.opcShoppingCart.label.salutation=Salutation
+plugin.opcShoppingCart.label.saveCartAsShoppingList=Save Cart as Shopping List
+plugin.opcShoppingCart.label.selectAll=All
+plugin.opcShoppingCart.label.selectShoppingList=Select Shopping List
+plugin.opcShoppingCart.label.showCommentary=Show commentary
+plugin.opcShoppingCart.label.showDetails=Show Details

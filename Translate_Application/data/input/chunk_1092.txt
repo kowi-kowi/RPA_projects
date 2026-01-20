@@ -1,0 +1,10 @@
+plugin.opcCommonUi.label.includingDiscount=Including Discount
+plugin.opcCommonUi.label.includingSurcharge=Including Surcharge
+plugin.opcCommonUi.label.infoProduct=Show {0} Info Product(s)
+plugin.opcCommonUi.label.isChemical=Is chemical
+plugin.opcCommonUi.label.isMainProdLine=Is main product line
+plugin.opcCommonUi.label.isSafety=Is safety
+plugin.opcCommonUi.label.manufacturerId=Manufacturer ID
+plugin.opcCommonUi.label.manufacturerName=Manufacturer Name
+plugin.opcCommonUi.label.noInfoProduct=There are no Info Products found.
+plugin.opcCommonUi.label.oldPrice=Old Price\: {0}

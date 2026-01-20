@@ -1,0 +1,10 @@
+plugin.opcSearch.label.specialMarks=Special Mark
+plugin.opcSearch.label.splitterMoveLeft=Move Splitter to the Left
+plugin.opcSearch.label.splitterMoveRight=Move Splitter to the Right
+plugin.opcSearch.label.stop=Stop
+plugin.opcSearch.label.supplier=Supplier
+plugin.opcSearch.label.supplierCategorySearch.tab=Supplier Category Search
+plugin.opcSearch.label.supplierName=Supplier
+plugin.opcSearch.label.supplierNames=Supplier
+plugin.opcSearch.label.tieredPrices=Tiered Price
+plugin.opcSearch.label.tileView=Tile View

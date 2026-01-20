@@ -1,0 +1,10 @@
+PROC.ProfessionalBuyerTool.messages.poiSaved=Order Item was successfully saved.
+PROC.PurchaseOrderEditor.cards.attachments.header=Attachments
+PROC.PurchaseOrderEditor.cards.deliveryAddress.header=Delivery Address
+PROC.PurchaseOrderEditor.cards.invoiceAddress.header=Invoice Address
+PROC.PurchaseOrderEditor.cards.messages.header=Messages
+PROC.PurchaseOrderEditor.cards.messages.labels.internalNotes=Internal Notes
+PROC.PurchaseOrderEditor.cards.messages.labels.orderText=Order Text
+PROC.PurchaseOrderEditor.cards.orderAddress.labels.address=Address ID
+PROC.PurchaseOrderEditor.cards.purchaseOrder.header=Purchase Order
+PROC.PurchaseOrderEditor.cards.purchaseOrder.labels.isConfirmRequired=Confirmation Required

@@ -1,0 +1,10 @@
+ExtendedMultiSheet.price-validFrom_1=Price - Valid from
+ExtendedMultiSheet.price-validTo_1=Price - Valid to
+ExtendedMultiSheet.price-vatPercentage_1=Price - Vat Percentage
+ExtendedMultiSheet.product-catalogId=Catalog ID
+ExtendedMultiSheet.product-ean=EAN
+ExtendedMultiSheet.product-extProductId=Ext Product ID
+ExtendedMultiSheet.product-isConfigurable=Is Configurable
+ExtendedMultiSheet.product-isForSales=Is for Sales
+ExtendedMultiSheet.product-isMainProdLine=Is Main Prod Line
+ExtendedMultiSheet.product-isPunchout=Is Punchout

@@ -1,0 +1,10 @@
+prov.ClassificationGroupPreview.noAttributesMessage=Classification Group has no attributes.
+prov.ClassificationGroupPreview.noSubGroupsMessage=Classification Group has no sub-groups.
+prov.ClassificationGroupPreview.status=Status
+prov.ClassificationGroupPreview.subGroupsTabLabel=Sub-Groups
+prov.ClassificationGroupSearchContainer.button.reset=Reset
+prov.ClassificationGroupSearchContainer.button.search=Search
+prov.ClassificationGroupSearchContainer.label.attributeId=Attribute ID
+prov.ClassificationGroupSearchContainer.label.classificationDescription=Group Description
+prov.ClassificationGroupSearchContainer.label.classificationGroupId=Group ID
+prov.ClassificationGroupSearchResult.column.classificationDescription=Group Description

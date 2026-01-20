@@ -1,0 +1,10 @@
+plugin.procDoctransfer.poDoc.PurchaseOrderNew=New Purchase Order
+plugin.procDoctransfer.poDoc.PurchaseOrderNotification=Purchase Order Overdue
+plugin.procDoctransfer.poDoc.PurchaseOrderOverdueDeliveryReminder=Purchase Order Overdue Delivery Reminder
+plugin.procDoctransfer.poDoc.PurchaseOrderReminder=Purchase Order Reminder
+plugin.procDoctransfer.poDoc.PurchaseOrderRequest=Purchase Order Create
+plugin.procDoctransfer.poDoc.PurchaseOrderResponse=Purchase Order Response
+plugin.procEditors.command.createConnectivity=Create connectivity
+plugin.procEditors.command.lookup=Lookup
+plugin.procEditors.command.lookupConnectivity=Lookup connectivity
+plugin.procEditors.error.connectivityAlreadyExists=Connectivity with Supplier ID [{0}], Customer ID [{1}] and Connection Type [{2}] already exists.

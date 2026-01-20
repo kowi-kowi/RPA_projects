@@ -1,0 +1,10 @@
+plugin.opcShoppingList.label.userId=User ID
+plugin.opcShoppingList.label.userRole=Role
+plugin.opcShoppingList.label.workLocation=Work Location
+plugin.opcShoppingList.menu.navigateToList=All Lists
+plugin.opcShoppingList.message.addAllSelectedError=There are no selected products.
+plugin.opcShoppingList.message.addedProductAmount={0} product(s) was(were) added to cart.
+plugin.opcShoppingList.message.addedToListProductAmount={0} product(s) was(were) added to list.
+plugin.opcShoppingList.message.addingProduct=Adding selected product to cart...
+plugin.opcShoppingList.message.addingProducts=Adding selected products to cart...
+plugin.opcShoppingList.message.allItemsNotFound=Action cannot be performed. The selected items are not found.

@@ -1,0 +1,10 @@
+com.jcatalog.ssm.pricetrend.command.PriceTrendCommand.currencyId.blank=Currency is not specified.
+com.jcatalog.ssm.pricetrend.command.PriceTrendCommand.currencyId.nullable=Currency is not specified.
+com.jcatalog.ssm.pricetrend.command.PriceTrendCommand.productCatalogId.blank=Product Catalog ID is not specified.
+com.jcatalog.ssm.pricetrend.command.PriceTrendCommand.productCatalogId.nullable=Product Catalog ID is not specified.
+com.jcatalog.ssm.pricetrend.command.PriceTrendCommand.supplierId.blank=Supplier ID is not specified.
+com.jcatalog.ssm.pricetrend.command.PriceTrendCommand.supplierId.nullable=Supplier ID is not specified.
+com.jcatalog.ssm.processes.DetailConfigurationValidationCommand.email.validator.error=Email does not match the right pattern
+com.jcatalog.ssm.processes.DetailConfigurationValidationCommand.importClassification.nullable=Import Classification is required
+com.jcatalog.ssm.processes.DetailConfigurationValidationCommand.importFormat.nullable=Import format is required
+com.jcatalog.ssm.processes.DetailConfigurationValidationCommand.sourceUOM.nullable=Source UoM is required

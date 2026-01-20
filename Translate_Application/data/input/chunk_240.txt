@@ -1,0 +1,10 @@
+administration.systemAdministration.processEditor=Processes
+administration.systemAdministration.processEditor.desc=Here you can manage your processes
+administration.systemAdministration.processSchedulerDetails=Workflow Scheduler
+administration.systemAdministration.processSchedulerDetails.desc=Manage jobs related to Processes execution.
+administration.systemAdministration.questionnaireEditor=Questionnaires
+administration.systemAdministration.questionnaireEditor.desc=Edit Questionnaires
+administration.systemAdministration.report.systemInfo=System Information
+administration.systemAdministration.report.systemInfo.desc=The information about the system that runs the application, and database connection parameters.
+administration.systemAdministration.report.viewLogs=Log Files
+administration.systemAdministration.report.viewLogs.desc=View log files

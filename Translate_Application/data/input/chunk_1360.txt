@@ -1,0 +1,10 @@
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.suppliers.label=Suppliers
+plugin.organizationEditors.com.jcatalog.organization.GormCatalogUser.surname.label=Last name
+plugin.organizationEditors.com.jcatalog.organization.GormManagementHierarchy.employee.label=Employee
+plugin.organizationEditors.com.jcatalog.organization.GormManagementHierarchy.isDisciplinary.label=Is Disciplinary
+plugin.organizationEditors.com.jcatalog.organization.GormManagementHierarchy.isFunctional.label=Is Functional
+plugin.organizationEditors.com.jcatalog.organization.GormManagementHierarchy.label=Management Hierarchy
+plugin.organizationEditors.com.jcatalog.organization.GormManagementHierarchy.manager.label=Manager
+plugin.organizationEditors.com.jcatalog.organization.GormUserGroup.description.label=Description
+plugin.organizationEditors.com.jcatalog.organization.GormUserGroup.label=User Group
+plugin.organizationEditors.com.jcatalog.organization.GormUserGroup.name.label=Name

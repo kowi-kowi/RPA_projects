@@ -1,0 +1,10 @@
+plugin.opcSalesorder.salesOrderItem.productId=Product ID
+plugin.opcSalesorder.salesOrderItem.quantity=Quantity
+plugin.opcSalesorder.salesOrderItem.status=Status
+plugin.opcSalesorder.salesOrderItem.totalNetPrice=Total
+plugin.opcSalesorder.salesOrderItem.unitOfMeasure=Unit of Measurement
+plugin.opcSalesorder.searchresult=Result
+plugin.opcSalesorder.title.salesOrderItemReport=Requisition Items for Requisition ID
+plugin.opcSalesorder.title.salesOrderStatusReport=Requisition State Overview
+plugin.opcSearch.action.add=Add
+plugin.opcSearch.action.addAllSelectedItems2Cart=Add to Cart

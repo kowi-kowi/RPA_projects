@@ -1,0 +1,10 @@
+plugin.ssmGrailsflow.message.finished.with.exception=This process was interrupted during execution of ''{0}'' node with the following message\:
+plugin.ssmGrailsflow.message.multipleInput.maxNumberOfContracts=Maximum number of Contracts exceeded
+plugin.ssmGrailsflow.message.multipleInput.maxNumberOfCustomers=Maximum number of Customers exceeded
+plugin.ssmGrailsflow.message.multipleInput.maxNumberOfProductCatalogs=Maximum number of ProductCatalogs exceeded
+plugin.ssmGrailsflow.message.multipleInput.maxNumberOfSuppliers=Maximum number of Suppliers exceeded
+plugin.ssmGrailsflow.message.nothingFound=Nothing found
+plugin.ssmGrailsflow.message.productCatalog.notExists=Selected catalog not found
+plugin.ssmGrailsflow.message.status.fatalErrors=due to ERRORS
+plugin.ssmGrailsflow.message.status.unexpectedErrors=with unexpected Errors
+plugin.ssmGrailsflow.message.status.unexpectedException=with unexpected Exception

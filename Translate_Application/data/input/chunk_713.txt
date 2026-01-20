@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.message.activeSuppliers.assignedSuppliers={0} supplier(s) assigned to customer {1}
+plugin.businessPartnerDashboard.message.activeSuppliers.noCatalogUpdates=There is no information about catalogs updates available
+plugin.businessPartnerDashboard.message.customerAssignement.required=Customer assignment is required to display dashboard widgets.
+plugin.businessPartnerDashboard.message.manageWidgets.desc=Use Drag & Drop ability to add, remove and sort Dashboard widgets.
+plugin.businessPartnerDashboard.message.manualWorkflowSteps.noManualSteps=There are no manual workflow steps "on hold" for more than {0} hours.
+plugin.businessPartnerDashboard.message.noNews=There are no published messages
+plugin.businessPartnerDashboard.message.notFound=The message was not found.
+plugin.businessPartnerDashboard.message.productsPerCatalog.noCatalogUpdates=There is no information about catalogs updates available
+plugin.businessPartnerDashboard.message.productsPerCatalog.totalCustomerProducts=There is (are) {0} catalog(s) with a total of {1} products for customer {2}
+plugin.businessPartnerDashboard.message.productsPerCatalog.totalSupplierProducts=There is (are) {0} catalog(s) with a total of {1} products for supplier {2}

@@ -1,0 +1,10 @@
+com.jcatalog.ssm.web.forms.catalogQuality.MetricsLineChartCommand.supplierId.nullable=Supplier is a required field
+com.jcatalog.ssm.web.forms.catalogQuality.MetricsLineChartCommand.supplierId.validator.error=Supplier with {2} ID does not exist
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.catalogVersion.nullable="Catalog Version" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.customerId.blank="Customer" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.customerId.nullable="Customer" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.customerId.validator.error=Customer with such ID is not found
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.productCatalogId.blank="Product Catalog" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.productCatalogId.nullable="Product Catalog" is a required field
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.productCatalogId.validator.error=ProductCatalog with such ID is not found
+com.jcatalog.ssm.web.forms.queryTool.QueryCommand.supplierId.blank="Supplier" is a required field

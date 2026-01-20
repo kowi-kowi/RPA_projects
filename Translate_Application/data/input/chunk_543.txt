@@ -1,0 +1,10 @@
+jasperReports.reportName.label.SpendPerClassificationReport=Spend per Classification Report
+jasperReports.reportName.label.SpendPerSupplierReport=Spend per Supplier Report
+jasperReports.reportName.label.UnbilledMaterialReport=Unbilled Material Report
+jasperReports.reportName.label.WorkflowReport=Workflow Report
+jobExecutionVisualization.message.error.unexpected.startup=Unexpected error occurred during {0} start up. Please, contact the administrator.
+jobExecutionVisualization.message.inQueue=In queue
+jobExecutionVisualization.message.noProgress=No progress
+jobExecutionVisualization.message.progress.left=, left\:
+jobExecutionVisualization.message.progress.seconds=seconds
+jobExecutionVisualization.message.progress.step=Step

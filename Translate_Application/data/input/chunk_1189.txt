@@ -1,0 +1,10 @@
+plugin.opcProductDetails.action.back=Back
+plugin.opcProductDetails.action.close=Close
+plugin.opcProductDetails.action.comparePrices=Compare Prices
+plugin.opcProductDetails.action.configure=Fill in form
+plugin.opcProductDetails.action.confirm=Confirm
+plugin.opcProductDetails.action.generatePdf=Create PDF
+plugin.opcProductDetails.action.nextItem=Next
+plugin.opcProductDetails.action.preview=Preview
+plugin.opcProductDetails.action.saveConfiguration=Save Configuration
+plugin.opcProductDetails.action.updateAndNextItem=Update and Next

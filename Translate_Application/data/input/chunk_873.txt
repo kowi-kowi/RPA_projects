@@ -1,0 +1,10 @@
+plugin.entitlementEditor.header.action=Action
+plugin.entitlementEditor.header.contractId=Contract ID
+plugin.entitlementEditor.header.error=Error
+plugin.entitlementEditor.label.editEntitlementData=Edit Entitlement Data
+plugin.entitlementEditor.label.entitlementReport=Entitlement Report
+plugin.entitlementEditor.link.switch.mode=Switch to {0} mode
+plugin.entitlementEditor.link.switch.objects.mode=Switch to objects mode
+plugin.entitlementEditor.link.switch.users.mode=Switch to users mode
+plugin.entitlementEditor.search.all=All
+plugin.entitlementEditor.search.result.label=Search result

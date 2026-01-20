@@ -1,0 +1,10 @@
+Grid.ColumnSettings.Header=Select Columns
+Grid.ColumnSettings.SearchTooltip=Search...
+Grid.ColumnSettings.SelectedColumns=Selected Columns
+Grid.FloatingSelect.NoResults=No results...
+Grid.FloatingSelect.Select=Select...
+Grid.FloatingSelect.Selected={n} selected
+Grid.No=No
+Grid.NoColumns=There are no specified columns in the table.
+Grid.NoItems=There are no items to display in the grid.
+Grid.Ok=OK

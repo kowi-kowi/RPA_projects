@@ -1,0 +1,10 @@
+emailMessage.soApprove.label.changedBy=Last edited by
+emailMessage.soApprove.label.comment=Comment
+emailMessage.soApprove.label.costObjects=Cost Objects
+emailMessage.soApprove.label.createdBy=Created by
+emailMessage.soApprove.label.customer=Customer
+emailMessage.soApprove.label.date=Date
+emailMessage.soApprove.label.description=Description
+emailMessage.soApprove.label.forPBT=For PBT
+emailMessage.soApprove.label.forPBT.no=No
+emailMessage.soApprove.label.forPBT.yes=Yes

@@ -1,0 +1,10 @@
+plugin.opcAnalysis.excelExport.relationsSheetName=Product Relations
+plugin.opcAnalysis.export.action.scheduleJob.label=Execute
+plugin.opcAnalysis.export.action.scheduler.open.label=Schedule
+plugin.opcAnalysis.export.email.label=Email
+plugin.opcAnalysis.export.excelTemplate.label=Template
+plugin.opcAnalysis.export.excelTemplateSheets.label=Sheets
+plugin.opcAnalysis.export.exportFileName.label=Output File Name
+plugin.opcAnalysis.export.fileType.label=Export Format
+plugin.opcAnalysis.export.jobGroup.label=Job Group
+plugin.opcAnalysis.export.jobList.link.label=View scheduled jobs list

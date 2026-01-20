@@ -1,0 +1,10 @@
+plugin.opcShoppingCart.command.ociSubmit=Submit
+plugin.opcShoppingCart.command.order=Order
+plugin.opcShoppingCart.command.orderConfirm=Proceed to Checkout
+plugin.opcShoppingCart.configurableProductDeletionConfirmationDialog.cancel=Cancel
+plugin.opcShoppingCart.configurableProductDeletionConfirmationDialog.delete=Delete
+plugin.opcShoppingCart.configurableProductDeletionConfirmationDialog.deleteAndRedirectToCreate=Delete and configure again
+plugin.opcShoppingCart.configurableProductDeletionConfirmationDialog.prompt=You cannot change a configuration in your cart. You can either delete the whole configuration or cancel the deletion.
+plugin.opcShoppingCart.configurableProductDeletionConfirmationDialog.title=Configurable Product Deletion
+plugin.opcShoppingCart.confirm.overWriting.editableDeliveryDate.message=Do you really want to overwrite the editable Delivery Date in all items?
+plugin.opcShoppingCart.description.sourceSection=Select source product and its attribute value(s) that should be copied to other products in the cart.

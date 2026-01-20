@@ -1,0 +1,10 @@
+com.jcatalog.businesspartner.Address.name1.label=Name 1
+com.jcatalog.businesspartner.Address.name2.label=Name 2
+com.jcatalog.businesspartner.Address.street.label=Street
+com.jcatalog.businesspartner.Address.withSubCustomers.label=Include sub customers
+com.jcatalog.businesspartner.Address.zipCode.label=Zip Code
+com.jcatalog.businesspartner.Contact.alternatePhone.label=Alternate Phone
+com.jcatalog.businesspartner.Contact.contactId.label=Contact ID
+com.jcatalog.businesspartner.Contact.contactType.label=Contact Type
+com.jcatalog.businesspartner.Contact.department.label=Department
+com.jcatalog.businesspartner.Contact.description.label=Description

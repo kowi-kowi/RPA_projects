@@ -1,0 +1,10 @@
+plugin.procRequisition.label.forwardCostObjectApproval=Forward Approver
+plugin.procRequisition.label.forwardFreetextApproval=Forward Approver
+plugin.procRequisition.label.from=Created from
+plugin.procRequisition.label.glAccount=GL Account
+plugin.procRequisition.label.grossTotalAmount=Gross Total Amount
+plugin.procRequisition.label.internalNotes=Internal Notes
+plugin.procRequisition.label.invoiceAddress=Invoice Address
+plugin.procRequisition.label.item.dateOfDelivery=Date of Delivery
+plugin.procRequisition.label.item.deletedBy=Deleted By
+plugin.procRequisition.label.item.deletedOn=Deleted On

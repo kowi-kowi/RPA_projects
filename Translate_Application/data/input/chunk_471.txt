@@ -1,0 +1,10 @@
+emailMessage.soApprove.label.rejectWrongCostObjectMessage=Reject with the "{0}" reason
+emailMessage.soApprove.label.rejectWrongCostObjectReason=Wrong Cost Object
+emailMessage.soApprove.label.requestedBy=Requested by
+emailMessage.soApprove.label.requestedOn=Requested on
+emailMessage.soApprove.label.requisitionID=Requisition ID
+emailMessage.soApprove.label.salutation=Dear Mr/Mrs/Ms {0},<br><br>the following requisition has been submitted for your review.
+emailMessage.soApprove.label.salutation.defaultApprover=Dear Mr/Mrs/Ms {0},<br><br>the following requisition has been submitted for your review.<br>You are defined as 'default approver' and no other appropriate approvers have been found.
+emailMessage.soApprove.label.stdClassificationGroup=Std. Classification Group
+emailMessage.soApprove.label.total=Total
+emailMessage.soApprove.label.urgentOrder=The shopping cart was marked as urgent. Please approve the shopping cart as soon as possible.

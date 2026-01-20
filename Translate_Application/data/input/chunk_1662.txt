@@ -1,0 +1,10 @@
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.label.supplier=Supplier
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.message.allRulesValid=All business rules don't contain semantic/syntax errors.
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.message.assignedEmptySupplier=Test supplier undefined.
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.message.assignedSupplier=Supplier ({0}) has been assigned as test supplier.
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.message.expressionValid=Groovy expression is valid.
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.message.populated=New Test Catalog DB has been created for the supplier ({0})
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.message.ruleValid=Business Rule doesn't contain semantic/syntax errors.
+plugin.ssmBusinessRuleEngine.businessRuleTestDBCreator.prepareTestCatalog.header=Catalog DB parameters
+plugin.ssmBusinessRuleEngine.message.asterisk=Fields marked with asterisk are required fields.
+plugin.ssmCore.message.catalog.invalidCharacterCase=Catalog ID is case sensitive. Use "{1}" instead of "{0}".

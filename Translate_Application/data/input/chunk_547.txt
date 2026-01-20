@@ -1,0 +1,10 @@
+label.customerId=Customer ID
+label.date=Date
+label.delete=Delete
+label.dimensionId=Dimension
+label.dimensionValues=Dimension Values\:
+label.exportDestination.desc=Destination area in Work Area for output export file.
+label.fileName=Name
+label.filemanager=File Manager
+label.fromDate=From
+label.generatedOnBy=Generated on/by\:

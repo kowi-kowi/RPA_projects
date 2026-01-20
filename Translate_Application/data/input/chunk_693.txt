@@ -1,0 +1,10 @@
+plugin.budget.message.not.deleted.budgetPosting.exists=Budget cannot be deleted. Posting items are available.
+plugin.budget.message.not.edited.budgetPosting.exists=Budget cannot be edited. Posting items are available.
+plugin.budget.message.not.found={0} with ID {1} was not found
+plugin.budget.message.recalculateBudgetIncrease=Recalculation of the budget increase
+plugin.budget.message.reversed=Booking entry on {0} {1} was reversed
+plugin.budget.message.transferBudgetBalance=Transfer of the remaining budget to the next period
+plugin.budget.message.transferred=Budget was successfully transferred.
+plugin.budget.message.updated={0} was updated
+plugin.budget.posting.reason.move.from=Booking moved from Period {0}
+plugin.budget.posting.reason.move.to=Booking moved to Period {0}

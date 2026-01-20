@@ -1,0 +1,10 @@
+menu.header.tab.documents.purchaseOrdersInStock=Stock Orders
+menu.header.tab.documents.serviceEntryOrders=Service Orders
+menu.header.tab.documents.serviceEntrySheet=Service Entry Sheet
+menu.header.tab.purchase=Order
+menu.header.tab.purchase.purchaseOrderConfirmation=Purchase Order Confirmation
+menu.header.tab.purchase.purchaseOrderDocuments=Purchase Order Documents
+menu.header.tab.purchase.purchaseOrdersOverview=Purchase Orders
+menu.header.tab.report=Reports
+menu.header.tab.report.analysis.applicationMetrics=Application Metrics
+menu.header.tab.report.analysis.dashboards=Dashboards

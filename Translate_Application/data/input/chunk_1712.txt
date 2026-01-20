@@ -1,0 +1,10 @@
+plugin.stateWorkflow.rFX.rFX.state.pendingOfDemand=pending demand
+plugin.stateWorkflow.rFX.rFX.state.quotesAvailable=quotes available
+plugin.stateWorkflow.rFX.rFX.state.scheduledForSubmit=scheduled for submission
+plugin.stateWorkflow.rFX.rFX.state.submitted=submitted
+plugin.stateWorkflow.rFX.rFX.state.terminated=terminated
+plugin.stateWorkflow.rFX.rFXTemplate.event.activate=Activate
+plugin.stateWorkflow.rFX.rFXTemplate.event.archive=Archive
+plugin.stateWorkflow.rFX.rFXTemplate.event.restore=Restore
+plugin.stateWorkflow.rFX.rFXTemplate.state.archived=archived
+plugin.stateWorkflow.rFX.rFXTemplate.state.available=available

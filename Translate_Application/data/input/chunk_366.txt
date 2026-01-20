@@ -1,0 +1,10 @@
+com.jcatalog.rfq.RFXTranslation.longDesc.maxSize.error=Value for Description is too long.
+com.jcatalog.rfq.RFXTranslation.shortDesc.maxSize.error=Value for Request For Quote Details is too long.
+com.jcatalog.rfq.SupplierQuote.bindingPeriod.label=Offered Binding Period
+com.jcatalog.rfq.SupplierQuote.changedOn.label=Changed On
+com.jcatalog.rfq.SupplierQuote.comment.label=Comment
+com.jcatalog.rfq.SupplierQuote.createdBy.label=Issued By
+com.jcatalog.rfq.SupplierQuote.expiresOn.label=Expiration Date
+com.jcatalog.rfq.SupplierQuote.id.label=Supplier Response ID
+com.jcatalog.rfq.SupplierQuote.id.notExist.error=The Supplier Response with the given ID {0} does not exist.
+com.jcatalog.rfq.SupplierQuote.items.label=Items

@@ -1,0 +1,10 @@
+plugin.organizationEditors.com.jcatalog.organization.GormUserGroup.users.label=Users
+plugin.organizationEditors.com.jcatalog.organization.GormUserRole.description.label=Description
+plugin.organizationEditors.com.jcatalog.organization.GormUserRole.label=User Role
+plugin.organizationEditors.com.jcatalog.organization.GormUserRole.name.label=Name
+plugin.organizationEditors.com.jcatalog.organization.Organization.customerId.label=Customer ID
+plugin.organizationEditors.com.jcatalog.organization.Organization.label=Organization
+plugin.organizationEditors.com.jcatalog.organization.Organization.organizationId.label=Organization ID
+plugin.organizationEditors.com.jcatalog.organization.OrganizationUnit.label=Organization Unit
+plugin.organizationEditors.com.jcatalog.organization.OrganizationUnit.organization.label=Organization
+plugin.organizationEditors.com.jcatalog.organization.OrganizationUnit.organizationUnitId.label=Unit ID

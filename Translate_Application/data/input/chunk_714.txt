@@ -1,0 +1,10 @@
+plugin.businessPartnerDashboard.message.result.size=Found {0} entries
+plugin.businessPartnerDashboard.message.supplierAssignement.required=Supplier assignment is required to display dashboard widgets.
+plugin.businessPartnerDashboard.message.widgetRefresh.hint=Click to refresh widget content
+plugin.businessPartnerDashboard.message.workflowTrends.noActiveProcesses=There are no protocoled processes in the system for current Supplier/Customer assignment
+plugin.businessPartnerDashboard.priceExpirationPerContract.message.result.limitation=There exist more than {0} entries. Please use export for a complete list.
+plugin.businessPartnerDashboard.priceExpirationPerContract.noData=There are no contracts to display.
+plugin.businessPartnerDashboard.title.activeCustomers.popup=Customers detailed information
+plugin.businessPartnerDashboard.title.activeSuppliers.popup=Suppliers detailed information
+plugin.businessPartnerDashboard.title.allNews.popup=All news
+plugin.businessPartnerDashboard.title.catalogExpiration.popup=Catalogs detailed information

@@ -1,0 +1,10 @@
+plugin.systemMaintenance.header.requestStatistics.title=Request Statistics
+plugin.systemMaintenance.header.requestStatistics.uri.title=URI
+plugin.systemMaintenance.header.runtime.info=Runtime Information
+plugin.systemMaintenance.header.sessions.ipAddress.title=IP Address
+plugin.systemMaintenance.header.sessions.requests.title=Requests
+plugin.systemMaintenance.header.sessions.sessionCreation.title=Session Creation
+plugin.systemMaintenance.header.sessions.sessionId.title=Session ID
+plugin.systemMaintenance.header.sessions.title=Sessions
+plugin.systemMaintenance.header.sessions.user.title=User
+plugin.systemMaintenance.header.system.ViewLog=Log Files

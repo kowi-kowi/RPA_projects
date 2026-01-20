@@ -1,0 +1,10 @@
+scheduling.CleanupBackupJob.message.failed=Backup Cleanup failed by some unexpected reason. For more details refer to the attached log files.
+scheduling.CleanupBackupJob.message.stopped=Backup Cleanup was stopped manually. Statistics at the moment of stop\:<br/>{0}<br/>For more details refer to the attached log files.
+scheduling.CleanupBackupJob.timeInterval.hint=Specify this parameter to cleanup only those Catalog Versions which were backed up more than the specified number of days ago.
+scheduling.CleanupBackupJob.timeInterval.label=Cleanup only versions older than
+scheduling.CleanupBackupJob.timeInterval.label.after=days
+scheduling.CleanupBackupJob.title=Backup Cleanup finished
+scheduling.CleanupBackupJob.title.failed=Backup Cleanup failed
+scheduling.CleanupBackupJob.title.stopped=Backup Cleanup stopped
+scheduling.DCFExportJob.filterStatus.label=Filter Status
+scheduling.DocTransferItemCleanerJob.dateFrom.label=Date From

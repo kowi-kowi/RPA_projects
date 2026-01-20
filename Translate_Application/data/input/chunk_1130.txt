@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.action.punchoutSearch=Punchout Search
+plugin.opcDraftRequisition.action.release=Share
+plugin.opcDraftRequisition.action.save=Save
+plugin.opcDraftRequisition.action.search=Search
+plugin.opcDraftRequisition.action.selectAll=All
+plugin.opcDraftRequisition.action.update=Update
+plugin.opcDraftRequisition.actualization.header.actualValue=Actual Value
+plugin.opcDraftRequisition.actualization.header.changedProperty=Changed Property
+plugin.opcDraftRequisition.actualization.header.oldValue=Old Value
+plugin.opcDraftRequisition.actualization.header.title=Product Actualization Information of "{0}"

@@ -1,0 +1,10 @@
+plugin.masterDataImportExport.catalogContract.type=Catalog Contract
+plugin.masterDataImportExport.classification.type=Classification
+plugin.masterDataImportExport.documentHub.type=Document Routing
+plugin.masterDataImportExport.entries.definition.title=Definition
+plugin.masterDataImportExport.entries.sheetName.title=Supported Entities / Sheet Names
+plugin.masterDataImportExport.entry.address.definition=Address information is contained here and can be referenced by Customers (see Customer2Address) and Suppliers (see Supplier2Address).
+plugin.masterDataImportExport.entry.attribute.definition=Attribute Information. Attributes are the description of a Product within the specified Parameter.
+plugin.masterDataImportExport.entry.attributeSection.definition=Attribute Sections can be used to group Attributes.
+plugin.masterDataImportExport.entry.attributeValueOption.definition=Attribute Value Options can be used to set a default Attribute value and to define the expression that will be used for automatic calculation of Attribute Values.
+plugin.masterDataImportExport.entry.boilerplate.definition=Boilerplates can be used to define sections of text that have to be included in many places with little or no alteration.

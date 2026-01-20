@@ -1,0 +1,10 @@
+plugin.opcProductDetails.productIssueReport.inquiryType.price.label=Price
+plugin.opcProductDetails.productIssueReport.inquiryType.product.label=Product
+plugin.opcProductDetails.productIssueReport.issueType.falseClaims.label=False claims
+plugin.opcProductDetails.productIssueReport.issueType.inaccurateDescription.label=Inaccurate description
+plugin.opcProductDetails.productIssueReport.issueType.inappropriateImage.label=Inappropriate image
+plugin.opcProductDetails.productIssueReport.issueType.incorrectPricing.label=Incorrect pricing
+plugin.opcProductDetails.productIssueReport.issueType.otherIssue.label=Other
+plugin.opcProductDetails.productIssueReport.issueType.restrictedItem.label=Restricted item
+plugin.opcProductDetails.productIssueReport.mail.subjectCustomer=Issue report for Product {1}({0}) by Customer {2}.
+plugin.opcProductDetails.productIssueReport.mail.subjectSupplier=Issue report for Product {1}({0}) by Supplier {2}.

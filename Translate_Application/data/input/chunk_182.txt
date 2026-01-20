@@ -1,0 +1,10 @@
+SSM.NoOfLoadedCatalogs.description=The number of catalog versions successfully published to OPC for a time period
+SSM.NoOfProcessedProducts.appMetrics.chart.yaxis.label=Number of Processed Products
+SSM.NoOfProcessedProducts.appMetrics.numbers.label=Number of Products
+SSM.NoOfProcessedProducts.description=The total number of products from the catalogs, which have been activated during the day; executed daily
+SSM.NoOfWarningsInPublishedCatalogs.appMetrics.chart.yaxis.label=Number of Warnings in Processed Products
+SSM.NoOfWarningsInPublishedCatalogs.appMetrics.numbers.label=Number of Warnings
+SSM.NoOfWarningsInPublishedCatalogs.description=The total number of warnings from the catalogs, which have been activated during the day; executed daily
+SSM.TimeOfCatalogApproval.appMetrics.chart.yaxis.label=Time (in minutes) of Catalogs Processing via Customer Workflow
+SSM.TimeOfCatalogApproval.appMetrics.numbers.label=Time (in minutes)
+SSM.TimeOfCatalogApproval.description=The total time of execution (in minutes) of the Customer Workflows, which have been finished during the day; executed daily

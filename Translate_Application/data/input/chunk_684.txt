@@ -1,0 +1,10 @@
+plugin.budget.command.saveAndCreate=Save and Create
+plugin.budget.command.search=Search
+plugin.budget.command.storno=Reverse
+plugin.budget.command.transfer=Transfer
+plugin.budget.costObjectType.unavailable.message=Cost Object Type is currently not available.
+plugin.budget.error.amount.positive=Amount should be a positive number
+plugin.budget.error.budget.book.notEnoughBudget=Requested amount {0} {2} is outside the amount available for booking {1} {2}
+plugin.budget.error.budget.cancel.notEnoughBudget=Requested amount {0} {2} is outside the amount available for cancellation {1} {2}
+plugin.budget.error.budget.notFound=No suitable Budget for currency {0} and {1} {2} on {3}
+plugin.budget.error.budget.notFoundForMoving=There are no available Budgets to move posting to

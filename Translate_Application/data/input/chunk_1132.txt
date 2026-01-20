@@ -1,0 +1,10 @@
+plugin.opcDraftRequisition.demandCollection.internalError=An internal error occurred in OPC during API call. Please see OPC application logs.
+plugin.opcDraftRequisition.demandCollection.mail.subject.message=The draft requisition was created for your collected demand
+plugin.opcDraftRequisition.demandCollection.notCreated=Not all draft requisitions were created. Emails with link to the draft requisition were send not to all users.
+plugin.opcDraftRequisition.email.assignTo.body=The Draft Requisition <a href\="{0}">{1} ({2})</a> has been assigned to you by user <b>{3}</b> with the customer assignment <b>{4}</b>.
+plugin.opcDraftRequisition.email.assignTo.subject=New Draft Requisition has been assigned to you
+plugin.opcDraftRequisition.error.buyingOnBehalfOf.enabled=As you are currently working on behalf of {0}, it is not allowed for you to work with draft requisitions. Please switch off ''Buying on Behalf of'' mode and then proceed with your work.
+plugin.opcDraftRequisition.error.sendingDraftRequisition.cannotSend=The email cannot be send to {0}.
+plugin.opcDraftRequisition.error.sendingDraftRequisition.cannotSendToAnyUser=The email cannot be sent to the user {0} and his substitutors\: {1}. The exported products cannot be sent.
+plugin.opcDraftRequisition.error.sendingDraftRequisition.noEmail=The email is not defined for user {0}. The exported products cannot be sent.
+plugin.opcDraftRequisition.error.serviceConfiguration.multiple=The multiple service configurations cannot be added to the same requisition.

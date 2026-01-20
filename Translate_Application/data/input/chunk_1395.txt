@@ -1,0 +1,10 @@
+plugin.procCommon.title.costDistribution=Cost Distribution
+plugin.procCommon.title.documentManagement=Documents manager
+plugin.procCommon.tooltip.locked=Locked
+plugin.procCommon.transmissionIssuesNotificationJob.emailMessage.subject=Failed Document Transfers
+plugin.procCommon.transmissionIssuesNotificationJob.explanation.timeFrame=Here you can set the period in hours during which document transfer failures might have occurred.
+plugin.procCommon.transmissionIssuesNotificationJob.explanation.userRole=Here you can define the User Role of the users to be notified. Users with the specified User Role will receive the email notification with the job results.
+plugin.procCommon.transmissionIssuesNotificationJob.label.jobName=Failed Document Transfer Notification
+plugin.procCommon.transmissionIssuesNotificationJob.label.timeFrame=Time Frame
+plugin.procCommon.transmissionIssuesNotificationJob.label.userRole=User Role
+plugin.procCommon.transmissionIssuesNotificationJob.title.jobName=Failed Document Transfer Notification

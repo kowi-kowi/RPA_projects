@@ -1,0 +1,10 @@
+plugin.opcGenericAttributes.attributes.label.selectDestinationAttributeValues=Show an option
+plugin.opcGenericAttributes.attributes.label.selectDestinationAttributesMandatory=Make the selected attributes mandatory\:
+plugin.opcGenericAttributes.attributes.label.selectDestinationAttributesToHide=Make the selected attributes hidden\:
+plugin.opcGenericAttributes.attributes.label.selectExistingFile=selecting an existing file
+plugin.opcGenericAttributes.attributes.label.selectExternalDataLookupScript=Select Groovy Script\:
+plugin.opcGenericAttributes.attributes.label.selectSourceAttribute=If attribute\:
+plugin.opcGenericAttributes.attributes.label.selectSourceAttributeCheckboxValue=Check box state\:
+plugin.opcGenericAttributes.attributes.label.selectSourceAttributeValue=Has a value\:
+plugin.opcGenericAttributes.attributes.label.specifyExpression=Then evaluate the value by using the expression\:
+plugin.opcGenericAttributes.attributes.label.specifyTooltip=Then show the image with the description\:

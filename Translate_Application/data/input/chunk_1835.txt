@@ -1,0 +1,10 @@
+scheduling.JasperReportJob.reportLanguage.label=Language
+scheduling.JasperReportJob.reportName.hint=Name of report to be generated.
+scheduling.JasperReportJob.reportName.label=Report Type
+scheduling.JasperReportJob.resultEmail.hint=To send the generated report by email, enter the address here. You can also enter several comma separated email addresses to send file to several recipients at the same time.
+scheduling.JasperReportJob.resultEmail.label=Result Email
+scheduling.MaintenanceJob.message.label=Message
+scheduling.MaintenanceJob.period.label=Maintenance Period (in minutes)
+scheduling.MaintenanceJob.realm.label=Realm
+scheduling.MaintenanceJob.role.label=Role
+scheduling.MasterDataExportJob.format.label=Format

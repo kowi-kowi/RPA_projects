@@ -1,0 +1,10 @@
+plugin.grailsflow.label.worklist=Worklist
+plugin.grailsflow.menu.actionEditor=Edit Actions
+plugin.grailsflow.menu.analyseResponse=Analyse Response Time
+plugin.grailsflow.menu.createProcess=Create Process
+plugin.grailsflow.menu.deleteProcesses=Remove Processes
+plugin.grailsflow.menu.editProcesTypes=Edit Process Types
+plugin.grailsflow.menu.grailsManagement=Grailsflow Management
+plugin.grailsflow.menu.header.administration=Administration
+plugin.grailsflow.menu.header.useProcesses=Use Processes
+plugin.grailsflow.menu.listNodes=List Nodes

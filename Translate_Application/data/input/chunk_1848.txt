@@ -1,0 +1,10 @@
+scheduling.details.label.completedJobs=Completed Jobs
+scheduling.details.label.configuration=Job configuration
+scheduling.details.label.cronExpression=Cron expression
+scheduling.details.label.day=Day
+scheduling.details.label.delete=Delete
+scheduling.details.label.description=Description
+scheduling.details.label.durable=<b>Durable</b>
+scheduling.details.label.edit=Edit
+scheduling.details.label.editScheduledJob=Edit Scheduled Job
+scheduling.details.label.exportResult=Export Result

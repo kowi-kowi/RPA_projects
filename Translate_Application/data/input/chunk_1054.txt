@@ -1,0 +1,10 @@
+plugin.opcAnalysis.label.searchHitNumberReport.ExportFormat=Export Format
+plugin.opcAnalysis.label.searchHitNumberReport.Filters=Filters
+plugin.opcAnalysis.label.searchHitNumberReport.clearButton=Clear
+plugin.opcAnalysis.label.searchHitNumberReport.customerId=Customer
+plugin.opcAnalysis.label.searchHitNumberReport.fromDate=From Date
+plugin.opcAnalysis.label.searchHitNumberReport.loginName=Login Name
+plugin.opcAnalysis.label.searchHitNumberReport.maxHits=Maximum Hits
+plugin.opcAnalysis.label.searchHitNumberReport.minHits=Minimum Hits
+plugin.opcAnalysis.label.searchHitNumberReport.ociFilters=OCI Filters
+plugin.opcAnalysis.label.searchHitNumberReport.performSearchButton=Search

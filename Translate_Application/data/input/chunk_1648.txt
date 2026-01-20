@@ -1,0 +1,10 @@
+plugin.sdpSsmNavigation.menu.supplier.startProcesses=Start Processes
+plugin.sdpSsmNavigation.menu.supplier.startProcesses.toolTip=Single processes can be started here.
+plugin.sdpSsmNavigation.menu.supplier.uploadSupplementalFiles=Upload Supplemental Files
+plugin.sdpSsmNavigation.menu.supplier.uploadSupplementalFiles.toolTip=Upload additional files (images, documents, manuals and others) supplementing your catalog here. These files are combined with the original catalog file to form a very informative, yet varied and interesting product information source.
+plugin.sdpSsmNavigation.menu.supplier.viewFiles=Manage Files
+plugin.sdpSsmNavigation.menu.supplier.viewFiles.toolTip=This program allows you to browse and check your own Work Area where files are uploaded to or exported from. The default folders are "customers" (where each of your customers has his own folder containing e.g. the files that you exported for him), "global" (containing files you use as stylesheets or for mapping operations) and "supplier" (containing the files you upload).
+plugin.sdpSsmNavigation.menu.system.activeUsers=Active Users
+plugin.sdpSsmNavigation.menu.system.activeUsers.desc=Show active user sessions
+plugin.sdpSsmNavigation.menu.system.database.queryTool=Query Tool
+plugin.sdpSsmNavigation.menu.system.database.queryTool.desc=SQL-Statements, e.g. to display or update data, can be run using the Query Tool.

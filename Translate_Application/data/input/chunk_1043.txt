@@ -1,0 +1,10 @@
+plugin.opcAnalysis.header.jobManager=Job Manager
+plugin.opcAnalysis.header.manageQuery=Manage Query
+plugin.opcAnalysis.header.queryDetails=Query Details
+plugin.opcAnalysis.header.runQuery=Run Query
+plugin.opcAnalysis.header.searchHitNumberReport.actionPerformedWithErrors=Action Performed With Errors
+plugin.opcAnalysis.header.searchHitNumberReport.customerId=Customer ID
+plugin.opcAnalysis.header.searchHitNumberReport.hitNumber=No. of hits
+plugin.opcAnalysis.header.searchHitNumberReport.loginName=Login Name
+plugin.opcAnalysis.header.searchHitNumberReport.searchDate=Date
+plugin.opcAnalysis.header.searchHitNumberReport.searchTerms=Search term

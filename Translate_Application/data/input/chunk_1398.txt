@@ -1,0 +1,10 @@
+plugin.procDoctransfer.label.docType=Document type
+plugin.procDoctransfer.label.documentId=Document ID
+plugin.procDoctransfer.label.documentKey=Document Key
+plugin.procDoctransfer.label.email=Email
+plugin.procDoctransfer.label.extTransactionId=Ext. Transaction
+plugin.procDoctransfer.label.file=File
+plugin.procDoctransfer.label.logFile=Log
+plugin.procDoctransfer.label.requestFile=Request
+plugin.procDoctransfer.label.responseFile=Response
+plugin.procDoctransfer.label.sap=SAP
