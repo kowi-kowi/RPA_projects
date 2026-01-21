@@ -13,8 +13,8 @@ import os
 
 def main():
 
-    input_file_path = "./Translate_Application/data/messages.properties"
-    translated_output_dir = "./Translate_Application/data/translated_output"
+    input_file_path = "/home/kowi_db_kowi/RPA_projects/Translate_Application/data/messages.properties"
+    translated_output_dir = "/home/kowi_db_kowi/RPA_projects/Translate_Application/data/translated_output"
     source_language = "eng_Latn"  # Przykładowy język źródłowy
     target_language = "nld_Latn"  # Przykładowy język docelowy
 
@@ -32,11 +32,11 @@ def main():
 
     tokenizer, model = tools.start_model("facebook/nllb-200-distilled-600M")
 
-    list_of_files = os.listdir("./Translate_Application/data/input")
+    list_of_files = os.listdir("/home/kowi_db_kowi/RPA_projects/Translate_Application/data/input")
     for file_name in list_of_files:
         filename = file_name
         translated_lines = []
-        file_path = os.path.join("./Translate_Application/data/input", file_name)
+        file_path = os.path.join("/home/kowi_db_kowi/RPA_projects/Translate_Application/data/input", file_name)
         text = tools.read_file(file_path)
         if text:
             lines = tools.text_to_lines(text)
@@ -49,10 +49,9 @@ def main():
                     translated_lines.append(reconstructed_line)
                 else:
                     pass
-                translated_text = translated_text + "\n" + tools.translate_text(line, tokenizer, model, source_language, target_language)
 
         output_filepath = os.path.join(translated_output_dir, filename)
-        with open(output_filepath, "w") as f_out:
+        with open(output_filepath, "a+") as f_out:
             for translated_line in translated_lines:
                 f_out.write(translated_line + '\n') # Add newline back for each line
         
